@@ -62,7 +62,7 @@
     "errorLevelNameRequired": "Tên cấp độ là bắt buộc.",
     "errorLevelNameExists": "Tên cấp độ này đã tồn tại, vui lòng chọn tên khác.",
     "importButton": "Thêm cấp độ",
-    "importButtonProgress": "Đang nhập...",
-    "importSuccess": "Đã nhập thành công cấp độ '{levelName}'!"
+    "importButtonProgress": "Đang thêm...",
+    "importSuccess": "Đã thêm thành công cấp độ '{levelName}'!"
   }
 }
