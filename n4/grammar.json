@@ -4,86 +4,75 @@
     "vi": "Động từ & Cách chia ⚙️",
     "items": [
       {
-        "id": "g48",
+        "id": "g101",
         "en": {
           "title": "Potential Form (可能形)",
-          "content": "Expresses ability.<br>• Group 1: change final -u to -eru (書く→書ける).<br>• Group 2: replace -ru with -rareru (食べる→食べられる).<br>• Irregular: する→できる, 来る→こられる.<br><b>Example:</b> 私は日本語が話せます。(Watashi wa nihongo ga hanasemasu.) - I can speak Japanese."
+          "content": "Expresses ability or possibility ('can do').<br>• Group 1: change final -u to -eru (読む→読める).<br>• Group 2: replace -ru with -rareru (見る→見られる).<br>• Irregular: する→できる, 来る→こられる.<br>The particle を often changes to が.<br><b>Example:</b> 私は漢字が読めます。(Watashi wa kanji ga yomemasu.) - I can read Kanji."
         },
         "vi": {
-          "title": "Thể khả năng",
-          "content": "Diễn tả khả năng.<br>• Nhóm 1: đổi đuôi -u thành -eru (書く→書ける).<br>• Nhóm 2: thay đuôi -ru thành -rareru (食べる→食べられる).<br>• Bất quy tắc: する→できる, 来る→こられる.<br><b>Ví dụ:</b> 私は日本語が話せます。(Watashi wa nihongo ga hanasemasu.) - Tôi có thể nói tiếng Nhật."
+          "title": "Thể khả năng (可能形)",
+          "content": "Diễn tả khả năng hoặc năng lực ('có thể làm').<br>• Nhóm 1: đổi đuôi -u thành -eru (読む→読める).<br>• Nhóm 2: thay đuôi -ru bằng -rareru (見る→見られる).<br>• Bất quy tắc: する→できる, 来る→こられる.<br>Trợ từ を thường chuyển thành が.<br><b>Ví dụ:</b> 私は漢字が読めます。(Watashi wa kanji ga yomemasu.) - Tôi có thể đọc được chữ Hán."
         }
       },
       {
-        "id": "g49",
+        "id": "g102",
         "en": {
-          "title": "Passive Form (受身形)",
-          "content": "Indicates passive voice.<br>• Group 1: change -u to -areru (書く→書かれる).<br>• Group 2: replace -ru with -rareru (食べる→食べられる).<br>• Irregular: する→される, 来る→こられる.<br><b>Example:</b> 私は先生に褒められました。(Watashi wa sensei ni homeraremashita.) - I was praised by the teacher."
+          "title": "Volitional Form (意向形)",
+          "content": "Used to say 'let's do...' or to express intention (informal version of ～ましょう).<br>• Group 1: change final -u to -ou (行く→行こう).<br>• Group 2: replace -ru with -you (食べる→食べよう).<br>• Irregular: する→しよう, 来る→こよう.<br><b>Example:</b> 週末、映画を見に行こう。(Shūmatsu, eiga o mi ni ikō.) - Let's go see a movie on the weekend."
         },
         "vi": {
-          "title": "Thể bị động",
-          "content": "Diễn tả thể bị động.<br>• Nhóm 1: đổi đuôi -u thành -areru (書く→書かれる).<br>• Nhóm 2: thay đuôi -ru thành -rareru (食べる→食べられる).<br>• Bất quy tắc: する→される, 来る→こられる.<br><b>Ví dụ:</b> 私は先生に褒められました。(Watashi wa sensei ni homeraremashita.) - Tôi đã được thầy giáo khen."
+          "title": "Thể ý hướng (意向形)",
+          "content": "Dùng để nói 'chúng ta hãy...' hoặc diễn tả ý định (dạng thân mật của ～ましょう).<br>• Nhóm 1: đổi đuôi -u thành -ou (行く→行こう).<br>• Nhóm 2: thay đuôi -ru bằng -you (食べる→食べよう).<br>• Bất quy tắc: する→しよう, 来る→こよう.<br><b>Ví dụ:</b> 週末、映画を見に行こう。(Shūmatsu, eiga o mi ni ikō.) - Cuối tuần hãy đi xem phim đi."
         }
       },
       {
-        "id": "g50",
+        "id": "g103",
         "en": {
-          "title": "Causative Form (使役形)",
-          "content": "Expresses making/letting someone do something.<br>• Group 1: change -u to -aseru (書く→書かせる).<br>• Group 2: replace -ru with -saseru (食べる→食べさせる).<br>• Irregular: する→させる, 来る→こさせる.<br><b>Example:</b> 母は妹に野菜を食べさせました。(Haha wa imouto ni yasai o tabesasemashita.) - My mother made my sister eat vegetables."
+          "title": "Imperative Form (命令形)",
+          "content": "Used to give strong commands or orders. Very direct.<br>• Group 1: change final -u to -e (走る→走れ).<br>• Group 2: replace -ru with -ro (やめる→やめろ).<br>• Irregular: する→しろ, 来る→こい.<br><b>Example:</b> 早くしろ！(Hayaku shiro!) - Hurry up and do it!"
         },
         "vi": {
-          "title": "Thể sai khiến",
-          "content": "Diễn tả sai khiến (bắt/cho ai làm gì).<br>• Nhóm 1: đổi đuôi -u thành -aseru (書く→書かせる).<br>• Nhóm 2: thay đuôi -ru thành -saseru (食べる→食べさせる).<br>• Bất quy tắc: する→させる, 来る→こさせる.<br><b>Ví dụ:</b> 母は妹に野菜を食べさせました。(Haha wa imouto ni yasai o tabesasemashita.) - Mẹ đã bắt em gái tôi ăn rau."
+          "title": "Thể mệnh lệnh (命令形)",
+          "content": "Dùng để ra lệnh một cách mạnh mẽ. Rất trực tiếp.<br>• Nhóm 1: đổi đuôi -u thành -e (走る→走れ).<br>• Nhóm 2: thay đuôi -ru bằng -ro (やめる→やめろ).<br>• Bất quy tắc: する→しろ, 来る→こい.<br><b>Ví dụ:</b> 早くしろ！(Hayaku shiro!) - Làm nhanh lên!"
         }
       },
       {
-        "id": "g51",
+        "id": "g104",
         "en": {
-          "title": "Causative‐Passive (使役受身)",
-          "content": "Someone was made to do something (passive + causative).<br>• Form: causative base + れる/られる.<br><b>Example:</b> 部長に報告をさせられました。(Buchō ni hōkoku o saseraremashita.) - I was forced by the manager to report."
+          "title": "Giving & Receiving Actions",
+          "content": "Using ～てあげる, ～てくれる, ～てもらう to express actions done for others.<br>• てあげる: I do for others.<br>• てくれる: Someone does for me/my group.<br>• てもらう: I receive a favor/action from someone.<br><b>Example:</b> 友達が宿題を手伝ってくれました。(Tomodachi ga shukudai o tetsudatte kuremashita.) - My friend helped me with my homework."
         },
         "vi": {
-          "title": "Thể sai khiến bị động",
-          "content": "Diễn tả bị bắt/được cho làm gì (sai khiến + bị động).<br>• Cấu trúc: sai khiến thể + れる/られる.<br><b>Ví dụ:</b> 部長に報告をさせられました。(Buchō ni hōkoku o saseraremashita.) - Tôi đã bị trưởng phòng bắt phải báo cáo."
-        }
-      },
-      {
-        "id": "g52",
-        "en": {
-          "title": "Imperative (命令形)",
-          "content": "Used to give commands (plain form).<br>• Group 1: change -u to -e (書く→書け).<br>• Group 2: replace -ru with -ro (食べる→食べろ).<br>• Irregular: する→しろ, 来る→こい.<br><b>Example:</b> 早く来い！(Hayaku koi!) - Come quickly!"
-        },
-        "vi": {
-          "title": "Thể mệnh lệnh (cơ bản)",
-          "content": "Dùng để ra lệnh (thân mật).<br>• Nhóm 1: đổi đuôi -u thành -e (書く→書け).<br>• Nhóm 2: thay đuôi -ru thành -ro (食べる→食べろ).<br>• Bất quy tắc: する→しろ, 来る→こい.<br><b>Ví dụ:</b> 早く来い！(Hayaku koi!) - Mau đến đây!"
-        }
-      },
-      {
-        "id": "g53",
-        "en": {
-          "title": "Volitional (意向形) (Plain)",
-          "content": "Suggest or intend in informal form.<br>• Group 1: change -u to -ou (書く→書こう).<br>• Group 2: replace -ru with -you (食べる→食べよう).<br>• Irregular: する→しよう, 来る→こよう.<br><b>Example:</b> 映画を見よう。(Eiga o miyō.) - Let's watch a movie."
-        },
-        "vi": {
-          "title": "Thể ý hướng (bản thân)",
-          "content": "Dùng để gợi ý/ý định thân mật.<br>• Nhóm 1: đổi đuôi -u thành -ou (書く→書こう).<br>• Nhóm 2: thay đuôi -ru thành -you (食べる→食べよう).<br>• Bất quy tắc: する→しよう, 来る→こよう.<br><b>Ví dụ:</b> 映画を見よう。(Eiga o miyō.) - Hãy xem phim nhé."
+          "title": "Hành động Cho & Nhận",
+          "content": "Dùng ～てあげる, ～てくれる, ～てもらう để diễn tả hành động làm cho người khác.<br>• てあげる: Tôi làm cho người khác.<br>• てくれる: Ai đó làm cho tôi/nhóm tôi.<br>• てもらう: Tôi nhận được một hành động/sự giúp đỡ từ ai đó.<br><b>Ví dụ:</b> 友達が宿題を手伝ってくれました。(Tomodachi ga shukudai o tetsudatte kuremashita.) - Bạn tôi đã giúp tôi làm bài tập."
         }
       }
     ]
   },
   "adjectives_conjugation": {
-    "en": "Adjectives & Conjugation 🎨",
-    "vi": "Tính từ & Cách chia 🎨",
+    "en": "Adjectives & Adverbs 🎨",
+    "vi": "Tính từ & Trạng từ 🎨",
     "items": [
       {
-        "id": "g41",
+        "id": "g111",
         "en": {
-          "title": "～なります (To become)",
-          "content": "Indicates a change of state.<br>• い-adj (drop い) + くなります。<br>• な-adj/Noun + に なります。<br><b>Example (い-adj):</b> さむくなります。(Samuku narimasu.) - It will become cold.<br><b>Example (な-adj):</b> げんきに なりました。(Genki ni narimashita.) - I became healthy."
+          "title": "～すぎる (Too much)",
+          "content": "Indicates that something is excessive.<br>• Verb-stem + すぎる<br>• い-adj (drop い) + すぎる<br>• な-adj + すぎる<br><b>Example:</b> このかばんは高すぎます。(Kono kaban wa taka sugimasu.) - This bag is too expensive."
         },
         "vi": {
-          "title": "～なります (Trở nên)",
-          "content": "Chỉ sự thay đổi trạng thái.<br>• Tính từ い (bỏ い) + くなります。<br>• Tính từ な/Danh từ + に なります。<br><b>Ví dụ (đuôi い):</b> さむくなります。(Samuku narimasu.) - Trời sẽ trở nên lạnh.<br><b>Ví dụ (đuôi な):</b> げんきに なりました。(Genki ni narimashita.) - Tôi đã trở nên khỏe mạnh."
+          "title": "～すぎる (Quá...)",
+          "content": "Chỉ một điều gì đó vượt quá mức độ.<br>• Thân động từ + すぎる<br>• Tính từ い (bỏ い) + すぎる<br>• Tính từ な + すぎる<br><b>Ví dụ:</b> このかばんは高すぎます。(Kono kaban wa taka sugimasu.) - Cái túi này quá đắt."
+        }
+      },
+      {
+        "id": "g112",
+        "en": {
+          "title": "Adjective → Adverb",
+          "content": "Turns an adjective into an adverb to describe a verb.<br>• い-adj (change い to く): はやい → はやく<br>• な-adj (add に): しずか → しずかに<br><b>Example (い-adj):</b> もっと速く走ってください。(Motto hayaku hashitte kudasai.) - Please run faster.<br><b>Example (な-adj):</b> 図書館では静かに話してください。(Toshokan de wa shizuka ni hanashite kudasai.) - Please speak quietly in the library."
+        },
+        "vi": {
+          "title": "Tính từ → Trạng từ",
+          "content": "Biến tính từ thành trạng từ để mô tả động từ.<br>• Tính từ い (đổi い thành く): はやい → はやく<br>• Tính từ な (thêm に): しずか → しずかに<br><b>Ví dụ (đuôi い):</b> もっと速く走ってください。(Motto hayaku hashitte kudasai.) - Hãy chạy nhanh hơn nữa.<br><b>Ví dụ (đuôi な):</b> 図書館では静かに話してください。(Toshokan de wa shizuka ni hanashite kudasai.) - Ở thư viện hãy nói chuyện khẽ thôi."
         }
       }
     ]
@@ -93,58 +82,69 @@
     "vi": "Các mẫu câu & cách diễn đạt thông dụng 💬",
     "items": [
       {
-        "id": "g54",
+        "id": "g121",
         "en": {
-          "title": "Verb-と思います (I think)",
-          "content": "Expresses the speaker's thought.<br>Verb-dictionary/plain form + と思います。<br><b>Example:</b> 明日は雨が降ると思います。(Ashita wa ame ga furu to omoimasu.) - I think it will rain tomorrow."
+          "title": "～てみます (To try doing)",
+          "content": "Used when trying something out to see what it's like.<br><b>Example:</b> この新しい服を着てみます。(Kono atarashii fuku o kite mimasu.) - I'll try wearing these new clothes."
         },
         "vi": {
-          "title": "Thể と思います (tôi nghĩ rằng)",
-          "content": "Diễn tả suy nghĩ của người nói.<br>Động từ thể từ điển/phổ thông + と思います。<br><b>Ví dụ:</b> 明日は雨が降ると思います。(Ashita wa ame ga furu to omoimasu.) - Tôi nghĩ ngày mai sẽ mưa."
+          "title": "～てみます (Thử làm...)",
+          "content": "Dùng khi thử làm gì đó để xem nó như thế nào.<br><b>Ví dụ:</b> この新しい服を着てみます。(Kono atarashii fuku o kite mimasu.) - Tôi sẽ mặc thử bộ quần áo mới này."
         }
       },
       {
-        "id": "g55",
+        "id": "g122",
         "en": {
-          "title": "～そうです (looks like)",
-          "content": "Expresses appearance based on what is seen.<br>い-adj (drop い) + そうです, な-adj/Noun + そうです。<br><b>Example:</b> このケーキはおいしそうです。(Kono keeki wa oishisō desu.) - This cake looks delicious."
+          "title": "～てしまいます (Finish/Regret)",
+          "content": "Indicates the completion of an action, often with a sense of finality, surprise, or regret. Informal: ～ちゃう/～じゃう.<br><b>Example:</b> 大事なさいふを忘れてしまいました。(Daiji na saifu o wasurete shimaimashita.) - I regretfully forgot my important wallet."
         },
         "vi": {
-          "title": "～そうです (trông có vẻ)",
-          "content": "Diễn tả dựa trên quan sát.<br>Tính từ đuôi い (bỏ い) + そうです, Tính từ đuôi な/Danh từ + そうです。<br><b>Ví dụ:</b> このケーキはおいしそうです。(Kono keeki wa oishisō desu.) - Chiếc bánh này trông có vẻ ngon."
+          "title": "～てしまいます (Hoàn thành/Hối tiếc)",
+          "content": "Chỉ sự hoàn thành một hành động, thường với cảm giác kết thúc, bất ngờ hoặc hối tiếc. Thân mật: ～ちゃう/～じゃう.<br><b>Ví dụ:</b> 大事なさいふを忘れてしまいました。(Daiji na saifu o wasurete shimaimashita.) - Tôi đã lỡ quên mất chiếc ví quan trọng."
         }
       },
       {
-        "id": "g56",
+        "id": "g123",
         "en": {
-          "title": "～そうです (I hear that)",
-          "content": "Expresses hearsay or reported information.<br>Plain form + そうです。<br><b>Example:</b> 明日は雨が降るそうです。(Ashita wa ame ga furu sō desu.) - I heard it's going to rain tomorrow."
+          "title": "～ておきます (Do in advance)",
+          "content": "Indicates an action done in preparation for something else. Informal: ～とく/～どく.<br><b>Example:</b> 旅行の前に、ホテルを予約しておきます。(Ryokō no mae ni, hoteru o yoyaku shite okimasu.) - I'll book the hotel in advance before the trip."
         },
         "vi": {
-          "title": "～そうです (nghe nói)",
-          "content": "Diễn tả tin đồn/nhận được từ người khác.<br>Thể phổ thông + そうです。<br><b>Ví dụ:</b> 明日は雨が降るそうです。(Ashita wa ame ga furu sō desu.) - Nghe nói ngày mai trời sẽ mưa."
+          "title": "～ておきます (Làm sẵn...)",
+          "content": "Chỉ một hành động được làm để chuẩn bị cho việc khác. Thân mật: ～とく/～どく.<br><b>Ví dụ:</b> 旅行の前に、ホテルを予約しておきます。(Ryokō no mae ni, hoteru o yoyaku shite okimasu.) - Tôi sẽ đặt trước khách sạn trước chuyến đi."
         }
       },
       {
-        "id": "g57",
+        "id": "g124",
         "en": {
-          "title": "～らしい (seems/it appears)",
-          "content": "Expresses speculation based on indirect evidence.<br>Plain form + らしい, Noun + らしい。<br><b>Example:</b> 彼は来ないらしいです。(Kare wa konai rashii desu.) - It seems he won't come."
+          "title": "～つもりです (I intend to)",
+          "content": "Expresses a firm intention or plan.<br>Verb-dictionary form + つもりです。<br><b>Example:</b> 来年、日本へ留学するつもりです。(Rainen, Nihon e ryūgaku suru tsumori desu.) - I intend to study abroad in Japan next year."
         },
         "vi": {
-          "title": "～らしい (hình như)",
-          "content": "Biểu thị suy đoán dựa trên thông tin gián tiếp.<br>Thể phổ thông + らしい, Danh từ + らしい。<br><b>Ví dụ:</b> 彼は来ないらしいです。(Kare wa konai rashii desu.) - Hình như anh ấy sẽ không đến."
+          "title": "～つもりです (Tôi định...)",
+          "content": "Diễn tả một ý định hoặc kế hoạch chắc chắn.<br>Động từ thể từ điển + つもりです。<br><b>Ví dụ:</b> 来年、日本へ留学するつもりです。(Rainen, Nihon e ryūgaku suru tsumori desu.) - Tôi định năm sau sẽ đi du học Nhật Bản."
         }
       },
       {
-        "id": "g58",
+        "id": "g125",
         "en": {
-          "title": "～みたい (like/as if)",
-          "content": "Expresses similarity or appearance based on intuition.<br>Plain form + みたい, Noun + みたい。<br><b>Example:</b> 雲みたいに白い。(Kumo mitai ni shiroi.) - White like a cloud."
+          "title": "～はずです (Supposed to be)",
+          "content": "Expresses that something is expected to be true or to happen based on evidence or logic.<br>Plain form + はずです。<br><b>Example:</b> 田中さんは今日、来るはずです。(Tanaka-san wa kyō, kuru hazu desu.) - Mr. Tanaka is supposed to come today."
         },
         "vi": {
-          "title": "～みたい (như là)",
-          "content": "Diễn tả sự giống nhau hoặc cảm giác trực giác.<br>Thể phổ thông + みたい, Danh từ + みたい。<br><b>Ví dụ:</b> 雲みたいに白い。(Kumo mitai ni shiroi.) - Trắng như mây."
+          "title": "～はずです (Chắc chắn là...)",
+          "content": "Diễn tả một điều gì đó được cho là đúng hoặc sẽ xảy ra dựa trên bằng chứng hoặc logic.<br>Thể thông thường + はずです。<br><b>Ví dụ:</b> 田中さんは今日、来るはずです。(Tanaka-san wa kyō, kuru hazu desu.) - Chắc chắn là anh Tanaka sẽ đến hôm nay."
+        }
+      },
+      {
+        "id": "g126",
+        "en": {
+          "title": "～かもしれません (Might be)",
+          "content": "Expresses a possibility. Less certain than でしょう or はずです.<br>Plain form + かもしれません。<br><b>Example:</b> 明日は雨が降るかもしれません。(Ashita wa ame ga furu kamoshiremasen.) - It might rain tomorrow."
+        },
+        "vi": {
+          "title": "～かもしれません (Có lẽ là...)",
+          "content": "Diễn tả một khả năng. Mức độ chắc chắn thấp hơn でしょう hoặc はずです.<br>Thể thông thường + かもしれません。<br><b>Ví dụ:</b> 明日は雨が降るかもしれません。(Ashita wa ame ga furu kamoshiremasen.) - Có lẽ ngày mai trời sẽ mưa."
         }
       }
     ]
@@ -154,86 +154,75 @@
     "vi": "Từ nối & Trợ từ nối 🔗",
     "items": [
       {
-        "id": "g42",
+        "id": "g131",
         "en": {
-          "title": "Clause Connectors (から / が)",
-          "content": "• ～から: because, so (Used to state a reason).<br>• ～が: but, although (Used to connect contrasting ideas).<br><b>Example (から):</b> あしたは やすみですから、きょうは たくさん のみます。(Ashita wa yasumi desu kara, kyō wa takusan nomimasu.) - Because tomorrow is a holiday, I will drink a lot today.<br><b>Example (が):</b> にほんごは おもしろいですが、むずかしいです。(Nihongo wa omoshiroi desu ga, muzukashii desu.) - Japanese is interesting, but difficult."
+          "title": "Conditional ～たら",
+          "content": "A general conditional for 'if' or 'when'. It focuses on the action being completed before the result.<br>Verb-past plain form + ら。<br><b>Example:</b> お金があったら、旅行したいです。(Okane ga attara, ryokō shitai desu.) - If I had money, I would want to travel."
         },
         "vi": {
-          "title": "Từ nối mệnh đề (から / が)",
-          "content": "• ～から: bởi vì, cho nên (Dùng để chỉ nguyên nhân).<br>• ～が: nhưng (Dùng để nối các ý tương phản).<br><b>Ví dụ (から):</b> あしたは やすみですから、きょうは たくさん のみます。(Ashita wa yasumi desu kara, kyō wa takusan nomimasu.) - Vì ngày mai là ngày nghỉ nên hôm nay tôi sẽ uống nhiều.<br><b>Ví dụ (が):</b> にほんごは おもしろいですが、むずかしいです。(Nihongo wa omoshiroi desu ga, muzukashii desu.) - Tiếng Nhật thú vị nhưng khó."
+          "title": "Điều kiện ～たら",
+          "content": "Một dạng điều kiện chung cho 'nếu' hoặc 'khi'. Nó tập trung vào việc hành động được hoàn thành trước khi có kết quả.<br>Động từ thể た + ら。<br><b>Ví dụ:</b> お金があったら、旅行したいです。(Okane ga attara, ryokō shitai desu.) - Nếu có tiền, tôi muốn đi du lịch."
         }
       },
       {
-        "id": "g59",
+        "id": "g132",
         "en": {
-          "title": "Verb-たら (Conditional)",
-          "content": "Expresses conditional 'if/when'.<br>Verb-past plain form + ら。<br><b>Example:</b> 雨が降ったら、出かけません。(Ame ga futtara, dekakemasen.) - If it rains, I won't go out."
+          "title": "Conditional ～ば",
+          "content": "A conditional form that often implies a generally positive or expected outcome if the condition is met.<br>Verb (e-form) + ば.<br><b>Example:</b> 時間があれば、手伝います。(Jikan ga areba, tetsudaimasu.) - If I have time, I'll help."
         },
         "vi": {
-          "title": "Verb-たら (nếu/khi)",
-          "content": "Diễn tả điều kiện 'nếu/khi'.<br>Động từ thể quá khứ + ら。<br><b>Ví dụ:</b> 雨が降ったら、出かけません。(Ame ga futtara, dekakemasen.) - Nếu mưa thì tôi không đi ra ngoài."
+          "title": "Điều kiện ～ば",
+          "content": "Một dạng điều kiện thường ngụ ý một kết quả tích cực hoặc được mong đợi nếu điều kiện được đáp ứng.<br>Động từ (thể e) + ば.<br><b>Ví dụ:</b> 時間があれば、手伝います。(Jikan ga areba, tetsudaimasu.) - Nếu có thời gian, tôi sẽ giúp."
         }
       },
       {
-        "id": "g60",
+        "id": "g133",
         "en": {
-          "title": "Verb-ば (Conditional)",
-          "content": "Expresses conditional 'if' for general truths.<br>Verb-e form + ば。<br><b>Example:</b> 行けば、わかります。(Ikeba, wakarimasu.) - If you go, you'll understand."
+          "title": "～のに (Even though)",
+          "content": "Connects two clauses, where the second clause is an unexpected or contrary result of the first.<br>Plain form + のに.<br><b>Example:</b> 一生懸命勉強したのに、試験に合格しませんでした。(Isshōkenmei benkyō shita noni, shiken ni gōkaku shimasen deshita.) - Even though I studied hard, I didn't pass the exam."
         },
         "vi": {
-          "title": "Verb-ば (nếu)",
-          "content": "Diễn tả điều kiện chung 'nếu'.<br>Động từ thể e + ば。<br><b>Ví dụ:</b> 行けば、わかります。(Ikeba, wakarimasu.) - Nếu đi thì sẽ hiểu."
+          "title": "～のに (Mặc dù)",
+          "content": "Nối hai mệnh đề, trong đó mệnh đề thứ hai là một kết quả bất ngờ hoặc trái ngược với mệnh đề đầu tiên.<br>Thể thông thường + のに.<br><b>Ví dụ:</b> 一生懸命勉強したのに、試験に合格しませんでした。(Isshōkenmei benkyō shita noni, shiken ni gōkaku shimasen deshita.) - Mặc dù đã học chăm chỉ nhưng tôi vẫn không đỗ kỳ thi."
         }
       },
       {
-        "id": "g61",
+        "id": "g134",
         "en": {
-          "title": "Verb-と (Whenever)",
-          "content": "Expresses natural result or whenever something happens.<br>Verb-dictionary form + と。<br><b>Example:</b> 春になると、桜が咲きます。(Haru ni naru to, sakura ga sakimasu.) - When spring comes, cherry blossoms bloom."
+          "title": "～ように / ～ために",
+          "content": "Both express purpose ('in order to', 'so that').<br>• ように is used with potential verbs or verbs that aren't controllable (e.g.,わかる).<br>• ために is used with volitional/controllable verbs.<br><b>Example (ように):</b> 日本語が話せるように、毎日勉強しています。(Nihongo ga hanaseru yō ni, mainichi benkyō shite imasu.) - I study every day so that I can speak Japanese.<br><b>Example (ために):</b> 家を買うために、貯金しています。(Ie o kau tame ni, chokin shite imasu.) - I'm saving money in order to buy a house."
         },
         "vi": {
-          "title": "Verb-と (khi/mỗi khi)",
-          "content": "Diễn tả kết quả tự nhiên hoặc mỗi khi.<br>Động từ thể từ điển + と。<br><b>Ví dụ:</b> 春になると、桜が咲きます。(Haru ni naru to, sakura ga sakimasu.) - Khi xuân đến, hoa anh đào nở."
-        }
-      },
-      {
-        "id": "g62",
-        "en": {
-          "title": "Verb-ながら (While)",
-          "content": "Expresses simultaneous actions.<br>Verb-stem + ながら。<br><b>Example:</b> 音楽を聞きながら勉強します。(Ongaku o kiki nagara benkyō shimasu.) - I study while listening to music."
-        },
-        "vi": {
-          "title": "Verb-ながら (vừa)",
-          "content": "Diễn tả hành động đồng thời.<br>Động từ thân + ながら。<br><b>Ví dụ:</b> 音楽を聞きながら勉強します。(Ongaku o kiki nagara benkyō shimasu.) - Tôi vừa nghe nhạc vừa học."
-        }
-      },
-      {
-        "id": "g63",
-        "en": {
-          "title": "くらい／ぐらい (Approximate)",
-          "content": "Indicates approximate amount.<br>Noun/Number + くらい/ぐらい。<br><b>Example:</b> 一時間ぐらい待ちました。(Ichijikan gurai machimashita.) - I waited for about an hour."
-        },
-        "vi": {
-          "title": "くらい／ぐらい (khoảng)",
-          "content": "Chỉ số lượng xấp xỉ.<br>Danh từ/Số + くらい/ぐらい。<br><b>Ví dụ:</b> 一時間ぐらい待ちました。(Ichijikan gurai machimashita.) - Tôi đã chờ khoảng một giờ."
+          "title": "～ように / ～ために",
+          "content": "Cả hai đều diễn tả mục đích ('để', 'cho').<br>• ように dùng với động từ thể khả năng hoặc động từ không chủ ý (vd: わかる).<br>• ために dùng với động từ có chủ ý/kiểm soát được.<br><b>Ví dụ (ように):</b> 日本語が話せるように、毎日勉強しています。(Nihongo ga hanaseru yō ni, mainichi benkyō shite imasu.) - Tôi học mỗi ngày để có thể nói được tiếng Nhật.<br><b>Ví dụ (ために):</b> 家を買うために、貯金しています。(Ie o kau tame ni, chokin shite imasu.) - Tôi đang tiết kiệm tiền để mua nhà."
         }
       }
     ]
   },
   "questions_counters": {
-    "en": "Questions & Counters ❓",
-    "vi": "Câu hỏi & Cách đếm ❓",
+    "en": "Complex Questions ❓",
+    "vi": "Câu hỏi Phức ❓",
     "items": [
       {
-        "id": "g64",
+        "id": "g141",
         "en": {
-          "title": "Other Common Counters",
-          "content": "Counters for various objects:<br>個 (こ): small items, 人 (にん): people, 本 (ほん): long objects, 冊 (さつ): books, 枚 (まい): flat objects, 回 (かい): times, 歳 (さい): age.<br><b>Example:</b> りんごを三個ください。(Ringo o sanko kudasai.) - Please give me three apples."
+          "title": "～かどうか (Whether or not)",
+          "content": "Used to embed a yes/no question into a larger sentence.<br>Plain form + かどうか.<br><b>Example:</b> 明日パーティーがあるかどうか、わかりません。(Ashita pātī ga aru ka dō ka, wakarimasen.) - I don't know whether or not there is a party tomorrow."
         },
         "vi": {
-          "title": "Các lượng từ thông dụng khác",
-          "content": "Các lượng từ:<br>個 (こ): vật nhỏ, 人 (にん): người, 本 (ほん): vật dài, 冊 (さつ): sách, 枚 (まい): vật mỏng, 回 (かい): lần, 歳 (さい): tuổi.<br><b>Ví dụ:</b> りんごを三個ください。(Ringo o sanko kudasai.) - Cho tôi ba quả táo."
+          "title": "～かどうか (... hay không)",
+          "content": "Dùng để lồng một câu hỏi có/không vào một câu lớn hơn.<br>Thể thông thường + かどうか.<br><b>Ví dụ:</b> 明日パーティーがあるかどうか、わかりません。(Ashita pātī ga aru ka dō ka, wakarimasen.) - Tôi không biết ngày mai có tiệc hay không."
+        }
+      },
+      {
+        "id": "g142",
+        "en": {
+          "title": "Embedded Questions (～か)",
+          "content": "Used to embed a WH-question (what, when, where, etc.) into a sentence.<br>Question word + Plain form + か.<br><b>Example:</b> 田中さんがどこに住んでいるか知っていますか。(Tanaka-san ga doko ni sunde iru ka shitte imasu ka.) - Do you know where Mr. Tanaka lives?"
+        },
+        "vi": {
+          "title": "Câu hỏi Lồng ghép (～か)",
+          "content": "Dùng để lồng một câu hỏi WH (cái gì, khi nào, ở đâu, v.v.) vào một câu.<br>Từ để hỏi + Thể thông thường + か.<br><b>Ví dụ:</b> 田中さんがどこに住んでいるか知っていますか。(Tanaka-san ga doko ni sunde iru ka shitte imasu ka.) - Bạn có biết anh Tanaka sống ở đâu không?"
         }
       }
     ]
@@ -243,36 +232,14 @@
     "vi": "Các mẫu câu so sánh ⚖️",
     "items": [
       {
-        "id": "g43",
+        "id": "g151",
         "en": {
-          "title": "Aは Bより [Adj] です (A is more ~ than B)",
-          "content": "The basic structure for comparing two items.<br><b>Example:</b> ひこうきは ふねより はやいです。(Hikōki wa fune yori hayai desu.) - Airplanes are faster than ships."
+          "title": "Aは Bほど ～ない (Not as ~ as)",
+          "content": "A comparison pattern indicating that A is less [adjective] than B.<br><b>Example:</b> 今年の冬は去年ほど寒くないです。(Kotoshi no fuyu wa kyonen hodo samukunai desu.) - This winter is not as cold as last year's."
         },
         "vi": {
-          "title": "Aは Bより [Adj] です (A thì ~ hơn B)",
-          "content": "Cấu trúc cơ bản để so sánh hai vật.<br><b>Ví dụ:</b> ひこうきは ふねより はやいです。(Hikōki wa fune yori hayai desu.) - Máy bay thì nhanh hơn tàu thủy."
-        }
-      },
-      {
-        "id": "g44",
-        "en": {
-          "title": "Aと Bと どちらが [Adj] ですか (Which is more ~?)",
-          "content": "Used to ask for a comparison between two items.<br><b>Answer form:</b> Aのほうが Bより [Adj] です。<br><b>Example:</b> にくと さかなと どちらが すきですか。(Niku to sakana to dochira ga suki desu ka.) - Which do you like more, meat or fish?"
-        },
-        "vi": {
-          "title": "Aと Bと どちらが [Adj] ですか (~ nào thì hơn?)",
-          "content": "Dùng để hỏi so sánh giữa hai vật.<br><b>Mẫu trả lời:</b> Aのほうが Bより [Adj] です。<br><b>Ví dụ:</b> にくと さかなと どちらが すきですか。(Niku to sakana to dochira ga suki desu ka.) - Giữa thịt và cá bạn thích cái nào hơn?"
-        }
-      },
-      {
-        "id": "g45",
-        "en": {
-          "title": "～のなかで [A]が いちばん [Adj] です (A is the most ~)",
-          "content": "Used for comparing three or more items (superlative).<br><b>Example:</b> かぞくのなかで だれが いちばん せが たかいですか。(Kazoku no naka de dare ga ichiban se ga takai desu ka.) - In your family, who is the tallest?"
-        },
-        "vi": {
-          "title": "～のなかで [A]が いちばん [Adj] です (A là ~ nhất)",
-          "content": "Dùng để so sánh từ ba vật trở lên (so sánh nhất).<br><b>Ví dụ:</b> かぞくのなかで だれが いちばん せが たかいですか。(Kazoku no naka de dare ga ichiban se ga takai desu ka.) - Trong gia đình bạn, ai là người cao nhất?"
+          "title": "Aは Bほど ～ない (Không ~ bằng)",
+          "content": "Một mẫu so sánh chỉ ra rằng A thì kém [tính từ] hơn B.<br><b>Ví dụ:</b> 今年の冬は去年ほど寒くないです。(Kotoshi no fuyu wa kyonen hodo samukunai desu.) - Mùa đông năm nay không lạnh bằng năm ngoái."
         }
       }
     ]
