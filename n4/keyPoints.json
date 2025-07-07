@@ -1,380 +1,307 @@
 {
-  "basicNumbers": {
-    "en": "Basic Numbers (数) 🔢",
-    "vi": "Số đếm cơ bản (数) 🔢",
+  "numberConcepts": {
+    "en": "Number Concepts & Quantities 📊",
+    "vi": "Khái niệm số & Số lượng 📊",
     "type": "table",
     "content": [
       {
-        "Number": "1",
-        "Kanji": "一",
-        "Reading": "いち",
-        "vi": "một"
+        "Concept": "Number ~ (ordinal)",
+        "Kanji": "～番",
+        "Reading": "～ばん",
+        "Example": "一番 (ichiban - number one)",
+        "vi": "Số thứ tự"
       },
       {
-        "Number": "2",
-        "Kanji": "二",
-        "Reading": "に",
-        "vi": "hai"
+        "Concept": "More than/equal to",
+        "Kanji": "以上",
+        "Reading": "いじょう",
+        "Example": "百円以上 (hyaku-en ijō - 100 yen or more)",
+        "vi": "Trở lên, lớn hơn hoặc bằng"
       },
       {
-        "Number": "3",
-        "Kanji": "三",
-        "Reading": "さん",
-        "vi": "ba"
+        "Concept": "Less than/equal to",
+        "Kanji": "以下",
+        "Reading": "いか",
+        "Example": "十八歳以下 (jūhassai ika - 18 years old or less)",
+        "vi": "Trở xuống, nhỏ hơn hoặc bằng"
       },
       {
-        "Number": "4",
-        "Kanji": "四",
-        "Reading": "よん / し",
-        "vi": "bốn / tư"
+        "Concept": "~ times (multiplier)",
+        "Kanji": "～倍",
+        "Reading": "～ばい",
+        "Example": "二倍 (nibai - double)",
+        "vi": "~ lần (gấp đôi, gấp ba...)"
       },
       {
-        "Number": "5",
-        "Kanji": "五",
-        "Reading": "ご",
-        "vi": "năm"
+        "Concept": "Half",
+        "Kanji": "半分",
+        "Reading": "はんぶん",
+        "Example": "りんごの半分 (ringo no hanbun - half of the apple)",
+        "vi": "Một nửa"
       },
       {
-        "Number": "6",
-        "Kanji": "六",
-        "Reading": "ろく",
-        "vi": "sáu"
-      },
-      {
-        "Number": "7",
-        "Kanji": "七",
-        "Reading": "なな / しち",
-        "vi": "bảy"
-      },
-      {
-        "Number": "8",
-        "Kanji": "八",
-        "Reading": "はち",
-        "vi": "tám"
-      },
-      {
-        "Number": "9",
-        "Kanji": "九",
-        "Reading": "きゅう / く",
-        "vi": "chín"
-      },
-      {
-        "Number": "10",
-        "Kanji": "十",
-        "Reading": "じゅう",
-        "vi": "mười"
-      },
-      {
-        "Number": "100",
-        "Kanji": "百",
-        "Reading": "ひゃく",
-        "vi": "một trăm"
-      },
-      {
-        "Number": "1,000",
-        "Kanji": "千",
-        "Reading": "せん",
-        "vi": "một nghìn"
-      },
-      {
-        "Number": "10,000",
-        "Kanji": "万",
-        "Reading": "まん",
-        "vi": "mười nghìn"
+        "Concept": "Almost, mostly",
+        "Kanji": "ほとんど",
+        "Reading": "ほとんど",
+        "Example": "宿題はほとんど終わった (shukudai wa hotondo owatta - homework is mostly finished)",
+        "vi": "Hầu hết, gần như"
       }
     ]
   },
   "counters": {
-    "en": "Counters (助数詞) 🖐️",
-    "vi": "Lượng từ (助数詞) 🖐️",
+    "en": "Advanced Counters (助数詞) 🖐️",
+    "vi": "Lượng từ nâng cao (助数詞) 🖐️",
     "type": "table",
     "content": [
       {
-        "Counter": "～つ",
-        "Number": "General objects",
-        "Usage": "General objects",
-        "Example": "ひとつ, ふたつ, みっつ...",
-        "vi": "Vật nói chung"
+        "Counter": "～回 (かい)",
+        "Usage": "Times, frequency",
+        "Example": "いっかい, にかい...",
+        "vi": "Lần (tần suất)"
       },
       {
-        "Counter": "～人 (にん)",
-        "Number": "People",
-        "Usage": "People",
-        "Example": "ひとり, ふたり, さんにん...",
-        "vi": "Người"
+        "Counter": "～階 (かい)",
+        "Usage": "Floors of a building",
+        "Example": "いっかい, さんがい...",
+        "vi": "Tầng (của tòa nhà)"
       },
       {
-        "Counter": "～枚 (まい)",
-        "Number": "Flat, thin objects",
-        "Usage": "Flat, thin objects",
-        "Example": "いちまい, にまい...",
-        "vi": "Vật mỏng, phẳng (tờ, tấm, miếng...)"
+        "Counter": "～台 (だい)",
+        "Usage": "Machines, vehicles",
+        "Example": "いちだい, にだい...",
+        "vi": "Cái, chiếc (máy móc, xe cộ)"
       },
       {
-        "Counter": "～本 (ほん)",
-        "Number": "Long, cylindrical objects",
-        "Usage": "Long, cylindrical objects",
-        "Example": "いっぽん, にほん, さんぼん...",
-        "vi": "Vật dài, thon (chai, bút, cây...)"
+        "Counter": "～匹 (ひき)",
+        "Usage": "Small animals (cats, dogs, fish)",
+        "Example": "いっぴき, にひき, さんびき...",
+        "vi": "Con (động vật nhỏ)"
       },
       {
-        "Counter": "～冊 (さつ)",
-        "Number": "Bound volumes (books)",
-        "Usage": "Bound volumes (books)",
-        "Example": "いっさつ, にさつ...",
-        "vi": "Quyển (sách, vở...)"
+        "Counter": "～頭 (とう)",
+        "Usage": "Large animals (cows, horses)",
+        "Example": "いっとう, にとう...",
+        "vi": "Con (động vật lớn)"
       },
       {
-        "Counter": "～歳 (さい)",
-        "Number": "Age",
-        "Usage": "Age",
-        "Example": "いっさい, にさい...",
-        "vi": "Tuổi"
+        "Counter": "～羽 (わ)",
+        "Usage": "Birds, rabbits",
+        "Example": "いちわ, にわ, さんば...",
+        "vi": "Con (chim, thỏ)"
       },
       {
-        "Counter": "～分 (ふん/ぷん)",
-        "Number": "Minutes",
-        "Usage": "Minutes",
-        "Example": "いっぷん, にふん...",
-        "vi": "Phút"
+        "Counter": "～杯 (はい)",
+        "Usage": "Cups/glasses of liquid",
+        "Example": "いっぱい, にはい, さんばい...",
+        "vi": "Cốc, ly (đồ uống)"
       },
       {
-        "Counter": "～時 (じ)",
-        "Number": "Hours",
-        "Usage": "Hours",
-        "Example": "いちじ, にじ...",
-        "vi": "Giờ"
+        "Counter": "～着 (ちゃく)",
+        "Usage": "Suits of clothing",
+        "Example": "いっちゃく, にちゃく...",
+        "vi": "Bộ (quần áo)"
       }
     ]
   },
   "time": {
-    "en": "Time (時間) ⏰",
-    "vi": "Thời gian (時間) ⏰",
+    "en": "Advanced Time Expressions (時間) ⏰",
+    "vi": "Cách diễn đạt thời gian nâng cao (時間) ⏰",
     "type": "table-grid",
     "content": [
       {
         "title": {
-          "en": "Hours (時 - じ)",
-          "vi": "Giờ (時 - じ)"
+          "en": "Relative to Now",
+          "vi": "So với hiện tại"
         },
         "data": [
           {
-            "Number": "1:00",
-            "Reading": "いちじ",
-            "vi": "1 giờ"
+            "Number": "Recently",
+            "Reading": "さいきん",
+            "Kanji": "最近",
+            "vi": "Gần đây"
           },
           {
-            "Number": "2:00",
-            "Reading": "にじ",
-            "vi": "2 giờ"
+            "Number": "A little while ago",
+            "Reading": "さっき",
+            "Kanji": "さっき",
+            "vi": "Vừa nãy"
           },
           {
-            "Number": "4:00",
-            "Reading": "よじ",
-            "vi": "4 giờ"
-          },
-          {
-            "Number": "7:00",
-            "Reading": "しちじ",
-            "vi": "7 giờ"
-          },
-          {
-            "Number": "9:00",
-            "Reading": "くじ",
-            "vi": "9 giờ"
+            "Number": "Future",
+            "Reading": "しょうらい",
+            "Kanji": "将来",
+            "vi": "Tương lai"
           }
         ]
       },
       {
         "title": {
-          "en": "Minutes (分 - ふん/ぷん)",
-          "vi": "Phút (分 - ふん/ぷん)"
+          "en": "Durations & Spans",
+          "vi": "Khoảng thời gian"
         },
         "data": [
           {
-            "Number": "1 min",
-            "Reading": "いっぷん",
-            "vi": "1 phút"
+            "Number": "During, throughout",
+            "Reading": "～ちゅう/じゅう",
+            "Kanji": "～中",
+            "vi": "Trong suốt..."
           },
           {
-            "Number": "5 min",
-            "Reading": "ごふん",
-            "vi": "5 phút"
+            "Number": "During the interval",
+            "Reading": "～あいだ",
+            "Kanji": "～間",
+            "vi": "Trong lúc, trong khoảng"
           },
           {
-            "Number": "10 min",
-            "Reading": "じゅっぷん/じっぷん",
-            "vi": "10 phút"
-          },
-          {
-            "Number": "30 min",
-            "Reading": "さんじゅっぷん / はん",
-            "vi": "30 phút / nửa tiếng"
+            "Number": "Within",
+            "Reading": "～いない",
+            "Kanji": "～以内",
+            "vi": "Trong vòng..."
           }
         ]
       },
       {
         "title": {
-          "en": "Time Words",
-          "vi": "Từ chỉ thời gian"
+          "en": "Before & After",
+          "vi": "Trước & Sau"
         },
         "data": [
           {
-            "Number": "AM",
-            "Reading": "ごぜん",
-            "vi": "Sáng (AM)"
+            "Number": "After (a period)",
+            "Reading": "～ご",
+            "Kanji": "～後",
+            "vi": "Sau..."
           },
           {
-            "Number": "PM",
-            "Reading": "ごご",
-            "vi": "Chiều (PM)"
+            "Number": "Before (a period)",
+            "Reading": "～まえ",
+            "Kanji": "～前",
+            "vi": "Trước..."
           },
           {
-            "Number": "Half",
-            "Reading": "はん",
-            "vi": "Nửa, rưỡi"
-          },
-          {
-            "Number": "Hour",
-            "Reading": "じかん",
-            "vi": "Giờ (khoảng thời gian)"
+            "Number": "Other than, except",
+            "Reading": "～いがい",
+            "Kanji": "～以外",
+            "vi": "Ngoài ra, ngoại trừ"
           }
         ]
       }
     ]
   },
   "calendar": {
-    "en": "Calendar (カレンダー) 📅",
-    "vi": "Lịch (カレンダー) 📅",
+    "en": "Relative Calendar Terms 📅",
+    "vi": "Các từ chỉ lịch tương đối 📅",
     "type": "table-grid",
     "content": [
       {
         "title": {
-          "en": "Days of the Week (曜日)",
-          "vi": "Các ngày trong tuần (曜日)"
+          "en": "Days (日)",
+          "vi": "Ngày (日)"
         },
         "data": [
           {
-            "Number": "Sunday",
-            "Kanji": "日曜日",
-            "Reading": "にちようび",
-            "vi": "Chủ nhật"
+            "Number": "Day before yesterday",
+            "Reading": "おととい",
+            "vi": "Hôm kia"
           },
           {
-            "Number": "Monday",
-            "Kanji": "月曜日",
-            "Reading": "げつようび",
-            "vi": "Thứ hai"
+            "Number": "Yesterday",
+            "Kanji": "昨日",
+            "Reading": "きのう",
+            "vi": "Hôm qua"
           },
           {
-            "Number": "Tuesday",
-            "Kanji": "火曜日",
-            "Reading": "かようび",
-            "vi": "Thứ ba"
+            "Number": "Today",
+            "Kanji": "今日",
+            "Reading": "きょう",
+            "vi": "Hôm nay"
           },
           {
-            "Number": "Wednesday",
-            "Kanji": "水曜日",
-            "Reading": "すいようび",
-            "vi": "Thứ tư"
+            "Number": "Tomorrow",
+            "Kanji": "明日",
+            "Reading": "あした",
+            "vi": "Ngày mai"
           },
           {
-            "Number": "Thursday",
-            "Kanji": "木曜日",
-            "Reading": "もくようび",
-            "vi": "Thứ năm"
-          },
-          {
-            "Number": "Friday",
-            "Kanji": "金曜日",
-            "Reading": "きんようび",
-            "vi": "Thứ sáu"
-          },
-          {
-            "Number": "Saturday",
-            "Kanji": "土曜日",
-            "Reading": "どようび",
-            "vi": "Thứ bảy"
+            "Number": "Day after tomorrow",
+            "Reading": "あさって",
+            "vi": "Ngày kia"
           }
         ]
       },
       {
         "title": {
-          "en": "Months (月)",
-          "vi": "Các tháng (月)"
+          "en": "Weeks (週)",
+          "vi": "Tuần (週)"
         },
         "data": [
           {
-            "Number": "Jan",
-            "Kanji": "一月",
-            "Reading": "いちがつ",
-            "vi": "Tháng 1"
+            "Number": "Last week",
+            "Kanji": "先週",
+            "Reading": "せんしゅう",
+            "vi": "Tuần trước"
           },
           {
-            "Number": "Apr",
-            "Kanji": "四月",
-            "Reading": "しがつ",
-            "vi": "Tháng 4"
+            "Number": "This week",
+            "Kanji": "今週",
+            "Reading": "こんしゅう",
+            "vi": "Tuần này"
           },
           {
-            "Number": "Jul",
-            "Kanji": "七月",
-            "Reading": "しちがつ",
-            "vi": "Tháng 7"
+            "Number": "Next week",
+            "Kanji": "来週",
+            "Reading": "らいしゅう",
+            "vi": "Tuần sau"
           },
           {
-            "Number": "Sep",
-            "Kanji": "九月",
-            "Reading": "くがつ",
-            "vi": "Tháng 9"
+            "Number": "Every week",
+            "Kanji": "毎週",
+            "Reading": "まいしゅう",
+            "vi": "Hàng tuần"
           }
         ]
       },
       {
         "title": {
-          "en": "Days of the Month (日)",
-          "vi": "Các ngày trong tháng (日)"
+          "en": "Months & Years (月・年)",
+          "vi": "Tháng & Năm (月・年)"
         },
         "data": [
           {
-            "Number": "1st",
-            "Reading": "ついたち",
-            "vi": "Mùng 1"
+            "Number": "Last month",
+            "Kanji": "先月",
+            "Reading": "せんげつ",
+            "vi": "Tháng trước"
           },
           {
-            "Number": "2nd",
-            "Reading": "ふつか",
-            "vi": "Mùng 2"
+            "Number": "This month",
+            "Kanji": "今月",
+            "Reading": "こんげつ",
+            "vi": "Tháng này"
           },
           {
-            "Number": "3rd",
-            "Reading": "みっか",
-            "vi": "Mùng 3"
+            "Number": "Next month",
+            "Kanji": "来月",
+            "Reading": "らいげつ",
+            "vi": "Tháng sau"
           },
           {
-            "Number": "4th",
-            "Reading": "よっか",
-            "vi": "Mùng 4"
+            "Number": "Last year",
+            "Kanji": "去年",
+            "Reading": "きょねん",
+            "vi": "Năm ngoái"
           },
           {
-            "Number": "8th",
-            "Reading": "ようか",
-            "vi": "Mùng 8"
+            "Number": "This year",
+            "Kanji": "今年",
+            "Reading": "ことし",
+            "vi": "Năm nay"
           },
           {
-            "Number": "10th",
-            "Reading": "とおか",
-            "vi": "Mùng 10"
-          },
-          {
-            "Number": "20th",
-            "Reading": "はつか",
-            "vi": "Ngày 20"
-          },
-          {
-            "Number": "Other",
-            "Reading": "Number + にち",
-            "vi": "Số + にち (ngày...)"
+            "Number": "Next year",
+            "Kanji": "来年",
+            "Reading": "らいねん",
+            "vi": "Năm sau"
           }
         ]
       }
