@@ -7,7 +7,7 @@
                 "id": "k1",
                 "kanji": "一",
                 "onyomi": "イチ, イツ",
-                "kunyomi": "ひと",
+                "kunyomi": "ひと-つ, ひと",
                 "meaning": {
                     "en": "One",
                     "vi": "một, nhất"
@@ -17,7 +17,7 @@
                 "id": "k2",
                 "kanji": "二",
                 "onyomi": "ニ",
-                "kunyomi": "ふた",
+                "kunyomi": "ふた-つ, ふた",
                 "meaning": {
                     "en": "Two",
                     "vi": "hai, nhị"
@@ -27,7 +27,7 @@
                 "id": "k3",
                 "kanji": "三",
                 "onyomi": "サン",
-                "kunyomi": "み",
+                "kunyomi": "みっ-つ, み",
                 "meaning": {
                     "en": "Three",
                     "vi": "ba, tam"
@@ -37,7 +37,7 @@
                 "id": "k4",
                 "kanji": "四",
                 "onyomi": "シ",
-                "kunyomi": "よん, よ",
+                "kunyomi": "よっ-つ, よん, よ",
                 "meaning": {
                     "en": "Four",
                     "vi": "bốn, tứ"
@@ -47,7 +47,7 @@
                 "id": "k5",
                 "kanji": "五",
                 "onyomi": "ゴ",
-                "kunyomi": "いつ",
+                "kunyomi": "いつ-つ, いつ",
                 "meaning": {
                     "en": "Five",
                     "vi": "năm, ngũ"
@@ -57,7 +57,7 @@
                 "id": "k6",
                 "kanji": "六",
                 "onyomi": "ロク",
-                "kunyomi": "む",
+                "kunyomi": "むっ-つ, むい",
                 "meaning": {
                     "en": "Six",
                     "vi": "sáu, lục"
@@ -67,7 +67,7 @@
                 "id": "k7",
                 "kanji": "七",
                 "onyomi": "シチ",
-                "kunyomi": "なな",
+                "kunyomi": "なな-つ, なな",
                 "meaning": {
                     "en": "Seven",
                     "vi": "bảy, thất"
@@ -77,7 +77,7 @@
                 "id": "k8",
                 "kanji": "八",
                 "onyomi": "ハチ",
-                "kunyomi": "や",
+                "kunyomi": "やっ-つ, よう",
                 "meaning": {
                     "en": "Eight",
                     "vi": "tám, bát"
@@ -87,7 +87,7 @@
                 "id": "k9",
                 "kanji": "九",
                 "onyomi": "キュウ, ク",
-                "kunyomi": "ここの",
+                "kunyomi": "ここの-つ, ここの",
                 "meaning": {
                     "en": "Nine",
                     "vi": "chín, cửu"
@@ -96,7 +96,7 @@
             {
                 "id": "k10",
                 "kanji": "十",
-                "onyomi": "ジュウ",
+                "onyomi": "ジュウ, ジッ",
                 "kunyomi": "とお",
                 "meaning": {
                     "en": "Ten",
@@ -126,7 +126,7 @@
             {
                 "id": "k13",
                 "kanji": "万",
-                "onyomi": "マン",
+                "onyomi": "マン, バン",
                 "kunyomi": "よろず",
                 "meaning": {
                     "en": "Ten Thousand",
@@ -137,20 +137,10 @@
                 "id": "k14",
                 "kanji": "円",
                 "onyomi": "エン",
-                "kunyomi": "まるい",
+                "kunyomi": "まる-い",
                 "meaning": {
                     "en": "Yen, Circle",
                     "vi": "Yên, viên, tròn"
-                }
-            },
-            {
-                "id": "k15",
-                "kanji": "金",
-                "onyomi": "キン",
-                "kunyomi": "かね",
-                "meaning": {
-                    "en": "Gold, Money",
-                    "vi": "vàng, tiền, kim"
                 }
             }
         ]
@@ -177,6 +167,56 @@
                 "meaning": {
                     "en": "Month, Moon",
                     "vi": "tháng, mặt trăng, nguyệt"
+                }
+            },
+            {
+                "id": "k18",
+                "kanji": "火",
+                "onyomi": "カ",
+                "kunyomi": "ひ, -び",
+                "meaning": {
+                    "en": "Fire",
+                    "vi": "lửa, hỏa"
+                }
+            },
+            {
+                "id": "k19",
+                "kanji": "水",
+                "onyomi": "スイ",
+                "kunyomi": "みず",
+                "meaning": {
+                    "en": "Water",
+                    "vi": "nước, thủy"
+                }
+            },
+            {
+                "id": "k20",
+                "kanji": "木",
+                "onyomi": "モク, ボク",
+                "kunyomi": "き",
+                "meaning": {
+                    "en": "Tree, Wood",
+                    "vi": "cây, gỗ, mộc"
+                }
+            },
+            {
+                "id": "k15",
+                "kanji": "金",
+                "onyomi": "キン",
+                "kunyomi": "かね",
+                "meaning": {
+                    "en": "Gold, Money",
+                    "vi": "vàng, tiền, kim"
+                }
+            },
+            {
+                "id": "k21",
+                "kanji": "土",
+                "onyomi": "ド, ト",
+                "kunyomi": "つち",
+                "meaning": {
+                    "en": "Soil, Earth",
+                    "vi": "đất, thổ"
                 }
             },
             {
@@ -222,18 +262,18 @@
             {
                 "id": "k26",
                 "kanji": "分",
-                "onyomi": "フン, ブン",
-                "kunyomi": "わける",
+                "onyomi": "フン, ブン, プン",
+                "kunyomi": "わ-ける, わ-かる",
                 "meaning": {
-                    "en": "Minute, Part",
-                    "vi": "phút, phần, phân"
+                    "en": "Minute, Part, Understand",
+                    "vi": "phút, phần, hiểu, phân"
                 }
             },
             {
                 "id": "k27",
                 "kanji": "半",
                 "onyomi": "ハン",
-                "kunyomi": "なかば",
+                "kunyomi": "なか-ば",
                 "meaning": {
                     "en": "Half",
                     "vi": "nửa, rưỡi, bán"
@@ -263,7 +303,7 @@
                 "id": "k30",
                 "kanji": "後",
                 "onyomi": "ゴ, コウ",
-                "kunyomi": "うしろ, あと",
+                "kunyomi": "うし-ろ, あと",
                 "meaning": {
                     "en": "After, Back",
                     "vi": "sau, hậu"
@@ -302,8 +342,8 @@
             {
                 "id": "k139",
                 "kanji": "明",
-                "onyomi": "メイ, ミン",
-                "kunyomi": "あかるい, あした",
+                "onyomi": "メイ, ミョウ",
+                "kunyomi": "あ-かり, あか-るい, あ-した",
                 "meaning": {
                     "en": "Bright, Tomorrow",
                     "vi": "sáng, ngày mai, minh"
@@ -429,7 +469,7 @@
                 "id": "k45",
                 "kanji": "私",
                 "onyomi": "シ",
-                "kunyomi": "わたし",
+                "kunyomi": "わたし, わたくし",
                 "meaning": {
                     "en": "I, Private",
                     "vi": "tôi, tư"
@@ -479,25 +519,25 @@
                 "id": "k121",
                 "kanji": "足",
                 "onyomi": "ソク",
-                "kunyomi": "あし",
+                "kunyomi": "あし, た-りる",
                 "meaning": {
-                    "en": "Foot/Leg",
-                    "vi": "chân, túc"
+                    "en": "Foot/Leg, Suffice",
+                    "vi": "chân, đủ, túc"
                 }
             }
         ]
     },
     "placesDirections": {
-        "en": "Places & Directions 🗺️",
-        "vi": "Địa điểm & Phương hướng 🗺️",
+        "en": "Directions & Positions 🗺️",
+        "vi": "Phương hướng & Vị trí 🗺️",
         "items": [
             {
                 "id": "k47",
                 "kanji": "上",
-                "onyomi": "ジョウ",
-                "kunyomi": "うえ",
+                "onyomi": "ジョウ, ショウ",
+                "kunyomi": "うえ, あ-がる, のぼ-る",
                 "meaning": {
-                    "en": "Up, Above",
+                    "en": "Up, Above, To rise",
                     "vi": "trên, lên, thượng"
                 }
             },
@@ -505,16 +545,16 @@
                 "id": "k48",
                 "kanji": "下",
                 "onyomi": "カ, ゲ",
-                "kunyomi": "した",
+                "kunyomi": "した, さ-がる, くだ-る",
                 "meaning": {
-                    "en": "Down, Below",
+                    "en": "Down, Below, To lower",
                     "vi": "dưới, xuống, hạ"
                 }
             },
             {
                 "id": "k49",
                 "kanji": "中",
-                "onyomi": "チュウ",
+                "onyomi": "チュウ, ジュウ",
                 "kunyomi": "なか",
                 "meaning": {
                     "en": "Middle, In",
@@ -525,10 +565,10 @@
                 "id": "k50",
                 "kanji": "外",
                 "onyomi": "ガイ, ゲ",
-                "kunyomi": "そと",
+                "kunyomi": "そと, ほか",
                 "meaning": {
-                    "en": "Outside",
-                    "vi": "ngoài, ngoại"
+                    "en": "Outside, Other",
+                    "vi": "ngoài, khác, ngoại"
                 }
             },
             {
@@ -590,7 +630,13 @@
                     "en": "North",
                     "vi": "bắc"
                 }
-            },
+            }
+        ]
+    },
+    "lifePlaces": {
+        "en": "Life & Places 🏢",
+        "vi": "Cuộc sống & Địa điểm 🏢",
+        "items": [
             {
                 "id": "k57",
                 "kanji": "国",
@@ -650,18 +696,58 @@
                     "en": "Company, Shrine",
                     "vi": "công ty, đền, xã"
                 }
+            },
+            {
+                "id": "k113",
+                "kanji": "車",
+                "onyomi": "シャ",
+                "kunyomi": "くるま",
+                "meaning": {
+                    "en": "Car, Vehicle",
+                    "vi": "xe, xa"
+                }
+            },
+            {
+                "id": "k140",
+                "kanji": "空",
+                "onyomi": "クウ",
+                "kunyomi": "そら, あ-く, から",
+                "meaning": {
+                    "en": "Sky, Empty",
+                    "vi": "bầu trời, trống, không"
+                }
+            },
+            {
+                "id": "k141",
+                "kanji": "町",
+                "onyomi": "チョウ",
+                "kunyomi": "まち",
+                "meaning": {
+                    "en": "Town",
+                    "vi": "thị trấn, đinh"
+                }
+            },
+            {
+                "id": "k143",
+                "kanji": "旅",
+                "onyomi": "リョ",
+                "kunyomi": "たび",
+                "meaning": {
+                    "en": "Travel, Trip",
+                    "vi": "du lịch, chuyến đi, lữ"
+                }
             }
         ]
     },
     "verbs": {
-        "en": "Verbs (All Actions) 🏃",
-        "vi": "Động từ (Tất cả hành động) 🏃",
+        "en": "Verbs (Actions) 🏃",
+        "vi": "Động từ (Hành động) 🏃",
         "items": [
             {
                 "id": "k70",
                 "kanji": "書",
                 "onyomi": "ショ",
-                "kunyomi": "かく",
+                "kunyomi": "か-く",
                 "meaning": {
                     "en": "Write",
                     "vi": "viết, thư"
@@ -670,8 +756,8 @@
             {
                 "id": "k71",
                 "kanji": "読",
-                "onyomi": "ドク",
-                "kunyomi": "よむ",
+                "onyomi": "ドク, トク",
+                "kunyomi": "よ-む",
                 "meaning": {
                     "en": "Read",
                     "vi": "đọc, độc"
@@ -681,9 +767,9 @@
                 "id": "k72",
                 "kanji": "聞",
                 "onyomi": "ブン, モン",
-                "kunyomi": "きく",
+                "kunyomi": "き-く, き-こえる",
                 "meaning": {
-                    "en": "Hear, Ask",
+                    "en": "Hear, Ask, Listen",
                     "vi": "nghe, hỏi, văn"
                 }
             },
@@ -691,9 +777,9 @@
                 "id": "k73",
                 "kanji": "行",
                 "onyomi": "コウ, ギョウ",
-                "kunyomi": "いく",
+                "kunyomi": "い-く, おこな-う",
                 "meaning": {
-                    "en": "Go",
+                    "en": "Go, Conduct",
                     "vi": "đi, hành"
                 }
             },
@@ -701,7 +787,7 @@
                 "id": "k74",
                 "kanji": "来",
                 "onyomi": "ライ",
-                "kunyomi": "くる",
+                "kunyomi": "く-る, き-ます",
                 "meaning": {
                     "en": "Come",
                     "vi": "đến, lai"
@@ -711,7 +797,7 @@
                 "id": "k75",
                 "kanji": "帰",
                 "onyomi": "キ",
-                "kunyomi": "かえる",
+                "kunyomi": "かえ-る, かえ-す",
                 "meaning": {
                     "en": "Return",
                     "vi": "về, quy"
@@ -720,8 +806,8 @@
             {
                 "id": "k76",
                 "kanji": "食",
-                "onyomi": "ショク",
-                "kunyomi": "たべる",
+                "onyomi": "ショク, ジキ",
+                "kunyomi": "た-べる",
                 "meaning": {
                     "en": "Eat",
                     "vi": "ăn, thực"
@@ -731,7 +817,7 @@
                 "id": "k77",
                 "kanji": "飲",
                 "onyomi": "イン",
-                "kunyomi": "のむ",
+                "kunyomi": "の-む",
                 "meaning": {
                     "en": "Drink",
                     "vi": "uống, ẩm"
@@ -741,9 +827,9 @@
                 "id": "k78",
                 "kanji": "見",
                 "onyomi": "ケン",
-                "kunyomi": "みる",
+                "kunyomi": "み-る, み-せる",
                 "meaning": {
-                    "en": "See, Look",
+                    "en": "See, Look, Show",
                     "vi": "nhìn, xem, kiến"
                 }
             },
@@ -751,29 +837,29 @@
                 "id": "k79",
                 "kanji": "言",
                 "onyomi": "ゲン, ゴン",
-                "kunyomi": "いう",
+                "kunyomi": "い-う, こと",
                 "meaning": {
-                    "en": "Say",
-                    "vi": "nói, ngôn"
+                    "en": "Say, Word",
+                    "vi": "nói, lời, ngôn"
                 }
             },
             {
                 "id": "k80",
                 "kanji": "話",
                 "onyomi": "ワ",
-                "kunyomi": "はなす",
+                "kunyomi": "はな-す, はなし",
                 "meaning": {
-                    "en": "Speak, Talk",
-                    "vi": "nói chuyện, thoại"
+                    "en": "Speak, Talk, Story",
+                    "vi": "nói chuyện, câu chuyện, thoại"
                 }
             },
             {
                 "id": "k81",
                 "kanji": "会",
                 "onyomi": "カイ",
-                "kunyomi": "あう",
+                "kunyomi": "あ-う",
                 "meaning": {
-                    "en": "Meet",
+                    "en": "Meet, Society",
                     "vi": "gặp, hội"
                 }
             },
@@ -781,17 +867,27 @@
                 "id": "k82",
                 "kanji": "買",
                 "onyomi": "バイ",
-                "kunyomi": "かう",
+                "kunyomi": "か-う",
                 "meaning": {
                     "en": "Buy",
                     "vi": "mua, mãi"
                 }
             },
             {
+                "id": "k142",
+                "kanji": "売",
+                "onyomi": "バイ",
+                "kunyomi": "う-る",
+                "meaning": {
+                    "en": "Sell",
+                    "vi": "bán, mại"
+                }
+            },
+            {
                 "id": "k83",
                 "kanji": "休",
                 "onyomi": "キュウ",
-                "kunyomi": "やすむ",
+                "kunyomi": "やす-む",
                 "meaning": {
                     "en": "Rest",
                     "vi": "nghỉ, hưu"
@@ -800,28 +896,28 @@
             {
                 "id": "k84",
                 "kanji": "出",
-                "onyomi": "シュツ",
-                "kunyomi": "でる, だす",
+                "onyomi": "シュツ, スイ",
+                "kunyomi": "で-る, だ-す",
                 "meaning": {
-                    "en": "Go out",
-                    "vi": "ra, xuất"
+                    "en": "Go out, Put out",
+                    "vi": "ra, lấy ra, xuất"
                 }
             },
             {
                 "id": "k85",
                 "kanji": "入",
                 "onyomi": "ニュウ",
-                "kunyomi": "はいる, いれる",
+                "kunyomi": "はい-る, い-れる",
                 "meaning": {
-                    "en": "Enter",
-                    "vi": "vào, nhập"
+                    "en": "Enter, Put in",
+                    "vi": "vào, cho vào, nhập"
                 }
             },
             {
                 "id": "k86",
                 "kanji": "立",
-                "onyomi": "リツ",
-                "kunyomi": "たつ",
+                "onyomi": "リツ, リュウ",
+                "kunyomi": "た-つ, た-てる",
                 "meaning": {
                     "en": "Stand",
                     "vi": "đứng, lập"
@@ -831,7 +927,7 @@
                 "id": "k87",
                 "kanji": "待",
                 "onyomi": "タイ",
-                "kunyomi": "まつ",
+                "kunyomi": "ま-つ",
                 "meaning": {
                     "en": "Wait",
                     "vi": "đợi, đãi"
@@ -841,7 +937,7 @@
                 "id": "k88",
                 "kanji": "持",
                 "onyomi": "ジ",
-                "kunyomi": "もつ",
+                "kunyomi": "も-つ",
                 "meaning": {
                     "en": "Hold, Have",
                     "vi": "cầm, mang, trì"
@@ -851,7 +947,7 @@
                 "id": "k89",
                 "kanji": "作",
                 "onyomi": "サク, サ",
-                "kunyomi": "つくる",
+                "kunyomi": "つく-る",
                 "meaning": {
                     "en": "Make",
                     "vi": "làm, tạo, tác"
@@ -861,19 +957,19 @@
                 "id": "k90",
                 "kanji": "使",
                 "onyomi": "シ",
-                "kunyomi": "つかう",
+                "kunyomi": "つか-う",
                 "meaning": {
                     "en": "Use",
-                    "vi": "sử dụng, sử"
+                    "vi": "sử dụng, sứ"
                 }
             },
             {
                 "id": "k91",
                 "kanji": "教",
                 "onyomi": "キョウ",
-                "kunyomi": "おしえる",
+                "kunyomi": "おし-える, おそ-わる",
                 "meaning": {
-                    "en": "Teach",
+                    "en": "Teach, Learn",
                     "vi": "dạy, chỉ bảo, giáo"
                 }
             },
@@ -881,7 +977,7 @@
                 "id": "k131",
                 "kanji": "走",
                 "onyomi": "ソウ",
-                "kunyomi": "はしる",
+                "kunyomi": "はし-る",
                 "meaning": {
                     "en": "Run",
                     "vi": "chạy, tẩu"
@@ -890,8 +986,8 @@
             {
                 "id": "k132",
                 "kanji": "歩",
-                "onyomi": "ホ, ブ",
-                "kunyomi": "あるく, あゆむ",
+                "onyomi": "ホ, ブ, フ",
+                "kunyomi": "ある-く, あゆ-む",
                 "meaning": {
                     "en": "Walk",
                     "vi": "đi bộ, bộ"
@@ -901,9 +997,9 @@
                 "id": "k133",
                 "kanji": "起",
                 "onyomi": "キ",
-                "kunyomi": "おきる, おこす",
+                "kunyomi": "お-きる, お-こす",
                 "meaning": {
-                    "en": "Wake up, get up",
+                    "en": "Wake up, Get up",
                     "vi": "thức dậy, khởi"
                 }
             },
@@ -911,9 +1007,9 @@
                 "id": "k134",
                 "kanji": "寝",
                 "onyomi": "シン",
-                "kunyomi": "ねる",
+                "kunyomi": "ね-る, ね-かす",
                 "meaning": {
-                    "en": "Sleep, lie down",
+                    "en": "Sleep, Lie down",
                     "vi": "ngủ, tẩm"
                 }
             }
@@ -927,9 +1023,9 @@
                 "id": "k92",
                 "kanji": "大",
                 "onyomi": "ダイ, タイ",
-                "kunyomi": "おおきい",
+                "kunyomi": "おお-きい, おお-いに",
                 "meaning": {
-                    "en": "Big",
+                    "en": "Big, Large",
                     "vi": "to, lớn, đại"
                 }
             },
@@ -937,7 +1033,7 @@
                 "id": "k93",
                 "kanji": "小",
                 "onyomi": "ショウ",
-                "kunyomi": "ちいさい",
+                "kunyomi": "ちい-さい, こ",
                 "meaning": {
                     "en": "Small",
                     "vi": "nhỏ, tiểu"
@@ -947,7 +1043,7 @@
                 "id": "k94",
                 "kanji": "高",
                 "onyomi": "コウ",
-                "kunyomi": "たかい",
+                "kunyomi": "たか-い",
                 "meaning": {
                     "en": "High, Expensive",
                     "vi": "cao, đắt"
@@ -957,9 +1053,9 @@
                 "id": "k95",
                 "kanji": "安",
                 "onyomi": "アン",
-                "kunyomi": "やすい",
+                "kunyomi": "やす-い",
                 "meaning": {
-                    "en": "Cheap, Easy",
+                    "en": "Cheap, Peaceful",
                     "vi": "rẻ, an"
                 }
             },
@@ -967,7 +1063,7 @@
                 "id": "k96",
                 "kanji": "新",
                 "onyomi": "シン",
-                "kunyomi": "あたらしい",
+                "kunyomi": "あたら-しい",
                 "meaning": {
                     "en": "New",
                     "vi": "mới, tân"
@@ -977,7 +1073,7 @@
                 "id": "k97",
                 "kanji": "古",
                 "onyomi": "コ",
-                "kunyomi": "ふるい",
+                "kunyomi": "ふる-い",
                 "meaning": {
                     "en": "Old",
                     "vi": "cũ, cổ"
@@ -987,9 +1083,9 @@
                 "id": "k98",
                 "kanji": "長",
                 "onyomi": "チョウ",
-                "kunyomi": "ながい",
+                "kunyomi": "なが-い",
                 "meaning": {
-                    "en": "Long",
+                    "en": "Long, Leader",
                     "vi": "dài, trưởng, trường"
                 }
             },
@@ -997,7 +1093,7 @@
                 "id": "k99",
                 "kanji": "多",
                 "onyomi": "タ",
-                "kunyomi": "おおい",
+                "kunyomi": "おお-い",
                 "meaning": {
                     "en": "Many, Much",
                     "vi": "nhiều, đa"
@@ -1007,7 +1103,7 @@
                 "id": "k100",
                 "kanji": "少",
                 "onyomi": "ショウ",
-                "kunyomi": "すくない",
+                "kunyomi": "すく-ない, すこ-し",
                 "meaning": {
                     "en": "Few, A little",
                     "vi": "ít, một chút, thiểu"
@@ -1016,8 +1112,8 @@
             {
                 "id": "k101",
                 "kanji": "白",
-                "onyomi": "ハク",
-                "kunyomi": "しろい",
+                "onyomi": "ハク, ビャク",
+                "kunyomi": "しろ, しろ-い",
                 "meaning": {
                     "en": "White",
                     "vi": "trắng, bạch"
@@ -1026,8 +1122,8 @@
             {
                 "id": "k102",
                 "kanji": "赤",
-                "onyomi": "セキ",
-                "kunyomi": "あかい",
+                "onyomi": "セキ, シャク",
+                "kunyomi": "あか, あか-い",
                 "meaning": {
                     "en": "Red",
                     "vi": "đỏ, xích"
@@ -1036,20 +1132,30 @@
             {
                 "id": "k103",
                 "kanji": "青",
-                "onyomi": "セイ",
-                "kunyomi": "あおい",
+                "onyomi": "セイ, ショウ",
+                "kunyomi": "あお, あお-い",
                 "meaning": {
                     "en": "Blue",
                     "vi": "xanh, thanh"
                 }
             },
             {
+                "id": "k124",
+                "kanji": "黒",
+                "onyomi": "コク",
+                "kunyomi": "くろ, くろ-い",
+                "meaning": {
+                    "en": "Black",
+                    "vi": "đen, hắc"
+                }
+            },
+            {
                 "id": "k104",
                 "kanji": "好",
                 "onyomi": "コウ",
-                "kunyomi": "すき",
+                "kunyomi": "す-き, この-む",
                 "meaning": {
-                    "en": "Like",
+                    "en": "Like, Favorite",
                     "vi": "thích, hảo"
                 }
             },
@@ -1066,28 +1172,18 @@
             {
                 "id": "k106",
                 "kanji": "早",
-                "onyomi": "ソウ",
-                "kunyomi": "はやい",
+                "onyomi": "ソウ, サッ",
+                "kunyomi": "はや-い",
                 "meaning": {
-                    "en": "Early",
+                    "en": "Early, Fast",
                     "vi": "sớm, nhanh, tảo"
-                }
-            },
-            {
-                "id": "k124",
-                "kanji": "黒",
-                "onyomi": "コク",
-                "kunyomi": "くろ, くろい",
-                "meaning": {
-                    "en": "Black",
-                    "vi": "đen, hắc"
                 }
             },
             {
                 "id": "k125",
                 "kanji": "暑",
                 "onyomi": "ショ",
-                "kunyomi": "あつい",
+                "kunyomi": "あつ-い",
                 "meaning": {
                     "en": "Hot (weather)",
                     "vi": "nóng, thử"
@@ -1097,7 +1193,7 @@
                 "id": "k126",
                 "kanji": "寒",
                 "onyomi": "カン",
-                "kunyomi": "さむい",
+                "kunyomi": "さむ-い",
                 "meaning": {
                     "en": "Cold (weather)",
                     "vi": "lạnh, hàn"
@@ -1106,8 +1202,8 @@
             {
                 "id": "k136",
                 "kanji": "強",
-                "onyomi": "キョウ",
-                "kunyomi": "つよい",
+                "onyomi": "キョウ, ゴウ",
+                "kunyomi": "つよ-い, し-いる",
                 "meaning": {
                     "en": "Strong",
                     "vi": "mạnh, cường"
@@ -1117,17 +1213,17 @@
                 "id": "k137",
                 "kanji": "静",
                 "onyomi": "セイ, ジョウ",
-                "kunyomi": "しずか",
+                "kunyomi": "しず-か",
                 "meaning": {
-                    "en": "Quiet",
+                    "en": "Quiet, Still",
                     "vi": "yên tĩnh, tĩnh"
                 }
             },
             {
                 "id": "k138",
                 "kanji": "嫌",
-                "onyomi": "ケン",
-                "kunyomi": "いや",
+                "onyomi": "ケン, ゲン",
+                "kunyomi": "きら-う, いや",
                 "meaning": {
                     "en": "Dislike, Unpleasant",
                     "vi": "ghét, khó chịu, hiềm"
@@ -1135,50 +1231,10 @@
             }
         ]
     },
-    "natureAnimalsObjects": {
-        "en": "Nature, Animals & Objects 🌳🐾",
-        "vi": "Thiên nhiên, Động vật & Đồ vật 🌳🐾",
+    "natureAnimals": {
+        "en": "Nature & Animals 🌳🐾",
+        "vi": "Thiên nhiên & Động vật 🌳🐾",
         "items": [
-            {
-                "id": "k18",
-                "kanji": "火",
-                "onyomi": "カ",
-                "kunyomi": "ひ, -び",
-                "meaning": {
-                    "en": "Fire",
-                    "vi": "lửa, hỏa"
-                }
-            },
-            {
-                "id": "k19",
-                "kanji": "水",
-                "onyomi": "スイ",
-                "kunyomi": "みず",
-                "meaning": {
-                    "en": "Water",
-                    "vi": "nước, thủy"
-                }
-            },
-            {
-                "id": "k20",
-                "kanji": "木",
-                "onyomi": "モク, ボク",
-                "kunyomi": "き",
-                "meaning": {
-                    "en": "Tree, Wood",
-                    "vi": "cây, gỗ, mộc"
-                }
-            },
-            {
-                "id": "k21",
-                "kanji": "土",
-                "onyomi": "ド, ト",
-                "kunyomi": "つち",
-                "meaning": {
-                    "en": "Soil, Earth",
-                    "vi": "đất, thổ"
-                }
-            },
             {
                 "id": "k107",
                 "kanji": "山",
@@ -1197,6 +1253,16 @@
                 "meaning": {
                     "en": "River",
                     "vi": "sông, xuyên"
+                }
+            },
+            {
+                "id": "k115",
+                "kanji": "田",
+                "onyomi": "デン",
+                "kunyomi": "た",
+                "meaning": {
+                    "en": "Rice Field",
+                    "vi": "ruộng, điền"
                 }
             },
             {
@@ -1223,7 +1289,7 @@
                 "id": "k111",
                 "kanji": "天",
                 "onyomi": "テン",
-                "kunyomi": "あま",
+                "kunyomi": "あめ, あま",
                 "meaning": {
                     "en": "Heaven, Sky",
                     "vi": "trời, thiên"
@@ -1235,18 +1301,8 @@
                 "onyomi": "キ, ケ",
                 "kunyomi": "いき",
                 "meaning": {
-                    "en": "Spirit, Air",
-                    "vi": "khí, tinh thần"
-                }
-            },
-            {
-                "id": "k113",
-                "kanji": "車",
-                "onyomi": "シャ",
-                "kunyomi": "くるま",
-                "meaning": {
-                    "en": "Car, Vehicle",
-                    "vi": "xe, xa"
+                    "en": "Spirit, Air, Mood",
+                    "vi": "khí, tinh thần, không khí"
                 }
             },
             {
@@ -1257,16 +1313,6 @@
                 "meaning": {
                     "en": "Electricity",
                     "vi": "điện"
-                }
-            },
-            {
-                "id": "k115",
-                "kanji": "田",
-                "onyomi": "デン",
-                "kunyomi": "た",
-                "meaning": {
-                    "en": "Rice Field",
-                    "vi": "ruộng, điền"
                 }
             },
             {
@@ -1312,8 +1358,8 @@
         ]
     },
     "educationConcepts": {
-        "en": "Education & Core Concepts 🎓📚",
-        "vi": "Giáo dục & Khái niệm cốt lõi 🎓📚",
+        "en": "Education & Concepts 🎓📚",
+        "vi": "Giáo dục & Khái niệm 🎓📚",
         "items": [
             {
                 "id": "k46",
@@ -1321,8 +1367,8 @@
                 "onyomi": "メイ, ミョウ",
                 "kunyomi": "な",
                 "meaning": {
-                    "en": "Name",
-                    "vi": "tên, danh"
+                    "en": "Name, Famous",
+                    "vi": "tên, danh, nổi tiếng"
                 }
             },
             {
@@ -1339,20 +1385,20 @@
                 "id": "k64",
                 "kanji": "生",
                 "onyomi": "セイ, ショウ",
-                "kunyomi": "うまれる, いきる",
+                "kunyomi": "う-まれる, い-きる, なま",
                 "meaning": {
-                    "en": "Life, Birth",
-                    "vi": "sống, sinh"
+                    "en": "Life, Birth, Raw",
+                    "vi": "sống, sinh, tươi"
                 }
             },
             {
                 "id": "k65",
                 "kanji": "学",
                 "onyomi": "ガク",
-                "kunyomi": "まなぶ",
+                "kunyomi": "まな-ぶ",
                 "meaning": {
-                    "en": "Study",
-                    "vi": "học, học"
+                    "en": "Study, Learning",
+                    "vi": "học, học tập"
                 }
             },
             {
@@ -1371,7 +1417,7 @@
                 "onyomi": "ホン",
                 "kunyomi": "もと",
                 "meaning": {
-                    "en": "Book, Origin",
+                    "en": "Book, Origin, Main",
                     "vi": "sách, gốc, bản"
                 }
             },
@@ -1379,10 +1425,10 @@
                 "id": "k68",
                 "kanji": "語",
                 "onyomi": "ゴ",
-                "kunyomi": "かたる",
+                "kunyomi": "かた-る",
                 "meaning": {
-                    "en": "Language, Word",
-                    "vi": "ngôn ngữ, từ, ngữ"
+                    "en": "Language, Word, To tell",
+                    "vi": "ngôn ngữ, từ, kể chuyện, ngữ"
                 }
             },
             {
@@ -1401,15 +1447,15 @@
                 "onyomi": "リョク, リキ",
                 "kunyomi": "ちから",
                 "meaning": {
-                    "en": "Power",
+                    "en": "Power, Strength",
                     "vi": "sức mạnh, lực"
                 }
             },
             {
                 "id": "k122",
                 "kanji": "何",
-                "onyomi": "カ, ナニ",
-                "kunyomi": "なに",
+                "onyomi": "カ",
+                "kunyomi": "なに, なん",
                 "meaning": {
                     "en": "What",
                     "vi": "gì, hà"
@@ -1429,9 +1475,9 @@
                 "id": "k135",
                 "kanji": "勉",
                 "onyomi": "ベン",
-                "kunyomi": "",
+                "kunyomi": "つと-める",
                 "meaning": {
-                    "en": "Exertion, Diligence (as in 勉強)",
+                    "en": "Exertion (as in 勉強)",
                     "vi": "cố gắng, học, miễn"
                 }
             }
