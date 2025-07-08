@@ -9,14 +9,17 @@
                 "onyomi": "イチ, イツ",
                 "kunyomi": "ひと-つ, ひと",
                 "meaning": { "en": "One", "vi": "một, nhất" },
-                "radical": "一 (one)",
-                "mnemonic": "A single, horizontal stroke. It's the simplest representation of 'one'.",
+                "radical": "一 (one, một)",
+                "mnemonic": {
+                    "en": "A single, horizontal stroke. It's the simplest representation of 'one'.",
+                    "vi": "Một nét ngang duy nhất. Đây là cách biểu diễn đơn giản nhất cho 'một'."
+                },
                 "examples": [
                     { "word": "一番", "reading": "いちばん", "meaning": { "en": "Number one, the best", "vi": "Số một, nhất" } },
                     { "word": "一つ", "reading": "ひとつ", "meaning": { "en": "One thing", "vi": "Một cái" } },
                     { "word": "統一", "reading": "とういつ", "meaning": { "en": "Unity", "vi": "Thống nhất" } }
                 ],
-                "sentence": { "jp": "これは一番いいです。", "en": "This is the best one." }
+                "sentence": { "jp": "これは一番いいです。", "en": "This is the best one.", "vi": "Đây là cái tốt nhất." }
             },
             {
                 "id": "k2",
@@ -24,14 +27,17 @@
                 "onyomi": "ニ",
                 "kunyomi": "ふた-つ, ふた",
                 "meaning": { "en": "Two", "vi": "hai, nhị" },
-                "radical": "二 (two)",
-                "mnemonic": "Two horizontal strokes. Simple and direct.",
+                "radical": "二 (two, hai)",
+                "mnemonic": {
+                    "en": "Two horizontal strokes. Simple and direct.",
+                    "vi": "Hai nét ngang. Đơn giản và trực tiếp."
+                },
                 "examples": [
                     { "word": "二月", "reading": "にがつ", "meaning": { "en": "February", "vi": "Tháng hai" } },
                     { "word": "二人", "reading": "ふたり", "meaning": { "en": "Two people", "vi": "Hai người" } },
                     { "word": "第二", "reading": "だいに", "meaning": { "en": "The second", "vi": "Thứ hai" } }
                 ],
-                "sentence": { "jp": "猫が二匹います。", "en": "There are two cats." }
+                "sentence": { "jp": "猫が二匹います。", "en": "There are two cats.", "vi": "Có hai con mèo." }
             },
             {
                 "id": "k3",
@@ -39,14 +45,17 @@
                 "onyomi": "サン",
                 "kunyomi": "みっ-つ, み",
                 "meaning": { "en": "Three", "vi": "ba, tam" },
-                "radical": "一 (one)",
-                "mnemonic": "Three horizontal strokes. It follows the pattern of one and two.",
+                "radical": "一 (one, một)",
+                "mnemonic": {
+                    "en": "Three horizontal strokes. It follows the pattern of one and two.",
+                    "vi": "Ba nét ngang. Nó theo mẫu của một và hai."
+                },
                 "examples": [
                     { "word": "三月", "reading": "さんがつ", "meaning": { "en": "March", "vi": "Tháng ba" } },
                     { "word": "三日", "reading": "みっか", "meaning": { "en": "The 3rd day, three days", "vi": "Ngày 3, ba ngày" } },
                     { "word": "三角形", "reading": "さんかくけい", "meaning": { "en": "Triangle", "vi": "Hình tam giác" } }
                 ],
-                "sentence": { "jp": "彼は三年生です。", "en": "He is a third-year student." }
+                "sentence": { "jp": "彼は三年生です。", "en": "He is a third-year student.", "vi": "Anh ấy là sinh viên năm ba." }
             },
             {
                 "id": "k4",
@@ -54,14 +63,17 @@
                 "onyomi": "シ",
                 "kunyomi": "よっ-つ, よん, よ",
                 "meaning": { "en": "Four", "vi": "bốn, tứ" },
-                "radical": "囗 (enclosure)",
-                "mnemonic": "A box (囗) with two legs (儿) inside. Imagine a four-legged animal in a pen.",
+                "radical": "囗 (enclosure, vi)",
+                "mnemonic": {
+                    "en": "A box (囗) with two legs (儿) inside. Imagine a four-legged animal in a pen.",
+                    "vi": "Một cái hộp (囗) với hai cái chân (儿) bên trong. Hãy tưởng tượng một con vật bốn chân trong chuồng."
+                },
                 "examples": [
                     { "word": "四月", "reading": "しがつ", "meaning": { "en": "April", "vi": "Tháng tư" } },
                     { "word": "四角", "reading": "しかく", "meaning": { "en": "Square", "vi": "Hình vuông" } },
                     { "word": "四季", "reading": "しき", "meaning": { "en": "Four seasons", "vi": "Bốn mùa" } }
                 ],
-                "sentence": { "jp": "年に四季があります。", "en": "There are four seasons in a year." }
+                "sentence": { "jp": "年に四季があります。", "en": "There are four seasons in a year.", "vi": "Một năm có bốn mùa." }
             },
             {
                 "id": "k5",
@@ -69,14 +81,17 @@
                 "onyomi": "ゴ",
                 "kunyomi": "いつ-つ, いつ",
                 "meaning": { "en": "Five", "vi": "năm, ngũ" },
-                "radical": "二 (two)",
-                "mnemonic": "Looks like two strokes with a roof and a floor, representing the five elements or five fingers.",
+                "radical": "二 (two, hai)",
+                "mnemonic": {
+                    "en": "Looks like two strokes with a roof and a floor, representing the five elements or five fingers.",
+                    "vi": "Trông giống như hai nét với một mái nhà và một sàn nhà, tượng trưng cho ngũ hành hoặc năm ngón tay."
+                },
                 "examples": [
                     { "word": "五月", "reading": "ごがつ", "meaning": { "en": "May", "vi": "Tháng năm" } },
                     { "word": "五円", "reading": "ごえん", "meaning": { "en": "Five yen", "vi": "Năm yên" } },
                     { "word": "五感", "reading": "ごかん", "meaning": { "en": "The five senses", "vi": "Năm giác quan" } }
                 ],
-                "sentence": { "jp": "五時に会いましょう。", "en": "Let's meet at five o'clock." }
+                "sentence": { "jp": "五時に会いましょう。", "en": "Let's meet at five o'clock.", "vi": "Hãy gặp nhau lúc năm giờ." }
             },
             {
                 "id": "k6",
@@ -84,14 +99,17 @@
                 "onyomi": "ロク",
                 "kunyomi": "むっ-つ, むい",
                 "meaning": { "en": "Six", "vi": "sáu, lục" },
-                "radical": "八 (eight)",
-                "mnemonic": "A top hat (亠) over the number eight (八).",
+                "radical": "八 (eight, tám)",
+                "mnemonic": {
+                    "en": "A top hat (亠) over the number eight (八).",
+                    "vi": "Một chiếc mũ cao (亠) đội trên số tám (八)."
+                },
                 "examples": [
                     { "word": "六月", "reading": "ろくがつ", "meaning": { "en": "June", "vi": "Tháng sáu" } },
                     { "word": "六日", "reading": "むいか", "meaning": { "en": "The 6th day, six days", "vi": "Ngày 6, sáu ngày" } },
-                    { "word": "六本木", "reading": "ろっぽんぎ", "meaning": { "en": "Roppongi (place in Tokyo)", "vi": "Roppongi" } }
+                    { "word": "六本木", "reading": "ろっぽんぎ", "meaning": { "en": "Roppongi (place in Tokyo)", "vi": "Roppongi (địa danh ở Tokyo)" } }
                 ],
-                "sentence": { "jp": "六本木に行きます。", "en": "I am going to Roppongi." }
+                "sentence": { "jp": "六本木に行きます。", "en": "I am going to Roppongi.", "vi": "Tôi đang đi đến Roppongi." }
             },
             {
                 "id": "k7",
@@ -99,14 +117,17 @@
                 "onyomi": "シチ",
                 "kunyomi": "なな-つ, なな",
                 "meaning": { "en": "Seven", "vi": "bảy, thất" },
-                "radical": "一 (one)",
-                "mnemonic": "Looks like a person cut in half, or a stylized number 7.",
+                "radical": "一 (one, một)",
+                "mnemonic": {
+                    "en": "Looks like a person cut in half, or a stylized number 7.",
+                    "vi": "Trông giống như một người bị cắt làm đôi, hoặc là số 7 được cách điệu."
+                },
                 "examples": [
                     { "word": "七月", "reading": "しちがつ", "meaning": { "en": "July", "vi": "Tháng bảy" } },
                     { "word": "七夕", "reading": "たなばた", "meaning": { "en": "Tanabata Star Festival", "vi": "Lễ hội Tanabata" } },
                     { "word": "七不思議", "reading": "ななふしぎ", "meaning": { "en": "The Seven Wonders", "vi": "Bảy kỳ quan" } }
                 ],
-                "sentence": { "jp": "今日は七月七日です。", "en": "Today is July 7th." }
+                "sentence": { "jp": "今日は七月七日です。", "en": "Today is July 7th.", "vi": "Hôm nay là ngày 7 tháng 7." }
             },
             {
                 "id": "k8",
@@ -114,14 +135,17 @@
                 "onyomi": "ハチ",
                 "kunyomi": "やっ-つ, よう",
                 "meaning": { "en": "Eight", "vi": "tám, bát" },
-                "radical": "八 (eight)",
-                "mnemonic": "Two strokes spreading out, like dividing something. Represents eight, a number of prosperity.",
+                "radical": "八 (eight, tám)",
+                "mnemonic": {
+                    "en": "Two strokes spreading out, like dividing something. Represents eight, a number of prosperity.",
+                    "vi": "Hai nét tỏa ra, giống như đang chia một thứ gì đó. Tượng trưng cho số tám, con số của sự thịnh vượng."
+                },
                 "examples": [
                     { "word": "八月", "reading": "はちがつ", "meaning": { "en": "August", "vi": "Tháng tám" } },
                     { "word": "八百屋", "reading": "やおや", "meaning": { "en": "Vegetable store", "vi": "Cửa hàng rau" } },
-                    { "word": "八方美人", "reading": "はっぽうびじん", "meaning": { "en": "A person who is friendly to everyone", "vi": "Người thảo mai" } }
+                    { "word": "八方美人", "reading": "はっぽうびじん", "meaning": { "en": "A person who is friendly to everyone", "vi": "Người thảo mai, người thân thiện với tất cả mọi người" } }
                 ],
-                "sentence": { "jp": "八時に起きます。", "en": "I wake up at eight o'clock." }
+                "sentence": { "jp": "八時に起きます。", "en": "I wake up at eight o'clock.", "vi": "Tôi thức dậy lúc tám giờ." }
             },
             {
                 "id": "k9",
@@ -129,14 +153,17 @@
                 "onyomi": "キュウ, ク",
                 "kunyomi": "ここの-つ, ここの",
                 "meaning": { "en": "Nine", "vi": "chín, cửu" },
-                "radical": "乙 (second)",
-                "mnemonic": "Looks like a fish hook or a bent arm trying to reach for something.",
+                "radical": "乙 (second, ất)",
+                "mnemonic": {
+                    "en": "Looks like a fish hook or a bent arm trying to reach for something.",
+                    "vi": "Trông giống như một lưỡi câu hoặc một cánh tay cong đang cố vươn tới thứ gì đó."
+                },
                 "examples": [
                     { "word": "九月", "reading": "くがつ", "meaning": { "en": "September", "vi": "Tháng chín" } },
                     { "word": "九九", "reading": "くく", "meaning": { "en": "Multiplication table", "vi": "Bảng cửu chương" } },
-                    { "word": "九州", "reading": "きゅうしゅう", "meaning": { "en": "Kyushu (region in Japan)", "vi": "Kyushu" } }
+                    { "word": "九州", "reading": "きゅうしゅう", "meaning": { "en": "Kyushu (region in Japan)", "vi": "Kyushu (vùng ở Nhật Bản)" } }
                 ],
-                "sentence": { "jp": "九月は私の誕生日です。", "en": "My birthday is in September." }
+                "sentence": { "jp": "九月は私の誕生日です。", "en": "My birthday is in September.", "vi": "Sinh nhật của tôi vào tháng chín." }
             },
             {
                 "id": "k10",
@@ -144,14 +171,17 @@
                 "onyomi": "ジュウ, ジッ",
                 "kunyomi": "とお",
                 "meaning": { "en": "Ten", "vi": "mười, thập" },
-                "radical": "十 (ten)",
-                "mnemonic": "A cross, like a plus sign. A simple and powerful symbol for ten.",
+                "radical": "十 (ten, mười)",
+                "mnemonic": {
+                    "en": "A cross, like a plus sign. A simple and powerful symbol for ten.",
+                    "vi": "Một dấu chữ thập, giống như dấu cộng. Một biểu tượng đơn giản và mạnh mẽ cho số mười."
+                },
                 "examples": [
                     { "word": "十月", "reading": "じゅうがつ", "meaning": { "en": "October", "vi": "Tháng mười" } },
                     { "word": "十分", "reading": "じゅうぶん", "meaning": { "en": "Enough, sufficient", "vi": "Đủ" } },
                     { "word": "十字路", "reading": "じゅうじろ", "meaning": { "en": "Crossroads", "vi": "Ngã tư" } }
                 ],
-                "sentence": { "jp": "会議は十分で終わります。", "en": "The meeting will end in ten minutes." }
+                "sentence": { "jp": "会議は十分で終わります。", "en": "The meeting will end in ten minutes.", "vi": "Cuộc họp sẽ kết thúc trong mười phút." }
             },
             {
                 "id": "k11",
@@ -159,14 +189,17 @@
                 "onyomi": "ヒャク",
                 "kunyomi": "もも",
                 "meaning": { "en": "Hundred", "vi": "trăm, bách" },
-                "radical": "白 (white)",
-                "mnemonic": "One (一) line is taken from 'white' (白) to mean one hundred.",
+                "radical": "白 (white, trắng)",
+                "mnemonic": {
+                    "en": "One (一) line is taken from 'white' (白) to mean one hundred.",
+                    "vi": "Một (一) nét được lấy đi từ chữ 'trắng' (白) để có nghĩa là một trăm."
+                },
                 "examples": [
                     { "word": "百円", "reading": "ひゃくえん", "meaning": { "en": "100 yen", "vi": "100 yên" } },
                     { "word": "百貨店", "reading": "ひゃっかてん", "meaning": { "en": "Department store", "vi": "Trung tâm thương mại" } },
                     { "word": "百年", "reading": "ひゃくねん", "meaning": { "en": "A hundred years", "vi": "Trăm năm" } }
                 ],
-                "sentence": { "jp": "このパンは百円です。", "en": "This bread is 100 yen." }
+                "sentence": { "jp": "このパンは百円です。", "en": "This bread is 100 yen.", "vi": "Cái bánh mì này giá 100 yên." }
             },
             {
                 "id": "k12",
@@ -174,14 +207,17 @@
                 "onyomi": "セン",
                 "kunyomi": "ち",
                 "meaning": { "en": "Thousand", "vi": "nghìn, thiên" },
-                "radical": "十 (ten)",
-                "mnemonic": "A combination of ten (十) and a single stroke on top. Imagine ten of ten... and then some more!",
+                "radical": "十 (ten, mười)",
+                "mnemonic": {
+                    "en": "A combination of ten (十) and a single stroke on top. Imagine ten of ten... and then some more!",
+                    "vi": "Sự kết hợp của mười (十) và một nét duy nhất ở trên. Hãy tưởng tượng mười lần mười... và còn hơn thế nữa!"
+                },
                 "examples": [
                     { "word": "千円", "reading": "せんえん", "meaning": { "en": "1,000 yen", "vi": "1,000 yên" } },
-                    { "word": "千葉", "reading": "ちば", "meaning": { "en": "Chiba (prefecture in Japan)", "vi": "Chiba" } },
+                    { "word": "千葉", "reading": "ちば", "meaning": { "en": "Chiba (prefecture in Japan)", "vi": "Chiba (tỉnh ở Nhật Bản)" } },
                     { "word": "千年", "reading": "せんねん", "meaning": { "en": "A thousand years", "vi": "Nghìn năm" } }
                 ],
-                "sentence": { "jp": "千円札をください。", "en": "A 1,000 yen bill, please." }
+                "sentence": { "jp": "千円札をください。", "en": "A 1,000 yen bill, please.", "vi": "Làm ơn cho tôi một tờ 1.000 yên." }
             },
             {
                 "id": "k13",
@@ -189,14 +225,17 @@
                 "onyomi": "マン, バン",
                 "kunyomi": "よろず",
                 "meaning": { "en": "Ten Thousand", "vi": "mười nghìn, vạn" },
-                "radical": "一 (one)",
-                "mnemonic": "Looks like a scorpion (a creature with many legs), representing a large number like ten thousand.",
+                "radical": "一 (one, một)",
+                "mnemonic": {
+                    "en": "Looks like a scorpion (a creature with many legs), representing a large number like ten thousand.",
+                    "vi": "Trông giống một con bọ cạp (một sinh vật có nhiều chân), đại diện cho một con số lớn như mười nghìn."
+                },
                 "examples": [
-                    { "word": "一万円", "reading": "いちまんえん", "meaning": { "en": "10,000 yen", "vi": "10,000 yên" } },
+                    { "word": "一万円", "reading": "いちまんえん", "meaning": { "en": "10,000 yen", "vi": "10.000 yên" } },
                     { "word": "万歳", "reading": "ばんざい", "meaning": { "en": "Banzai! (Hurray!)", "vi": "Vạn tuế!" } },
                     { "word": "万年筆", "reading": "まんねんひつ", "meaning": { "en": "Fountain pen", "vi": "Bút máy" } }
                 ],
-                "sentence": { "jp": "彼は一万円をなくした。", "en": "He lost 10,000 yen." }
+                "sentence": { "jp": "彼は一万円をなくした。", "en": "He lost 10,000 yen.", "vi": "Anh ấy đã làm mất 10.000 yên." }
             },
             {
                 "id": "k14",
@@ -204,14 +243,17 @@
                 "onyomi": "エン",
                 "kunyomi": "まる-い",
                 "meaning": { "en": "Yen, Circle", "vi": "Yên, viên, tròn" },
-                "radical": "冂 (down box)",
-                "mnemonic": "A box with a line inside. It represents a round coin, hence Yen.",
+                "radical": "冂 (down box, quynh)",
+                "mnemonic": {
+                    "en": "A box with a line inside. It represents a round coin, hence Yen.",
+                    "vi": "Một cái hộp có một đường kẻ bên trong. Nó tượng trưng cho một đồng xu tròn, do đó là Yên."
+                },
                 "examples": [
                     { "word": "円高", "reading": "えんだか", "meaning": { "en": "Strong yen", "vi": "Yên tăng giá" } },
                     { "word": "円周", "reading": "えんしゅう", "meaning": { "en": "Circumference", "vi": "Chu vi" } },
                     { "word": "百円", "reading": "ひゃくえん", "meaning": { "en": "100 yen", "vi": "100 yên" } }
                 ],
-                "sentence": { "jp": "テーブルは円いです。", "en": "The table is round." }
+                "sentence": { "jp": "テーブルは円いです。", "en": "The table is round.", "vi": "Cái bàn này hình tròn." }
             }
         ]
     },
@@ -225,14 +267,17 @@
                 "onyomi": "ニチ, ジツ",
                 "kunyomi": "ひ, -び, -か",
                 "meaning": { "en": "Day, Sun", "vi": "ngày, mặt trời, nhật" },
-                "radical": "日 (sun)",
-                "mnemonic": "A pictograph of the sun. A box with a line in the middle.",
+                "radical": "日 (sun, nhật)",
+                "mnemonic": {
+                    "en": "A pictograph of the sun. A box with a line in the middle.",
+                    "vi": "Một chữ tượng hình của mặt trời. Một cái hộp có một đường kẻ ở giữa."
+                },
                 "examples": [
                     { "word": "今日", "reading": "きょう", "meaning": { "en": "Today", "vi": "Hôm nay" } },
                     { "word": "日本", "reading": "にほん", "meaning": { "en": "Japan", "vi": "Nhật Bản" } },
                     { "word": "日曜日", "reading": "にちようび", "meaning": { "en": "Sunday", "vi": "Chủ nhật" } }
                 ],
-                "sentence": { "jp": "今日は日曜日です。", "en": "Today is Sunday." }
+                "sentence": { "jp": "今日は日曜日です。", "en": "Today is Sunday.", "vi": "Hôm nay là Chủ nhật." }
             },
             {
                 "id": "k17",
@@ -240,14 +285,17 @@
                 "onyomi": "ゲツ, ガツ",
                 "kunyomi": "つき",
                 "meaning": { "en": "Month, Moon", "vi": "tháng, mặt trăng, nguyệt" },
-                "radical": "月 (moon)",
-                "mnemonic": "A pictograph of the crescent moon with clouds floating by.",
+                "radical": "月 (moon, nguyệt)",
+                "mnemonic": {
+                    "en": "A pictograph of the crescent moon with clouds floating by.",
+                    "vi": "Một chữ tượng hình của mặt trăng lưỡi liềm với những đám mây trôi qua."
+                },
                 "examples": [
                     { "word": "月曜日", "reading": "げつようび", "meaning": { "en": "Monday", "vi": "Thứ hai" } },
                     { "word": "今月", "reading": "こんげつ", "meaning": { "en": "This month", "vi": "Tháng này" } },
                     { "word": "一月", "reading": "いちがつ", "meaning": { "en": "January", "vi": "Tháng một" } }
                 ],
-                "sentence": { "jp": "月が綺麗ですね。", "en": "The moon is beautiful, isn't it?" }
+                "sentence": { "jp": "月が綺麗ですね。", "en": "The moon is beautiful, isn't it?", "vi": "Trăng đẹp quá nhỉ?" }
             },
             {
                 "id": "k18",
@@ -255,14 +303,17 @@
                 "onyomi": "カ",
                 "kunyomi": "ひ, -び",
                 "meaning": { "en": "Fire", "vi": "lửa, hỏa" },
-                "radical": "火 (fire)",
-                "mnemonic": "A person (人) with sparks flying from their arms. A pictograph of a dancing flame.",
+                "radical": "火 (fire, hỏa)",
+                "mnemonic": {
+                    "en": "A person (人) with sparks flying from their arms. A pictograph of a dancing flame.",
+                    "vi": "Một người (人) với những tia lửa bay ra từ cánh tay. Một chữ tượng hình của ngọn lửa đang nhảy múa."
+                },
                 "examples": [
                     { "word": "火曜日", "reading": "かようび", "meaning": { "en": "Tuesday", "vi": "Thứ ba" } },
                     { "word": "火山", "reading": "かざん", "meaning": { "en": "Volcano", "vi": "Núi lửa" } },
                     { "word": "花火", "reading": "はなび", "meaning": { "en": "Fireworks", "vi": "Pháo hoa" } }
                 ],
-                "sentence": { "jp": "花火を見に行きます。", "en": "I'm going to see the fireworks." }
+                "sentence": { "jp": "花火を見に行きます。", "en": "I'm going to see the fireworks.", "vi": "Tôi sẽ đi xem pháo hoa." }
             },
             {
                 "id": "k19",
@@ -270,14 +321,17 @@
                 "onyomi": "スイ",
                 "kunyomi": "みず",
                 "meaning": { "en": "Water", "vi": "nước, thủy" },
-                "radical": "水 (water)",
-                "mnemonic": "A pictograph of flowing water, with a central stream and splashes on the sides.",
+                "radical": "水 (water, thủy)",
+                "mnemonic": {
+                    "en": "A pictograph of flowing water, with a central stream and splashes on the sides.",
+                    "vi": "Một chữ tượng hình của dòng nước đang chảy, với một dòng chính ở giữa và những tia nước bắn ra hai bên."
+                },
                 "examples": [
                     { "word": "水曜日", "reading": "すいようび", "meaning": { "en": "Wednesday", "vi": "Thứ tư" } },
                     { "word": "水を飲む", "reading": "みずをのむ", "meaning": { "en": "To drink water", "vi": "Uống nước" } },
                     { "word": "水道", "reading": "すいどう", "meaning": { "en": "Water supply", "vi": "Nước máy" } }
                 ],
-                "sentence": { "jp": "水をください。", "en": "Water, please." }
+                "sentence": { "jp": "水をください。", "en": "Water, please.", "vi": "Làm ơn cho tôi nước." }
             },
             {
                 "id": "k20",
@@ -285,14 +339,17 @@
                 "onyomi": "モク, ボク",
                 "kunyomi": "き",
                 "meaning": { "en": "Tree, Wood", "vi": "cây, gỗ, mộc" },
-                "radical": "木 (tree)",
-                "mnemonic": "A pictograph of a tree with a trunk and branches reaching out.",
+                "radical": "木 (tree, mộc)",
+                "mnemonic": {
+                    "en": "A pictograph of a tree with a trunk and branches reaching out.",
+                    "vi": "Một chữ tượng hình của một cái cây có thân và cành vươn ra."
+                },
                 "examples": [
                     { "word": "木曜日", "reading": "もくようび", "meaning": { "en": "Thursday", "vi": "Thứ năm" } },
                     { "word": "木村", "reading": "きむら", "meaning": { "en": "Kimura (surname)", "vi": "Kimura (họ)" } },
                     { "word": "木造", "reading": "もくぞう", "meaning": { "en": "Made of wood", "vi": "Làm bằng gỗ" } }
                 ],
-                "sentence": { "jp": "この机は木でできています。", "en": "This desk is made of wood." }
+                "sentence": { "jp": "この机は木でできています。", "en": "This desk is made of wood.", "vi": "Cái bàn này được làm bằng gỗ." }
             },
             {
                 "id": "k15",
@@ -300,14 +357,17 @@
                 "onyomi": "キン",
                 "kunyomi": "かね",
                 "meaning": { "en": "Gold, Money", "vi": "vàng, tiền, kim" },
-                "radical": "金 (metal, gold)",
-                "mnemonic": "A roof over the earth (土) with two nuggets of gold beside it. Represents precious metal from the ground.",
+                "radical": "金 (metal, gold, kim)",
+                "mnemonic": {
+                    "en": "A roof over the earth (土) with two nuggets of gold beside it. Represents precious metal from the ground.",
+                    "vi": "Mái nhà che trên mặt đất (土) với hai cục vàng bên cạnh. Tượng trưng cho kim loại quý từ lòng đất."
+                },
                 "examples": [
                     { "word": "金曜日", "reading": "きんようび", "meaning": { "en": "Friday", "vi": "Thứ sáu" } },
                     { "word": "お金", "reading": "おかね", "meaning": { "en": "Money", "vi": "Tiền" } },
                     { "word": "料金", "reading": "りょうきん", "meaning": { "en": "Fee, charge", "vi": "Phí" } }
                 ],
-                "sentence": { "jp": "お金が足りません。", "en": "I don't have enough money." }
+                "sentence": { "jp": "お金が足りません。", "en": "I don't have enough money.", "vi": "Tôi không có đủ tiền." }
             },
             {
                 "id": "k21",
@@ -315,14 +375,17 @@
                 "onyomi": "ド, ト",
                 "kunyomi": "つち",
                 "meaning": { "en": "Soil, Earth", "vi": "đất, thổ" },
-                "radical": "土 (earth)",
-                "mnemonic": "A pictograph of a mound of earth or a plant sprouting from the ground.",
+                "radical": "土 (earth, thổ)",
+                "mnemonic": {
+                    "en": "A pictograph of a mound of earth or a plant sprouting from the ground.",
+                    "vi": "Một chữ tượng hình của một ụ đất hoặc một cái cây mọc lên từ mặt đất."
+                },
                 "examples": [
                     { "word": "土曜日", "reading": "どようび", "meaning": { "en": "Saturday", "vi": "Thứ bảy" } },
                     { "word": "土地", "reading": "とち", "meaning": { "en": "Land, plot", "vi": "Đất đai" } },
                     { "word": "粘土", "reading": "ねんど", "meaning": { "en": "Clay", "vi": "Đất sét" } }
                 ],
-                "sentence": { "jp": "庭の土は黒いです。", "en": "The soil in the garden is black." }
+                "sentence": { "jp": "庭の土は黒いです。", "en": "The soil in the garden is black.", "vi": "Đất trong vườn màu đen." }
             },
             {
                 "id": "k22",
@@ -330,13 +393,16 @@
                 "onyomi": "ヨウ",
                 "kunyomi": "",
                 "meaning": { "en": "Day of week", "vi": "thứ, diệu" },
-                "radical": "日 (sun)",
-                "mnemonic": "The wings of a turkey (隹) flying towards the sun (日) on a weekday.",
+                "radical": "日 (sun, nhật)",
+                "mnemonic": {
+                    "en": "The wings of a turkey (隹) flying towards the sun (日) on a weekday.",
+                    "vi": "Đôi cánh của một con gà tây (隹) bay về phía mặt trời (日) vào một ngày trong tuần."
+                },
                 "examples": [
                     { "word": "日曜日", "reading": "にちようび", "meaning": { "en": "Sunday", "vi": "Chủ nhật" } },
                     { "word": "何曜日", "reading": "なんようび", "meaning": { "en": "What day of the week?", "vi": "Thứ mấy?" } }
                 ],
-                "sentence": { "jp": "今日は何曜日ですか。", "en": "What day of the week is it today?" }
+                "sentence": { "jp": "今日は何曜日ですか。", "en": "What day of the week is it today?", "vi": "Hôm nay là thứ mấy?" }
             },
             {
                 "id": "k23",
@@ -344,14 +410,17 @@
                 "onyomi": "ネン",
                 "kunyomi": "とし",
                 "meaning": { "en": "Year", "vi": "năm, niên" },
-                "radical": "干 (dry)",
-                "mnemonic": "A person (丿) carrying a shield (干). A farmer's whole year of work.",
+                "radical": "干 (dry, can)",
+                "mnemonic": {
+                    "en": "A person (丿) carrying a shield (干). A farmer's whole year of work.",
+                    "vi": "Một người (丿) mang một cái khiên (干). Công việc cả một năm của người nông dân."
+                },
                 "examples": [
                     { "word": "今年", "reading": "ことし", "meaning": { "en": "This year", "vi": "Năm nay" } },
                     { "word": "去年", "reading": "きょねん", "meaning": { "en": "Last year", "vi": "Năm ngoái" } },
                     { "word": "来年", "reading": "らいねん", "meaning": { "en": "Next year", "vi": "Năm sau" } }
                 ],
-                "sentence": { "jp": "来年日本に行きます。", "en": "I will go to Japan next year." }
+                "sentence": { "jp": "来年日本に行きます。", "en": "I will go to Japan next year.", "vi": "Năm sau tôi sẽ đi Nhật." }
             },
             {
                 "id": "k24",
@@ -359,14 +428,17 @@
                 "onyomi": "ジ",
                 "kunyomi": "とき",
                 "meaning": { "en": "Time, Hour", "vi": "giờ, thời gian, thời" },
-                "radical": "日 (sun)",
-                "mnemonic": "The sun (日) at a temple (寺) tells you the time.",
+                "radical": "日 (sun, nhật)",
+                "mnemonic": {
+                    "en": "The sun (日) at a temple (寺) tells you the time.",
+                    "vi": "Mặt trời (日) ở ngôi đền (寺) cho bạn biết thời gian."
+                },
                 "examples": [
                     { "word": "時間", "reading": "じかん", "meaning": { "en": "Time, hour(s)", "vi": "Thời gian, giờ" } },
                     { "word": "時々", "reading": "ときどき", "meaning": { "en": "Sometimes", "vi": "Thỉnh thoảng" } },
                     { "word": "時計", "reading": "とけい", "meaning": { "en": "Clock, watch", "vi": "Đồng hồ" } }
                 ],
-                "sentence": { "jp": "今、何時ですか。", "en": "What time is it now?" }
+                "sentence": { "jp": "今、何時ですか。", "en": "What time is it now?", "vi": "Bây giờ là mấy giờ?" }
             },
             {
                 "id": "k25",
@@ -374,14 +446,17 @@
                 "onyomi": "カン, ケン",
                 "kunyomi": "あいだ, ま",
                 "meaning": { "en": "Interval, Space", "vi": "giữa, khoảng, gian" },
-                "radical": "門 (gate)",
-                "mnemonic": "The sun (日) shining through a gate (門), indicating the passage of time or space.",
+                "radical": "門 (gate, môn)",
+                "mnemonic": {
+                    "en": "The sun (日) shining through a gate (門), indicating the passage of time or space.",
+                    "vi": "Mặt trời (日) chiếu qua một cánh cổng (門), chỉ sự trôi qua của thời gian hoặc không gian."
+                },
                 "examples": [
                     { "word": "時間", "reading": "じかん", "meaning": { "en": "Time, hour(s)", "vi": "Thời gian, giờ" } },
                     { "word": "間もなく", "reading": "まもなく", "meaning": { "en": "Soon, shortly", "vi": "Sắp, lát nữa" } },
                     { "word": "間に合う", "reading": "まにあう", "meaning": { "en": "To be on time", "vi": "Kịp giờ" } }
                 ],
-                "sentence": { "jp": "駅と銀行の間にあります。", "en": "It is between the station and the bank." }
+                "sentence": { "jp": "駅と銀行の間にあります。", "en": "It is between the station and the bank.", "vi": "Nó ở giữa nhà ga và ngân hàng." }
             },
             {
                 "id": "k26",
@@ -389,14 +464,17 @@
                 "onyomi": "フン, ブン, プン",
                 "kunyomi": "わ-ける, わ-かる",
                 "meaning": { "en": "Minute, Part, Understand", "vi": "phút, phần, hiểu, phân" },
-                "radical": "刀 (sword)",
-                "mnemonic": "Using a sword (刀) to divide (八) something into parts or minutes.",
+                "radical": "刀 (sword, đao)",
+                "mnemonic": {
+                    "en": "Using a sword (刀) to divide (八) something into parts or minutes.",
+                    "vi": "Dùng một thanh kiếm (刀) để chia (八) một cái gì đó thành nhiều phần hoặc phút."
+                },
                 "examples": [
                     { "word": "分かる", "reading": "わかる", "meaning": { "en": "To understand", "vi": "Hiểu" } },
                     { "word": "半分", "reading": "はんぶん", "meaning": { "en": "Half", "vi": "Một nửa" } },
                     { "word": "五分", "reading": "ごふん", "meaning": { "en": "Five minutes", "vi": "Năm phút" } }
                 ],
-                "sentence": { "jp": "日本語が分かりますか。", "en": "Do you understand Japanese?" }
+                "sentence": { "jp": "日本語が分かりますか。", "en": "Do you understand Japanese?", "vi": "Bạn có hiểu tiếng Nhật không?" }
             },
             {
                 "id": "k27",
@@ -404,14 +482,17 @@
                 "onyomi": "ハン",
                 "kunyomi": "なか-ば",
                 "meaning": { "en": "Half", "vi": "nửa, rưỡi, bán" },
-                "radical": "十 (ten)",
-                "mnemonic": "Two lines on top, like it's splitting the 'cow' (牛) kanji in half, but it's simpler.",
+                "radical": "十 (ten, mười)",
+                "mnemonic": {
+                    "en": "Two lines on top, like it's splitting the 'cow' (牛) kanji in half, but it's simpler.",
+                    "vi": "Hai đường kẻ ở trên, giống như nó đang chia đôi chữ kanji 'bò' (牛), nhưng đơn giản hơn."
+                },
                 "examples": [
                     { "word": "半分", "reading": "はんぶん", "meaning": { "en": "Half", "vi": "Một nửa" } },
                     { "word": "一時半", "reading": "いちじはん", "meaning": { "en": "1:30", "vi": "1 rưỡi" } },
                     { "word": "半年", "reading": "はんとし", "meaning": { "en": "Half a year", "vi": "Nửa năm" } }
                 ],
-                "sentence": { "jp": "一時半に会いましょう。", "en": "Let's meet at 1:30." }
+                "sentence": { "jp": "一時半に会いましょう。", "en": "Let's meet at 1:30.", "vi": "Hãy gặp nhau lúc 1:30." }
             },
             {
                 "id": "k28",
@@ -419,14 +500,17 @@
                 "onyomi": "ゴ",
                 "kunyomi": "うま",
                 "meaning": { "en": "Noon", "vi": "trưa, ngọ" },
-                "radical": "十 (ten)",
-                "mnemonic": "A pictograph of a pestle, used for pounding rice around noon.",
+                "radical": "十 (ten, mười)",
+                "mnemonic": {
+                    "en": "A pictograph of a pestle, used for pounding rice around noon.",
+                    "vi": "Một chữ tượng hình của cái chày, được dùng để giã gạo vào khoảng giữa trưa."
+                },
                 "examples": [
                     { "word": "午前", "reading": "ごぜん", "meaning": { "en": "A.M., morning", "vi": "Buổi sáng" } },
                     { "word": "午後", "reading": "ごご", "meaning": { "en": "P.M., afternoon", "vi": "Buổi chiều" } },
                     { "word": "正午", "reading": "しょうご", "meaning": { "en": "Noon", "vi": "Giữa trưa" } }
                 ],
-                "sentence": { "jp": "会議は午後三時です。", "en": "The meeting is at 3 PM." }
+                "sentence": { "jp": "会議は午後三時です。", "en": "The meeting is at 3 PM.", "vi": "Cuộc họp diễn ra lúc 3 giờ chiều." }
             },
             {
                 "id": "k29",
@@ -434,14 +518,17 @@
                 "onyomi": "ゼン",
                 "kunyomi": "まえ",
                 "meaning": { "en": "Before, Front", "vi": "trước, tiền" },
-                "radical": "刀 (sword)",
-                "mnemonic": "Something tied up (top part) being cut by a sword (刂). Preparing something before an event.",
+                "radical": "刀 (sword, đao)",
+                "mnemonic": {
+                    "en": "Something tied up (top part) being cut by a sword (刂). Preparing something before an event.",
+                    "vi": "Một thứ gì đó bị trói (phần trên) đang bị cắt bởi một thanh kiếm (刂). Chuẩn bị một cái gì đó trước một sự kiện."
+                },
                 "examples": [
                     { "word": "名前", "reading": "なまえ", "meaning": { "en": "Name", "vi": "Tên" } },
                     { "word": "駅前", "reading": "えきまえ", "meaning": { "en": "In front of the station", "vi": "Trước nhà ga" } },
                     { "word": "午前", "reading": "ごぜん", "meaning": { "en": "A.M., morning", "vi": "Buổi sáng" } }
                 ],
-                "sentence": { "jp": "駅前で会いましょう。", "en": "Let's meet in front of the station." }
+                "sentence": { "jp": "駅前で会いましょう。", "en": "Let's meet in front of the station.", "vi": "Hãy gặp nhau ở trước nhà ga." }
             },
             {
                 "id": "k30",
@@ -449,14 +536,17 @@
                 "onyomi": "ゴ, コウ",
                 "kunyomi": "うし-ろ, あと",
                 "meaning": { "en": "After, Back", "vi": "sau, hậu" },
-                "radical": "彳 (step)",
-                "mnemonic": "A step (彳) taken by a small (幺) person who is following behind (夂).",
+                "radical": "彳 (step, xích)",
+                "mnemonic": {
+                    "en": "A step (彳) taken by a small (幺) person who is following behind (夂).",
+                    "vi": "Một bước (彳) của một người nhỏ bé (幺) đang đi theo sau (夂)."
+                },
                 "examples": [
                     { "word": "後ろ", "reading": "うしろ", "meaning": { "en": "Behind, back", "vi": "Phía sau" } },
                     { "word": "後で", "reading": "あとで", "meaning": { "en": "Later", "vi": "Lát nữa" } },
                     { "word": "午後", "reading": "ごご", "meaning": { "en": "P.M., afternoon", "vi": "Buổi chiều" } }
                 ],
-                "sentence": { "jp": "後で電話します。", "en": "I will call you later." }
+                "sentence": { "jp": "後で電話します。", "en": "I will call you later.", "vi": "Tôi sẽ gọi cho bạn sau." }
             },
             {
                 "id": "k31",
@@ -464,14 +554,17 @@
                 "onyomi": "コン, キン",
                 "kunyomi": "いま",
                 "meaning": { "en": "Now", "vi": "bây giờ, kim" },
-                "radical": "人 (person)",
-                "mnemonic": "A person with a roof over their head, thinking about the present moment, 'now'.",
+                "radical": "人 (person, nhân)",
+                "mnemonic": {
+                    "en": "A person with a roof over their head, thinking about the present moment, 'now'.",
+                    "vi": "Một người có mái che trên đầu, đang suy nghĩ về khoảnh khắc hiện tại, 'bây giờ'."
+                },
                 "examples": [
                     { "word": "今日", "reading": "きょう", "meaning": { "en": "Today", "vi": "Hôm nay" } },
                     { "word": "今週", "reading": "こんしゅう", "meaning": { "en": "This week", "vi": "Tuần này" } },
                     { "word": "今晩", "reading": "こんばん", "meaning": { "en": "Tonight", "vi": "Tối nay" } }
                 ],
-                "sentence": { "jp": "今、勉強しています。", "en": "I am studying now." }
+                "sentence": { "jp": "今、勉強しています。", "en": "I am studying now.", "vi": "Bây giờ tôi đang học." }
             },
             {
                 "id": "k32",
@@ -479,14 +572,17 @@
                 "onyomi": "シュウ",
                 "kunyomi": "",
                 "meaning": { "en": "Week", "vi": "tuần, chu" },
-                "radical": "辶 (walk)",
-                "mnemonic": "To walk (辶) around a full cycle (周), which takes a week.",
+                "radical": "辶 (walk, sước)",
+                "mnemonic": {
+                    "en": "To walk (辶) around a full cycle (周), which takes a week.",
+                    "vi": "Đi bộ (辶) xung quanh một chu kỳ đầy đủ (周), mất một tuần."
+                },
                 "examples": [
                     { "word": "今週", "reading": "こんしゅう", "meaning": { "en": "This week", "vi": "Tuần này" } },
                     { "word": "来週", "reading": "らいしゅう", "meaning": { "en": "Next week", "vi": "Tuần sau" } },
                     { "word": "週末", "reading": "しゅうまつ", "meaning": { "en": "Weekend", "vi": "Cuối tuần" } }
                 ],
-                "sentence": { "jp": "週末に何をしますか。", "en": "What will you do on the weekend?" }
+                "sentence": { "jp": "週末に何をしますか。", "en": "What will you do on the weekend?", "vi": "Bạn sẽ làm gì vào cuối tuần?" }
             },
             {
                 "id": "k33",
@@ -494,14 +590,17 @@
                 "onyomi": "マイ",
                 "kunyomi": "ごと",
                 "meaning": { "en": "Every", "vi": "mỗi" },
-                "radical": "人 (person)",
-                "mnemonic": "A person (人) with their mother (母), whom they see every day.",
+                "radical": "人 (person, nhân)",
+                "mnemonic": {
+                    "en": "A person (人) with their mother (母), whom they see every day.",
+                    "vi": "Một người (人) với mẹ của họ (母), người mà họ gặp mỗi ngày."
+                },
                 "examples": [
                     { "word": "毎日", "reading": "まいにち", "meaning": { "en": "Every day", "vi": "Mỗi ngày" } },
                     { "word": "毎週", "reading": "まいしゅう", "meaning": { "en": "Every week", "vi": "Mỗi tuần" } },
                     { "word": "毎朝", "reading": "まいあさ", "meaning": { "en": "Every morning", "vi": "Mỗi sáng" } }
                 ],
-                "sentence": { "jp": "毎朝、ジョギングをします。", "en": "I go jogging every morning." }
+                "sentence": { "jp": "毎朝、ジョギングをします。", "en": "I go jogging every morning.", "vi": "Tôi chạy bộ mỗi sáng." }
             },
             {
                 "id": "k139",
@@ -509,14 +608,17 @@
                 "onyomi": "メイ, ミョウ",
                 "kunyomi": "あ-かり, あか-るい, あ-した",
                 "meaning": { "en": "Bright, Tomorrow", "vi": "sáng, ngày mai, minh" },
-                "radical": "日 (sun)",
-                "mnemonic": "The sun (日) and the moon (月) together make everything bright.",
+                "radical": "日 (sun, nhật)",
+                "mnemonic": {
+                    "en": "The sun (日) and the moon (月) together make everything bright.",
+                    "vi": "Mặt trời (日) và mặt trăng (月) cùng nhau làm cho mọi thứ trở nên tươi sáng."
+                },
                 "examples": [
                     { "word": "明日", "reading": "あした", "meaning": { "en": "Tomorrow", "vi": "Ngày mai" } },
                     { "word": "明るい", "reading": "あかるい", "meaning": { "en": "Bright", "vi": "Sáng sủa" } },
                     { "word": "説明", "reading": "せつめい", "meaning": { "en": "Explanation", "vi": "Giải thích" } }
                 ],
-                "sentence": { "jp": "部屋はとても明るいです。", "en": "The room is very bright." }
+                "sentence": { "jp": "部屋はとても明るいです。", "en": "The room is very bright.", "vi": "Căn phòng rất sáng." }
             }
         ]
     },
@@ -530,14 +632,17 @@
                 "onyomi": "ジン, ニン",
                 "kunyomi": "ひと",
                 "meaning": { "en": "Person", "vi": "người, nhân" },
-                "radical": "人 (person)",
-                "mnemonic": "A pictograph of a person walking, with two legs.",
+                "radical": "人 (person, nhân)",
+                "mnemonic": {
+                    "en": "A pictograph of a person walking, with two legs.",
+                    "vi": "Một chữ tượng hình của một người đang đi bộ, với hai chân."
+                },
                 "examples": [
                     { "word": "日本人", "reading": "にほんじん", "meaning": { "en": "Japanese person", "vi": "Người Nhật" } },
                     { "word": "一人", "reading": "ひとり", "meaning": { "en": "One person", "vi": "Một người" } },
                     { "word": "三人", "reading": "さんにん", "meaning": { "en": "Three people", "vi": "Ba người" } }
                 ],
-                "sentence": { "jp": "あの人は誰ですか。", "en": "Who is that person?" }
+                "sentence": { "jp": "あの人は誰ですか。", "en": "Who is that person?", "vi": "Người đó là ai?" }
             },
             {
                 "id": "k35",
@@ -545,14 +650,17 @@
                 "onyomi": "ダン, ナン",
                 "kunyomi": "おとこ",
                 "meaning": { "en": "Man", "vi": "đàn ông, nam" },
-                "radical": "田 (rice field)",
-                "mnemonic": "A man uses his power (力) in the rice field (田).",
+                "radical": "田 (rice field, điền)",
+                "mnemonic": {
+                    "en": "A man uses his power (力) in the rice field (田).",
+                    "vi": "Một người đàn ông dùng sức mạnh (力) của mình trên cánh đồng lúa (田)."
+                },
                 "examples": [
                     { "word": "男の子", "reading": "おとこのこ", "meaning": { "en": "Boy", "vi": "Cậu bé" } },
                     { "word": "男性", "reading": "だんせい", "meaning": { "en": "Male", "vi": "Nam giới" } },
                     { "word": "長男", "reading": "ちょうなん", "meaning": { "en": "Eldest son", "vi": "Trưởng nam" } }
                 ],
-                "sentence": { "jp": "あの男の人は先生です。", "en": "That man is a teacher." }
+                "sentence": { "jp": "あの男の人は先生です。", "en": "That man is a teacher.", "vi": "Người đàn ông đó là một giáo viên." }
             },
             {
                 "id": "k36",
@@ -560,14 +668,17 @@
                 "onyomi": "ジョ, ニョ",
                 "kunyomi": "おんな",
                 "meaning": { "en": "Woman", "vi": "phụ nữ, nữ" },
-                "radical": "女 (woman)",
-                "mnemonic": "A pictograph of a woman kneeling gracefully.",
+                "radical": "女 (woman, nữ)",
+                "mnemonic": {
+                    "en": "A pictograph of a woman kneeling gracefully.",
+                    "vi": "Một chữ tượng hình của một người phụ nữ đang quỳ một cách duyên dáng."
+                },
                 "examples": [
                     { "word": "女の子", "reading": "おんなのこ", "meaning": { "en": "Girl", "vi": "Cô bé" } },
                     { "word": "女性", "reading": "じょせい", "meaning": { "en": "Female", "vi": "Nữ giới" } },
                     { "word": "彼女", "reading": "かのじょ", "meaning": { "en": "She, girlfriend", "vi": "Cô ấy, bạn gái" } }
                 ],
-                "sentence": { "jp": "彼女は私の友達です。", "en": "She is my friend." }
+                "sentence": { "jp": "彼女は私の友達です。", "en": "She is my friend.", "vi": "Cô ấy là bạn của tôi." }
             },
             {
                 "id": "k37",
@@ -575,14 +686,17 @@
                 "onyomi": "シ, ス",
                 "kunyomi": "こ",
                 "meaning": { "en": "Child", "vi": "con, trẻ con, tử" },
-                "radical": "子 (child)",
-                "mnemonic": "A pictograph of a small child with outstretched arms.",
+                "radical": "子 (child, tử)",
+                "mnemonic": {
+                    "en": "A pictograph of a small child with outstretched arms.",
+                    "vi": "Một chữ tượng hình của một đứa trẻ nhỏ với vòng tay rộng mở."
+                },
                 "examples": [
                     { "word": "子供", "reading": "こども", "meaning": { "en": "Child, children", "vi": "Trẻ em" } },
                     { "word": "帽子", "reading": "ぼうし", "meaning": { "en": "Hat, cap", "vi": "Mũ" } },
                     { "word": "電子", "reading": "でんし", "meaning": { "en": "Electron", "vi": "Điện tử" } }
                 ],
-                "sentence": { "jp": "公園に子供がたくさんいます。", "en": "There are many children in the park." }
+                "sentence": { "jp": "公園に子供がたくさんいます。", "en": "There are many children in the park.", "vi": "Có rất nhiều trẻ em trong công viên." }
             },
             {
                 "id": "k38",
@@ -590,14 +704,17 @@
                 "onyomi": "フ",
                 "kunyomi": "ちち",
                 "meaning": { "en": "Father", "vi": "cha, phụ" },
-                "radical": "父 (father)",
-                "mnemonic": "Looks like a man holding two sticks or axes, a symbol of a father's protective role.",
+                "radical": "父 (father, phụ)",
+                "mnemonic": {
+                    "en": "Looks like a man holding two sticks or axes, a symbol of a father's protective role.",
+                    "vi": "Trông giống như một người đàn ông cầm hai cây gậy hoặc rìu, một biểu tượng cho vai trò bảo vệ của người cha."
+                },
                 "examples": [
                     { "word": "お父さん", "reading": "おとうさん", "meaning": { "en": "Father (someone else's)", "vi": "Cha (của người khác)" } },
                     { "word": "祖父", "reading": "そふ", "meaning": { "en": "Grandfather", "vi": "Ông nội/ngoại" } },
                     { "word": "父母", "reading": "ふぼ", "meaning": { "en": "Father and mother", "vi": "Cha mẹ" } }
                 ],
-                "sentence": { "jp": "私の父は医者です。", "en": "My father is a doctor." }
+                "sentence": { "jp": "私の父は医者です。", "en": "My father is a doctor.", "vi": "Cha tôi là một bác sĩ." }
             },
             {
                 "id": "k39",
@@ -605,14 +722,17 @@
                 "onyomi": "ボ",
                 "kunyomi": "はは",
                 "meaning": { "en": "Mother", "vi": "mẹ, mẫu" },
-                "radical": "毋 (mother)",
-                "mnemonic": "Derived from the kanji for 'woman' (女) with two dots representing her breasts, symbolizing motherhood.",
+                "radical": "毋 (mother, mẫu)",
+                "mnemonic": {
+                    "en": "Derived from the kanji for 'woman' (女) with two dots representing her breasts, symbolizing motherhood.",
+                    "vi": "Bắt nguồn từ chữ kanji 'phụ nữ' (女) với hai dấu chấm tượng trưng cho bộ ngực, biểu thị tình mẹ."
+                },
                 "examples": [
                     { "word": "お母さん", "reading": "おかあさん", "meaning": { "en": "Mother (someone else's)", "vi": "Mẹ (của người khác)" } },
                     { "word": "祖母", "reading": "そぼ", "meaning": { "en": "Grandmother", "vi": "Bà nội/ngoại" } },
                     { "word": "母国語", "reading": "ぼこくご", "meaning": { "en": "Mother tongue", "vi": "Tiếng mẹ đẻ" } }
                 ],
-                "sentence": { "jp": "母の料理は美味しいです。", "en": "My mother's cooking is delicious." }
+                "sentence": { "jp": "母の料理は美味しいです。", "en": "My mother's cooking is delicious.", "vi": "Món ăn mẹ tôi nấu rất ngon." }
             },
             {
                 "id": "k40",
@@ -620,13 +740,16 @@
                 "onyomi": "ケイ, キョウ",
                 "kunyomi": "あに",
                 "meaning": { "en": "Older Brother", "vi": "anh trai, huynh" },
-                "radical": "口 (mouth)",
-                "mnemonic": "A big mouth (口) on legs (儿), the older brother who gives orders.",
+                "radical": "口 (mouth, khẩu)",
+                "mnemonic": {
+                    "en": "A big mouth (口) on legs (儿), the older brother who gives orders.",
+                    "vi": "Một cái miệng lớn (口) trên đôi chân (儿), người anh trai hay ra lệnh."
+                },
                 "examples": [
                     { "word": "お兄さん", "reading": "おにいさん", "meaning": { "en": "Older brother (someone else's)", "vi": "Anh trai (của người khác)" } },
                     { "word": "兄弟", "reading": "きょうだい", "meaning": { "en": "Siblings, brothers", "vi": "Anh em" } }
                 ],
-                "sentence": { "jp": "私には兄が一人います。", "en": "I have one older brother." }
+                "sentence": { "jp": "私には兄が一人います。", "en": "I have one older brother.", "vi": "Tôi có một người anh trai." }
             },
             {
                 "id": "k41",
@@ -634,13 +757,16 @@
                 "onyomi": "シ",
                 "kunyomi": "あね",
                 "meaning": { "en": "Older Sister", "vi": "chị gái, tỷ" },
-                "radical": "女 (woman)",
-                "mnemonic": "A woman (女) who goes to the market (市). The responsible older sister.",
+                "radical": "女 (woman, nữ)",
+                "mnemonic": {
+                    "en": "A woman (女) who goes to the market (市). The responsible older sister.",
+                    "vi": "Một người phụ nữ (女) đi chợ (市). Người chị gái có trách nhiệm."
+                },
                 "examples": [
                     { "word": "お姉さん", "reading": "おねえさん", "meaning": { "en": "Older sister (someone else's)", "vi": "Chị gái (của người khác)" } },
                     { "word": "姉妹", "reading": "しまい", "meaning": { "en": "Sisters", "vi": "Chị em gái" } }
                 ],
-                "sentence": { "jp": "私の姉は大学生です。", "en": "My older sister is a university student." }
+                "sentence": { "jp": "私の姉は大学生です。", "en": "My older sister is a university student.", "vi": "Chị gái tôi là sinh viên đại học." }
             },
             {
                 "id": "k42",
@@ -648,13 +774,16 @@
                 "onyomi": "テイ, ダイ",
                 "kunyomi": "おとうと",
                 "meaning": { "en": "Younger Brother", "vi": "em trai, đệ" },
-                "radical": "弓 (bow)",
-                "mnemonic": "Looks like a little figure with a bow on his head, a playful younger brother.",
+                "radical": "弓 (bow, cung)",
+                "mnemonic": {
+                    "en": "Looks like a little figure with a bow on his head, a playful younger brother.",
+                    "vi": "Trông giống như một hình người nhỏ với một cây cung trên đầu, một cậu em trai tinh nghịch."
+                },
                 "examples": [
                     { "word": "兄弟", "reading": "きょうだい", "meaning": { "en": "Siblings, brothers", "vi": "Anh em" } },
                     { "word": "弟子", "reading": "でし", "meaning": { "en": "Disciple, apprentice", "vi": "Đệ tử" } }
                 ],
-                "sentence": { "jp": "弟はまだ高校生です。", "en": "My younger brother is still a high school student." }
+                "sentence": { "jp": "弟はまだ高校生です。", "en": "My younger brother is still a high school student.", "vi": "Em trai tôi vẫn còn là học sinh trung học." }
             },
             {
                 "id": "k43",
@@ -662,12 +791,15 @@
                 "onyomi": "マイ",
                 "kunyomi": "いもうと",
                 "meaning": { "en": "Younger Sister", "vi": "em gái, muội" },
-                "radical": "女 (woman)",
-                "mnemonic": "A woman (女) who is not yet (未) fully grown. Your younger sister.",
+                "radical": "女 (woman, nữ)",
+                "mnemonic": {
+                    "en": "A woman (女) who is not yet (未) fully grown. Your younger sister.",
+                    "vi": "Một người phụ nữ (女) chưa (未) trưởng thành hoàn toàn. Em gái của bạn."
+                },
                 "examples": [
                     { "word": "姉妹", "reading": "しまい", "meaning": { "en": "Sisters", "vi": "Chị em gái" } }
                 ],
-                "sentence": { "jp": "妹はピアノを習っています。", "en": "My younger sister is learning the piano." }
+                "sentence": { "jp": "妹はピアノを習っています。", "en": "My younger sister is learning the piano.", "vi": "Em gái tôi đang học piano." }
             },
             {
                 "id": "k44",
@@ -675,14 +807,17 @@
                 "onyomi": "ユウ",
                 "kunyomi": "とも",
                 "meaning": { "en": "Friend", "vi": "bạn bè, hữu" },
-                "radical": "又 (again, right hand)",
-                "mnemonic": "Two right hands (又) coming together in friendship.",
+                "radical": "又 (again, right hand, hựu)",
+                "mnemonic": {
+                    "en": "Two right hands (又) coming together in friendship.",
+                    "vi": "Hai bàn tay phải (又) đến với nhau trong tình bạn."
+                },
                 "examples": [
                     { "word": "友達", "reading": "ともだち", "meaning": { "en": "Friend", "vi": "Bạn bè" } },
                     { "word": "親友", "reading": "しんゆう", "meaning": { "en": "Best friend", "vi": "Bạn thân" } },
                     { "word": "友情", "reading": "ゆうじょう", "meaning": { "en": "Friendship", "vi": "Tình bạn" } }
                 ],
-                "sentence": { "jp": "彼女は私の親友です。", "en": "She is my best friend." }
+                "sentence": { "jp": "彼女は私の親友です。", "en": "She is my best friend.", "vi": "Cô ấy là bạn thân nhất của tôi." }
             },
             {
                 "id": "k45",
@@ -690,12 +825,15 @@
                 "onyomi": "シ",
                 "kunyomi": "わたし, わたくし",
                 "meaning": { "en": "I, Private", "vi": "tôi, tư" },
-                "radical": "禾 (grain)",
-                "mnemonic": "Grain (禾) guarded by a hook, representing something private or personal.",
+                "radical": "禾 (grain, hòa)",
+                "mnemonic": {
+                    "en": "Grain (禾) guarded by a hook, representing something private or personal.",
+                    "vi": "Ngũ cốc (禾) được bảo vệ bởi một cái móc, đại diện cho một cái gì đó riêng tư hoặc cá nhân."
+                },
                 "examples": [
                     { "word": "私立", "reading": "しりつ", "meaning": { "en": "Private (e.g. school)", "vi": "Tư lập" } }
                 ],
-                "sentence": { "jp": "私は学生です。", "en": "I am a student." }
+                "sentence": { "jp": "私は学生です。", "en": "I am a student.", "vi": "Tôi là một sinh viên." }
             },
             {
                 "id": "k117",
@@ -703,14 +841,17 @@
                 "onyomi": "コウ, ク",
                 "kunyomi": "くち",
                 "meaning": { "en": "Mouth", "vi": "miệng, khẩu" },
-                "radical": "口 (mouth)",
-                "mnemonic": "A pictograph of an open mouth.",
+                "radical": "口 (mouth, khẩu)",
+                "mnemonic": {
+                    "en": "A pictograph of an open mouth.",
+                    "vi": "Một chữ tượng hình của một cái miệng đang mở."
+                },
                 "examples": [
                     { "word": "入口", "reading": "いりぐち", "meaning": { "en": "Entrance", "vi": "Lối vào" } },
                     { "word": "出口", "reading": "でぐち", "meaning": { "en": "Exit", "vi": "Lối ra" } },
                     { "word": "人口", "reading": "じんこう", "meaning": { "en": "Population", "vi": "Dân số" } }
                 ],
-                "sentence": { "jp": "入口はどこですか。", "en": "Where is the entrance?" }
+                "sentence": { "jp": "入口はどこですか。", "en": "Where is the entrance?", "vi": "Lối vào ở đâu?" }
             },
             {
                 "id": "k118",
@@ -718,14 +859,17 @@
                 "onyomi": "モク, ボク",
                 "kunyomi": "め",
                 "meaning": { "en": "Eye", "vi": "mắt, mục" },
-                "radical": "目 (eye)",
-                "mnemonic": "A pictograph of an eye, rotated 90 degrees.",
+                "radical": "目 (eye, mục)",
+                "mnemonic": {
+                    "en": "A pictograph of an eye, rotated 90 degrees.",
+                    "vi": "Một chữ tượng hình của một con mắt, xoay 90 độ."
+                },
                 "examples": [
                     { "word": "目的", "reading": "もくてき", "meaning": { "en": "Purpose, goal", "vi": "Mục đích" } },
                     { "word": "目薬", "reading": "めぐすり", "meaning": { "en": "Eye drops", "vi": "Thuốc nhỏ mắt" } },
                     { "word": "注目", "reading": "ちゅうもく", "meaning": { "en": "Attention", "vi": "Sự chú ý" } }
                 ],
-                "sentence": { "jp": "目にゴミが入った。", "en": "Something got in my eye." }
+                "sentence": { "jp": "目にゴミが入った。", "en": "Something got in my eye.", "vi": "Có thứ gì đó bay vào mắt tôi." }
             },
             {
                 "id": "k119",
@@ -733,12 +877,15 @@
                 "onyomi": "ジ",
                 "kunyomi": "みみ",
                 "meaning": { "en": "Ear", "vi": "tai, nhĩ" },
-                "radical": "耳 (ear)",
-                "mnemonic": "A pictograph of an ear.",
+                "radical": "耳 (ear, nhĩ)",
+                "mnemonic": {
+                    "en": "A pictograph of an ear.",
+                    "vi": "Một chữ tượng hình của một cái tai."
+                },
                 "examples": [
                     { "word": "耳鼻科", "reading": "じびか", "meaning": { "en": "Otolaryngology (ENT)", "vi": "Khoa tai mũi họng" } }
                 ],
-                "sentence": { "jp": "彼の話に耳を傾けた。", "en": "I listened to his story." }
+                "sentence": { "jp": "彼の話に耳を傾けた。", "en": "I listened to his story.", "vi": "Tôi đã lắng nghe câu chuyện của anh ấy." }
             },
             {
                 "id": "k120",
@@ -746,14 +893,17 @@
                 "onyomi": "シュ, ズ",
                 "kunyomi": "て",
                 "meaning": { "en": "Hand", "vi": "tay, thủ" },
-                "radical": "手 (hand)",
-                "mnemonic": "A pictograph of a hand with fingers.",
+                "radical": "手 (hand, thủ)",
+                "mnemonic": {
+                    "en": "A pictograph of a hand with fingers.",
+                    "vi": "Một chữ tượng hình của một bàn tay với các ngón tay."
+                },
                 "examples": [
                     { "word": "上手", "reading": "じょうず", "meaning": { "en": "Skillful, good at", "vi": "Giỏi" } },
                     { "word": "下手", "reading": "へた", "meaning": { "en": "Unskillful, bad at", "vi": "Kém" } },
                     { "word": "手紙", "reading": "てがみ", "meaning": { "en": "Letter", "vi": "Bức thư" } }
                 ],
-                "sentence": { "jp": "手を洗ってください。", "en": "Please wash your hands." }
+                "sentence": { "jp": "手を洗ってください。", "en": "Please wash your hands.", "vi": "Xin hãy rửa tay." }
             },
             {
                 "id": "k121",
@@ -761,14 +911,17 @@
                 "onyomi": "ソク",
                 "kunyomi": "あし, た-りる",
                 "meaning": { "en": "Foot/Leg, Suffice", "vi": "chân, đủ, túc" },
-                "radical": "足 (foot)",
-                "mnemonic": "A mouth (口) above a person's leg (止), representing a foot.",
+                "radical": "足 (foot, túc)",
+                "mnemonic": {
+                    "en": "A mouth (口) above a person's leg (止), representing a foot.",
+                    "vi": "Một cái miệng (口) phía trên chân của một người (止), tượng trưng cho bàn chân."
+                },
                 "examples": [
                     { "word": "足りる", "reading": "たりる", "meaning": { "en": "To be enough", "vi": "Đủ" } },
                     { "word": "不足", "reading": "ふそく", "meaning": { "en": "Insufficiency, lack", "vi": "Thiếu" } },
                     { "word": "遠足", "reading": "えんそく", "meaning": { "en": "Excursion, picnic", "vi": "Dã ngoại" } }
                 ],
-                "sentence": { "jp": "足が痛いです。", "en": "My leg/foot hurts." }
+                "sentence": { "jp": "足が痛いです。", "en": "My leg/foot hurts.", "vi": "Chân/bàn chân của tôi bị đau." }
             }
         ]
     },
@@ -782,14 +935,17 @@
                 "onyomi": "ジョウ, ショウ",
                 "kunyomi": "うえ, あ-がる, のぼ-る",
                 "meaning": { "en": "Up, Above, To rise", "vi": "trên, lên, thượng" },
-                "radical": "一 (one)",
-                "mnemonic": "A line above a base, indicating an 'up' or 'above' position.",
+                "radical": "一 (one, một)",
+                "mnemonic": {
+                    "en": "A line above a base, indicating an 'up' or 'above' position.",
+                    "vi": "Một đường kẻ phía trên một đường cơ sở, chỉ vị trí 'trên' hoặc 'phía trên'."
+                },
                 "examples": [
                     { "word": "上手", "reading": "じょうず", "meaning": { "en": "Skillful", "vi": "Giỏi" } },
                     { "word": "上る", "reading": "のぼる", "meaning": { "en": "To climb", "vi": "Leo lên" } },
                     { "word": "屋上", "reading": "おくじょう", "meaning": { "en": "Rooftop", "vi": "Sân thượng" } }
                 ],
-                "sentence": { "jp": "本は机の上にあります。", "en": "The book is on the desk." }
+                "sentence": { "jp": "本は机の上にあります。", "en": "The book is on the desk.", "vi": "Quyển sách ở trên bàn." }
             },
             {
                 "id": "k48",
@@ -797,14 +953,17 @@
                 "onyomi": "カ, ゲ",
                 "kunyomi": "した, さ-がる, くだ-る",
                 "meaning": { "en": "Down, Below, To lower", "vi": "dưới, xuống, hạ" },
-                "radical": "一 (one)",
-                "mnemonic": "A line below a base, indicating a 'down' or 'below' position.",
+                "radical": "一 (one, một)",
+                "mnemonic": {
+                    "en": "A line below a base, indicating a 'down' or 'below' position.",
+                    "vi": "Một đường kẻ phía dưới một đường cơ sở, chỉ vị trí 'dưới' hoặc 'phía dưới'."
+                },
                 "examples": [
                     { "word": "下手", "reading": "へた", "meaning": { "en": "Unskillful", "vi": "Kém" } },
                     { "word": "地下鉄", "reading": "ちかてつ", "meaning": { "en": "Subway", "vi": "Tàu điện ngầm" } },
                     { "word": "下さい", "reading": "ください", "meaning": { "en": "Please give me", "vi": "Xin vui lòng" } }
                 ],
-                "sentence": { "jp": "靴はベッドの下にあります。", "en": "The shoes are under the bed." }
+                "sentence": { "jp": "靴はベッドの下にあります。", "en": "The shoes are under the bed.", "vi": "Đôi giày ở dưới gầm giường." }
             },
             {
                 "id": "k49",
@@ -812,14 +971,17 @@
                 "onyomi": "チュウ, ジュウ",
                 "kunyomi": "なか",
                 "meaning": { "en": "Middle, In", "vi": "giữa, trong, trung" },
-                "radical": "丨 (line)",
-                "mnemonic": "A line going through the middle of a box (口).",
+                "radical": "丨 (line, cổn)",
+                "mnemonic": {
+                    "en": "A line going through the middle of a box (口).",
+                    "vi": "Một đường kẻ đi qua giữa một cái hộp (口)."
+                },
                 "examples": [
                     { "word": "中国", "reading": "ちゅうごく", "meaning": { "en": "China", "vi": "Trung Quốc" } },
                     { "word": "一日中", "reading": "いちにちじゅう", "meaning": { "en": "All day long", "vi": "Cả ngày" } },
                     { "word": "中学校", "reading": "ちゅうがっこう", "meaning": { "en": "Junior high school", "vi": "Trường cấp hai" } }
                 ],
-                "sentence": { "jp": "箱の中に何がありますか。", "en": "What is inside the box?" }
+                "sentence": { "jp": "箱の中に何がありますか。", "en": "What is inside the box?", "vi": "Bên trong hộp có gì?" }
             },
             {
                 "id": "k50",
@@ -827,14 +989,17 @@
                 "onyomi": "ガイ, ゲ",
                 "kunyomi": "そと, ほか",
                 "meaning": { "en": "Outside, Other", "vi": "ngoài, khác, ngoại" },
-                "radical": "夕 (evening)",
-                "mnemonic": "Evening (夕) and a magic wand (ト). When it gets dark, you go outside to see the magic of the night.",
+                "radical": "夕 (evening, tịch)",
+                "mnemonic": {
+                    "en": "Evening (夕) and a magic wand (ト). When it gets dark, you go outside to see the magic of the night.",
+                    "vi": "Buổi tối (夕) và một cây đũa phép (ト). Khi trời tối, bạn ra ngoài để xem sự kỳ diệu của đêm."
+                },
                 "examples": [
                     { "word": "外国", "reading": "がいこく", "meaning": { "en": "Foreign country", "vi": "Nước ngoài" } },
                     { "word": "外人", "reading": "がいじん", "meaning": { "en": "Foreigner", "vi": "Người nước ngoài" } },
                     { "word": "以外", "reading": "いがい", "meaning": { "en": "Except, other than", "vi": "Ngoại trừ" } }
                 ],
-                "sentence": { "jp": "外は寒いです。", "en": "It is cold outside." }
+                "sentence": { "jp": "外は寒いです。", "en": "It is cold outside.", "vi": "Bên ngoài trời lạnh." }
             },
             {
                 "id": "k51",
@@ -842,13 +1007,16 @@
                 "onyomi": "ウ, ユウ",
                 "kunyomi": "みぎ",
                 "meaning": { "en": "Right", "vi": "phải, hữu" },
-                "radical": "口 (mouth)",
-                "mnemonic": "Your right hand (ナ) goes to your mouth (口) when you eat.",
+                "radical": "口 (mouth, khẩu)",
+                "mnemonic": {
+                    "en": "Your right hand (ナ) goes to your mouth (口) when you eat.",
+                    "vi": "Tay phải (ナ) của bạn đưa lên miệng (口) khi bạn ăn."
+                },
                 "examples": [
                     { "word": "右手", "reading": "みぎて", "meaning": { "en": "Right hand", "vi": "Tay phải" } },
                     { "word": "左右", "reading": "さゆう", "meaning": { "en": "Left and right", "vi": "Trái và phải" } }
                 ],
-                "sentence": { "jp": "右に曲がってください。", "en": "Please turn right." }
+                "sentence": { "jp": "右に曲がってください。", "en": "Please turn right.", "vi": "Xin vui lòng rẽ phải." }
             },
             {
                 "id": "k52",
@@ -856,13 +1024,16 @@
                 "onyomi": "サ",
                 "kunyomi": "ひだり",
                 "meaning": { "en": "Left", "vi": "trái, tả" },
-                "radical": "工 (work)",
-                "mnemonic": "The left hand holds the tool (工) for work.",
+                "radical": "工 (work, công)",
+                "mnemonic": {
+                    "en": "The left hand holds the tool (工) for work.",
+                    "vi": "Tay trái cầm công cụ (工) để làm việc."
+                },
                 "examples": [
                     { "word": "左手", "reading": "ひだりて", "meaning": { "en": "Left hand", "vi": "Tay trái" } },
                     { "word": "左側", "reading": "ひだりがわ", "meaning": { "en": "Left side", "vi": "Bên trái" } }
                 ],
-                "sentence": { "jp": "ポストは左にあります。", "en": "The postbox is on the left." }
+                "sentence": { "jp": "ポストは左にあります。", "en": "The postbox is on the left.", "vi": "Hòm thư ở bên trái." }
             },
             {
                 "id": "k53",
@@ -870,13 +1041,16 @@
                 "onyomi": "トウ",
                 "kunyomi": "ひがし",
                 "meaning": { "en": "East", "vi": "đông" },
-                "radical": "木 (tree)",
-                "mnemonic": "The sun (日) rising behind a tree (木) in the east.",
+                "radical": "木 (tree, mộc)",
+                "mnemonic": {
+                    "en": "The sun (日) rising behind a tree (木) in the east.",
+                    "vi": "Mặt trời (日) mọc sau một cái cây (木) ở phía đông."
+                },
                 "examples": [
                     { "word": "東京", "reading": "とうきょう", "meaning": { "en": "Tokyo", "vi": "Tokyo" } },
                     { "word": "中東", "reading": "ちゅうとう", "meaning": { "en": "The Middle East", "vi": "Trung Đông" } }
                 ],
-                "sentence": { "jp": "東京は日本の東にあります。", "en": "Tokyo is in the east of Japan." }
+                "sentence": { "jp": "東京は日本の東にあります。", "en": "Tokyo is in the east of Japan.", "vi": "Tokyo ở phía đông của Nhật Bản." }
             },
             {
                 "id": "k54",
@@ -884,13 +1058,16 @@
                 "onyomi": "セイ, サイ",
                 "kunyomi": "にし",
                 "meaning": { "en": "West", "vi": "tây" },
-                "radical": "西 (west)",
-                "mnemonic": "A bird in a nest, seen as the sun setting in the west.",
+                "radical": "西 (west, tây)",
+                "mnemonic": {
+                    "en": "A bird in a nest, seen as the sun setting in the west.",
+                    "vi": "Một con chim trong tổ, được xem như mặt trời lặn ở phía tây."
+                },
                 "examples": [
                     { "word": "関西", "reading": "かんさい", "meaning": { "en": "Kansai region", "vi": "Vùng Kansai" } },
                     { "word": "西洋", "reading": "せいよう", "meaning": { "en": "The West, the Occident", "vi": "Phương Tây" } }
                 ],
-                "sentence": { "jp": "太陽は西に沈む。", "en": "The sun sets in the west." }
+                "sentence": { "jp": "太陽は西に沈む。", "en": "The sun sets in the west.", "vi": "Mặt trời lặn ở phía tây." }
             },
             {
                 "id": "k55",
@@ -898,13 +1075,16 @@
                 "onyomi": "ナン",
                 "kunyomi": "みなみ",
                 "meaning": { "en": "South", "vi": "nam" },
-                "radical": "十 (ten)",
-                "mnemonic": "A shelter with a cross (十). People build shelters facing south for warmth.",
+                "radical": "十 (ten, mười)",
+                "mnemonic": {
+                    "en": "A shelter with a cross (十). People build shelters facing south for warmth.",
+                    "vi": "Một nơi trú ẩn có cây thánh giá (十). Mọi người xây nơi trú ẩn hướng về phía nam để sưởi ấm."
+                },
                 "examples": [
                     { "word": "南口", "reading": "みなみぐち", "meaning": { "en": "South exit", "vi": "Cửa nam" } },
                     { "word": "東南アジア", "reading": "とうなんアジア", "meaning": { "en": "Southeast Asia", "vi": "Đông Nam Á" } }
                 ],
-                "sentence": { "jp": "私の家は南向きです。", "en": "My house faces south." }
+                "sentence": { "jp": "私の家は南向きです。", "en": "My house faces south.", "vi": "Nhà tôi hướng nam." }
             },
             {
                 "id": "k56",
@@ -912,13 +1092,16 @@
                 "onyomi": "ホク",
                 "kunyomi": "きた",
                 "meaning": { "en": "North", "vi": "bắc" },
-                "radical": "匕 (spoon)",
-                "mnemonic": "Two people sitting back-to-back to stay warm in the cold north.",
+                "radical": "匕 (spoon, chủy)",
+                "mnemonic": {
+                    "en": "Two people sitting back-to-back to stay warm in the cold north.",
+                    "vi": "Hai người ngồi quay lưng vào nhau để giữ ấm ở phương bắc lạnh giá."
+                },
                 "examples": [
                     { "word": "北海道", "reading": "ほっかいどう", "meaning": { "en": "Hokkaido", "vi": "Hokkaido" } },
                     { "word": "北口", "reading": "きたぐち", "meaning": { "en": "North exit", "vi": "Cửa bắc" } }
                 ],
-                "sentence": { "jp": "北海道は日本の北にあります。", "en": "Hokkaido is in the north of Japan." }
+                "sentence": { "jp": "北海道は日本の北にあります。", "en": "Hokkaido is in the north of Japan.", "vi": "Hokkaido ở phía bắc của Nhật Bản." }
             }
         ]
     },
@@ -932,14 +1115,17 @@
                 "onyomi": "コク",
                 "kunyomi": "くに",
                 "meaning": { "en": "Country", "vi": "đất nước, quốc" },
-                "radical": "囗 (enclosure)",
-                "mnemonic": "A king or jewel (玉) inside an enclosure (囗), representing a country's border and its treasures.",
+                "radical": "囗 (enclosure, vi)",
+                "mnemonic": {
+                    "en": "A king or jewel (玉) inside an enclosure (囗), representing a country's border and its treasures.",
+                    "vi": "Một vị vua hoặc viên ngọc (玉) bên trong một vòng vây (囗), đại diện cho biên giới của một quốc gia và kho báu của nó."
+                },
                 "examples": [
                     { "word": "外国", "reading": "がいこく", "meaning": { "en": "Foreign country", "vi": "Nước ngoài" } },
                     { "word": "中国", "reading": "ちゅうごく", "meaning": { "en": "China", "vi": "Trung Quốc" } },
                     { "word": "国内", "reading": "こくない", "meaning": { "en": "Domestic, internal", "vi": "Trong nước" } }
                 ],
-                "sentence": { "jp": "あなたの国はどこですか。", "en": "Where is your country from?" }
+                "sentence": { "jp": "あなたの国はどこですか。", "en": "Where is your country from?", "vi": "Đất nước của bạn ở đâu?" }
             },
             {
                 "id": "k58",
@@ -947,14 +1133,17 @@
                 "onyomi": "ドウ",
                 "kunyomi": "みち",
                 "meaning": { "en": "Road, Street", "vi": "đường, đạo" },
-                "radical": "辶 (walk)",
-                "mnemonic": "A head (首) walking (辶) along a path. The path you follow with your head held high.",
+                "radical": "辶 (walk, sước)",
+                "mnemonic": {
+                    "en": "A head (首) walking (辶) along a path. The path you follow with your head held high.",
+                    "vi": "Một cái đầu (首) đang đi (辶) dọc theo một con đường. Con đường bạn đi theo với tư thế ngẩng cao đầu."
+                },
                 "examples": [
                     { "word": "道路", "reading": "どうろ", "meaning": { "en": "Road", "vi": "Đường xá" } },
                     { "word": "柔道", "reading": "じゅうどう", "meaning": { "en": "Judo", "vi": "Judo" } },
                     { "word": "北海道", "reading": "ほっかいどう", "meaning": { "en": "Hokkaido", "vi": "Hokkaido" } }
                 ],
-                "sentence": { "jp": "この道は広いです。", "en": "This road is wide." }
+                "sentence": { "jp": "この道は広いです。", "en": "This road is wide.", "vi": "Con đường này rộng." }
             },
             {
                 "id": "k59",
@@ -962,13 +1151,16 @@
                 "onyomi": "エキ",
                 "kunyomi": "",
                 "meaning": { "en": "Station", "vi": "nhà ga, dịch" },
-                "radical": "馬 (horse)",
-                "mnemonic": "A horse (馬) at a post station. Historically, stations were for changing horses.",
+                "radical": "馬 (horse, mã)",
+                "mnemonic": {
+                    "en": "A horse (馬) at a post station. Historically, stations were for changing horses.",
+                    "vi": "Một con ngựa (馬) tại một trạm bưu điện. Trong lịch sử, các trạm được dùng để đổi ngựa."
+                },
                 "examples": [
                     { "word": "駅員", "reading": "えきいん", "meaning": { "en": "Station attendant", "vi": "Nhân viên nhà ga" } },
                     { "word": "駅前", "reading": "えきまえ", "meaning": { "en": "In front of the station", "vi": "Trước nhà ga" } }
                 ],
-                "sentence": { "jp": "東京駅はとても大きいです。", "en": "Tokyo Station is very big." }
+                "sentence": { "jp": "東京駅はとても大きいです。", "en": "Tokyo Station is very big.", "vi": "Ga Tokyo rất lớn." }
             },
             {
                 "id": "k60",
@@ -976,14 +1168,17 @@
                 "onyomi": "テン",
                 "kunyomi": "みせ",
                 "meaning": { "en": "Shop", "vi": "cửa hàng, điếm" },
-                "radical": "广 (dotted cliff)",
-                "mnemonic": "A fortune teller (占) under a roof (广), which is their shop.",
+                "radical": "广 (dotted cliff, nghiễm)",
+                "mnemonic": {
+                    "en": "A fortune teller (占) under a roof (广), which is their shop.",
+                    "vi": "Một thầy bói (占) dưới một mái nhà (广), đó là cửa hàng của họ."
+                },
                 "examples": [
                     { "word": "店員", "reading": "てんいん", "meaning": { "en": "Shop clerk", "vi": "Nhân viên cửa hàng" } },
                     { "word": "喫茶店", "reading": "きっさてん", "meaning": { "en": "Coffee shop", "vi": "Quán cà phê" } },
                     { "word": "書店", "reading": "しょてん", "meaning": { "en": "Bookstore", "vi": "Hiệu sách" } }
                 ],
-                "sentence": { "jp": "あの店は九時に閉まります。", "en": "That shop closes at 9 o'clock." }
+                "sentence": { "jp": "あの店は九時に閉まります。", "en": "That shop closes at 9 o'clock.", "vi": "Cửa hàng đó đóng cửa lúc 9 giờ." }
             },
             {
                 "id": "k61",
@@ -991,14 +1186,17 @@
                 "onyomi": "カ, ケ",
                 "kunyomi": "いえ, うち",
                 "meaning": { "en": "House", "vi": "nhà, gia" },
-                "radical": "宀 (roof)",
-                "mnemonic": "A pig (豕) under a roof (宀). In the past, livestock was kept in the house.",
+                "radical": "宀 (roof, miên)",
+                "mnemonic": {
+                    "en": "A pig (豕) under a roof (宀). In the past, livestock was kept in the house.",
+                    "vi": "Một con lợn (豕) dưới một mái nhà (宀). Ngày xưa, gia súc được nuôi trong nhà."
+                },
                 "examples": [
                     { "word": "家族", "reading": "かぞく", "meaning": { "en": "Family", "vi": "Gia đình" } },
                     { "word": "家内", "reading": "かない", "meaning": { "en": "My wife", "vi": "Vợ tôi" } },
                     { "word": "作家", "reading": "さっか", "meaning": { "en": "Author, writer", "vi": "Nhà văn" } }
                 ],
-                "sentence": { "jp": "私の家は駅から近いです。", "en": "My house is near the station." }
+                "sentence": { "jp": "私の家は駅から近いです。", "en": "My house is near the station.", "vi": "Nhà tôi gần nhà ga." }
             },
             {
                 "id": "k62",
@@ -1006,14 +1204,17 @@
                 "onyomi": "シャ",
                 "kunyomi": "やしろ",
                 "meaning": { "en": "Company, Shrine", "vi": "công ty, đền, xã" },
-                "radical": "示 (altar)",
-                "mnemonic": "An altar (示) on the earth (土) forms a shrine, a center of the community or company.",
+                "radical": "示 (altar, thị)",
+                "mnemonic": {
+                    "en": "An altar (示) on the earth (土) forms a shrine, a center of the community or company.",
+                    "vi": "Một bàn thờ (示) trên mặt đất (土) tạo thành một ngôi đền, một trung tâm của cộng đồng hoặc công ty."
+                },
                 "examples": [
                     { "word": "会社", "reading": "かいしゃ", "meaning": { "en": "Company", "vi": "Công ty" } },
                     { "word": "社会", "reading": "しゃかい", "meaning": { "en": "Society", "vi": "Xã hội" } },
                     { "word": "社長", "reading": "しゃちょう", "meaning": { "en": "Company president", "vi": "Giám đốc" } }
                 ],
-                "sentence": { "jp": "父は会社の社長です。", "en": "My father is the president of a company." }
+                "sentence": { "jp": "父は会社の社長です。", "en": "My father is the president of a company.", "vi": "Cha tôi là giám đốc của một công ty." }
             },
             {
                 "id": "k113",
@@ -1021,14 +1222,17 @@
                 "onyomi": "シャ",
                 "kunyomi": "くるま",
                 "meaning": { "en": "Car, Vehicle", "vi": "xe, xa" },
-                "radical": "車 (car)",
-                "mnemonic": "A pictograph of a chariot viewed from above, with an axle and two wheels.",
+                "radical": "車 (car, xa)",
+                "mnemonic": {
+                    "en": "A pictograph of a chariot viewed from above, with an axle and two wheels.",
+                    "vi": "Một chữ tượng hình của một cỗ xe nhìn từ trên xuống, với một trục và hai bánh xe."
+                },
                 "examples": [
                     { "word": "電車", "reading": "でんしゃ", "meaning": { "en": "Electric train", "vi": "Tàu điện" } },
                     { "word": "自転車", "reading": "じてんしゃ", "meaning": { "en": "Bicycle", "vi": "Xe đạp" } },
                     { "word": "駐車場", "reading": "ちゅうしゃじょう", "meaning": { "en": "Parking lot", "vi": "Bãi đỗ xe" } }
                 ],
-                "sentence": { "jp": "駅まで車で行きます。", "en": "I will go to the station by car." }
+                "sentence": { "jp": "駅まで車で行きます。", "en": "I will go to the station by car.", "vi": "Tôi sẽ đi đến ga bằng ô tô." }
             },
             {
                 "id": "k140",
@@ -1036,14 +1240,17 @@
                 "onyomi": "クウ",
                 "kunyomi": "そら, あ-く, から",
                 "meaning": { "en": "Sky, Empty", "vi": "bầu trời, trống, không" },
-                "radical": "穴 (hole)",
-                "mnemonic": "A hole (穴) made by a tool (工). An empty space, like the sky.",
+                "radical": "穴 (hole, huyệt)",
+                "mnemonic": {
+                    "en": "A hole (穴) made by a tool (工). An empty space, like the sky.",
+                    "vi": "Một cái lỗ (穴) được tạo ra bởi một công cụ (工). Một không gian trống rỗng, giống như bầu trời."
+                },
                 "examples": [
                     { "word": "空気", "reading": "くうき", "meaning": { "en": "Air, atmosphere", "vi": "Không khí" } },
                     { "word": "空港", "reading": "くうこう", "meaning": { "en": "Airport", "vi": "Sân bay" } },
-                    { "word": "空手", "reading": "からて", "meaning": { "en": "Karate (empty hand)", "vi": "Karate" } }
+                    { "word": "空手", "reading": "からて", "meaning": { "en": "Karate (empty hand)", "vi": "Karate (tay không)" } }
                 ],
-                "sentence": { "jp": "空は青いです。", "en": "The sky is blue." }
+                "sentence": { "jp": "空は青いです。", "en": "The sky is blue.", "vi": "Bầu trời màu xanh." }
             },
             {
                 "id": "k141",
@@ -1051,12 +1258,15 @@
                 "onyomi": "チョウ",
                 "kunyomi": "まち",
                 "meaning": { "en": "Town", "vi": "thị trấn, đinh" },
-                "radical": "田 (rice field)",
-                "mnemonic": "A rice field (田) with a nail (丁), marking the boundary of a town.",
+                "radical": "田 (rice field, điền)",
+                "mnemonic": {
+                    "en": "A rice field (田) with a nail (丁), marking the boundary of a town.",
+                    "vi": "Một cánh đồng lúa (田) với một cái đinh (丁), đánh dấu ranh giới của một thị trấn."
+                },
                 "examples": [
                     { "word": "町長", "reading": "ちょうちょう", "meaning": { "en": "Town mayor", "vi": "Thị trưởng" } }
                 ],
-                "sentence": { "jp": "この町はとても静かです。", "en": "This town is very quiet." }
+                "sentence": { "jp": "この町はとても静かです。", "en": "This town is very quiet.", "vi": "Thị trấn này rất yên tĩnh." }
             },
             {
                 "id": "k143",
@@ -1064,14 +1274,17 @@
                 "onyomi": "リョ",
                 "kunyomi": "たび",
                 "meaning": { "en": "Travel, Trip", "vi": "du lịch, chuyến đi, lữ" },
-                "radical": "方 (direction)",
-                "mnemonic": "A flag waving in a certain direction (方) as people travel.",
+                "radical": "方 (direction, phương)",
+                "mnemonic": {
+                    "en": "A flag waving in a certain direction (方) as people travel.",
+                    "vi": "Một lá cờ bay theo một hướng (方) nhất định khi mọi người đi du lịch."
+                },
                 "examples": [
                     { "word": "旅行", "reading": "りょこう", "meaning": { "en": "Travel, trip", "vi": "Du lịch" } },
                     { "word": "旅館", "reading": "りょかん", "meaning": { "en": "Japanese-style inn", "vi": "Nhà trọ kiểu Nhật" } },
                     { "word": "一人旅", "reading": "ひとりたび", "meaning": { "en": "Solo travel", "vi": "Du lịch một mình" } }
                 ],
-                "sentence": { "jp": "夏休みに旅行します。", "en": "I will travel during the summer vacation." }
+                "sentence": { "jp": "夏休みに旅行します。", "en": "I will travel during the summer vacation.", "vi": "Tôi sẽ đi du lịch trong kỳ nghỉ hè." }
             }
         ]
     },
@@ -1085,14 +1298,17 @@
                 "onyomi": "ショ",
                 "kunyomi": "か-く",
                 "meaning": { "en": "Write", "vi": "viết, thư" },
-                "radical": "曰 (say)",
-                "mnemonic": "To use a brush (聿) to say (曰) something on paper.",
+                "radical": "曰 (say, viết)",
+                "mnemonic": {
+                    "en": "To use a brush (聿) to say (曰) something on paper.",
+                    "vi": "Dùng bút lông (聿) để nói (曰) điều gì đó trên giấy."
+                },
                 "examples": [
                     { "word": "辞書", "reading": "じしょ", "meaning": { "en": "Dictionary", "vi": "Từ điển" } },
                     { "word": "図書館", "reading": "としょかん", "meaning": { "en": "Library", "vi": "Thư viện" } },
                     { "word": "教科書", "reading": "きょうかしょ", "meaning": { "en": "Textbook", "vi": "Sách giáo khoa" } }
                 ],
-                "sentence": { "jp": "手紙を書いています。", "en": "I am writing a letter." }
+                "sentence": { "jp": "手紙を書いています。", "en": "I am writing a letter.", "vi": "Tôi đang viết một lá thư." }
             },
             {
                 "id": "k71",
@@ -1100,14 +1316,17 @@
                 "onyomi": "ドク, トク",
                 "kunyomi": "よ-む",
                 "meaning": { "en": "Read", "vi": "đọc, độc" },
-                "radical": "言 (word)",
-                "mnemonic": "To sell (売) words (言). A storyteller reads tales to an audience.",
+                "radical": "言 (word, ngôn)",
+                "mnemonic": {
+                    "en": "To sell (売) words (言). A storyteller reads tales to an audience.",
+                    "vi": "Bán (売) chữ (言). Một người kể chuyện đọc truyện cho khán giả."
+                },
                 "examples": [
                     { "word": "読む", "reading": "よむ", "meaning": { "en": "To read", "vi": "Đọc" } },
                     { "word": "読書", "reading": "どくしょ", "meaning": { "en": "Reading books", "vi": "Đọc sách" } },
                     { "word": "読者", "reading": "どくしゃ", "meaning": { "en": "Reader", "vi": "Độc giả" } }
                 ],
-                "sentence": { "jp": "本を読むのが好きです。", "en": "I like to read books." }
+                "sentence": { "jp": "本を読むのが好きです。", "en": "I like to read books.", "vi": "Tôi thích đọc sách." }
             },
             {
                 "id": "k72",
@@ -1115,14 +1334,17 @@
                 "onyomi": "ブン, モン",
                 "kunyomi": "き-く, き-こえる",
                 "meaning": { "en": "Hear, Ask, Listen", "vi": "nghe, hỏi, văn" },
-                "radical": "門 (gate)",
-                "mnemonic": "An ear (耳) at a gate (門), listening for someone or asking who is there.",
+                "radical": "門 (gate, môn)",
+                "mnemonic": {
+                    "en": "An ear (耳) at a gate (門), listening for someone or asking who is there.",
+                    "vi": "Một cái tai (耳) ở cổng (門), lắng nghe ai đó hoặc hỏi xem ai ở đó."
+                },
                 "examples": [
                     { "word": "聞く", "reading": "きく", "meaning": { "en": "To listen, to ask", "vi": "Nghe, hỏi" } },
                     { "word": "新聞", "reading": "しんぶん", "meaning": { "en": "Newspaper", "vi": "Báo" } },
                     { "word": "聞こえる", "reading": "きこえる", "meaning": { "en": "To be audible", "vi": "Nghe thấy" } }
                 ],
-                "sentence": { "jp": "音楽を聞いています。", "en": "I am listening to music." }
+                "sentence": { "jp": "音楽を聞いています。", "en": "I am listening to music.", "vi": "Tôi đang nghe nhạc." }
             },
             {
                 "id": "k73",
@@ -1130,14 +1352,17 @@
                 "onyomi": "コウ, ギョウ",
                 "kunyomi": "い-く, おこな-う",
                 "meaning": { "en": "Go, Conduct", "vi": "đi, hành" },
-                "radical": "行 (go)",
-                "mnemonic": "A pictograph of a crossroads, representing movement and going somewhere.",
+                "radical": "行 (go, hành)",
+                "mnemonic": {
+                    "en": "A pictograph of a crossroads, representing movement and going somewhere.",
+                    "vi": "Một chữ tượng hình về một ngã tư, đại diện cho sự di chuyển và đi đến một nơi nào đó."
+                },
                 "examples": [
                     { "word": "行く", "reading": "いく", "meaning": { "en": "To go", "vi": "Đi" } },
                     { "word": "銀行", "reading": "ぎんこう", "meaning": { "en": "Bank", "vi": "Ngân hàng" } },
                     { "word": "旅行", "reading": "りょこう", "meaning": { "en": "Travel", "vi": "Du lịch" } }
                 ],
-                "sentence": { "jp": "学校へ行きます。", "en": "I go to school." }
+                "sentence": { "jp": "学校へ行きます。", "en": "I go to school.", "vi": "Tôi đi học." }
             },
             {
                 "id": "k74",
@@ -1145,14 +1370,17 @@
                 "onyomi": "ライ",
                 "kunyomi": "く-る, き-ます",
                 "meaning": { "en": "Come", "vi": "đến, lai" },
-                "radical": "木 (tree)",
-                "mnemonic": "Represents wheat, which comes from the fields.",
+                "radical": "木 (tree, mộc)",
+                "mnemonic": {
+                    "en": "Represents wheat, which comes from the fields.",
+                    "vi": "Tượng trưng cho lúa mì, thứ đến từ những cánh đồng."
+                },
                 "examples": [
                     { "word": "来る", "reading": "くる", "meaning": { "en": "To come", "vi": "Đến" } },
                     { "word": "来週", "reading": "らいしゅう", "meaning": { "en": "Next week", "vi": "Tuần sau" } },
                     { "word": "未来", "reading": "みらい", "meaning": { "en": "Future", "vi": "Tương lai" } }
                 ],
-                "sentence": { "jp": "友達が家に来ます。", "en": "My friend is coming to my house." }
+                "sentence": { "jp": "友達が家に来ます。", "en": "My friend is coming to my house.", "vi": "Bạn tôi sẽ đến nhà tôi." }
             },
             {
                 "id": "k75",
@@ -1160,13 +1388,16 @@
                 "onyomi": "キ",
                 "kunyomi": "かえ-る, かえ-す",
                 "meaning": { "en": "Return", "vi": "về, quy" },
-                "radical": "巾 (towel)",
-                "mnemonic": "A person (left part) sweeping with a broom (帚), cleaning up before returning home.",
+                "radical": "巾 (towel, cân)",
+                "mnemonic": {
+                    "en": "A person (left part) sweeping with a broom (帚), cleaning up before returning home.",
+                    "vi": "Một người (phần bên trái) đang quét bằng chổi (帚), dọn dẹp trước khi về nhà."
+                },
                 "examples": [
                     { "word": "帰る", "reading": "かえる", "meaning": { "en": "To return home", "vi": "Về nhà" } },
                     { "word": "帰国", "reading": "きこく", "meaning": { "en": "To return to one's country", "vi": "Về nước" } }
                 ],
-                "sentence": { "jp": "家に帰ります。", "en": "I am returning home." }
+                "sentence": { "jp": "家に帰ります。", "en": "I am returning home.", "vi": "Tôi đang về nhà." }
             },
             {
                 "id": "k76",
@@ -1174,14 +1405,17 @@
                 "onyomi": "ショク, ジキ",
                 "kunyomi": "た-べる",
                 "meaning": { "en": "Eat", "vi": "ăn, thực" },
-                "radical": "食 (eat, food)",
-                "mnemonic": "A roof over something good (良), representing food to eat.",
+                "radical": "食 (eat, food, thực)",
+                "mnemonic": {
+                    "en": "A roof over something good (良), representing food to eat.",
+                    "vi": "Một mái nhà che một thứ gì đó tốt (良), tượng trưng cho thức ăn."
+                },
                 "examples": [
                     { "word": "食べる", "reading": "たべる", "meaning": { "en": "To eat", "vi": "Ăn" } },
                     { "word": "食べ物", "reading": "たべもの", "meaning": { "en": "Food", "vi": "Đồ ăn" } },
                     { "word": "食堂", "reading": "しょくどう", "meaning": { "en": "Cafeteria, dining hall", "vi": "Nhà ăn" } }
                 ],
-                "sentence": { "jp": "昼ご飯を食べます。", "en": "I eat lunch." }
+                "sentence": { "jp": "昼ご飯を食べます。", "en": "I eat lunch.", "vi": "Tôi ăn trưa." }
             },
             {
                 "id": "k77",
@@ -1189,14 +1423,17 @@
                 "onyomi": "イン",
                 "kunyomi": "の-む",
                 "meaning": { "en": "Drink", "vi": "uống, ẩm" },
-                "radical": "食 (eat, food)",
-                "mnemonic": "You need food (食) but you lack (欠) something to drink.",
+                "radical": "食 (eat, food, thực)",
+                "mnemonic": {
+                    "en": "You need food (食) but you lack (欠) something to drink.",
+                    "vi": "Bạn cần thức ăn (食) nhưng lại thiếu (欠) thứ gì đó để uống."
+                },
                 "examples": [
                     { "word": "飲む", "reading": "のむ", "meaning": { "en": "To drink", "vi": "Uống" } },
                     { "word": "飲み物", "reading": "のみもの", "meaning": { "en": "Drink, beverage", "vi": "Đồ uống" } },
                     { "word": "飲酒", "reading": "いんしゅ", "meaning": { "en": "Drinking alcohol", "vi": "Uống rượu" } }
                 ],
-                "sentence": { "jp": "お茶を飲みますか。", "en": "Will you drink tea?" }
+                "sentence": { "jp": "お茶を飲みますか。", "en": "Will you drink tea?", "vi": "Bạn có uống trà không?" }
             },
             {
                 "id": "k78",
@@ -1204,14 +1441,17 @@
                 "onyomi": "ケン",
                 "kunyomi": "み-る, み-せる",
                 "meaning": { "en": "See, Look, Show", "vi": "nhìn, xem, kiến" },
-                "radical": "見 (see)",
-                "mnemonic": "An eye (目) on legs (儿), walking around to see things.",
+                "radical": "見 (see, kiến)",
+                "mnemonic": {
+                    "en": "An eye (目) on legs (儿), walking around to see things.",
+                    "vi": "Một con mắt (目) trên đôi chân (儿), đi vòng quanh để xem mọi thứ."
+                },
                 "examples": [
                     { "word": "見る", "reading": "みる", "meaning": { "en": "To see, to watch", "vi": "Xem, nhìn" } },
                     { "word": "見せる", "reading": "みせる", "meaning": { "en": "To show", "vi": "Cho xem" } },
                     { "word": "意見", "reading": "いけん", "meaning": { "en": "Opinion", "vi": "Ý kiến" } }
                 ],
-                "sentence": { "jp": "映画を見ます。", "en": "I will watch a movie." }
+                "sentence": { "jp": "映画を見ます。", "en": "I will watch a movie.", "vi": "Tôi sẽ xem một bộ phim." }
             },
             {
                 "id": "k79",
@@ -1219,14 +1459,17 @@
                 "onyomi": "ゲン, ゴン",
                 "kunyomi": "い-う, こと",
                 "meaning": { "en": "Say, Word", "vi": "nói, lời, ngôn" },
-                "radical": "言 (word)",
-                "mnemonic": "A mouth with sound waves coming out, representing words being said.",
+                "radical": "言 (word, ngôn)",
+                "mnemonic": {
+                    "en": "A mouth with sound waves coming out, representing words being said.",
+                    "vi": "Một cái miệng với sóng âm phát ra, tượng trưng cho những lời đang được nói."
+                },
                 "examples": [
                     { "word": "言う", "reading": "いう", "meaning": { "en": "To say", "vi": "Nói" } },
                     { "word": "言葉", "reading": "ことば", "meaning": { "en": "Word, language", "vi": "Từ ngữ, ngôn ngữ" } },
                     { "word": "言語", "reading": "げんご", "meaning": { "en": "Language", "vi": "Ngôn ngữ" } }
                 ],
-                "sentence": { "jp": "もう一度言ってください。", "en": "Please say it again." }
+                "sentence": { "jp": "もう一度言ってください。", "en": "Please say it again.", "vi": "Làm ơn nói lại lần nữa." }
             },
             {
                 "id": "k80",
@@ -1234,14 +1477,17 @@
                 "onyomi": "ワ",
                 "kunyomi": "はな-す, はなし",
                 "meaning": { "en": "Speak, Talk, Story", "vi": "nói chuyện, câu chuyện, thoại" },
-                "radical": "言 (word)",
-                "mnemonic": "Words (言) that come from a tongue of a thousand (千) stories.",
+                "radical": "言 (word, ngôn)",
+                "mnemonic": {
+                    "en": "Words (言) that come from a tongue of a thousand (千) stories.",
+                    "vi": "Những lời nói (言) đến từ một chiếc lưỡi của một nghìn (千) câu chuyện."
+                },
                 "examples": [
                     { "word": "話す", "reading": "はなす", "meaning": { "en": "To speak", "vi": "Nói chuyện" } },
                     { "word": "電話", "reading": "でんわ", "meaning": { "en": "Telephone", "vi": "Điện thoại" } },
                     { "word": "会話", "reading": "かいわ", "meaning": { "en": "Conversation", "vi": "Hội thoại" } }
                 ],
-                "sentence": { "jp": "日本語で話しましょう。", "en": "Let's speak in Japanese." }
+                "sentence": { "jp": "日本語で話しましょう。", "en": "Let's speak in Japanese.", "vi": "Hãy nói chuyện bằng tiếng Nhật." }
             },
             {
                 "id": "k81",
@@ -1249,14 +1495,17 @@
                 "onyomi": "カイ",
                 "kunyomi": "あ-う",
                 "meaning": { "en": "Meet, Society", "vi": "gặp, hội" },
-                "radical": "人 (person)",
-                "mnemonic": "A person under a roof, gathering for a meeting.",
+                "radical": "人 (person, nhân)",
+                "mnemonic": {
+                    "en": "A person under a roof, gathering for a meeting.",
+                    "vi": "Một người dưới mái nhà, tập trung cho một cuộc họp."
+                },
                 "examples": [
                     { "word": "会う", "reading": "あう", "meaning": { "en": "To meet", "vi": "Gặp" } },
                     { "word": "会社", "reading": "かいしゃ", "meaning": { "en": "Company", "vi": "Công ty" } },
                     { "word": "会議", "reading": "かいぎ", "meaning": { "en": "Meeting", "vi": "Cuộc họp" } }
                 ],
-                "sentence": { "jp": "友達に会います。", "en": "I will meet my friend." }
+                "sentence": { "jp": "友達に会います。", "en": "I will meet my friend.", "vi": "Tôi sẽ gặp bạn tôi." }
             },
             {
                 "id": "k82",
@@ -1264,13 +1513,16 @@
                 "onyomi": "バイ",
                 "kunyomi": "か-う",
                 "meaning": { "en": "Buy", "vi": "mua, mãi" },
-                "radical": "目 (eye)",
-                "mnemonic": "A net (罒) used to catch shellfish (貝), which were once used as money to buy things.",
+                "radical": "目 (eye, mục)",
+                "mnemonic": {
+                    "en": "A net (罒) used to catch shellfish (貝), which were once used as money to buy things.",
+                    "vi": "Một cái lưới (罒) dùng để bắt sò hến (貝), thứ từng được dùng làm tiền để mua đồ."
+                },
                 "examples": [
                     { "word": "買う", "reading": "かう", "meaning": { "en": "To buy", "vi": "Mua" } },
                     { "word": "買い物", "reading": "かいもの", "meaning": { "en": "Shopping", "vi": "Mua sắm" } }
                 ],
-                "sentence": { "jp": "新しい服を買いたいです。", "en": "I want to buy new clothes." }
+                "sentence": { "jp": "新しい服を買いたいです。", "en": "I want to buy new clothes.", "vi": "Tôi muốn mua quần áo mới." }
             },
             {
                 "id": "k142",
@@ -1278,14 +1530,17 @@
                 "onyomi": "バイ",
                 "kunyomi": "う-る",
                 "meaning": { "en": "Sell", "vi": "bán, mại" },
-                "radical": "士 (samurai)",
-                "mnemonic": "A samurai (士) as a merchant. The top part represents the item being sold.",
+                "radical": "士 (samurai, sĩ)",
+                "mnemonic": {
+                    "en": "A samurai (士) as a merchant. The top part represents the item being sold.",
+                    "vi": "Một samurai (士) trong vai một thương gia. Phần trên cùng đại diện cho mặt hàng đang được bán."
+                },
                 "examples": [
                     { "word": "売る", "reading": "うる", "meaning": { "en": "To sell", "vi": "Bán" } },
                     { "word": "売店", "reading": "ばいてん", "meaning": { "en": "Kiosk, stand", "vi": "Quầy bán hàng" } },
                     { "word": "発売", "reading": "はつばい", "meaning": { "en": "Sale, launch", "vi": "Bán ra" } }
                 ],
-                "sentence": { "jp": "古い車を売りました。", "en": "I sold my old car." }
+                "sentence": { "jp": "古い車を売りました。", "en": "I sold my old car.", "vi": "Tôi đã bán chiếc xe cũ của mình." }
             },
             {
                 "id": "k83",
@@ -1293,14 +1548,17 @@
                 "onyomi": "キュウ",
                 "kunyomi": "やす-む",
                 "meaning": { "en": "Rest", "vi": "nghỉ, hưu" },
-                "radical": "人 (person)",
-                "mnemonic": "A person (人) leaning against a tree (木) to rest.",
+                "radical": "人 (person, nhân)",
+                "mnemonic": {
+                    "en": "A person (人) leaning against a tree (木) to rest.",
+                    "vi": "Một người (人) đang dựa vào một cái cây (木) để nghỉ ngơi."
+                },
                 "examples": [
-                    { "word": "休む", "reading": "やすむ", "meaning": { "en": "To rest, to be absent", "vi": "Nghỉ ngơi" } },
-                    { "word": "休み", "reading": "やすみ", "meaning": { "en": "Holiday, day off", "vi": "Ngày nghỉ" } },
+                    { "word": "休む", "reading": "やすむ", "meaning": { "en": "To rest, to be absent", "vi": "Nghỉ ngơi, vắng mặt" } },
+                    { "word": "休み", "reading": "やすみ", "meaning": { "en": "Holiday, day off", "vi": "Ngày nghỉ, ngày lễ" } },
                     { "word": "休日", "reading": "きゅうじつ", "meaning": { "en": "Holiday", "vi": "Ngày lễ" } }
                 ],
-                "sentence": { "jp": "今日は休みです。", "en": "Today is a day off." }
+                "sentence": { "jp": "今日は休みです。", "en": "Today is a day off.", "vi": "Hôm nay là một ngày nghỉ." }
             },
             {
                 "id": "k84",
@@ -1308,14 +1566,17 @@
                 "onyomi": "シュツ, スイ",
                 "kunyomi": "で-る, だ-す",
                 "meaning": { "en": "Go out, Put out", "vi": "ra, lấy ra, xuất" },
-                "radical": "凵 (open box)",
-                "mnemonic": "Two mountains (山) stacked on top of each other, representing something emerging or coming out.",
+                "radical": "凵 (open box, khảm)",
+                "mnemonic": {
+                    "en": "Two mountains (山) stacked on top of each other, representing something emerging or coming out.",
+                    "vi": "Hai ngọn núi (山) xếp chồng lên nhau, tượng trưng cho một thứ gì đó đang nổi lên hoặc đi ra."
+                },
                 "examples": [
-                    { "word": "出る", "reading": "でる", "meaning": { "en": "To go out, to exit", "vi": "Đi ra" } },
+                    { "word": "出る", "reading": "でる", "meaning": { "en": "To go out, to exit", "vi": "Đi ra, thoát ra" } },
                     { "word": "出す", "reading": "だす", "meaning": { "en": "To take out", "vi": "Lấy ra" } },
                     { "word": "出口", "reading": "でぐち", "meaning": { "en": "Exit", "vi": "Lối ra" } }
                 ],
-                "sentence": { "jp": "家を出ます。", "en": "I am leaving the house." }
+                "sentence": { "jp": "家を出ます。", "en": "I am leaving the house.", "vi": "Tôi đang rời khỏi nhà." }
             },
             {
                 "id": "k85",
@@ -1323,14 +1584,17 @@
                 "onyomi": "ニュウ",
                 "kunyomi": "はい-る, い-れる",
                 "meaning": { "en": "Enter, Put in", "vi": "vào, cho vào, nhập" },
-                "radical": "入 (enter)",
-                "mnemonic": "A pictograph of a tipi or tent flap, something you enter.",
+                "radical": "入 (enter, nhập)",
+                "mnemonic": {
+                    "en": "A pictograph of a tipi or tent flap, something you enter.",
+                    "vi": "Một chữ tượng hình của một cái lều hoặc cửa lều, một thứ bạn đi vào."
+                },
                 "examples": [
                     { "word": "入る", "reading": "はいる", "meaning": { "en": "To enter", "vi": "Đi vào" } },
                     { "word": "入れる", "reading": "いれる", "meaning": { "en": "To put in", "vi": "Cho vào" } },
                     { "word": "入口", "reading": "いりぐち", "meaning": { "en": "Entrance", "vi": "Lối vào" } }
                 ],
-                "sentence": { "jp": "部屋に入ってください。", "en": "Please enter the room." }
+                "sentence": { "jp": "部屋に入ってください。", "en": "Please enter the room.", "vi": "Xin hãy vào phòng." }
             },
             {
                 "id": "k86",
@@ -1338,14 +1602,17 @@
                 "onyomi": "リツ, リュウ",
                 "kunyomi": "た-つ, た-てる",
                 "meaning": { "en": "Stand", "vi": "đứng, lập" },
-                "radical": "立 (stand)",
-                "mnemonic": "A person standing firmly on the ground.",
+                "radical": "立 (stand, lập)",
+                "mnemonic": {
+                    "en": "A person standing firmly on the ground.",
+                    "vi": "Một người đang đứng vững trên mặt đất."
+                },
                 "examples": [
                     { "word": "立つ", "reading": "たつ", "meaning": { "en": "To stand", "vi": "Đứng" } },
                     { "word": "国立", "reading": "こくりつ", "meaning": { "en": "National", "vi": "Quốc lập" } },
                     { "word": "設立", "reading": "せつりつ", "meaning": { "en": "Establishment", "vi": "Thành lập" } }
                 ],
-                "sentence": { "jp": "ここに立ってください。", "en": "Please stand here." }
+                "sentence": { "jp": "ここに立ってください。", "en": "Please stand here.", "vi": "Xin hãy đứng ở đây." }
             },
             {
                 "id": "k87",
@@ -1353,14 +1620,17 @@
                 "onyomi": "タイ",
                 "kunyomi": "ま-つ",
                 "meaning": { "en": "Wait", "vi": "đợi, đãi" },
-                "radical": "彳 (step)",
-                "mnemonic": "A person taking small steps (彳) at a temple (寺), waiting for someone.",
+                "radical": "彳 (step, xích)",
+                "mnemonic": {
+                    "en": "A person taking small steps (彳) at a temple (寺), waiting for someone.",
+                    "vi": "Một người đang đi những bước nhỏ (彳) tại một ngôi đền (寺), chờ đợi ai đó."
+                },
                 "examples": [
                     { "word": "待つ", "reading": "まつ", "meaning": { "en": "To wait", "vi": "Đợi" } },
                     { "word": "招待", "reading": "しょうたい", "meaning": { "en": "Invitation", "vi": "Lời mời" } },
                     { "word": "期待", "reading": "きたい", "meaning": { "en": "Expectation", "vi": "Kỳ vọng" } }
                 ],
-                "sentence": { "jp": "バスを待っています。", "en": "I am waiting for the bus." }
+                "sentence": { "jp": "バスを待っています。", "en": "I am waiting for the bus.", "vi": "Tôi đang đợi xe buýt." }
             },
             {
                 "id": "k88",
@@ -1368,14 +1638,17 @@
                 "onyomi": "ジ",
                 "kunyomi": "も-つ",
                 "meaning": { "en": "Hold, Have", "vi": "cầm, mang, trì" },
-                "radical": "手 (hand)",
-                "mnemonic": "A hand (手) at a temple (寺), holding something precious.",
+                "radical": "手 (hand, thủ)",
+                "mnemonic": {
+                    "en": "A hand (手) at a temple (寺), holding something precious.",
+                    "vi": "Một bàn tay (手) tại một ngôi đền (寺), cầm một vật quý giá."
+                },
                 "examples": [
                     { "word": "持つ", "reading": "もつ", "meaning": { "en": "To hold, to have", "vi": "Cầm, có" } },
                     { "word": "気持ち", "reading": "きもち", "meaning": { "en": "Feeling", "vi": "Cảm xúc" } },
                     { "word": "金持ち", "reading": "かねもち", "meaning": { "en": "Rich person", "vi": "Người giàu" } }
                 ],
-                "sentence": { "jp": "荷物を持ってください。", "en": "Please hold the luggage." }
+                "sentence": { "jp": "荷物を持ってください。", "en": "Please hold the luggage.", "vi": "Xin hãy giữ hành lý." }
             },
             {
                 "id": "k89",
@@ -1383,14 +1656,17 @@
                 "onyomi": "サク, サ",
                 "kunyomi": "つく-る",
                 "meaning": { "en": "Make", "vi": "làm, tạo, tác" },
-                "radical": "人 (person)",
-                "mnemonic": "A person (亻) from the past (乍) making something.",
+                "radical": "人 (person, nhân)",
+                "mnemonic": {
+                    "en": "A person (亻) from the past (乍) making something.",
+                    "vi": "Một người (亻) từ quá khứ (乍) đang làm một cái gì đó."
+                },
                 "examples": [
                     { "word": "作る", "reading": "つくる", "meaning": { "en": "To make", "vi": "Làm, tạo ra" } },
                     { "word": "作品", "reading": "さくひん", "meaning": { "en": "Work of art, piece", "vi": "Tác phẩm" } },
                     { "word": "作文", "reading": "さくぶん", "meaning": { "en": "Composition, essay", "vi": "Bài văn" } }
                 ],
-                "sentence": { "jp": "夕食を作ります。", "en": "I will make dinner." }
+                "sentence": { "jp": "夕食を作ります。", "en": "I will make dinner.", "vi": "Tôi sẽ làm bữa tối." }
             },
             {
                 "id": "k90",
@@ -1398,14 +1674,17 @@
                 "onyomi": "シ",
                 "kunyomi": "つか-う",
                 "meaning": { "en": "Use", "vi": "sử dụng, sứ" },
-                "radical": "人 (person)",
-                "mnemonic": "A person (亻) managing a historical official or scribe.",
+                "radical": "人 (person, nhân)",
+                "mnemonic": {
+                    "en": "A person (亻) managing a historical official or scribe.",
+                    "vi": "Một người (亻) quản lý một quan chức hoặc người ghi chép trong lịch sử."
+                },
                 "examples": [
                     { "word": "使う", "reading": "つかう", "meaning": { "en": "To use", "vi": "Sử dụng" } },
                     { "word": "使い方", "reading": "つかいかた", "meaning": { "en": "How to use", "vi": "Cách sử dụng" } },
                     { "word": "大使館", "reading": "たいしかん", "meaning": { "en": "Embassy", "vi": "Đại sứ quán" } }
                 ],
-                "sentence": { "jp": "パソコンを使います。", "en": "I use a computer." }
+                "sentence": { "jp": "パソコンを使います。", "en": "I use a computer.", "vi": "Tôi sử dụng máy tính." }
             },
             {
                 "id": "k91",
@@ -1413,14 +1692,17 @@
                 "onyomi": "キョウ",
                 "kunyomi": "おし-える, おそ-わる",
                 "meaning": { "en": "Teach, Learn", "vi": "dạy, chỉ bảo, giáo" },
-                "radical": "攵 (strike)",
-                "mnemonic": "A teacher teaching filial piety (孝) to a child (子) with a stick (攵).",
+                "radical": "攵 (strike, phộc)",
+                "mnemonic": {
+                    "en": "A teacher teaching filial piety (孝) to a child (子) with a stick (攵).",
+                    "vi": "Một người thầy dạy lòng hiếu thảo (孝) cho một đứa trẻ (子) bằng một cây gậy (攵)."
+                },
                 "examples": [
                     { "word": "教える", "reading": "おしえる", "meaning": { "en": "To teach", "vi": "Dạy" } },
                     { "word": "教室", "reading": "きょうしつ", "meaning": { "en": "Classroom", "vi": "Phòng học" } },
                     { "word": "教会", "reading": "きょうかい", "meaning": { "en": "Church", "vi": "Nhà thờ" } }
                 ],
-                "sentence": { "jp": "先生が日本語を教えています。", "en": "The teacher is teaching Japanese." }
+                "sentence": { "jp": "先生が日本語を教えています。", "en": "The teacher is teaching Japanese.", "vi": "Giáo viên đang dạy tiếng Nhật." }
             },
             {
                 "id": "k131",
@@ -1428,13 +1710,16 @@
                 "onyomi": "ソウ",
                 "kunyomi": "はし-る",
                 "meaning": { "en": "Run", "vi": "chạy, tẩu" },
-                "radical": "走 (run)",
-                "mnemonic": "A person made of earth (土) running away, with their legs (止) moving fast.",
+                "radical": "走 (run, tẩu)",
+                "mnemonic": {
+                    "en": "A person made of earth (土) running away, with their legs (止) moving fast.",
+                    "vi": "Một người làm bằng đất (土) đang chạy trốn, với đôi chân (止) di chuyển nhanh."
+                },
                 "examples": [
                     { "word": "走る", "reading": "はしる", "meaning": { "en": "To run", "vi": "Chạy" } },
                     { "word": "競争", "reading": "きょうそう", "meaning": { "en": "Competition, race", "vi": "Cuộc thi" } }
                 ],
-                "sentence": { "jp": "公園を走ります。", "en": "I run in the park." }
+                "sentence": { "jp": "公園を走ります。", "en": "I run in the park.", "vi": "Tôi chạy trong công viên." }
             },
             {
                 "id": "k132",
@@ -1442,14 +1727,17 @@
                 "onyomi": "ホ, ブ, フ",
                 "kunyomi": "ある-く, あゆ-む",
                 "meaning": { "en": "Walk", "vi": "đi bộ, bộ" },
-                "radical": "止 (stop)",
-                "mnemonic": "To stop (止) for a little (少) while during a walk.",
+                "radical": "止 (stop, chỉ)",
+                "mnemonic": {
+                    "en": "To stop (止) for a little (少) while during a walk.",
+                    "vi": "Dừng lại (止) một chút (少) trong khi đi bộ."
+                },
                 "examples": [
                     { "word": "歩く", "reading": "あるく", "meaning": { "en": "To walk", "vi": "Đi bộ" } },
                     { "word": "散歩", "reading": "さんぽ", "meaning": { "en": "A walk, stroll", "vi": "Đi dạo" } },
                     { "word": "進歩", "reading": "しんぽ", "meaning": { "en": "Progress", "vi": "Tiến bộ" } }
                 ],
-                "sentence": { "jp": "毎日、駅まで歩きます。", "en": "I walk to the station every day." }
+                "sentence": { "jp": "毎日、駅まで歩きます。", "en": "I walk to the station every day.", "vi": "Tôi đi bộ đến ga mỗi ngày." }
             },
             {
                 "id": "k133",
@@ -1457,13 +1745,16 @@
                 "onyomi": "キ",
                 "kunyomi": "お-きる, お-こす",
                 "meaning": { "en": "Wake up, Get up", "vi": "thức dậy, khởi" },
-                "radical": "走 (run)",
-                "mnemonic": "To run (走) after you yourself (己) get up.",
+                "radical": "走 (run, tẩu)",
+                "mnemonic": {
+                    "en": "To run (走) after you yourself (己) get up.",
+                    "vi": "Chạy (走) sau khi chính bạn (己) đã thức dậy."
+                },
                 "examples": [
                     { "word": "起きる", "reading": "おきる", "meaning": { "en": "To wake up, get up", "vi": "Thức dậy" } },
                     { "word": "起こす", "reading": "おこす", "meaning": { "en": "To wake someone up", "vi": "Đánh thức" } }
                 ],
-                "sentence": { "jp": "毎朝六時に起きます。", "en": "I get up at 6 o'clock every morning." }
+                "sentence": { "jp": "毎朝六時に起きます。", "en": "I get up at 6 o'clock every morning.", "vi": "Tôi thức dậy lúc 6 giờ mỗi sáng." }
             },
             {
                 "id": "k134",
@@ -1471,14 +1762,17 @@
                 "onyomi": "シン",
                 "kunyomi": "ね-る, ね-かす",
                 "meaning": { "en": "Sleep, Lie down", "vi": "ngủ, tẩm" },
-                "radical": "宀 (roof)",
-                "mnemonic": "Under a roof (宀), a person lies on a bed (right part) to sleep.",
+                "radical": "宀 (roof, miên)",
+                "mnemonic": {
+                    "en": "Under a roof (宀), a person lies on a bed (right part) to sleep.",
+                    "vi": "Dưới một mái nhà (宀), một người nằm trên giường (phần bên phải) để ngủ."
+                },
                 "examples": [
                     { "word": "寝る", "reading": "ねる", "meaning": { "en": "To sleep", "vi": "Ngủ" } },
                     { "word": "寝室", "reading": "しんしつ", "meaning": { "en": "Bedroom", "vi": "Phòng ngủ" } },
                     { "word": "昼寝", "reading": "ひるね", "meaning": { "en": "Nap", "vi": "Ngủ trưa" } }
                 ],
-                "sentence": { "jp": "夜十一時に寝ます。", "en": "I go to sleep at 11 PM." }
+                "sentence": { "jp": "夜十一時に寝ます。", "en": "I go to sleep at 11 PM.", "vi": "Tôi đi ngủ lúc 11 giờ tối." }
             }
         ]
     },
@@ -1492,14 +1786,17 @@
                 "onyomi": "ダイ, タイ",
                 "kunyomi": "おお-きい, おお-いに",
                 "meaning": { "en": "Big, Large", "vi": "to, lớn, đại" },
-                "radical": "大 (big)",
-                "mnemonic": "A person (人) with arms stretched wide to show how big something is.",
+                "radical": "大 (big, đại)",
+                "mnemonic": {
+                    "en": "A person (人) with arms stretched wide to show how big something is.",
+                    "vi": "Một người (人) dang rộng tay để cho thấy một thứ gì đó lớn như thế nào."
+                },
                 "examples": [
                     { "word": "大きい", "reading": "おおきい", "meaning": { "en": "Big", "vi": "To, lớn" } },
                     { "word": "大学", "reading": "だいがく", "meaning": { "en": "University", "vi": "Đại học" } },
                     { "word": "大丈夫", "reading": "だいじょうぶ", "meaning": { "en": "Okay, all right", "vi": "Không sao, ổn" } }
                 ],
-                "sentence": { "jp": "この犬は大きいです。", "en": "This dog is big." }
+                "sentence": { "jp": "この犬は大きいです。", "en": "This dog is big.", "vi": "Con chó này to." }
             },
             {
                 "id": "k93",
@@ -1507,14 +1804,17 @@
                 "onyomi": "ショウ",
                 "kunyomi": "ちい-さい, こ",
                 "meaning": { "en": "Small", "vi": "nhỏ, tiểu" },
-                "radical": "小 (small)",
-                "mnemonic": "A vertical line with two small dots, representing something small.",
+                "radical": "小 (small, tiểu)",
+                "mnemonic": {
+                    "en": "A vertical line with two small dots, representing something small.",
+                    "vi": "Một đường thẳng đứng với hai chấm nhỏ, đại diện cho một thứ gì đó nhỏ."
+                },
                 "examples": [
                     { "word": "小さい", "reading": "ちいさい", "meaning": { "en": "Small", "vi": "Nhỏ" } },
                     { "word": "小学校", "reading": "しょうがっこう", "meaning": { "en": "Elementary school", "vi": "Trường tiểu học" } },
                     { "word": "小説", "reading": "しょうせつ", "meaning": { "en": "Novel", "vi": "Tiểu thuyết" } }
                 ],
-                "sentence": { "jp": "これは小さい箱です。", "en": "This is a small box." }
+                "sentence": { "jp": "これは小さい箱です。", "en": "This is a small box.", "vi": "Đây là một cái hộp nhỏ." }
             },
             {
                 "id": "k94",
@@ -1522,14 +1822,17 @@
                 "onyomi": "コウ",
                 "kunyomi": "たか-い",
                 "meaning": { "en": "High, Expensive", "vi": "cao, đắt" },
-                "radical": "高 (tall)",
-                "mnemonic": "A tall building with a roof, multiple floors, and a base.",
+                "radical": "高 (tall, cao)",
+                "mnemonic": {
+                    "en": "A tall building with a roof, multiple floors, and a base.",
+                    "vi": "Một tòa nhà cao có mái, nhiều tầng và một nền móng."
+                },
                 "examples": [
                     { "word": "高い", "reading": "たかい", "meaning": { "en": "High, expensive", "vi": "Cao, đắt" } },
                     { "word": "高校", "reading": "こうこう", "meaning": { "en": "High school", "vi": "Trường cấp ba" } },
                     { "word": "最高", "reading": "さいこう", "meaning": { "en": "The best, maximum", "vi": "Tuyệt vời, cao nhất" } }
                 ],
-                "sentence": { "jp": "このビルはとても高いです。", "en": "This building is very tall." }
+                "sentence": { "jp": "このビルはとても高いです。", "en": "This building is very tall.", "vi": "Tòa nhà này rất cao." }
             },
             {
                 "id": "k95",
@@ -1537,14 +1840,17 @@
                 "onyomi": "アン",
                 "kunyomi": "やす-い",
                 "meaning": { "en": "Cheap, Peaceful", "vi": "rẻ, an" },
-                "radical": "宀 (roof)",
-                "mnemonic": "A woman (女) under a roof (宀), feeling safe and at peace.",
+                "radical": "宀 (roof, miên)",
+                "mnemonic": {
+                    "en": "A woman (女) under a roof (宀), feeling safe and at peace.",
+                    "vi": "Một người phụ nữ (女) dưới một mái nhà (宀), cảm thấy an toàn và bình yên."
+                },
                 "examples": [
                     { "word": "安い", "reading": "やすい", "meaning": { "en": "Cheap", "vi": "Rẻ" } },
                     { "word": "安心", "reading": "あんしん", "meaning": { "en": "Relief, peace of mind", "vi": "An tâm" } },
                     { "word": "安全", "reading": "あんぜん", "meaning": { "en": "Safety", "vi": "An toàn" } }
                 ],
-                "sentence": { "jp": "この店は安いです。", "en": "This shop is cheap." }
+                "sentence": { "jp": "この店は安いです。", "en": "This shop is cheap.", "vi": "Cửa hàng này rẻ." }
             },
             {
                 "id": "k96",
@@ -1552,14 +1858,17 @@
                 "onyomi": "シン",
                 "kunyomi": "あたら-しい",
                 "meaning": { "en": "New", "vi": "mới, tân" },
-                "radical": "斤 (axe)",
-                "mnemonic": "To stand (立) by a tree (木) and chop it with an axe (斤) to make something new.",
+                "radical": "斤 (axe, cân)",
+                "mnemonic": {
+                    "en": "To stand (立) by a tree (木) and chop it with an axe (斤) to make something new.",
+                    "vi": "Đứng (立) cạnh một cái cây (木) và chặt nó bằng một cái rìu (斤) để làm ra một thứ gì đó mới."
+                },
                 "examples": [
                     { "word": "新しい", "reading": "あたらしい", "meaning": { "en": "New", "vi": "Mới" } },
                     { "word": "新聞", "reading": "しんぶん", "meaning": { "en": "Newspaper", "vi": "Báo" } },
                     { "word": "新年", "reading": "しんねん", "meaning": { "en": "New Year", "vi": "Năm mới" } }
                 ],
-                "sentence": { "jp": "新しい車を買いました。", "en": "I bought a new car." }
+                "sentence": { "jp": "新しい車を買いました。", "en": "I bought a new car.", "vi": "Tôi đã mua một chiếc xe mới." }
             },
             {
                 "id": "k97",
@@ -1567,14 +1876,17 @@
                 "onyomi": "コ",
                 "kunyomi": "ふる-い",
                 "meaning": { "en": "Old", "vi": "cũ, cổ" },
-                "radical": "口 (mouth)",
-                "mnemonic": "Ten (十) mouths (口) telling stories from old times.",
+                "radical": "口 (mouth, khẩu)",
+                "mnemonic": {
+                    "en": "Ten (十) mouths (口) telling stories from old times.",
+                    "vi": "Mười (十) cái miệng (口) kể những câu chuyện từ thời xa xưa."
+                },
                 "examples": [
-                    { "word": "古い", "reading": "ふるい", "meaning": { "en": "Old (for things)", "vi": "Cũ" } },
+                    { "word": "古い", "reading": "ふるい", "meaning": { "en": "Old (for things)", "vi": "Cũ (cho đồ vật)" } },
                     { "word": "古本", "reading": "ふるほん", "meaning": { "en": "Used book", "vi": "Sách cũ" } },
                     { "word": "中古", "reading": "ちゅうこ", "meaning": { "en": "Second-hand", "vi": "Đồ cũ" } }
                 ],
-                "sentence": { "jp": "この家は古いです。", "en": "This house is old." }
+                "sentence": { "jp": "この家は古いです。", "en": "This house is old.", "vi": "Ngôi nhà này cũ rồi." }
             },
             {
                 "id": "k98",
@@ -1582,14 +1894,17 @@
                 "onyomi": "チョウ",
                 "kunyomi": "なが-い",
                 "meaning": { "en": "Long, Leader", "vi": "dài, trưởng, trường" },
-                "radical": "長 (long)",
-                "mnemonic": "A pictograph of an old person with long hair, representing 'long' or 'leader'.",
+                "radical": "長 (long, trường)",
+                "mnemonic": {
+                    "en": "A pictograph of an old person with long hair, representing 'long' or 'leader'.",
+                    "vi": "Một chữ tượng hình của một người già với mái tóc dài, tượng trưng cho 'dài' hoặc 'trưởng'."
+                },
                 "examples": [
                     { "word": "長い", "reading": "ながい", "meaning": { "en": "Long", "vi": "Dài" } },
                     { "word": "社長", "reading": "しゃちょう", "meaning": { "en": "Company president", "vi": "Giám đốc" } },
                     { "word": "長所", "reading": "ちょうしょ", "meaning": { "en": "Strong point, merit", "vi": "Sở trường" } }
                 ],
-                "sentence": { "jp": "髪が長いです。", "en": "My hair is long." }
+                "sentence": { "jp": "髪が長いです。", "en": "My hair is long.", "vi": "Tóc tôi dài." }
             },
             {
                 "id": "k99",
@@ -1597,14 +1912,17 @@
                 "onyomi": "タ",
                 "kunyomi": "おお-い",
                 "meaning": { "en": "Many, Much", "vi": "nhiều, đa" },
-                "radical": "夕 (evening)",
-                "mnemonic": "Two evenings (夕) stacked on top of each other. Many nights have passed.",
+                "radical": "夕 (evening, tịch)",
+                "mnemonic": {
+                    "en": "Two evenings (夕) stacked on top of each other. Many nights have passed.",
+                    "vi": "Hai buổi tối (夕) xếp chồng lên nhau. Nhiều đêm đã trôi qua."
+                },
                 "examples": [
                     { "word": "多い", "reading": "おおい", "meaning": { "en": "Many, much", "vi": "Nhiều" } },
                     { "word": "多分", "reading": "たぶん", "meaning": { "en": "Probably, maybe", "vi": "Có lẽ" } },
                     { "word": "多数決", "reading": "たすうけつ", "meaning": { "en": "Majority rule", "vi": "Biểu quyết theo đa số" } }
                 ],
-                "sentence": { "jp": "人が多いです。", "en": "There are many people." }
+                "sentence": { "jp": "人が多いです。", "en": "There are many people.", "vi": "Có nhiều người." }
             },
             {
                 "id": "k100",
@@ -1612,14 +1930,17 @@
                 "onyomi": "ショウ",
                 "kunyomi": "すく-ない, すこ-し",
                 "meaning": { "en": "Few, A little", "vi": "ít, một chút, thiểu" },
-                "radical": "小 (small)",
-                "mnemonic": "A small (小) amount, with a line representing a bit more.",
+                "radical": "小 (small, tiểu)",
+                "mnemonic": {
+                    "en": "A small (小) amount, with a line representing a bit more.",
+                    "vi": "Một lượng nhỏ (小), với một đường kẻ đại diện cho một chút nữa."
+                },
                 "examples": [
                     { "word": "少ない", "reading": "すくない", "meaning": { "en": "Few, a little", "vi": "Ít" } },
                     { "word": "少し", "reading": "すこし", "meaning": { "en": "A little", "vi": "Một chút" } },
                     { "word": "少年", "reading": "しょうねん", "meaning": { "en": "Boy", "vi": "Thiếu niên" } }
                 ],
-                "sentence": { "jp": "時間が少ないです。", "en": "There is little time." }
+                "sentence": { "jp": "時間が少ないです。", "en": "There is little time.", "vi": "Có ít thời gian." }
             },
             {
                 "id": "k101",
@@ -1627,14 +1948,17 @@
                 "onyomi": "ハク, ビャク",
                 "kunyomi": "しろ, しろ-い",
                 "meaning": { "en": "White", "vi": "trắng, bạch" },
-                "radical": "白 (white)",
-                "mnemonic": "A drop of sunlight (日), which is white.",
+                "radical": "白 (white, trắng)",
+                "mnemonic": {
+                    "en": "A drop of sunlight (日), which is white.",
+                    "vi": "Một giọt ánh nắng mặt trời (日), có màu trắng."
+                },
                 "examples": [
                     { "word": "白い", "reading": "しろい", "meaning": { "en": "White", "vi": "Màu trắng" } },
                     { "word": "面白い", "reading": "おもしろい", "meaning": { "en": "Interesting, funny", "vi": "Thú vị" } },
                     { "word": "白鳥", "reading": "はくちょう", "meaning": { "en": "Swan", "vi": "Thiên nga" } }
                 ],
-                "sentence": { "jp": "白い猫が好きです。", "en": "I like white cats." }
+                "sentence": { "jp": "白い猫が好きです。", "en": "I like white cats.", "vi": "Tôi thích mèo trắng." }
             },
             {
                 "id": "k102",
@@ -1642,14 +1966,17 @@
                 "onyomi": "セキ, シャク",
                 "kunyomi": "あか, あか-い",
                 "meaning": { "en": "Red", "vi": "đỏ, xích" },
-                "radical": "赤 (red)",
-                "mnemonic": "Earth (土) on fire (灬), glowing red.",
+                "radical": "赤 (red, xích)",
+                "mnemonic": {
+                    "en": "Earth (土) on fire (灬), glowing red.",
+                    "vi": "Đất (土) trên lửa (灬), phát sáng màu đỏ."
+                },
                 "examples": [
                     { "word": "赤い", "reading": "あかい", "meaning": { "en": "Red", "vi": "Màu đỏ" } },
                     { "word": "赤ちゃん", "reading": "あかちゃん", "meaning": { "en": "Baby", "vi": "Em bé" } },
                     { "word": "赤字", "reading": "あかじ", "meaning": { "en": "Deficit, 'in the red'", "vi": "Thâm hụt, lỗ" } }
                 ],
-                "sentence": { "jp": "そのドレスは赤いです。", "en": "That dress is red." }
+                "sentence": { "jp": "そのドレスは赤いです。", "en": "That dress is red.", "vi": "Cái váy đó màu đỏ." }
             },
             {
                 "id": "k103",
@@ -1657,14 +1984,17 @@
                 "onyomi": "セイ, ショウ",
                 "kunyomi": "あお, あお-い",
                 "meaning": { "en": "Blue", "vi": "xanh, thanh" },
-                "radical": "青 (blue)",
-                "mnemonic": "A plant (生) growing under the moon (月), appearing blue in the dim light.",
+                "radical": "青 (blue, thanh)",
+                "mnemonic": {
+                    "en": "A plant (生) growing under the moon (月), appearing blue in the dim light.",
+                    "vi": "Một cái cây (生) mọc dưới ánh trăng (月), có màu xanh trong ánh sáng mờ ảo."
+                },
                 "examples": [
                     { "word": "青い", "reading": "あおい", "meaning": { "en": "Blue", "vi": "Màu xanh" } },
                     { "word": "青年", "reading": "せいねん", "meaning": { "en": "Youth, young man", "vi": "Thanh niên" } },
                     { "word": "青空", "reading": "あおぞら", "meaning": { "en": "Blue sky", "vi": "Bầu trời xanh" } }
                 ],
-                "sentence": { "jp": "空は青いです。", "en": "The sky is blue." }
+                "sentence": { "jp": "空は青いです。", "en": "The sky is blue.", "vi": "Bầu trời màu xanh." }
             },
             {
                 "id": "k124",
@@ -1672,14 +2002,17 @@
                 "onyomi": "コク",
                 "kunyomi": "くろ, くろ-い",
                 "meaning": { "en": "Black", "vi": "đen, hắc" },
-                "radical": "黒 (black)",
-                "mnemonic": "A window (里) covered in soot from a fire (灬), making it black.",
+                "radical": "黒 (black, hắc)",
+                "mnemonic": {
+                    "en": "A window (里) covered in soot from a fire (灬), making it black.",
+                    "vi": "Một cửa sổ (里) bị bồ hóng từ lửa (灬) bao phủ, làm cho nó có màu đen."
+                },
                 "examples": [
                     { "word": "黒い", "reading": "くろい", "meaning": { "en": "Black", "vi": "Màu đen" } },
                     { "word": "黒板", "reading": "こくばん", "meaning": { "en": "Blackboard", "vi": "Bảng đen" } },
                     { "word": "真っ黒", "reading": "まっくろ", "meaning": { "en": "Pitch black", "vi": "Đen kịt" } }
                 ],
-                "sentence": { "jp": "黒い犬を飼っています。", "en": "I have a black dog." }
+                "sentence": { "jp": "黒い犬を飼っています。", "en": "I have a black dog.", "vi": "Tôi có một con chó đen." }
             },
             {
                 "id": "k104",
@@ -1687,13 +2020,16 @@
                 "onyomi": "コウ",
                 "kunyomi": "す-き, この-む",
                 "meaning": { "en": "Like, Favorite", "vi": "thích, hảo" },
-                "radical": "女 (woman)",
-                "mnemonic": "A woman (女) and a child (子) together, a picture of love and fondness.",
+                "radical": "女 (woman, nữ)",
+                "mnemonic": {
+                    "en": "A woman (女) and a child (子) together, a picture of love and fondness.",
+                    "vi": "Một người phụ nữ (女) và một đứa trẻ (子) ở bên nhau, một bức tranh của tình yêu và sự yêu mến."
+                },
                 "examples": [
                     { "word": "好き", "reading": "すき", "meaning": { "en": "To like", "vi": "Thích" } },
                     { "word": "好物", "reading": "こうぶつ", "meaning": { "en": "Favorite food", "vi": "Món ăn yêu thích" } }
                 ],
-                "sentence": { "jp": "寿司が好きです。", "en": "I like sushi." }
+                "sentence": { "jp": "寿司が好きです。", "en": "I like sushi.", "vi": "Tôi thích sushi." }
             },
             {
                 "id": "k105",
@@ -1701,14 +2037,17 @@
                 "onyomi": "ゲン, ガン",
                 "kunyomi": "もと",
                 "meaning": { "en": "Origin, Healthy", "vi": "gốc, khỏe, nguyên" },
-                "radical": "儿 (legs)",
-                "mnemonic": "The number two (二) on legs (儿), representing the origin or beginning of things.",
+                "radical": "儿 (legs, nhân đi)",
+                "mnemonic": {
+                    "en": "The number two (二) on legs (儿), representing the origin or beginning of things.",
+                    "vi": "Số hai (二) trên đôi chân (儿), đại diện cho nguồn gốc hoặc sự khởi đầu của mọi thứ."
+                },
                 "examples": [
                     { "word": "元気", "reading": "げんき", "meaning": { "en": "Healthy, energetic", "vi": "Khỏe mạnh" } },
                     { "word": "元々", "reading": "もともと", "meaning": { "en": "Originally", "vi": "Vốn dĩ" } },
                     { "word": "地元", "reading": "じもと", "meaning": { "en": "Local area", "vi": "Địa phương" } }
                 ],
-                "sentence": { "jp": "お元気ですか。", "en": "How are you?" }
+                "sentence": { "jp": "お元気ですか。", "en": "How are you?", "vi": "Bạn có khỏe không?" }
             },
             {
                 "id": "k106",
@@ -1716,13 +2055,16 @@
                 "onyomi": "ソウ, サッ",
                 "kunyomi": "はや-い",
                 "meaning": { "en": "Early, Fast", "vi": "sớm, nhanh, tảo" },
-                "radical": "日 (sun)",
-                "mnemonic": "The sun (日) with a cross (十) on top, representing the sun early in the morning.",
+                "radical": "日 (sun, nhật)",
+                "mnemonic": {
+                    "en": "The sun (日) with a cross (十) on top, representing the sun early in the morning.",
+                    "vi": "Mặt trời (日) với một cây thánh giá (十) trên đỉnh, đại diện cho mặt trời vào buổi sáng sớm."
+                },
                 "examples": [
                     { "word": "早い", "reading": "はやい", "meaning": { "en": "Early", "vi": "Sớm" } },
                     { "word": "早速", "reading": "さっそく", "meaning": { "en": "Immediately", "vi": "Ngay lập tức" } }
                 ],
-                "sentence": { "jp": "朝早く起きます。", "en": "I wake up early in the morning." }
+                "sentence": { "jp": "朝早く起きます。", "en": "I wake up early in the morning.", "vi": "Tôi thức dậy sớm vào buổi sáng." }
             },
             {
                 "id": "k125",
@@ -1730,13 +2072,16 @@
                 "onyomi": "ショ",
                 "kunyomi": "あつ-い",
                 "meaning": { "en": "Hot (weather)", "vi": "nóng, thử" },
-                "radical": "日 (sun)",
-                "mnemonic": "The sun (日) making a person (者) feel hot.",
+                "radical": "日 (sun, nhật)",
+                "mnemonic": {
+                    "en": "The sun (日) making a person (者) feel hot.",
+                    "vi": "Mặt trời (日) làm cho một người (者) cảm thấy nóng."
+                },
                 "examples": [
                     { "word": "暑い", "reading": "あつい", "meaning": { "en": "Hot (weather)", "vi": "Nóng (thời tiết)" } },
                     { "word": "猛暑", "reading": "もうしょ", "meaning": { "en": "Heatwave", "vi": "Nắng nóng gay gắt" } }
                 ],
-                "sentence": { "jp": "今日は暑いですね。", "en": "It's hot today, isn't it?" }
+                "sentence": { "jp": "今日は暑いですね。", "en": "It's hot today, isn't it?", "vi": "Hôm nay trời nóng nhỉ?" }
             },
             {
                 "id": "k126",
@@ -1744,13 +2089,16 @@
                 "onyomi": "カン",
                 "kunyomi": "さむ-い",
                 "meaning": { "en": "Cold (weather)", "vi": "lạnh, hàn" },
-                "radical": "宀 (roof)",
-                "mnemonic": "Under a roof (宀), a person huddles with straw (bottom part) and ice (冫) outside, feeling cold.",
+                "radical": "宀 (roof, miên)",
+                "mnemonic": {
+                    "en": "Under a roof (宀), a person huddles with straw (bottom part) and ice (冫) outside, feeling cold.",
+                    "vi": "Dưới một mái nhà (宀), một người co ro với rơm (phần dưới) và băng (冫) bên ngoài, cảm thấy lạnh."
+                },
                 "examples": [
                     { "word": "寒い", "reading": "さむい", "meaning": { "en": "Cold (weather)", "vi": "Lạnh (thời tiết)" } },
                     { "word": "寒気", "reading": "さむけ", "meaning": { "en": "Chill", "vi": "Cảm giác ớn lạnh" } }
                 ],
-                "sentence": { "jp": "冬は寒いです。", "en": "Winter is cold." }
+                "sentence": { "jp": "冬は寒いです。", "en": "Winter is cold.", "vi": "Mùa đông trời lạnh." }
             },
             {
                 "id": "k136",
@@ -1758,14 +2106,17 @@
                 "onyomi": "キョウ, ゴウ",
                 "kunyomi": "つよ-い, し-いる",
                 "meaning": { "en": "Strong", "vi": "mạnh, cường" },
-                "radical": "弓 (bow)",
-                "mnemonic": "A strong bow (弓) used by an insect (虫) - imagine a very strong ant.",
+                "radical": "弓 (bow, cung)",
+                "mnemonic": {
+                    "en": "A strong bow (弓) used by an insect (虫) - imagine a very strong ant.",
+                    "vi": "Một cây cung (弓) mạnh mẽ được sử dụng bởi một con côn trùng (虫) - hãy tưởng tượng một con kiến rất mạnh."
+                },
                 "examples": [
                     { "word": "強い", "reading": "つよい", "meaning": { "en": "Strong", "vi": "Mạnh" } },
                     { "word": "勉強", "reading": "べんきょう", "meaning": { "en": "Study", "vi": "Học" } },
                     { "word": "強調", "reading": "きょうちょう", "meaning": { "en": "Emphasis", "vi": "Nhấn mạnh" } }
                 ],
-                "sentence": { "jp": "彼は力が強いです。", "en": "He is very strong." }
+                "sentence": { "jp": "彼は力が強いです。", "en": "He is very strong.", "vi": "Anh ấy rất khỏe." }
             },
             {
                 "id": "k137",
@@ -1773,13 +2124,16 @@
                 "onyomi": "セイ, ジョウ",
                 "kunyomi": "しず-か",
                 "meaning": { "en": "Quiet, Still", "vi": "yên tĩnh, tĩnh" },
-                "radical": "青 (blue)",
-                "mnemonic": "The blue (青) of a calm battle (争). A serene, quiet scene after a conflict.",
+                "radical": "青 (blue, thanh)",
+                "mnemonic": {
+                    "en": "The blue (青) of a calm battle (争). A serene, quiet scene after a conflict.",
+                    "vi": "Màu xanh (青) của một trận chiến (争) yên bình. Một khung cảnh thanh bình, yên tĩnh sau một cuộc xung đột."
+                },
                 "examples": [
                     { "word": "静か", "reading": "しずか", "meaning": { "en": "Quiet", "vi": "Yên tĩnh" } },
                     { "word": "安静", "reading": "あんせい", "meaning": { "en": "Rest, quiet", "vi": "Nghỉ ngơi yên tĩnh" } }
                 ],
-                "sentence": { "jp": "図書館は静かです。", "en": "The library is quiet." }
+                "sentence": { "jp": "図書館は静かです。", "en": "The library is quiet.", "vi": "Thư viện yên tĩnh." }
             },
             {
                 "id": "k138",
@@ -1787,13 +2141,16 @@
                 "onyomi": "ケン, ゲン",
                 "kunyomi": "きら-う, いや",
                 "meaning": { "en": "Dislike, Unpleasant", "vi": "ghét, khó chịu, hiềm" },
-                "radical": "女 (woman)",
-                "mnemonic": "A woman (女) who has a concurrent (兼) feeling of dislike.",
+                "radical": "女 (woman, nữ)",
+                "mnemonic": {
+                    "en": "A woman (女) who has a concurrent (兼) feeling of dislike.",
+                    "vi": "Một người phụ nữ (女) có cảm giác không thích (兼) đồng thời."
+                },
                 "examples": [
                     { "word": "嫌い", "reading": "きらい", "meaning": { "en": "To dislike, hateful", "vi": "Ghét" } },
                     { "word": "機嫌", "reading": "きげん", "meaning": { "en": "Mood, temper", "vi": "Tâm trạng" } }
                 ],
-                "sentence": { "jp": "ピーマンが嫌いです。", "en": "I dislike bell peppers." }
+                "sentence": { "jp": "ピーマンが嫌いです。", "en": "I dislike bell peppers.", "vi": "Tôi ghét ớt chuông." }
             }
         ]
     },
@@ -1807,13 +2164,16 @@
                 "onyomi": "サン",
                 "kunyomi": "やま",
                 "meaning": { "en": "Mountain", "vi": "núi, sơn" },
-                "radical": "山 (mountain)",
-                "mnemonic": "A pictograph of a mountain with three peaks.",
+                "radical": "山 (mountain, sơn)",
+                "mnemonic": {
+                    "en": "A pictograph of a mountain with three peaks.",
+                    "vi": "Một chữ tượng hình của một ngọn núi có ba đỉnh."
+                },
                 "examples": [
                     { "word": "火山", "reading": "かざん", "meaning": { "en": "Volcano", "vi": "Núi lửa" } },
                     { "word": "富士山", "reading": "ふじさん", "meaning": { "en": "Mt. Fuji", "vi": "Núi Phú Sĩ" } }
                 ],
-                "sentence": { "jp": "山に登ります。", "en": "I will climb the mountain." }
+                "sentence": { "jp": "山に登ります。", "en": "I will climb the mountain.", "vi": "Tôi sẽ leo núi." }
             },
             {
                 "id": "k108",
@@ -1821,12 +2181,15 @@
                 "onyomi": "セン",
                 "kunyomi": "かわ",
                 "meaning": { "en": "River", "vi": "sông, xuyên" },
-                "radical": "川 (river)",
-                "mnemonic": "A pictograph of flowing water in a river.",
+                "radical": "川 (river, xuyên)",
+                "mnemonic": {
+                    "en": "A pictograph of flowing water in a river.",
+                    "vi": "Một chữ tượng hình của dòng nước chảy trong một con sông."
+                },
                 "examples": [
                     { "word": "小川", "reading": "おがわ", "meaning": { "en": "Stream, brook", "vi": "Suối" } }
                 ],
-                "sentence": { "jp": "家の近くに川があります。", "en": "There is a river near my house." }
+                "sentence": { "jp": "家の近くに川があります。", "en": "There is a river near my house.", "vi": "Gần nhà tôi có một con sông." }
             },
             {
                 "id": "k115",
@@ -1834,13 +2197,16 @@
                 "onyomi": "デン",
                 "kunyomi": "た",
                 "meaning": { "en": "Rice Field", "vi": "ruộng, điền" },
-                "radical": "田 (rice field)",
-                "mnemonic": "A pictograph of a rice paddy, divided into four sections.",
+                "radical": "田 (rice field, điền)",
+                "mnemonic": {
+                    "en": "A pictograph of a rice paddy, divided into four sections.",
+                    "vi": "Một chữ tượng hình của một thửa ruộng, được chia thành bốn phần."
+                },
                 "examples": [
                     { "word": "田中", "reading": "たなか", "meaning": { "en": "Tanaka (surname)", "vi": "Tanaka (họ)" } },
                     { "word": "水田", "reading": "すいでん", "meaning": { "en": "Rice paddy", "vi": "Ruộng nước" } }
                 ],
-                "sentence": { "jp": "田んぼで米を作ります。", "en": "They grow rice in the rice fields." }
+                "sentence": { "jp": "田んぼで米を作ります。", "en": "They grow rice in the rice fields.", "vi": "Họ trồng lúa trên những cánh đồng." }
             },
             {
                 "id": "k109",
@@ -1848,14 +2214,17 @@
                 "onyomi": "カ",
                 "kunyomi": "はな",
                 "meaning": { "en": "Flower", "vi": "hoa" },
-                "radical": "艹 (grass)",
-                "mnemonic": "A plant (艹) that changes (化) into a beautiful flower.",
+                "radical": "艹 (grass, thảo)",
+                "mnemonic": {
+                    "en": "A plant (艹) that changes (化) into a beautiful flower.",
+                    "vi": "Một cái cây (艹) biến đổi (化) thành một bông hoa đẹp."
+                },
                 "examples": [
                     { "word": "花火", "reading": "はなび", "meaning": { "en": "Fireworks", "vi": "Pháo hoa" } },
                     { "word": "花見", "reading": "はなみ", "meaning": { "en": "Flower viewing", "vi": "Ngắm hoa" } },
                     { "word": "生け花", "reading": "いけばな", "meaning": { "en": "Flower arrangement", "vi": "Cắm hoa" } }
                 ],
-                "sentence": { "jp": "庭にきれいな花が咲いています。", "en": "Beautiful flowers are blooming in the garden." }
+                "sentence": { "jp": "庭にきれいな花が咲いています。", "en": "Beautiful flowers are blooming in the garden.", "vi": "Những bông hoa đẹp đang nở trong vườn." }
             },
             {
                 "id": "k110",
@@ -1863,13 +2232,16 @@
                 "onyomi": "ウ",
                 "kunyomi": "あめ",
                 "meaning": { "en": "Rain", "vi": "mưa, vũ" },
-                "radical": "雨 (rain)",
-                "mnemonic": "A pictograph of a cloud with raindrops falling down.",
+                "radical": "雨 (rain, vũ)",
+                "mnemonic": {
+                    "en": "A pictograph of a cloud with raindrops falling down.",
+                    "vi": "Một chữ tượng hình của một đám mây với những giọt mưa rơi xuống."
+                },
                 "examples": [
                     { "word": "大雨", "reading": "おおあめ", "meaning": { "en": "Heavy rain", "vi": "Mưa lớn" } },
                     { "word": "雨季", "reading": "うき", "meaning": { "en": "Rainy season", "vi": "Mùa mưa" } }
                 ],
-                "sentence": { "jp": "雨が降っています。", "en": "It is raining." }
+                "sentence": { "jp": "雨が降っています。", "en": "It is raining.", "vi": "Trời đang mưa." }
             },
             {
                 "id": "k111",
@@ -1877,14 +2249,17 @@
                 "onyomi": "テン",
                 "kunyomi": "あめ, あま",
                 "meaning": { "en": "Heaven, Sky", "vi": "trời, thiên" },
-                "radical": "大 (big)",
-                "mnemonic": "What is above the big person (大)? The heavens.",
+                "radical": "大 (big, đại)",
+                "mnemonic": {
+                    "en": "What is above the big person (大)? The heavens.",
+                    "vi": "Phía trên người to lớn (大) là gì? Đó là bầu trời."
+                },
                 "examples": [
                     { "word": "天気", "reading": "てんき", "meaning": { "en": "Weather", "vi": "Thời tiết" } },
                     { "word": "天国", "reading": "てんごく", "meaning": { "en": "Heaven, paradise", "vi": "Thiên đường" } },
                     { "word": "天才", "reading": "てんさい", "meaning": { "en": "Genius", "vi": "Thiên tài" } }
                 ],
-                "sentence": { "jp": "今日の天気はどうですか。", "en": "How is the weather today?" }
+                "sentence": { "jp": "今日の天気はどうですか。", "en": "How is the weather today?", "vi": "Thời tiết hôm nay thế nào?" }
             },
             {
                 "id": "k112",
@@ -1892,14 +2267,17 @@
                 "onyomi": "キ, ケ",
                 "kunyomi": "いき",
                 "meaning": { "en": "Spirit, Air, Mood", "vi": "khí, tinh thần, không khí" },
-                "radical": "气 (steam)",
-                "mnemonic": "Steam (气) coming from rice (米) as it cooks. Represents energy, air, or spirit.",
+                "radical": "气 (steam, khí)",
+                "mnemonic": {
+                    "en": "Steam (气) coming from rice (米) as it cooks. Represents energy, air, or spirit.",
+                    "vi": "Hơi nước (气) bốc lên từ gạo (米) khi nấu. Tượng trưng cho năng lượng, không khí hoặc tinh thần."
+                },
                 "examples": [
                     { "word": "元気", "reading": "げんき", "meaning": { "en": "Healthy, energetic", "vi": "Khỏe mạnh" } },
                     { "word": "天気", "reading": "てんき", "meaning": { "en": "Weather", "vi": "Thời tiết" } },
                     { "word": "気分", "reading": "きぶん", "meaning": { "en": "Feeling, mood", "vi": "Tâm trạng" } }
                 ],
-                "sentence": { "jp": "気分が悪いです。", "en": "I feel sick." }
+                "sentence": { "jp": "気分が悪いです。", "en": "I feel sick.", "vi": "Tôi cảm thấy không khỏe." }
             },
             {
                 "id": "k114",
@@ -1907,14 +2285,17 @@
                 "onyomi": "デン",
                 "kunyomi": "",
                 "meaning": { "en": "Electricity", "vi": "điện" },
-                "radical": "雨 (rain)",
-                "mnemonic": "Rain (雨) from the sky that extends down like lightning, representing electricity.",
+                "radical": "雨 (rain, vũ)",
+                "mnemonic": {
+                    "en": "Rain (雨) from the sky that extends down like lightning, representing electricity.",
+                    "vi": "Mưa (雨) từ trên trời kéo dài xuống như tia sét, tượng trưng cho điện."
+                },
                 "examples": [
                     { "word": "電気", "reading": "でんき", "meaning": { "en": "Electricity, light", "vi": "Điện, đèn" } },
                     { "word": "電車", "reading": "でんしゃ", "meaning": { "en": "Electric train", "vi": "Tàu điện" } },
                     { "word": "電話", "reading": "でんわ", "meaning": { "en": "Telephone", "vi": "Điện thoại" } }
                 ],
-                "sentence": { "jp": "電気がつきました。", "en": "The light turned on." }
+                "sentence": { "jp": "電気がつきました。", "en": "The light turned on.", "vi": "Đèn đã bật." }
             },
             {
                 "id": "k127",
@@ -1922,13 +2303,16 @@
                 "onyomi": "ケン",
                 "kunyomi": "いぬ",
                 "meaning": { "en": "Dog", "vi": "chó, khuyển" },
-                "radical": "犬 (dog)",
-                "mnemonic": "A pictograph of a dog, with a dot representing its collar or eye.",
+                "radical": "犬 (dog, khuyển)",
+                "mnemonic": {
+                    "en": "A pictograph of a dog, with a dot representing its collar or eye.",
+                    "vi": "Một chữ tượng hình của một con chó, với một dấu chấm tượng trưng cho vòng cổ hoặc mắt của nó."
+                },
                 "examples": [
                     { "word": "子犬", "reading": "こいぬ", "meaning": { "en": "Puppy", "vi": "Chó con" } },
                     { "word": "番犬", "reading": "ばんけん", "meaning": { "en": "Watchdog", "vi": "Chó giữ nhà" } }
                 ],
-                "sentence": { "jp": "犬を散歩に連れて行きます。", "en": "I'm taking the dog for a walk." }
+                "sentence": { "jp": "犬を散歩に連れて行きます。", "en": "I'm taking the dog for a walk.", "vi": "Tôi đang dắt chó đi dạo." }
             },
             {
                 "id": "k128",
@@ -1936,12 +2320,15 @@
                 "onyomi": "ビョウ",
                 "kunyomi": "ねこ",
                 "meaning": { "en": "Cat", "vi": "mèo, miêu" },
-                "radical": "犬 (dog)",
-                "mnemonic": "A beast (豸) that lives with seedlings (苗) in a field. A cat that roams the farm.",
+                "radical": "犬 (dog, khuyển)",
+                "mnemonic": {
+                    "en": "A beast (豸) that lives with seedlings (苗) in a field. A cat that roams the farm.",
+                    "vi": "Một con thú (豸) sống cùng với cây non (苗) trên một cánh đồng. Một con mèo đi lang thang trong trang trại."
+                },
                 "examples": [
                     { "word": "子猫", "reading": "こねこ", "meaning": { "en": "Kitten", "vi": "Mèo con" } }
                 ],
-                "sentence": { "jp": "うちの猫は黒いです。", "en": "My cat is black." }
+                "sentence": { "jp": "うちの猫は黒いです。", "en": "My cat is black.", "vi": "Con mèo của tôi màu đen." }
             },
             {
                 "id": "k129",
@@ -1949,13 +2336,16 @@
                 "onyomi": "チョウ",
                 "kunyomi": "とり",
                 "meaning": { "en": "Bird", "vi": "chim, điểu" },
-                "radical": "鳥 (bird)",
-                "mnemonic": "A pictograph of a bird with a crest, eye, and tail feathers.",
+                "radical": "鳥 (bird, điểu)",
+                "mnemonic": {
+                    "en": "A pictograph of a bird with a crest, eye, and tail feathers.",
+                    "vi": "Một chữ tượng hình của một con chim có mào, mắt và lông đuôi."
+                },
                 "examples": [
                     { "word": "小鳥", "reading": "ことり", "meaning": { "en": "Small bird", "vi": "Chim nhỏ" } },
                     { "word": "白鳥", "reading": "はくちょう", "meaning": { "en": "Swan", "vi": "Thiên nga" } }
                 ],
-                "sentence": { "jp": "鳥が空を飛んでいます。", "en": "A bird is flying in the sky." }
+                "sentence": { "jp": "鳥が空を飛んでいます。", "en": "A bird is flying in the sky.", "vi": "Một con chim đang bay trên bầu trời." }
             },
             {
                 "id": "k130",
@@ -1963,13 +2353,16 @@
                 "onyomi": "ギョ",
                 "kunyomi": "さかな, うお",
                 "meaning": { "en": "Fish", "vi": "cá, ngư" },
-                "radical": "魚 (fish)",
-                "mnemonic": "A pictograph of a fish with a head, body, and tail fins (灬).",
+                "radical": "魚 (fish, ngư)",
+                "mnemonic": {
+                    "en": "A pictograph of a fish with a head, body, and tail fins (灬).",
+                    "vi": "Một chữ tượng hình của một con cá có đầu, thân và vây đuôi (灬)."
+                },
                 "examples": [
                     { "word": "金魚", "reading": "きんぎょ", "meaning": { "en": "Goldfish", "vi": "Cá vàng" } },
                     { "word": "人魚", "reading": "にんぎょ", "meaning": { "en": "Mermaid", "vi": "Nàng tiên cá" } }
                 ],
-                "sentence": { "jp": "魚を釣るのが好きです。", "en": "I like to go fishing." }
+                "sentence": { "jp": "魚を釣るのが好きです。", "en": "I like to go fishing.", "vi": "Tôi thích đi câu cá." }
             }
         ]
     },
@@ -1983,14 +2376,17 @@
                 "onyomi": "メイ, ミョウ",
                 "kunyomi": "な",
                 "meaning": { "en": "Name, Famous", "vi": "tên, danh, nổi tiếng" },
-                "radical": "口 (mouth)",
-                "mnemonic": "In the evening (夕), you use your mouth (口) to say your name because it's hard to see.",
+                "radical": "口 (mouth, khẩu)",
+                "mnemonic": {
+                    "en": "In the evening (夕), you use your mouth (口) to say your name because it's hard to see.",
+                    "vi": "Vào buổi tối (夕), bạn dùng miệng (口) để nói tên mình vì khó nhìn thấy."
+                },
                 "examples": [
                     { "word": "名前", "reading": "なまえ", "meaning": { "en": "Name", "vi": "Tên" } },
                     { "word": "有名", "reading": "ゆうめい", "meaning": { "en": "Famous", "vi": "Nổi tiếng" } },
                     { "word": "名刺", "reading": "めいし", "meaning": { "en": "Business card", "vi": "Danh thiếp" } }
                 ],
-                "sentence": { "jp": "お名前は何ですか。", "en": "What is your name?" }
+                "sentence": { "jp": "お名前は何ですか。", "en": "What is your name?", "vi": "Tên bạn là gì?" }
             },
             {
                 "id": "k63",
@@ -1998,14 +2394,17 @@
                 "onyomi": "セン",
                 "kunyomi": "さき",
                 "meaning": { "en": "Ahead, Previous", "vi": "trước, tiên" },
-                "radical": "儿 (legs)",
-                "mnemonic": "A person (儿) with a plant growing on their head, symbolizing growth and moving ahead.",
+                "radical": "儿 (legs, nhân đi)",
+                "mnemonic": {
+                    "en": "A person (儿) with a plant growing on their head, symbolizing growth and moving ahead.",
+                    "vi": "Một người (儿) với một cái cây mọc trên đầu, tượng trưng cho sự phát triển và tiến về phía trước."
+                },
                 "examples": [
                     { "word": "先生", "reading": "せんせい", "meaning": { "en": "Teacher", "vi": "Giáo viên" } },
                     { "word": "先週", "reading": "せんしゅう", "meaning": { "en": "Last week", "vi": "Tuần trước" } },
                     { "word": "先月", "reading": "せんげつ", "meaning": { "en": "Last month", "vi": "Tháng trước" } }
                 ],
-                "sentence": { "jp": "お先に失礼します。", "en": "Excuse me for leaving first." }
+                "sentence": { "jp": "お先に失礼します。", "en": "Excuse me for leaving first.", "vi": "Xin lỗi vì tôi về trước." }
             },
             {
                 "id": "k64",
@@ -2013,14 +2412,17 @@
                 "onyomi": "セイ, ショウ",
                 "kunyomi": "う-まれる, い-きる, なま",
                 "meaning": { "en": "Life, Birth, Raw", "vi": "sống, sinh, tươi" },
-                "radical": "生 (life)",
-                "mnemonic": "A pictograph of a plant sprouting from the ground (土), symbolizing life and birth.",
+                "radical": "生 (life, sinh)",
+                "mnemonic": {
+                    "en": "A pictograph of a plant sprouting from the ground (土), symbolizing life and birth.",
+                    "vi": "Một chữ tượng hình của một cái cây mọc lên từ mặt đất (土), tượng trưng cho sự sống và sự sinh ra."
+                },
                 "examples": [
                     { "word": "学生", "reading": "がくせい", "meaning": { "en": "Student", "vi": "Học sinh" } },
                     { "word": "先生", "reading": "せんせい", "meaning": { "en": "Teacher", "vi": "Giáo viên" } },
                     { "word": "誕生日", "reading": "たんじょうび", "meaning": { "en": "Birthday", "vi": "Sinh nhật" } }
                 ],
-                "sentence": { "jp": "私は三年生です。", "en": "I am a third-year student." }
+                "sentence": { "jp": "私は三年生です。", "en": "I am a third-year student.", "vi": "Tôi là sinh viên năm ba." }
             },
             {
                 "id": "k65",
@@ -2028,14 +2430,17 @@
                 "onyomi": "ガク",
                 "kunyomi": "まな-ぶ",
                 "meaning": { "en": "Study, Learning", "vi": "học, học tập" },
-                "radical": "子 (child)",
-                "mnemonic": "A child (子) under a roof (宀) is learning.",
+                "radical": "子 (child, tử)",
+                "mnemonic": {
+                    "en": "A child (子) under a roof (宀) is learning.",
+                    "vi": "Một đứa trẻ (子) dưới một mái nhà (宀) đang học."
+                },
                 "examples": [
                     { "word": "学生", "reading": "がくせい", "meaning": { "en": "Student", "vi": "Học sinh" } },
                     { "word": "学校", "reading": "がっこう", "meaning": { "en": "School", "vi": "Trường học" } },
                     { "word": "大学", "reading": "だいがく", "meaning": { "en": "University", "vi": "Đại học" } }
                 ],
-                "sentence": { "jp": "日本語を学んでいます。", "en": "I am learning Japanese." }
+                "sentence": { "jp": "日本語を学んでいます。", "en": "I am learning Japanese.", "vi": "Tôi đang học tiếng Nhật." }
             },
             {
                 "id": "k66",
@@ -2043,13 +2448,16 @@
                 "onyomi": "コウ",
                 "kunyomi": "",
                 "meaning": { "en": "School", "vi": "trường, hiệu" },
-                "radical": "木 (tree)",
-                "mnemonic": "Trees (木) where people meet and exchange (交) knowledge, which is a school.",
+                "radical": "木 (tree, mộc)",
+                "mnemonic": {
+                    "en": "Trees (木) where people meet and exchange (交) knowledge, which is a school.",
+                    "vi": "Những cái cây (木) nơi mọi người gặp gỡ và trao đổi (交) kiến thức, đó là một ngôi trường."
+                },
                 "examples": [
                     { "word": "学校", "reading": "がっこう", "meaning": { "en": "School", "vi": "Trường học" } },
                     { "word": "校長", "reading": "こうちょう", "meaning": { "en": "Principal", "vi": "Hiệu trưởng" } }
                 ],
-                "sentence": { "jp": "学校は八時に始まります。", "en": "School starts at 8 o'clock." }
+                "sentence": { "jp": "学校は八時に始まります。", "en": "School starts at 8 o'clock.", "vi": "Trường học bắt đầu lúc 8 giờ." }
             },
             {
                 "id": "k67",
@@ -2057,14 +2465,17 @@
                 "onyomi": "ホン",
                 "kunyomi": "もと",
                 "meaning": { "en": "Book, Origin, Main", "vi": "sách, gốc, bản" },
-                "radical": "木 (tree)",
-                "mnemonic": "A tree (木) with a line at the bottom, indicating its roots or origin. Also means book.",
+                "radical": "木 (tree, mộc)",
+                "mnemonic": {
+                    "en": "A tree (木) with a line at the bottom, indicating its roots or origin. Also means book.",
+                    "vi": "Một cái cây (木) có một đường kẻ ở dưới cùng, chỉ ra gốc rễ hoặc nguồn gốc của nó. Cũng có nghĩa là sách."
+                },
                 "examples": [
                     { "word": "日本", "reading": "にほん", "meaning": { "en": "Japan", "vi": "Nhật Bản" } },
                     { "word": "本屋", "reading": "ほんや", "meaning": { "en": "Bookstore", "vi": "Hiệu sách" } },
                     { "word": "基本", "reading": "きほん", "meaning": { "en": "Basics, foundation", "vi": "Cơ bản" } }
                 ],
-                "sentence": { "jp": "これは日本語の本です。", "en": "This is a Japanese book." }
+                "sentence": { "jp": "これは日本語の本です。", "en": "This is a Japanese book.", "vi": "Đây là một cuốn sách tiếng Nhật." }
             },
             {
                 "id": "k68",
@@ -2072,14 +2483,17 @@
                 "onyomi": "ゴ",
                 "kunyomi": "かた-る",
                 "meaning": { "en": "Language, Word, To tell", "vi": "ngôn ngữ, từ, kể chuyện, ngữ" },
-                "radical": "言 (word)",
-                "mnemonic": "Words (言) that I (吾) speak make up a language.",
+                "radical": "言 (word, ngôn)",
+                "mnemonic": {
+                    "en": "Words (言) that I (吾) speak make up a language.",
+                    "vi": "Những từ (言) mà tôi (吾) nói tạo thành một ngôn ngữ."
+                },
                 "examples": [
                     { "word": "日本語", "reading": "にほんご", "meaning": { "en": "Japanese language", "vi": "Tiếng Nhật" } },
                     { "word": "英語", "reading": "えいご", "meaning": { "en": "English language", "vi": "Tiếng Anh" } },
                     { "word": "物語", "reading": "ものがたり", "meaning": { "en": "Story, tale", "vi": "Câu chuyện" } }
                 ],
-                "sentence": { "jp": "何語を話しますか。", "en": "What languages do you speak?" }
+                "sentence": { "jp": "何語を話しますか。", "en": "What languages do you speak?", "vi": "Bạn nói được những ngôn ngữ nào?" }
             },
             {
                 "id": "k69",
@@ -2087,14 +2501,17 @@
                 "onyomi": "エイ",
                 "kunyomi": "",
                 "meaning": { "en": "English, Excellent", "vi": "Anh, ưu tú" },
-                "radical": "艹 (grass)",
-                "mnemonic": "A flower (top part) in the middle (央) of England's beautiful gardens.",
+                "radical": "艹 (grass, thảo)",
+                "mnemonic": {
+                    "en": "A flower (top part) in the middle (央) of England's beautiful gardens.",
+                    "vi": "Một bông hoa (phần trên) ở giữa (央) những khu vườn xinh đẹp của nước Anh."
+                },
                 "examples": [
                     { "word": "英語", "reading": "えいご", "meaning": { "en": "English language", "vi": "Tiếng Anh" } },
                     { "word": "英国", "reading": "えいこく", "meaning": { "en": "United Kingdom", "vi": "Vương quốc Anh" } },
                     { "word": "英雄", "reading": "えいゆう", "meaning": { "en": "Hero", "vi": "Anh hùng" } }
                 ],
-                "sentence": { "jp": "英語が話せますか。", "en": "Can you speak English?" }
+                "sentence": { "jp": "英語が話せますか。", "en": "Can you speak English?", "vi": "Bạn có thể nói tiếng Anh không?" }
             },
             {
                 "id": "k116",
@@ -2102,14 +2519,17 @@
                 "onyomi": "リョク, リキ",
                 "kunyomi": "ちから",
                 "meaning": { "en": "Power, Strength", "vi": "sức mạnh, lực" },
-                "radical": "力 (power)",
-                "mnemonic": "A pictograph of a muscular arm, symbolizing power and strength.",
+                "radical": "力 (power, lực)",
+                "mnemonic": {
+                    "en": "A pictograph of a muscular arm, symbolizing power and strength.",
+                    "vi": "Một chữ tượng hình của một cánh tay cơ bắp, tượng trưng cho sức mạnh và quyền lực."
+                },
                 "examples": [
                     { "word": "力仕事", "reading": "ちからしごと", "meaning": { "en": "Physical labor", "vi": "Công việc tay chân" } },
                     { "word": "協力", "reading": "きょうりょく", "meaning": { "en": "Cooperation", "vi": "Hợp tác" } },
                     { "word": "能力", "reading": "のうりょく", "meaning": { "en": "Ability", "vi": "Năng lực" } }
                 ],
-                "sentence": { "jp": "彼は力が強いです。", "en": "He is very strong." }
+                "sentence": { "jp": "彼は力が強いです。", "en": "He is very strong.", "vi": "Anh ấy rất khỏe." }
             },
             {
                 "id": "k122",
@@ -2117,12 +2537,15 @@
                 "onyomi": "カ",
                 "kunyomi": "なに, なん",
                 "meaning": { "en": "What", "vi": "gì, hà" },
-                "radical": "人 (person)",
-                "mnemonic": "A person (亻) carrying a large sign asking 'what?'",
+                "radical": "人 (person, nhân)",
+                "mnemonic": {
+                    "en": "A person (亻) carrying a large sign asking 'what?'",
+                    "vi": "Một người (亻) mang một tấm biển lớn hỏi 'cái gì?'"
+                },
                 "examples": [
                     { "word": "何時", "reading": "なんじ", "meaning": { "en": "What time?", "vi": "Mấy giờ?" } }
                 ],
-                "sentence": { "jp": "これは何ですか。", "en": "What is this?" }
+                "sentence": { "jp": "これは何ですか。", "en": "What is this?", "vi": "Đây là cái gì?" }
             },
             {
                 "id": "k123",
@@ -2130,10 +2553,13 @@
                 "onyomi": "スイ",
                 "kunyomi": "だれ",
                 "meaning": { "en": "Who", "vi": "ai, thùy" },
-                "radical": "言 (word)",
-                "mnemonic": "Words (言) used to ask about a turkey (隹) - 'Who is that?'",
+                "radical": "言 (word, ngôn)",
+                "mnemonic": {
+                    "en": "Words (言) used to ask about a turkey (隹) - 'Who is that?'",
+                    "vi": "Những từ (言) được dùng để hỏi về một con gà tây (隹) - 'Ai đó?'"
+                },
                 "examples": [],
-                "sentence": { "jp": "あの人は誰ですか。", "en": "Who is that person?" }
+                "sentence": { "jp": "あの人は誰ですか。", "en": "Who is that person?", "vi": "Người đó là ai?" }
             },
             {
                 "id": "k135",
@@ -2141,12 +2567,15 @@
                 "onyomi": "ベン",
                 "kunyomi": "つと-める",
                 "meaning": { "en": "Exertion (as in 勉強)", "vi": "cố gắng, học, miễn" },
-                "radical": "力 (power)",
-                "mnemonic": "A mysterious figure escaping with power (力). You need exertion to study.",
+                "radical": "力 (power, lực)",
+                "mnemonic": {
+                    "en": "A mysterious figure escaping with power (力). You need exertion to study.",
+                    "vi": "Một nhân vật bí ẩn đang trốn thoát bằng sức mạnh (力). Bạn cần nỗ lực để học tập."
+                },
                 "examples": [
                     { "word": "勉強", "reading": "べんきょう", "meaning": { "en": "Study", "vi": "Học" } }
                 ],
-                "sentence": { "jp": "毎日、二時間勉強します。", "en": "I study for two hours every day." }
+                "sentence": { "jp": "毎日、二時間勉強します。", "en": "I study for two hours every day.", "vi": "Tôi học hai tiếng mỗi ngày." }
             }
         ]
     }
