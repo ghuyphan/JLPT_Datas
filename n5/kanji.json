@@ -8,11 +8,11 @@
                 "kanji": "一",
                 "onyomi": "イチ, イツ",
                 "kunyomi": "ひと-つ, ひと",
-                "meaning": { "en": "One", "vi": "một, nhất" },
+                "meaning": { "en": "One", "vi": "Một" },
                 "radical": "一 (one, một)",
                 "mnemonic": {
                     "en": "A single, horizontal stroke. It's the simplest representation of 'one'.",
-                    "vi": "Một nét ngang duy nhất. Đây là cách biểu diễn đơn giản nhất cho 'một'."
+                    "vi": "Một nét ngang duy nhất. Đây là cách biểu diễn đơn giản nhất cho số một."
                 },
                 "examples": [
                     { "word": "一番", "reading": "いちばん", "meaning": { "en": "Number one, the best", "vi": "Số một, nhất" } },
@@ -26,7 +26,7 @@
                 "kanji": "二",
                 "onyomi": "ニ",
                 "kunyomi": "ふた-つ, ふた",
-                "meaning": { "en": "Two", "vi": "hai, nhị" },
+                "meaning": { "en": "Two", "vi": "Hai" },
                 "radical": "二 (two, hai)",
                 "mnemonic": {
                     "en": "Two horizontal strokes. Simple and direct.",
@@ -44,11 +44,11 @@
                 "kanji": "三",
                 "onyomi": "サン",
                 "kunyomi": "みっ-つ, み",
-                "meaning": { "en": "Three", "vi": "ba, tam" },
+                "meaning": { "en": "Three", "vi": "Ba" },
                 "radical": "一 (one, một)",
                 "mnemonic": {
                     "en": "Three horizontal strokes. It follows the pattern of one and two.",
-                    "vi": "Ba nét ngang. Nó theo mẫu của một và hai."
+                    "vi": "Ba nét ngang. Nó theo quy tắc của chữ một và hai."
                 },
                 "examples": [
                     { "word": "三月", "reading": "さんがつ", "meaning": { "en": "March", "vi": "Tháng ba" } },
@@ -62,7 +62,7 @@
                 "kanji": "四",
                 "onyomi": "シ",
                 "kunyomi": "よっ-つ, よん, よ",
-                "meaning": { "en": "Four", "vi": "bốn, tứ" },
+                "meaning": { "en": "Four", "vi": "Bốn" },
                 "radical": "囗 (enclosure, vi)",
                 "mnemonic": {
                     "en": "A box (囗) with two legs (儿) inside. Imagine a four-legged animal in a pen.",
@@ -80,7 +80,7 @@
                 "kanji": "五",
                 "onyomi": "ゴ",
                 "kunyomi": "いつ-つ, いつ",
-                "meaning": { "en": "Five", "vi": "năm, ngũ" },
+                "meaning": { "en": "Five", "vi": "Năm" },
                 "radical": "二 (two, hai)",
                 "mnemonic": {
                     "en": "Looks like two strokes with a roof and a floor, representing the five elements or five fingers.",
@@ -98,7 +98,7 @@
                 "kanji": "六",
                 "onyomi": "ロク",
                 "kunyomi": "むっ-つ, むい",
-                "meaning": { "en": "Six", "vi": "sáu, lục" },
+                "meaning": { "en": "Six", "vi": "Sáu" },
                 "radical": "八 (eight, tám)",
                 "mnemonic": {
                     "en": "A top hat (亠) over the number eight (八).",
@@ -109,14 +109,14 @@
                     { "word": "六日", "reading": "むいか", "meaning": { "en": "The 6th day, six days", "vi": "Ngày 6, sáu ngày" } },
                     { "word": "六本木", "reading": "ろっぽんぎ", "meaning": { "en": "Roppongi (place in Tokyo)", "vi": "Roppongi (địa danh ở Tokyo)" } }
                 ],
-                "sentence": { "jp": "六本木に行きます。", "en": "I am going to Roppongi.", "vi": "Tôi đang đi đến Roppongi." }
+                "sentence": { "jp": "六本木に行きます。", "en": "I am going to Roppongi.", "vi": "Tôi sẽ đến Roppongi." }
             },
             {
                 "id": "k7",
                 "kanji": "七",
                 "onyomi": "シチ",
                 "kunyomi": "なな-つ, なな",
-                "meaning": { "en": "Seven", "vi": "bảy, thất" },
+                "meaning": { "en": "Seven", "vi": "Bảy" },
                 "radical": "一 (one, một)",
                 "mnemonic": {
                     "en": "Looks like a person cut in half, or a stylized number 7.",
@@ -134,7 +134,7 @@
                 "kanji": "八",
                 "onyomi": "ハチ",
                 "kunyomi": "やっ-つ, よう",
-                "meaning": { "en": "Eight", "vi": "tám, bát" },
+                "meaning": { "en": "Eight", "vi": "Tám" },
                 "radical": "八 (eight, tám)",
                 "mnemonic": {
                     "en": "Two strokes spreading out, like dividing something. Represents eight, a number of prosperity.",
@@ -143,7 +143,7 @@
                 "examples": [
                     { "word": "八月", "reading": "はちがつ", "meaning": { "en": "August", "vi": "Tháng tám" } },
                     { "word": "八百屋", "reading": "やおや", "meaning": { "en": "Vegetable store", "vi": "Cửa hàng rau" } },
-                    { "word": "八方美人", "reading": "はっぽうびじん", "meaning": { "en": "A person who is friendly to everyone", "vi": "Người thảo mai, người thân thiện với tất cả mọi người" } }
+                    { "word": "八方美人", "reading": "はっぽうびじん", "meaning": { "en": "A person who is friendly to everyone", "vi": "Người thảo mai" } }
                 ],
                 "sentence": { "jp": "八時に起きます。", "en": "I wake up at eight o'clock.", "vi": "Tôi thức dậy lúc tám giờ." }
             },
@@ -152,7 +152,7 @@
                 "kanji": "九",
                 "onyomi": "キュウ, ク",
                 "kunyomi": "ここの-つ, ここの",
-                "meaning": { "en": "Nine", "vi": "chín, cửu" },
+                "meaning": { "en": "Nine", "vi": "Chín" },
                 "radical": "乙 (second, ất)",
                 "mnemonic": {
                     "en": "Looks like a fish hook or a bent arm trying to reach for something.",
@@ -170,7 +170,7 @@
                 "kanji": "十",
                 "onyomi": "ジュウ, ジッ",
                 "kunyomi": "とお",
-                "meaning": { "en": "Ten", "vi": "mười, thập" },
+                "meaning": { "en": "Ten", "vi": "Mười" },
                 "radical": "十 (ten, mười)",
                 "mnemonic": {
                     "en": "A cross, like a plus sign. A simple and powerful symbol for ten.",
@@ -188,7 +188,7 @@
                 "kanji": "百",
                 "onyomi": "ヒャク",
                 "kunyomi": "もも",
-                "meaning": { "en": "Hundred", "vi": "trăm, bách" },
+                "meaning": { "en": "Hundred", "vi": "Trăm" },
                 "radical": "白 (white, trắng)",
                 "mnemonic": {
                     "en": "One (一) line is taken from 'white' (白) to mean one hundred.",
@@ -199,14 +199,14 @@
                     { "word": "百貨店", "reading": "ひゃっかてん", "meaning": { "en": "Department store", "vi": "Trung tâm thương mại" } },
                     { "word": "百年", "reading": "ひゃくねん", "meaning": { "en": "A hundred years", "vi": "Trăm năm" } }
                 ],
-                "sentence": { "jp": "このパンは百円です。", "en": "This bread is 100 yen.", "vi": "Cái bánh mì này giá 100 yên." }
+                "sentence": { "jp": "このパンは百円です。", "en": "This bread is 100 yen.", "vi": "Ổ bánh mì này giá 100 yên." }
             },
             {
                 "id": "k12",
                 "kanji": "千",
                 "onyomi": "セン",
                 "kunyomi": "ち",
-                "meaning": { "en": "Thousand", "vi": "nghìn, thiên" },
+                "meaning": { "en": "Thousand", "vi": "Nghìn" },
                 "radical": "十 (ten, mười)",
                 "mnemonic": {
                     "en": "A combination of ten (十) and a single stroke on top. Imagine ten of ten... and then some more!",
@@ -217,32 +217,32 @@
                     { "word": "千葉", "reading": "ちば", "meaning": { "en": "Chiba (prefecture in Japan)", "vi": "Chiba (tỉnh ở Nhật Bản)" } },
                     { "word": "千年", "reading": "せんねん", "meaning": { "en": "A thousand years", "vi": "Nghìn năm" } }
                 ],
-                "sentence": { "jp": "千円札をください。", "en": "A 1,000 yen bill, please.", "vi": "Làm ơn cho tôi một tờ 1.000 yên." }
+                "sentence": { "jp": "千円札をください。", "en": "A 1,000 yen bill, please.", "vi": "Làm ơn cho tôi một tờ 1,000 yên." }
             },
             {
                 "id": "k13",
                 "kanji": "万",
                 "onyomi": "マン, バン",
                 "kunyomi": "よろず",
-                "meaning": { "en": "Ten Thousand", "vi": "mười nghìn, vạn" },
+                "meaning": { "en": "Ten Thousand", "vi": "Mười nghìn" },
                 "radical": "一 (one, một)",
                 "mnemonic": {
                     "en": "Looks like a scorpion (a creature with many legs), representing a large number like ten thousand.",
                     "vi": "Trông giống một con bọ cạp (một sinh vật có nhiều chân), đại diện cho một con số lớn như mười nghìn."
                 },
                 "examples": [
-                    { "word": "一万円", "reading": "いちまんえん", "meaning": { "en": "10,000 yen", "vi": "10.000 yên" } },
+                    { "word": "一万円", "reading": "いちまんえん", "meaning": { "en": "10,000 yen", "vi": "10,000 yên" } },
                     { "word": "万歳", "reading": "ばんざい", "meaning": { "en": "Banzai! (Hurray!)", "vi": "Vạn tuế!" } },
                     { "word": "万年筆", "reading": "まんねんひつ", "meaning": { "en": "Fountain pen", "vi": "Bút máy" } }
                 ],
-                "sentence": { "jp": "彼は一万円をなくした。", "en": "He lost 10,000 yen.", "vi": "Anh ấy đã làm mất 10.000 yên." }
+                "sentence": { "jp": "彼は一万円をなくした。", "en": "He lost 10,000 yen.", "vi": "Anh ấy đã làm mất 10,000 yên." }
             },
             {
                 "id": "k14",
                 "kanji": "円",
                 "onyomi": "エン",
                 "kunyomi": "まる-い",
-                "meaning": { "en": "Yen, Circle", "vi": "Yên, viên, tròn" },
+                "meaning": { "en": "Yen", "vi": "Yên" },
                 "radical": "冂 (down box, quynh)",
                 "mnemonic": {
                     "en": "A box with a line inside. It represents a round coin, hence Yen.",
@@ -266,7 +266,7 @@
                 "kanji": "日",
                 "onyomi": "ニチ, ジツ",
                 "kunyomi": "ひ, -び, -か",
-                "meaning": { "en": "Day, Sun", "vi": "ngày, mặt trời, nhật" },
+                "meaning": { "en": "Day", "vi": "Ngày" },
                 "radical": "日 (sun, nhật)",
                 "mnemonic": {
                     "en": "A pictograph of the sun. A box with a line in the middle.",
@@ -284,7 +284,7 @@
                 "kanji": "月",
                 "onyomi": "ゲツ, ガツ",
                 "kunyomi": "つき",
-                "meaning": { "en": "Month, Moon", "vi": "tháng, mặt trăng, nguyệt" },
+                "meaning": { "en": "Month", "vi": "Tháng" },
                 "radical": "月 (moon, nguyệt)",
                 "mnemonic": {
                     "en": "A pictograph of the crescent moon with clouds floating by.",
@@ -302,7 +302,7 @@
                 "kanji": "火",
                 "onyomi": "カ",
                 "kunyomi": "ひ, -び",
-                "meaning": { "en": "Fire", "vi": "lửa, hỏa" },
+                "meaning": { "en": "Fire", "vi": "Lửa" },
                 "radical": "火 (fire, hỏa)",
                 "mnemonic": {
                     "en": "A person (人) with sparks flying from their arms. A pictograph of a dancing flame.",
@@ -320,7 +320,7 @@
                 "kanji": "水",
                 "onyomi": "スイ",
                 "kunyomi": "みず",
-                "meaning": { "en": "Water", "vi": "nước, thủy" },
+                "meaning": { "en": "Water", "vi": "Nước" },
                 "radical": "水 (water, thủy)",
                 "mnemonic": {
                     "en": "A pictograph of flowing water, with a central stream and splashes on the sides.",
@@ -338,7 +338,7 @@
                 "kanji": "木",
                 "onyomi": "モク, ボク",
                 "kunyomi": "き",
-                "meaning": { "en": "Tree, Wood", "vi": "cây, gỗ, mộc" },
+                "meaning": { "en": "Tree", "vi": "Cây" },
                 "radical": "木 (tree, mộc)",
                 "mnemonic": {
                     "en": "A pictograph of a tree with a trunk and branches reaching out.",
@@ -356,8 +356,8 @@
                 "kanji": "金",
                 "onyomi": "キン",
                 "kunyomi": "かね",
-                "meaning": { "en": "Gold, Money", "vi": "vàng, tiền, kim" },
-                "radical": "金 (metal, gold, kim)",
+                "meaning": { "en": "Gold", "vi": "Vàng" },
+                "radical": "金 (metal, kim)",
                 "mnemonic": {
                     "en": "A roof over the earth (土) with two nuggets of gold beside it. Represents precious metal from the ground.",
                     "vi": "Mái nhà che trên mặt đất (土) với hai cục vàng bên cạnh. Tượng trưng cho kim loại quý từ lòng đất."
@@ -374,7 +374,7 @@
                 "kanji": "土",
                 "onyomi": "ド, ト",
                 "kunyomi": "つち",
-                "meaning": { "en": "Soil, Earth", "vi": "đất, thổ" },
+                "meaning": { "en": "Earth", "vi": "Đất" },
                 "radical": "土 (earth, thổ)",
                 "mnemonic": {
                     "en": "A pictograph of a mound of earth or a plant sprouting from the ground.",
@@ -392,7 +392,7 @@
                 "kanji": "曜",
                 "onyomi": "ヨウ",
                 "kunyomi": "",
-                "meaning": { "en": "Day of week", "vi": "thứ, diệu" },
+                "meaning": { "en": "Weekday", "vi": "Thứ (trong tuần)" },
                 "radical": "日 (sun, nhật)",
                 "mnemonic": {
                     "en": "The wings of a turkey (隹) flying towards the sun (日) on a weekday.",
@@ -409,7 +409,7 @@
                 "kanji": "年",
                 "onyomi": "ネン",
                 "kunyomi": "とし",
-                "meaning": { "en": "Year", "vi": "năm, niên" },
+                "meaning": { "en": "Year", "vi": "Năm" },
                 "radical": "干 (dry, can)",
                 "mnemonic": {
                     "en": "A person (丿) carrying a shield (干). A farmer's whole year of work.",
@@ -427,7 +427,7 @@
                 "kanji": "時",
                 "onyomi": "ジ",
                 "kunyomi": "とき",
-                "meaning": { "en": "Time, Hour", "vi": "giờ, thời gian, thời" },
+                "meaning": { "en": "Time", "vi": "Thời gian" },
                 "radical": "日 (sun, nhật)",
                 "mnemonic": {
                     "en": "The sun (日) at a temple (寺) tells you the time.",
@@ -445,7 +445,7 @@
                 "kanji": "間",
                 "onyomi": "カン, ケン",
                 "kunyomi": "あいだ, ま",
-                "meaning": { "en": "Interval, Space", "vi": "giữa, khoảng, gian" },
+                "meaning": { "en": "Interval", "vi": "Khoảng" },
                 "radical": "門 (gate, môn)",
                 "mnemonic": {
                     "en": "The sun (日) shining through a gate (門), indicating the passage of time or space.",
@@ -463,7 +463,7 @@
                 "kanji": "分",
                 "onyomi": "フン, ブン, プン",
                 "kunyomi": "わ-ける, わ-かる",
-                "meaning": { "en": "Minute, Part, Understand", "vi": "phút, phần, hiểu, phân" },
+                "meaning": { "en": "Minute", "vi": "Phút" },
                 "radical": "刀 (sword, đao)",
                 "mnemonic": {
                     "en": "Using a sword (刀) to divide (八) something into parts or minutes.",
@@ -481,7 +481,7 @@
                 "kanji": "半",
                 "onyomi": "ハン",
                 "kunyomi": "なか-ば",
-                "meaning": { "en": "Half", "vi": "nửa, rưỡi, bán" },
+                "meaning": { "en": "Half", "vi": "Nửa" },
                 "radical": "十 (ten, mười)",
                 "mnemonic": {
                     "en": "Two lines on top, like it's splitting the 'cow' (牛) kanji in half, but it's simpler.",
@@ -489,7 +489,7 @@
                 },
                 "examples": [
                     { "word": "半分", "reading": "はんぶん", "meaning": { "en": "Half", "vi": "Một nửa" } },
-                    { "word": "一時半", "reading": "いちじはん", "meaning": { "en": "1:30", "vi": "1 rưỡi" } },
+                    { "word": "一時半", "reading": "いちじはん", "meaning": { "en": "1:30", "vi": "1 giờ rưỡi" } },
                     { "word": "半年", "reading": "はんとし", "meaning": { "en": "Half a year", "vi": "Nửa năm" } }
                 ],
                 "sentence": { "jp": "一時半に会いましょう。", "en": "Let's meet at 1:30.", "vi": "Hãy gặp nhau lúc 1:30." }
@@ -499,7 +499,7 @@
                 "kanji": "午",
                 "onyomi": "ゴ",
                 "kunyomi": "うま",
-                "meaning": { "en": "Noon", "vi": "trưa, ngọ" },
+                "meaning": { "en": "Noon", "vi": "Trưa" },
                 "radical": "十 (ten, mười)",
                 "mnemonic": {
                     "en": "A pictograph of a pestle, used for pounding rice around noon.",
@@ -517,7 +517,7 @@
                 "kanji": "前",
                 "onyomi": "ゼン",
                 "kunyomi": "まえ",
-                "meaning": { "en": "Before, Front", "vi": "trước, tiền" },
+                "meaning": { "en": "Front", "vi": "Trước" },
                 "radical": "刀 (sword, đao)",
                 "mnemonic": {
                     "en": "Something tied up (top part) being cut by a sword (刂). Preparing something before an event.",
@@ -535,7 +535,7 @@
                 "kanji": "後",
                 "onyomi": "ゴ, コウ",
                 "kunyomi": "うし-ろ, あと",
-                "meaning": { "en": "After, Back", "vi": "sau, hậu" },
+                "meaning": { "en": "After", "vi": "Sau" },
                 "radical": "彳 (step, xích)",
                 "mnemonic": {
                     "en": "A step (彳) taken by a small (幺) person who is following behind (夂).",
@@ -553,7 +553,7 @@
                 "kanji": "今",
                 "onyomi": "コン, キン",
                 "kunyomi": "いま",
-                "meaning": { "en": "Now", "vi": "bây giờ, kim" },
+                "meaning": { "en": "Now", "vi": "Bây giờ" },
                 "radical": "人 (person, nhân)",
                 "mnemonic": {
                     "en": "A person with a roof over their head, thinking about the present moment, 'now'.",
@@ -571,7 +571,7 @@
                 "kanji": "週",
                 "onyomi": "シュウ",
                 "kunyomi": "",
-                "meaning": { "en": "Week", "vi": "tuần, chu" },
+                "meaning": { "en": "Week", "vi": "Tuần" },
                 "radical": "辶 (walk, sước)",
                 "mnemonic": {
                     "en": "To walk (辶) around a full cycle (周), which takes a week.",
@@ -589,8 +589,8 @@
                 "kanji": "毎",
                 "onyomi": "マイ",
                 "kunyomi": "ごと",
-                "meaning": { "en": "Every", "vi": "mỗi" },
-                "radical": "人 (person, nhân)",
+                "meaning": { "en": "Every", "vi": "Mỗi" },
+                "radical": "毋 (mother, mẫu)",
                 "mnemonic": {
                     "en": "A person (人) with their mother (母), whom they see every day.",
                     "vi": "Một người (人) với mẹ của họ (母), người mà họ gặp mỗi ngày."
@@ -607,7 +607,7 @@
                 "kanji": "明",
                 "onyomi": "メイ, ミョウ",
                 "kunyomi": "あ-かり, あか-るい, あ-した",
-                "meaning": { "en": "Bright, Tomorrow", "vi": "sáng, ngày mai, minh" },
+                "meaning": { "en": "Bright", "vi": "Sáng" },
                 "radical": "日 (sun, nhật)",
                 "mnemonic": {
                     "en": "The sun (日) and the moon (月) together make everything bright.",
@@ -631,7 +631,7 @@
                 "kanji": "人",
                 "onyomi": "ジン, ニン",
                 "kunyomi": "ひと",
-                "meaning": { "en": "Person", "vi": "người, nhân" },
+                "meaning": { "en": "Person", "vi": "Người" },
                 "radical": "人 (person, nhân)",
                 "mnemonic": {
                     "en": "A pictograph of a person walking, with two legs.",
@@ -649,7 +649,7 @@
                 "kanji": "男",
                 "onyomi": "ダン, ナン",
                 "kunyomi": "おとこ",
-                "meaning": { "en": "Man", "vi": "đàn ông, nam" },
+                "meaning": { "en": "Man", "vi": "Đàn ông" },
                 "radical": "田 (rice field, điền)",
                 "mnemonic": {
                     "en": "A man uses his power (力) in the rice field (田).",
@@ -667,7 +667,7 @@
                 "kanji": "女",
                 "onyomi": "ジョ, ニョ",
                 "kunyomi": "おんな",
-                "meaning": { "en": "Woman", "vi": "phụ nữ, nữ" },
+                "meaning": { "en": "Woman", "vi": "Phụ nữ" },
                 "radical": "女 (woman, nữ)",
                 "mnemonic": {
                     "en": "A pictograph of a woman kneeling gracefully.",
@@ -685,7 +685,7 @@
                 "kanji": "子",
                 "onyomi": "シ, ス",
                 "kunyomi": "こ",
-                "meaning": { "en": "Child", "vi": "con, trẻ con, tử" },
+                "meaning": { "en": "Child", "vi": "Con" },
                 "radical": "子 (child, tử)",
                 "mnemonic": {
                     "en": "A pictograph of a small child with outstretched arms.",
@@ -703,7 +703,7 @@
                 "kanji": "父",
                 "onyomi": "フ",
                 "kunyomi": "ちち",
-                "meaning": { "en": "Father", "vi": "cha, phụ" },
+                "meaning": { "en": "Father", "vi": "Cha" },
                 "radical": "父 (father, phụ)",
                 "mnemonic": {
                     "en": "Looks like a man holding two sticks or axes, a symbol of a father's protective role.",
@@ -721,7 +721,7 @@
                 "kanji": "母",
                 "onyomi": "ボ",
                 "kunyomi": "はは",
-                "meaning": { "en": "Mother", "vi": "mẹ, mẫu" },
+                "meaning": { "en": "Mother", "vi": "Mẹ" },
                 "radical": "毋 (mother, mẫu)",
                 "mnemonic": {
                     "en": "Derived from the kanji for 'woman' (女) with two dots representing her breasts, symbolizing motherhood.",
@@ -739,7 +739,7 @@
                 "kanji": "兄",
                 "onyomi": "ケイ, キョウ",
                 "kunyomi": "あに",
-                "meaning": { "en": "Older Brother", "vi": "anh trai, huynh" },
+                "meaning": { "en": "Older Brother", "vi": "Anh trai" },
                 "radical": "口 (mouth, khẩu)",
                 "mnemonic": {
                     "en": "A big mouth (口) on legs (儿), the older brother who gives orders.",
@@ -756,7 +756,7 @@
                 "kanji": "姉",
                 "onyomi": "シ",
                 "kunyomi": "あね",
-                "meaning": { "en": "Older Sister", "vi": "chị gái, tỷ" },
+                "meaning": { "en": "Older Sister", "vi": "Chị gái" },
                 "radical": "女 (woman, nữ)",
                 "mnemonic": {
                     "en": "A woman (女) who goes to the market (市). The responsible older sister.",
@@ -773,7 +773,7 @@
                 "kanji": "弟",
                 "onyomi": "テイ, ダイ",
                 "kunyomi": "おとうと",
-                "meaning": { "en": "Younger Brother", "vi": "em trai, đệ" },
+                "meaning": { "en": "Younger Brother", "vi": "Em trai" },
                 "radical": "弓 (bow, cung)",
                 "mnemonic": {
                     "en": "Looks like a little figure with a bow on his head, a playful younger brother.",
@@ -790,7 +790,7 @@
                 "kanji": "妹",
                 "onyomi": "マイ",
                 "kunyomi": "いもうと",
-                "meaning": { "en": "Younger Sister", "vi": "em gái, muội" },
+                "meaning": { "en": "Younger Sister", "vi": "Em gái" },
                 "radical": "女 (woman, nữ)",
                 "mnemonic": {
                     "en": "A woman (女) who is not yet (未) fully grown. Your younger sister.",
@@ -806,8 +806,8 @@
                 "kanji": "友",
                 "onyomi": "ユウ",
                 "kunyomi": "とも",
-                "meaning": { "en": "Friend", "vi": "bạn bè, hữu" },
-                "radical": "又 (again, right hand, hựu)",
+                "meaning": { "en": "Friend", "vi": "Bạn" },
+                "radical": "又 (again, hựu)",
                 "mnemonic": {
                     "en": "Two right hands (又) coming together in friendship.",
                     "vi": "Hai bàn tay phải (又) đến với nhau trong tình bạn."
@@ -824,7 +824,7 @@
                 "kanji": "私",
                 "onyomi": "シ",
                 "kunyomi": "わたし, わたくし",
-                "meaning": { "en": "I, Private", "vi": "tôi, tư" },
+                "meaning": { "en": "I", "vi": "Tôi" },
                 "radical": "禾 (grain, hòa)",
                 "mnemonic": {
                     "en": "Grain (禾) guarded by a hook, representing something private or personal.",
@@ -840,7 +840,7 @@
                 "kanji": "口",
                 "onyomi": "コウ, ク",
                 "kunyomi": "くち",
-                "meaning": { "en": "Mouth", "vi": "miệng, khẩu" },
+                "meaning": { "en": "Mouth", "vi": "Miệng" },
                 "radical": "口 (mouth, khẩu)",
                 "mnemonic": {
                     "en": "A pictograph of an open mouth.",
@@ -858,7 +858,7 @@
                 "kanji": "目",
                 "onyomi": "モク, ボク",
                 "kunyomi": "め",
-                "meaning": { "en": "Eye", "vi": "mắt, mục" },
+                "meaning": { "en": "Eye", "vi": "Mắt" },
                 "radical": "目 (eye, mục)",
                 "mnemonic": {
                     "en": "A pictograph of an eye, rotated 90 degrees.",
@@ -876,7 +876,7 @@
                 "kanji": "耳",
                 "onyomi": "ジ",
                 "kunyomi": "みみ",
-                "meaning": { "en": "Ear", "vi": "tai, nhĩ" },
+                "meaning": { "en": "Ear", "vi": "Tai" },
                 "radical": "耳 (ear, nhĩ)",
                 "mnemonic": {
                     "en": "A pictograph of an ear.",
@@ -892,7 +892,7 @@
                 "kanji": "手",
                 "onyomi": "シュ, ズ",
                 "kunyomi": "て",
-                "meaning": { "en": "Hand", "vi": "tay, thủ" },
+                "meaning": { "en": "Hand", "vi": "Tay" },
                 "radical": "手 (hand, thủ)",
                 "mnemonic": {
                     "en": "A pictograph of a hand with fingers.",
@@ -910,7 +910,7 @@
                 "kanji": "足",
                 "onyomi": "ソク",
                 "kunyomi": "あし, た-りる",
-                "meaning": { "en": "Foot/Leg, Suffice", "vi": "chân, đủ, túc" },
+                "meaning": { "en": "Foot", "vi": "Chân" },
                 "radical": "足 (foot, túc)",
                 "mnemonic": {
                     "en": "A mouth (口) above a person's leg (止), representing a foot.",
@@ -921,7 +921,7 @@
                     { "word": "不足", "reading": "ふそく", "meaning": { "en": "Insufficiency, lack", "vi": "Thiếu" } },
                     { "word": "遠足", "reading": "えんそく", "meaning": { "en": "Excursion, picnic", "vi": "Dã ngoại" } }
                 ],
-                "sentence": { "jp": "足が痛いです。", "en": "My leg/foot hurts.", "vi": "Chân/bàn chân của tôi bị đau." }
+                "sentence": { "jp": "足が痛いです。", "en": "My leg/foot hurts.", "vi": "Chân tôi bị đau." }
             }
         ]
     },
@@ -934,7 +934,7 @@
                 "kanji": "上",
                 "onyomi": "ジョウ, ショウ",
                 "kunyomi": "うえ, あ-がる, のぼ-る",
-                "meaning": { "en": "Up, Above, To rise", "vi": "trên, lên, thượng" },
+                "meaning": { "en": "Up", "vi": "Trên" },
                 "radical": "一 (one, một)",
                 "mnemonic": {
                     "en": "A line above a base, indicating an 'up' or 'above' position.",
@@ -952,7 +952,7 @@
                 "kanji": "下",
                 "onyomi": "カ, ゲ",
                 "kunyomi": "した, さ-がる, くだ-る",
-                "meaning": { "en": "Down, Below, To lower", "vi": "dưới, xuống, hạ" },
+                "meaning": { "en": "Down", "vi": "Dưới" },
                 "radical": "一 (one, một)",
                 "mnemonic": {
                     "en": "A line below a base, indicating a 'down' or 'below' position.",
@@ -970,7 +970,7 @@
                 "kanji": "中",
                 "onyomi": "チュウ, ジュウ",
                 "kunyomi": "なか",
-                "meaning": { "en": "Middle, In", "vi": "giữa, trong, trung" },
+                "meaning": { "en": "Middle", "vi": "Giữa" },
                 "radical": "丨 (line, cổn)",
                 "mnemonic": {
                     "en": "A line going through the middle of a box (口).",
@@ -988,7 +988,7 @@
                 "kanji": "外",
                 "onyomi": "ガイ, ゲ",
                 "kunyomi": "そと, ほか",
-                "meaning": { "en": "Outside, Other", "vi": "ngoài, khác, ngoại" },
+                "meaning": { "en": "Outside", "vi": "Ngoài" },
                 "radical": "夕 (evening, tịch)",
                 "mnemonic": {
                     "en": "Evening (夕) and a magic wand (ト). When it gets dark, you go outside to see the magic of the night.",
@@ -1006,7 +1006,7 @@
                 "kanji": "右",
                 "onyomi": "ウ, ユウ",
                 "kunyomi": "みぎ",
-                "meaning": { "en": "Right", "vi": "phải, hữu" },
+                "meaning": { "en": "Right", "vi": "Phải" },
                 "radical": "口 (mouth, khẩu)",
                 "mnemonic": {
                     "en": "Your right hand (ナ) goes to your mouth (口) when you eat.",
@@ -1023,7 +1023,7 @@
                 "kanji": "左",
                 "onyomi": "サ",
                 "kunyomi": "ひだり",
-                "meaning": { "en": "Left", "vi": "trái, tả" },
+                "meaning": { "en": "Left", "vi": "Trái" },
                 "radical": "工 (work, công)",
                 "mnemonic": {
                     "en": "The left hand holds the tool (工) for work.",
@@ -1040,7 +1040,7 @@
                 "kanji": "東",
                 "onyomi": "トウ",
                 "kunyomi": "ひがし",
-                "meaning": { "en": "East", "vi": "đông" },
+                "meaning": { "en": "East", "vi": "Đông" },
                 "radical": "木 (tree, mộc)",
                 "mnemonic": {
                     "en": "The sun (日) rising behind a tree (木) in the east.",
@@ -1057,7 +1057,7 @@
                 "kanji": "西",
                 "onyomi": "セイ, サイ",
                 "kunyomi": "にし",
-                "meaning": { "en": "West", "vi": "tây" },
+                "meaning": { "en": "West", "vi": "Tây" },
                 "radical": "西 (west, tây)",
                 "mnemonic": {
                     "en": "A bird in a nest, seen as the sun setting in the west.",
@@ -1074,7 +1074,7 @@
                 "kanji": "南",
                 "onyomi": "ナン",
                 "kunyomi": "みなみ",
-                "meaning": { "en": "South", "vi": "nam" },
+                "meaning": { "en": "South", "vi": "Nam" },
                 "radical": "十 (ten, mười)",
                 "mnemonic": {
                     "en": "A shelter with a cross (十). People build shelters facing south for warmth.",
@@ -1091,7 +1091,7 @@
                 "kanji": "北",
                 "onyomi": "ホク",
                 "kunyomi": "きた",
-                "meaning": { "en": "North", "vi": "bắc" },
+                "meaning": { "en": "North", "vi": "Bắc" },
                 "radical": "匕 (spoon, chủy)",
                 "mnemonic": {
                     "en": "Two people sitting back-to-back to stay warm in the cold north.",
@@ -1114,7 +1114,7 @@
                 "kanji": "国",
                 "onyomi": "コク",
                 "kunyomi": "くに",
-                "meaning": { "en": "Country", "vi": "đất nước, quốc" },
+                "meaning": { "en": "Country", "vi": "Nước" },
                 "radical": "囗 (enclosure, vi)",
                 "mnemonic": {
                     "en": "A king or jewel (玉) inside an enclosure (囗), representing a country's border and its treasures.",
@@ -1125,14 +1125,14 @@
                     { "word": "中国", "reading": "ちゅうごく", "meaning": { "en": "China", "vi": "Trung Quốc" } },
                     { "word": "国内", "reading": "こくない", "meaning": { "en": "Domestic, internal", "vi": "Trong nước" } }
                 ],
-                "sentence": { "jp": "あなたの国はどこですか。", "en": "Where is your country from?", "vi": "Đất nước của bạn ở đâu?" }
+                "sentence": { "jp": "あなたの国はどこですか。", "en": "Where is your country from?", "vi": "Bạn đến từ nước nào?" }
             },
             {
                 "id": "k58",
                 "kanji": "道",
                 "onyomi": "ドウ",
                 "kunyomi": "みち",
-                "meaning": { "en": "Road, Street", "vi": "đường, đạo" },
+                "meaning": { "en": "Road", "vi": "Đường" },
                 "radical": "辶 (walk, sước)",
                 "mnemonic": {
                     "en": "A head (首) walking (辶) along a path. The path you follow with your head held high.",
@@ -1150,7 +1150,7 @@
                 "kanji": "駅",
                 "onyomi": "エキ",
                 "kunyomi": "",
-                "meaning": { "en": "Station", "vi": "nhà ga, dịch" },
+                "meaning": { "en": "Station", "vi": "Nhà ga" },
                 "radical": "馬 (horse, mã)",
                 "mnemonic": {
                     "en": "A horse (馬) at a post station. Historically, stations were for changing horses.",
@@ -1167,7 +1167,7 @@
                 "kanji": "店",
                 "onyomi": "テン",
                 "kunyomi": "みせ",
-                "meaning": { "en": "Shop", "vi": "cửa hàng, điếm" },
+                "meaning": { "en": "Shop", "vi": "Cửa hàng" },
                 "radical": "广 (dotted cliff, nghiễm)",
                 "mnemonic": {
                     "en": "A fortune teller (占) under a roof (广), which is their shop.",
@@ -1185,7 +1185,7 @@
                 "kanji": "家",
                 "onyomi": "カ, ケ",
                 "kunyomi": "いえ, うち",
-                "meaning": { "en": "House", "vi": "nhà, gia" },
+                "meaning": { "en": "House", "vi": "Nhà" },
                 "radical": "宀 (roof, miên)",
                 "mnemonic": {
                     "en": "A pig (豕) under a roof (宀). In the past, livestock was kept in the house.",
@@ -1203,7 +1203,7 @@
                 "kanji": "社",
                 "onyomi": "シャ",
                 "kunyomi": "やしろ",
-                "meaning": { "en": "Company, Shrine", "vi": "công ty, đền, xã" },
+                "meaning": { "en": "Company", "vi": "Công ty" },
                 "radical": "示 (altar, thị)",
                 "mnemonic": {
                     "en": "An altar (示) on the earth (土) forms a shrine, a center of the community or company.",
@@ -1221,7 +1221,7 @@
                 "kanji": "車",
                 "onyomi": "シャ",
                 "kunyomi": "くるま",
-                "meaning": { "en": "Car, Vehicle", "vi": "xe, xa" },
+                "meaning": { "en": "Car", "vi": "Xe" },
                 "radical": "車 (car, xa)",
                 "mnemonic": {
                     "en": "A pictograph of a chariot viewed from above, with an axle and two wheels.",
@@ -1239,7 +1239,7 @@
                 "kanji": "空",
                 "onyomi": "クウ",
                 "kunyomi": "そら, あ-く, から",
-                "meaning": { "en": "Sky, Empty", "vi": "bầu trời, trống, không" },
+                "meaning": { "en": "Sky", "vi": "Bầu trời" },
                 "radical": "穴 (hole, huyệt)",
                 "mnemonic": {
                     "en": "A hole (穴) made by a tool (工). An empty space, like the sky.",
@@ -1257,7 +1257,7 @@
                 "kanji": "町",
                 "onyomi": "チョウ",
                 "kunyomi": "まち",
-                "meaning": { "en": "Town", "vi": "thị trấn, đinh" },
+                "meaning": { "en": "Town", "vi": "Thị trấn" },
                 "radical": "田 (rice field, điền)",
                 "mnemonic": {
                     "en": "A rice field (田) with a nail (丁), marking the boundary of a town.",
@@ -1273,7 +1273,7 @@
                 "kanji": "旅",
                 "onyomi": "リョ",
                 "kunyomi": "たび",
-                "meaning": { "en": "Travel, Trip", "vi": "du lịch, chuyến đi, lữ" },
+                "meaning": { "en": "Travel", "vi": "Du lịch" },
                 "radical": "方 (direction, phương)",
                 "mnemonic": {
                     "en": "A flag waving in a certain direction (方) as people travel.",
@@ -1297,7 +1297,7 @@
                 "kanji": "書",
                 "onyomi": "ショ",
                 "kunyomi": "か-く",
-                "meaning": { "en": "Write", "vi": "viết, thư" },
+                "meaning": { "en": "Write", "vi": "Viết" },
                 "radical": "曰 (say, viết)",
                 "mnemonic": {
                     "en": "To use a brush (聿) to say (曰) something on paper.",
@@ -1315,7 +1315,7 @@
                 "kanji": "読",
                 "onyomi": "ドク, トク",
                 "kunyomi": "よ-む",
-                "meaning": { "en": "Read", "vi": "đọc, độc" },
+                "meaning": { "en": "Read", "vi": "Đọc" },
                 "radical": "言 (word, ngôn)",
                 "mnemonic": {
                     "en": "To sell (売) words (言). A storyteller reads tales to an audience.",
@@ -1333,7 +1333,7 @@
                 "kanji": "聞",
                 "onyomi": "ブン, モン",
                 "kunyomi": "き-く, き-こえる",
-                "meaning": { "en": "Hear, Ask, Listen", "vi": "nghe, hỏi, văn" },
+                "meaning": { "en": "Listen", "vi": "Nghe" },
                 "radical": "門 (gate, môn)",
                 "mnemonic": {
                     "en": "An ear (耳) at a gate (門), listening for someone or asking who is there.",
@@ -1351,7 +1351,7 @@
                 "kanji": "行",
                 "onyomi": "コウ, ギョウ",
                 "kunyomi": "い-く, おこな-う",
-                "meaning": { "en": "Go, Conduct", "vi": "đi, hành" },
+                "meaning": { "en": "Go", "vi": "Đi" },
                 "radical": "行 (go, hành)",
                 "mnemonic": {
                     "en": "A pictograph of a crossroads, representing movement and going somewhere.",
@@ -1369,7 +1369,7 @@
                 "kanji": "来",
                 "onyomi": "ライ",
                 "kunyomi": "く-る, き-ます",
-                "meaning": { "en": "Come", "vi": "đến, lai" },
+                "meaning": { "en": "Come", "vi": "Đến" },
                 "radical": "木 (tree, mộc)",
                 "mnemonic": {
                     "en": "Represents wheat, which comes from the fields.",
@@ -1387,7 +1387,7 @@
                 "kanji": "帰",
                 "onyomi": "キ",
                 "kunyomi": "かえ-る, かえ-す",
-                "meaning": { "en": "Return", "vi": "về, quy" },
+                "meaning": { "en": "Return", "vi": "Về" },
                 "radical": "巾 (towel, cân)",
                 "mnemonic": {
                     "en": "A person (left part) sweeping with a broom (帚), cleaning up before returning home.",
@@ -1404,8 +1404,8 @@
                 "kanji": "食",
                 "onyomi": "ショク, ジキ",
                 "kunyomi": "た-べる",
-                "meaning": { "en": "Eat", "vi": "ăn, thực" },
-                "radical": "食 (eat, food, thực)",
+                "meaning": { "en": "Eat", "vi": "Ăn" },
+                "radical": "食 (eat, thực)",
                 "mnemonic": {
                     "en": "A roof over something good (良), representing food to eat.",
                     "vi": "Một mái nhà che một thứ gì đó tốt (良), tượng trưng cho thức ăn."
@@ -1422,8 +1422,8 @@
                 "kanji": "飲",
                 "onyomi": "イン",
                 "kunyomi": "の-む",
-                "meaning": { "en": "Drink", "vi": "uống, ẩm" },
-                "radical": "食 (eat, food, thực)",
+                "meaning": { "en": "Drink", "vi": "Uống" },
+                "radical": "食 (eat, thực)",
                 "mnemonic": {
                     "en": "You need food (食) but you lack (欠) something to drink.",
                     "vi": "Bạn cần thức ăn (食) nhưng lại thiếu (欠) thứ gì đó để uống."
@@ -1440,7 +1440,7 @@
                 "kanji": "見",
                 "onyomi": "ケン",
                 "kunyomi": "み-る, み-せる",
-                "meaning": { "en": "See, Look, Show", "vi": "nhìn, xem, kiến" },
+                "meaning": { "en": "See", "vi": "Nhìn" },
                 "radical": "見 (see, kiến)",
                 "mnemonic": {
                     "en": "An eye (目) on legs (儿), walking around to see things.",
@@ -1458,7 +1458,7 @@
                 "kanji": "言",
                 "onyomi": "ゲン, ゴン",
                 "kunyomi": "い-う, こと",
-                "meaning": { "en": "Say, Word", "vi": "nói, lời, ngôn" },
+                "meaning": { "en": "Say", "vi": "Nói" },
                 "radical": "言 (word, ngôn)",
                 "mnemonic": {
                     "en": "A mouth with sound waves coming out, representing words being said.",
@@ -1476,7 +1476,7 @@
                 "kanji": "話",
                 "onyomi": "ワ",
                 "kunyomi": "はな-す, はなし",
-                "meaning": { "en": "Speak, Talk, Story", "vi": "nói chuyện, câu chuyện, thoại" },
+                "meaning": { "en": "Speak", "vi": "Nói chuyện" },
                 "radical": "言 (word, ngôn)",
                 "mnemonic": {
                     "en": "Words (言) that come from a tongue of a thousand (千) stories.",
@@ -1494,7 +1494,7 @@
                 "kanji": "会",
                 "onyomi": "カイ",
                 "kunyomi": "あ-う",
-                "meaning": { "en": "Meet, Society", "vi": "gặp, hội" },
+                "meaning": { "en": "Meet", "vi": "Gặp" },
                 "radical": "人 (person, nhân)",
                 "mnemonic": {
                     "en": "A person under a roof, gathering for a meeting.",
@@ -1512,7 +1512,7 @@
                 "kanji": "買",
                 "onyomi": "バイ",
                 "kunyomi": "か-う",
-                "meaning": { "en": "Buy", "vi": "mua, mãi" },
+                "meaning": { "en": "Buy", "vi": "Mua" },
                 "radical": "目 (eye, mục)",
                 "mnemonic": {
                     "en": "A net (罒) used to catch shellfish (貝), which were once used as money to buy things.",
@@ -1529,7 +1529,7 @@
                 "kanji": "売",
                 "onyomi": "バイ",
                 "kunyomi": "う-る",
-                "meaning": { "en": "Sell", "vi": "bán, mại" },
+                "meaning": { "en": "Sell", "vi": "Bán" },
                 "radical": "士 (samurai, sĩ)",
                 "mnemonic": {
                     "en": "A samurai (士) as a merchant. The top part represents the item being sold.",
@@ -1547,7 +1547,7 @@
                 "kanji": "休",
                 "onyomi": "キュウ",
                 "kunyomi": "やす-む",
-                "meaning": { "en": "Rest", "vi": "nghỉ, hưu" },
+                "meaning": { "en": "Rest", "vi": "Nghỉ" },
                 "radical": "人 (person, nhân)",
                 "mnemonic": {
                     "en": "A person (人) leaning against a tree (木) to rest.",
@@ -1565,7 +1565,7 @@
                 "kanji": "出",
                 "onyomi": "シュツ, スイ",
                 "kunyomi": "で-る, だ-す",
-                "meaning": { "en": "Go out, Put out", "vi": "ra, lấy ra, xuất" },
+                "meaning": { "en": "Go out", "vi": "Đi ra" },
                 "radical": "凵 (open box, khảm)",
                 "mnemonic": {
                     "en": "Two mountains (山) stacked on top of each other, representing something emerging or coming out.",
@@ -1583,7 +1583,7 @@
                 "kanji": "入",
                 "onyomi": "ニュウ",
                 "kunyomi": "はい-る, い-れる",
-                "meaning": { "en": "Enter, Put in", "vi": "vào, cho vào, nhập" },
+                "meaning": { "en": "Enter", "vi": "Vào" },
                 "radical": "入 (enter, nhập)",
                 "mnemonic": {
                     "en": "A pictograph of a tipi or tent flap, something you enter.",
@@ -1601,7 +1601,7 @@
                 "kanji": "立",
                 "onyomi": "リツ, リュウ",
                 "kunyomi": "た-つ, た-てる",
-                "meaning": { "en": "Stand", "vi": "đứng, lập" },
+                "meaning": { "en": "Stand", "vi": "Đứng" },
                 "radical": "立 (stand, lập)",
                 "mnemonic": {
                     "en": "A person standing firmly on the ground.",
@@ -1619,7 +1619,7 @@
                 "kanji": "待",
                 "onyomi": "タイ",
                 "kunyomi": "ま-つ",
-                "meaning": { "en": "Wait", "vi": "đợi, đãi" },
+                "meaning": { "en": "Wait", "vi": "Đợi" },
                 "radical": "彳 (step, xích)",
                 "mnemonic": {
                     "en": "A person taking small steps (彳) at a temple (寺), waiting for someone.",
@@ -1637,7 +1637,7 @@
                 "kanji": "持",
                 "onyomi": "ジ",
                 "kunyomi": "も-つ",
-                "meaning": { "en": "Hold, Have", "vi": "cầm, mang, trì" },
+                "meaning": { "en": "Hold", "vi": "Cầm" },
                 "radical": "手 (hand, thủ)",
                 "mnemonic": {
                     "en": "A hand (手) at a temple (寺), holding something precious.",
@@ -1655,7 +1655,7 @@
                 "kanji": "作",
                 "onyomi": "サク, サ",
                 "kunyomi": "つく-る",
-                "meaning": { "en": "Make", "vi": "làm, tạo, tác" },
+                "meaning": { "en": "Make", "vi": "Làm" },
                 "radical": "人 (person, nhân)",
                 "mnemonic": {
                     "en": "A person (亻) from the past (乍) making something.",
@@ -1673,7 +1673,7 @@
                 "kanji": "使",
                 "onyomi": "シ",
                 "kunyomi": "つか-う",
-                "meaning": { "en": "Use", "vi": "sử dụng, sứ" },
+                "meaning": { "en": "Use", "vi": "Sử dụng" },
                 "radical": "人 (person, nhân)",
                 "mnemonic": {
                     "en": "A person (亻) managing a historical official or scribe.",
@@ -1691,7 +1691,7 @@
                 "kanji": "教",
                 "onyomi": "キョウ",
                 "kunyomi": "おし-える, おそ-わる",
-                "meaning": { "en": "Teach, Learn", "vi": "dạy, chỉ bảo, giáo" },
+                "meaning": { "en": "Teach", "vi": "Dạy" },
                 "radical": "攵 (strike, phộc)",
                 "mnemonic": {
                     "en": "A teacher teaching filial piety (孝) to a child (子) with a stick (攵).",
@@ -1709,7 +1709,7 @@
                 "kanji": "走",
                 "onyomi": "ソウ",
                 "kunyomi": "はし-る",
-                "meaning": { "en": "Run", "vi": "chạy, tẩu" },
+                "meaning": { "en": "Run", "vi": "Chạy" },
                 "radical": "走 (run, tẩu)",
                 "mnemonic": {
                     "en": "A person made of earth (土) running away, with their legs (止) moving fast.",
@@ -1726,7 +1726,7 @@
                 "kanji": "歩",
                 "onyomi": "ホ, ブ, フ",
                 "kunyomi": "ある-く, あゆ-む",
-                "meaning": { "en": "Walk", "vi": "đi bộ, bộ" },
+                "meaning": { "en": "Walk", "vi": "Đi bộ" },
                 "radical": "止 (stop, chỉ)",
                 "mnemonic": {
                     "en": "To stop (止) for a little (少) while during a walk.",
@@ -1744,7 +1744,7 @@
                 "kanji": "起",
                 "onyomi": "キ",
                 "kunyomi": "お-きる, お-こす",
-                "meaning": { "en": "Wake up, Get up", "vi": "thức dậy, khởi" },
+                "meaning": { "en": "Get up", "vi": "Thức dậy" },
                 "radical": "走 (run, tẩu)",
                 "mnemonic": {
                     "en": "To run (走) after you yourself (己) get up.",
@@ -1761,7 +1761,7 @@
                 "kanji": "寝",
                 "onyomi": "シン",
                 "kunyomi": "ね-る, ね-かす",
-                "meaning": { "en": "Sleep, Lie down", "vi": "ngủ, tẩm" },
+                "meaning": { "en": "Sleep", "vi": "Ngủ" },
                 "radical": "宀 (roof, miên)",
                 "mnemonic": {
                     "en": "Under a roof (宀), a person lies on a bed (right part) to sleep.",
@@ -1785,7 +1785,7 @@
                 "kanji": "大",
                 "onyomi": "ダイ, タイ",
                 "kunyomi": "おお-きい, おお-いに",
-                "meaning": { "en": "Big, Large", "vi": "to, lớn, đại" },
+                "meaning": { "en": "Big", "vi": "To" },
                 "radical": "大 (big, đại)",
                 "mnemonic": {
                     "en": "A person (人) with arms stretched wide to show how big something is.",
@@ -1803,7 +1803,7 @@
                 "kanji": "小",
                 "onyomi": "ショウ",
                 "kunyomi": "ちい-さい, こ",
-                "meaning": { "en": "Small", "vi": "nhỏ, tiểu" },
+                "meaning": { "en": "Small", "vi": "Nhỏ" },
                 "radical": "小 (small, tiểu)",
                 "mnemonic": {
                     "en": "A vertical line with two small dots, representing something small.",
@@ -1821,7 +1821,7 @@
                 "kanji": "高",
                 "onyomi": "コウ",
                 "kunyomi": "たか-い",
-                "meaning": { "en": "High, Expensive", "vi": "cao, đắt" },
+                "meaning": { "en": "High", "vi": "Cao" },
                 "radical": "高 (tall, cao)",
                 "mnemonic": {
                     "en": "A tall building with a roof, multiple floors, and a base.",
@@ -1839,11 +1839,11 @@
                 "kanji": "安",
                 "onyomi": "アン",
                 "kunyomi": "やす-い",
-                "meaning": { "en": "Cheap, Peaceful", "vi": "rẻ, an" },
+                "meaning": { "en": "Cheap", "vi": "Rẻ" },
                 "radical": "宀 (roof, miên)",
                 "mnemonic": {
-                    "en": "A woman (女) under a roof (宀), feeling safe and at peace.",
-                    "vi": "Một người phụ nữ (女) dưới một mái nhà (宀), cảm thấy an toàn và bình yên."
+                    "en": "A woman (女) under a roof (宀), feeling safe and at peace. This feeling of security also implies inexpensiveness.",
+                    "vi": "Một người phụ nữ (女) dưới một mái nhà (宀), cảm thấy an toàn và bình yên. Cảm giác an toàn này cũng ngụ ý sự rẻ."
                 },
                 "examples": [
                     { "word": "安い", "reading": "やすい", "meaning": { "en": "Cheap", "vi": "Rẻ" } },
@@ -1857,7 +1857,7 @@
                 "kanji": "新",
                 "onyomi": "シン",
                 "kunyomi": "あたら-しい",
-                "meaning": { "en": "New", "vi": "mới, tân" },
+                "meaning": { "en": "New", "vi": "Mới" },
                 "radical": "斤 (axe, cân)",
                 "mnemonic": {
                     "en": "To stand (立) by a tree (木) and chop it with an axe (斤) to make something new.",
@@ -1875,7 +1875,7 @@
                 "kanji": "古",
                 "onyomi": "コ",
                 "kunyomi": "ふる-い",
-                "meaning": { "en": "Old", "vi": "cũ, cổ" },
+                "meaning": { "en": "Old", "vi": "Cũ" },
                 "radical": "口 (mouth, khẩu)",
                 "mnemonic": {
                     "en": "Ten (十) mouths (口) telling stories from old times.",
@@ -1893,7 +1893,7 @@
                 "kanji": "長",
                 "onyomi": "チョウ",
                 "kunyomi": "なが-い",
-                "meaning": { "en": "Long, Leader", "vi": "dài, trưởng, trường" },
+                "meaning": { "en": "Long", "vi": "Dài" },
                 "radical": "長 (long, trường)",
                 "mnemonic": {
                     "en": "A pictograph of an old person with long hair, representing 'long' or 'leader'.",
@@ -1911,7 +1911,7 @@
                 "kanji": "多",
                 "onyomi": "タ",
                 "kunyomi": "おお-い",
-                "meaning": { "en": "Many, Much", "vi": "nhiều, đa" },
+                "meaning": { "en": "Many", "vi": "Nhiều" },
                 "radical": "夕 (evening, tịch)",
                 "mnemonic": {
                     "en": "Two evenings (夕) stacked on top of each other. Many nights have passed.",
@@ -1929,7 +1929,7 @@
                 "kanji": "少",
                 "onyomi": "ショウ",
                 "kunyomi": "すく-ない, すこ-し",
-                "meaning": { "en": "Few, A little", "vi": "ít, một chút, thiểu" },
+                "meaning": { "en": "Few", "vi": "Ít" },
                 "radical": "小 (small, tiểu)",
                 "mnemonic": {
                     "en": "A small (小) amount, with a line representing a bit more.",
@@ -1947,7 +1947,7 @@
                 "kanji": "白",
                 "onyomi": "ハク, ビャク",
                 "kunyomi": "しろ, しろ-い",
-                "meaning": { "en": "White", "vi": "trắng, bạch" },
+                "meaning": { "en": "White", "vi": "Trắng" },
                 "radical": "白 (white, trắng)",
                 "mnemonic": {
                     "en": "A drop of sunlight (日), which is white.",
@@ -1965,7 +1965,7 @@
                 "kanji": "赤",
                 "onyomi": "セキ, シャク",
                 "kunyomi": "あか, あか-い",
-                "meaning": { "en": "Red", "vi": "đỏ, xích" },
+                "meaning": { "en": "Red", "vi": "Đỏ" },
                 "radical": "赤 (red, xích)",
                 "mnemonic": {
                     "en": "Earth (土) on fire (灬), glowing red.",
@@ -1983,7 +1983,7 @@
                 "kanji": "青",
                 "onyomi": "セイ, ショウ",
                 "kunyomi": "あお, あお-い",
-                "meaning": { "en": "Blue", "vi": "xanh, thanh" },
+                "meaning": { "en": "Blue", "vi": "Xanh" },
                 "radical": "青 (blue, thanh)",
                 "mnemonic": {
                     "en": "A plant (生) growing under the moon (月), appearing blue in the dim light.",
@@ -2001,7 +2001,7 @@
                 "kanji": "黒",
                 "onyomi": "コク",
                 "kunyomi": "くろ, くろ-い",
-                "meaning": { "en": "Black", "vi": "đen, hắc" },
+                "meaning": { "en": "Black", "vi": "Đen" },
                 "radical": "黒 (black, hắc)",
                 "mnemonic": {
                     "en": "A window (里) covered in soot from a fire (灬), making it black.",
@@ -2019,7 +2019,7 @@
                 "kanji": "好",
                 "onyomi": "コウ",
                 "kunyomi": "す-き, この-む",
-                "meaning": { "en": "Like, Favorite", "vi": "thích, hảo" },
+                "meaning": { "en": "Like", "vi": "Thích" },
                 "radical": "女 (woman, nữ)",
                 "mnemonic": {
                     "en": "A woman (女) and a child (子) together, a picture of love and fondness.",
@@ -2036,7 +2036,7 @@
                 "kanji": "元",
                 "onyomi": "ゲン, ガン",
                 "kunyomi": "もと",
-                "meaning": { "en": "Origin, Healthy", "vi": "gốc, khỏe, nguyên" },
+                "meaning": { "en": "Origin", "vi": "Gốc" },
                 "radical": "儿 (legs, nhân đi)",
                 "mnemonic": {
                     "en": "The number two (二) on legs (儿), representing the origin or beginning of things.",
@@ -2054,7 +2054,7 @@
                 "kanji": "早",
                 "onyomi": "ソウ, サッ",
                 "kunyomi": "はや-い",
-                "meaning": { "en": "Early, Fast", "vi": "sớm, nhanh, tảo" },
+                "meaning": { "en": "Early", "vi": "Sớm" },
                 "radical": "日 (sun, nhật)",
                 "mnemonic": {
                     "en": "The sun (日) with a cross (十) on top, representing the sun early in the morning.",
@@ -2071,7 +2071,7 @@
                 "kanji": "暑",
                 "onyomi": "ショ",
                 "kunyomi": "あつ-い",
-                "meaning": { "en": "Hot (weather)", "vi": "nóng, thử" },
+                "meaning": { "en": "Hot (weather)", "vi": "Nóng" },
                 "radical": "日 (sun, nhật)",
                 "mnemonic": {
                     "en": "The sun (日) making a person (者) feel hot.",
@@ -2088,7 +2088,7 @@
                 "kanji": "寒",
                 "onyomi": "カン",
                 "kunyomi": "さむ-い",
-                "meaning": { "en": "Cold (weather)", "vi": "lạnh, hàn" },
+                "meaning": { "en": "Cold (weather)", "vi": "Lạnh" },
                 "radical": "宀 (roof, miên)",
                 "mnemonic": {
                     "en": "Under a roof (宀), a person huddles with straw (bottom part) and ice (冫) outside, feeling cold.",
@@ -2105,7 +2105,7 @@
                 "kanji": "強",
                 "onyomi": "キョウ, ゴウ",
                 "kunyomi": "つよ-い, し-いる",
-                "meaning": { "en": "Strong", "vi": "mạnh, cường" },
+                "meaning": { "en": "Strong", "vi": "Mạnh" },
                 "radical": "弓 (bow, cung)",
                 "mnemonic": {
                     "en": "A strong bow (弓) used by an insect (虫) - imagine a very strong ant.",
@@ -2123,7 +2123,7 @@
                 "kanji": "静",
                 "onyomi": "セイ, ジョウ",
                 "kunyomi": "しず-か",
-                "meaning": { "en": "Quiet, Still", "vi": "yên tĩnh, tĩnh" },
+                "meaning": { "en": "Quiet", "vi": "Yên tĩnh" },
                 "radical": "青 (blue, thanh)",
                 "mnemonic": {
                     "en": "The blue (青) of a calm battle (争). A serene, quiet scene after a conflict.",
@@ -2140,7 +2140,7 @@
                 "kanji": "嫌",
                 "onyomi": "ケン, ゲン",
                 "kunyomi": "きら-う, いや",
-                "meaning": { "en": "Dislike, Unpleasant", "vi": "ghét, khó chịu, hiềm" },
+                "meaning": { "en": "Dislike", "vi": "Ghét" },
                 "radical": "女 (woman, nữ)",
                 "mnemonic": {
                     "en": "A woman (女) who has a concurrent (兼) feeling of dislike.",
@@ -2163,7 +2163,7 @@
                 "kanji": "山",
                 "onyomi": "サン",
                 "kunyomi": "やま",
-                "meaning": { "en": "Mountain", "vi": "núi, sơn" },
+                "meaning": { "en": "Mountain", "vi": "Núi" },
                 "radical": "山 (mountain, sơn)",
                 "mnemonic": {
                     "en": "A pictograph of a mountain with three peaks.",
@@ -2180,7 +2180,7 @@
                 "kanji": "川",
                 "onyomi": "セン",
                 "kunyomi": "かわ",
-                "meaning": { "en": "River", "vi": "sông, xuyên" },
+                "meaning": { "en": "River", "vi": "Sông" },
                 "radical": "川 (river, xuyên)",
                 "mnemonic": {
                     "en": "A pictograph of flowing water in a river.",
@@ -2196,7 +2196,7 @@
                 "kanji": "田",
                 "onyomi": "デン",
                 "kunyomi": "た",
-                "meaning": { "en": "Rice Field", "vi": "ruộng, điền" },
+                "meaning": { "en": "Rice Field", "vi": "Ruộng" },
                 "radical": "田 (rice field, điền)",
                 "mnemonic": {
                     "en": "A pictograph of a rice paddy, divided into four sections.",
@@ -2213,7 +2213,7 @@
                 "kanji": "花",
                 "onyomi": "カ",
                 "kunyomi": "はな",
-                "meaning": { "en": "Flower", "vi": "hoa" },
+                "meaning": { "en": "Flower", "vi": "Hoa" },
                 "radical": "艹 (grass, thảo)",
                 "mnemonic": {
                     "en": "A plant (艹) that changes (化) into a beautiful flower.",
@@ -2231,7 +2231,7 @@
                 "kanji": "雨",
                 "onyomi": "ウ",
                 "kunyomi": "あめ",
-                "meaning": { "en": "Rain", "vi": "mưa, vũ" },
+                "meaning": { "en": "Rain", "vi": "Mưa" },
                 "radical": "雨 (rain, vũ)",
                 "mnemonic": {
                     "en": "A pictograph of a cloud with raindrops falling down.",
@@ -2248,7 +2248,7 @@
                 "kanji": "天",
                 "onyomi": "テン",
                 "kunyomi": "あめ, あま",
-                "meaning": { "en": "Heaven, Sky", "vi": "trời, thiên" },
+                "meaning": { "en": "Sky", "vi": "Trời" },
                 "radical": "大 (big, đại)",
                 "mnemonic": {
                     "en": "What is above the big person (大)? The heavens.",
@@ -2266,7 +2266,7 @@
                 "kanji": "気",
                 "onyomi": "キ, ケ",
                 "kunyomi": "いき",
-                "meaning": { "en": "Spirit, Air, Mood", "vi": "khí, tinh thần, không khí" },
+                "meaning": { "en": "Spirit", "vi": "Khí" },
                 "radical": "气 (steam, khí)",
                 "mnemonic": {
                     "en": "Steam (气) coming from rice (米) as it cooks. Represents energy, air, or spirit.",
@@ -2284,7 +2284,7 @@
                 "kanji": "電",
                 "onyomi": "デン",
                 "kunyomi": "",
-                "meaning": { "en": "Electricity", "vi": "điện" },
+                "meaning": { "en": "Electricity", "vi": "Điện" },
                 "radical": "雨 (rain, vũ)",
                 "mnemonic": {
                     "en": "Rain (雨) from the sky that extends down like lightning, representing electricity.",
@@ -2302,7 +2302,7 @@
                 "kanji": "犬",
                 "onyomi": "ケン",
                 "kunyomi": "いぬ",
-                "meaning": { "en": "Dog", "vi": "chó, khuyển" },
+                "meaning": { "en": "Dog", "vi": "Chó" },
                 "radical": "犬 (dog, khuyển)",
                 "mnemonic": {
                     "en": "A pictograph of a dog, with a dot representing its collar or eye.",
@@ -2319,7 +2319,7 @@
                 "kanji": "猫",
                 "onyomi": "ビョウ",
                 "kunyomi": "ねこ",
-                "meaning": { "en": "Cat", "vi": "mèo, miêu" },
+                "meaning": { "en": "Cat", "vi": "Mèo" },
                 "radical": "犬 (dog, khuyển)",
                 "mnemonic": {
                     "en": "A beast (豸) that lives with seedlings (苗) in a field. A cat that roams the farm.",
@@ -2335,7 +2335,7 @@
                 "kanji": "鳥",
                 "onyomi": "チョウ",
                 "kunyomi": "とり",
-                "meaning": { "en": "Bird", "vi": "chim, điểu" },
+                "meaning": { "en": "Bird", "vi": "Chim" },
                 "radical": "鳥 (bird, điểu)",
                 "mnemonic": {
                     "en": "A pictograph of a bird with a crest, eye, and tail feathers.",
@@ -2352,7 +2352,7 @@
                 "kanji": "魚",
                 "onyomi": "ギョ",
                 "kunyomi": "さかな, うお",
-                "meaning": { "en": "Fish", "vi": "cá, ngư" },
+                "meaning": { "en": "Fish", "vi": "Cá" },
                 "radical": "魚 (fish, ngư)",
                 "mnemonic": {
                     "en": "A pictograph of a fish with a head, body, and tail fins (灬).",
@@ -2375,7 +2375,7 @@
                 "kanji": "名",
                 "onyomi": "メイ, ミョウ",
                 "kunyomi": "な",
-                "meaning": { "en": "Name, Famous", "vi": "tên, danh, nổi tiếng" },
+                "meaning": { "en": "Name", "vi": "Tên" },
                 "radical": "口 (mouth, khẩu)",
                 "mnemonic": {
                     "en": "In the evening (夕), you use your mouth (口) to say your name because it's hard to see.",
@@ -2393,7 +2393,7 @@
                 "kanji": "先",
                 "onyomi": "セン",
                 "kunyomi": "さき",
-                "meaning": { "en": "Ahead, Previous", "vi": "trước, tiên" },
+                "meaning": { "en": "Ahead", "vi": "Trước" },
                 "radical": "儿 (legs, nhân đi)",
                 "mnemonic": {
                     "en": "A person (儿) with a plant growing on their head, symbolizing growth and moving ahead.",
@@ -2411,7 +2411,7 @@
                 "kanji": "生",
                 "onyomi": "セイ, ショウ",
                 "kunyomi": "う-まれる, い-きる, なま",
-                "meaning": { "en": "Life, Birth, Raw", "vi": "sống, sinh, tươi" },
+                "meaning": { "en": "Life", "vi": "Sống" },
                 "radical": "生 (life, sinh)",
                 "mnemonic": {
                     "en": "A pictograph of a plant sprouting from the ground (土), symbolizing life and birth.",
@@ -2429,7 +2429,7 @@
                 "kanji": "学",
                 "onyomi": "ガク",
                 "kunyomi": "まな-ぶ",
-                "meaning": { "en": "Study, Learning", "vi": "học, học tập" },
+                "meaning": { "en": "Study", "vi": "Học" },
                 "radical": "子 (child, tử)",
                 "mnemonic": {
                     "en": "A child (子) under a roof (宀) is learning.",
@@ -2447,7 +2447,7 @@
                 "kanji": "校",
                 "onyomi": "コウ",
                 "kunyomi": "",
-                "meaning": { "en": "School", "vi": "trường, hiệu" },
+                "meaning": { "en": "School", "vi": "Trường" },
                 "radical": "木 (tree, mộc)",
                 "mnemonic": {
                     "en": "Trees (木) where people meet and exchange (交) knowledge, which is a school.",
@@ -2464,7 +2464,7 @@
                 "kanji": "本",
                 "onyomi": "ホン",
                 "kunyomi": "もと",
-                "meaning": { "en": "Book, Origin, Main", "vi": "sách, gốc, bản" },
+                "meaning": { "en": "Book", "vi": "Sách" },
                 "radical": "木 (tree, mộc)",
                 "mnemonic": {
                     "en": "A tree (木) with a line at the bottom, indicating its roots or origin. Also means book.",
@@ -2482,7 +2482,7 @@
                 "kanji": "語",
                 "onyomi": "ゴ",
                 "kunyomi": "かた-る",
-                "meaning": { "en": "Language, Word, To tell", "vi": "ngôn ngữ, từ, kể chuyện, ngữ" },
+                "meaning": { "en": "Language", "vi": "Ngôn ngữ" },
                 "radical": "言 (word, ngôn)",
                 "mnemonic": {
                     "en": "Words (言) that I (吾) speak make up a language.",
@@ -2500,7 +2500,7 @@
                 "kanji": "英",
                 "onyomi": "エイ",
                 "kunyomi": "",
-                "meaning": { "en": "English, Excellent", "vi": "Anh, ưu tú" },
+                "meaning": { "en": "English", "vi": "Tiếng Anh" },
                 "radical": "艹 (grass, thảo)",
                 "mnemonic": {
                     "en": "A flower (top part) in the middle (央) of England's beautiful gardens.",
@@ -2518,7 +2518,7 @@
                 "kanji": "力",
                 "onyomi": "リョク, リキ",
                 "kunyomi": "ちから",
-                "meaning": { "en": "Power, Strength", "vi": "sức mạnh, lực" },
+                "meaning": { "en": "Power", "vi": "Sức mạnh" },
                 "radical": "力 (power, lực)",
                 "mnemonic": {
                     "en": "A pictograph of a muscular arm, symbolizing power and strength.",
@@ -2536,7 +2536,7 @@
                 "kanji": "何",
                 "onyomi": "カ",
                 "kunyomi": "なに, なん",
-                "meaning": { "en": "What", "vi": "gì, hà" },
+                "meaning": { "en": "What", "vi": "Gì" },
                 "radical": "人 (person, nhân)",
                 "mnemonic": {
                     "en": "A person (亻) carrying a large sign asking 'what?'",
@@ -2552,13 +2552,15 @@
                 "kanji": "誰",
                 "onyomi": "スイ",
                 "kunyomi": "だれ",
-                "meaning": { "en": "Who", "vi": "ai, thùy" },
+                "meaning": { "en": "Who", "vi": "Ai" },
                 "radical": "言 (word, ngôn)",
                 "mnemonic": {
                     "en": "Words (言) used to ask about a turkey (隹) - 'Who is that?'",
                     "vi": "Những từ (言) được dùng để hỏi về một con gà tây (隹) - 'Ai đó?'"
                 },
-                "examples": [],
+                "examples": [
+                    { "word": "誰か", "reading": "だれか", "meaning": { "en": "Someone, somebody", "vi": "Ai đó" } }
+                ],
                 "sentence": { "jp": "あの人は誰ですか。", "en": "Who is that person?", "vi": "Người đó là ai?" }
             },
             {
@@ -2566,7 +2568,7 @@
                 "kanji": "勉",
                 "onyomi": "ベン",
                 "kunyomi": "つと-める",
-                "meaning": { "en": "Exertion (as in 勉強)", "vi": "cố gắng, học, miễn" },
+                "meaning": { "en": "Exertion", "vi": "Nỗ lực" },
                 "radical": "力 (power, lực)",
                 "mnemonic": {
                     "en": "A mysterious figure escaping with power (力). You need exertion to study.",
