@@ -19,7 +19,17 @@
                     { "word": "一つ", "reading": "ひとつ", "meaning": { "en": "One thing", "vi": "Một cái" } },
                     { "word": "統一", "reading": "とういつ", "meaning": { "en": "Unity", "vi": "Thống nhất" } }
                 ],
-                "sentence": { "jp": "これは一番いいです。", "en": "This is the best one.", "vi": "Đây là cái tốt nhất." }
+                "sentence": {
+                    "jp_tokens": [
+                        { "w": "これ" },
+                        { "w": "は" },
+                        { "w": "一番", "r": "いちばん" },
+                        { "w": "いい" },
+                        { "w": "です。" }
+                    ],
+                    "en": "This is the best one.",
+                    "vi": "Đây là cái tốt nhất."
+                }
             },
             {
                 "id": "k2",
@@ -37,7 +47,17 @@
                     { "word": "二人", "reading": "ふたり", "meaning": { "en": "Two people", "vi": "Hai người" } },
                     { "word": "第二", "reading": "だいに", "meaning": { "en": "The second", "vi": "Thứ hai" } }
                 ],
-                "sentence": { "jp": "猫が二匹います。", "en": "There are two cats.", "vi": "Có hai con mèo." }
+                "sentence": {
+                    "jp_tokens": [
+                        { "w": "猫", "r": "ねこ" },
+                        { "w": "が" },
+                        { "w": "二", "r": "に" },
+                        { "w": "匹", "r": "ひき" },
+                        { "w": "います。" }
+                    ],
+                    "en": "There are two cats.",
+                    "vi": "Có hai con mèo."
+                }
             },
             {
                 "id": "k3",
@@ -55,7 +75,18 @@
                     { "word": "三日", "reading": "みっか", "meaning": { "en": "The 3rd day, three days", "vi": "Ngày 3, ba ngày" } },
                     { "word": "三角形", "reading": "さんかくけい", "meaning": { "en": "Triangle", "vi": "Hình tam giác" } }
                 ],
-                "sentence": { "jp": "彼は三年生です。", "en": "He is a third-year student.", "vi": "Anh ấy là sinh viên năm ba." }
+                "sentence": {
+                    "jp_tokens": [
+                        { "w": "彼", "r": "かれ" },
+                        { "w": "は" },
+                        { "w": "三", "r": "さん" },
+                        { "w": "年", "r": "ねん" },
+                        { "w": "生", "r": "せい" },
+                        { "w": "です。" }
+                    ],
+                    "en": "He is a third-year student.",
+                    "vi": "Anh ấy là sinh viên năm ba."
+                }
             },
             {
                 "id": "k4",
@@ -73,7 +104,18 @@
                     { "word": "四角", "reading": "しかく", "meaning": { "en": "Square", "vi": "Hình vuông" } },
                     { "word": "四季", "reading": "しき", "meaning": { "en": "Four seasons", "vi": "Bốn mùa" } }
                 ],
-                "sentence": { "jp": "年に四季があります。", "en": "There are four seasons in a year.", "vi": "Một năm có bốn mùa." }
+                "sentence": {
+                    "jp_tokens": [
+                        { "w": "年", "r": "ねん" },
+                        { "w": "に" },
+                        { "w": "四", "r": "し" },
+                        { "w": "季", "r": "き" },
+                        { "w": "が" },
+                        { "w": "あります。" }
+                    ],
+                    "en": "There are four seasons in a year.",
+                    "vi": "Một năm có bốn mùa."
+                }
             },
             {
                 "id": "k5",
@@ -91,7 +133,17 @@
                     { "word": "五円", "reading": "ごえん", "meaning": { "en": "Five yen", "vi": "Năm yên" } },
                     { "word": "五感", "reading": "ごかん", "meaning": { "en": "The five senses", "vi": "Năm giác quan" } }
                 ],
-                "sentence": { "jp": "五時に会いましょう。", "en": "Let's meet at five o'clock.", "vi": "Hãy gặp nhau lúc năm giờ." }
+                "sentence": {
+                    "jp_tokens": [
+                        { "w": "五", "r": "ご" },
+                        { "w": "時", "r": "じ" },
+                        { "w": "に" },
+                        { "w": "会", "r": "あ" },
+                        { "w": "いましょう。" }
+                    ],
+                    "en": "Let's meet at five o'clock.",
+                    "vi": "Hãy gặp nhau lúc năm giờ."
+                }
             },
             {
                 "id": "k6",
@@ -109,7 +161,16 @@
                     { "word": "六日", "reading": "むいか", "meaning": { "en": "The 6th day, six days", "vi": "Ngày 6, sáu ngày" } },
                     { "word": "六本木", "reading": "ろっぽんぎ", "meaning": { "en": "Roppongi (place in Tokyo)", "vi": "Roppongi (địa danh ở Tokyo)" } }
                 ],
-                "sentence": { "jp": "六本木に行きます。", "en": "I am going to Roppongi.", "vi": "Tôi sẽ đến Roppongi." }
+                "sentence": {
+                    "jp_tokens": [
+                        { "w": "六本木", "r": "ろっぽんぎ" },
+                        { "w": "に" },
+                        { "w": "行", "r": "い" },
+                        { "w": "きます。" }
+                    ],
+                    "en": "I am going to Roppongi.",
+                    "vi": "Tôi sẽ đến Roppongi."
+                }
             },
             {
                 "id": "k7",
@@ -127,7 +188,19 @@
                     { "word": "七夕", "reading": "たなばた", "meaning": { "en": "Tanabata Star Festival", "vi": "Lễ hội Tanabata" } },
                     { "word": "七不思議", "reading": "ななふしぎ", "meaning": { "en": "The Seven Wonders", "vi": "Bảy kỳ quan" } }
                 ],
-                "sentence": { "jp": "今日は七月七日です。", "en": "Today is July 7th.", "vi": "Hôm nay là ngày 7 tháng 7." }
+                "sentence": {
+                    "jp_tokens": [
+                        { "w": "今日", "r": "きょう" },
+                        { "w": "は" },
+                        { "w": "七", "r": "しち" },
+                        { "w": "月", "r": "がつ" },
+                        { "w": "七", "r": "なな" },
+                        { "w": "日", "r": "か" },
+                        { "w": "です。" }
+                    ],
+                    "en": "Today is July 7th.",
+                    "vi": "Hôm nay là ngày 7 tháng 7."
+                }
             },
             {
                 "id": "k8",
@@ -145,7 +218,17 @@
                     { "word": "八百屋", "reading": "やおや", "meaning": { "en": "Vegetable store", "vi": "Cửa hàng rau" } },
                     { "word": "八方美人", "reading": "はっぽうびじん", "meaning": { "en": "A person who is friendly to everyone", "vi": "Người thảo mai" } }
                 ],
-                "sentence": { "jp": "八時に起きます。", "en": "I wake up at eight o'clock.", "vi": "Tôi thức dậy lúc tám giờ." }
+                "sentence": {
+                    "jp_tokens": [
+                        { "w": "八", "r": "はち" },
+                        { "w": "時", "r": "じ" },
+                        { "w": "に" },
+                        { "w": "起", "r": "お" },
+                        { "w": "きます。" }
+                    ],
+                    "en": "I wake up at eight o'clock.",
+                    "vi": "Tôi thức dậy lúc tám giờ."
+                }
             },
             {
                 "id": "k9",
@@ -163,7 +246,19 @@
                     { "word": "九九", "reading": "くく", "meaning": { "en": "Multiplication table", "vi": "Bảng cửu chương" } },
                     { "word": "九州", "reading": "きゅうしゅう", "meaning": { "en": "Kyushu (region in Japan)", "vi": "Kyushu (vùng ở Nhật Bản)" } }
                 ],
-                "sentence": { "jp": "九月は私の誕生日です。", "en": "My birthday is in September.", "vi": "Sinh nhật của tôi vào tháng chín." }
+                "sentence": {
+                    "jp_tokens": [
+                        { "w": "九", "r": "く" },
+                        { "w": "月", "r": "がつ" },
+                        { "w": "は" },
+                        { "w": "私", "r": "わたし" },
+                        { "w": "の" },
+                        { "w": "誕生日", "r": "たんじょうび" },
+                        { "w": "です。" }
+                    ],
+                    "en": "My birthday is in September.",
+                    "vi": "Sinh nhật của tôi vào tháng chín."
+                }
             },
             {
                 "id": "k10",
@@ -181,7 +276,19 @@
                     { "word": "十分", "reading": "じゅうぶん", "meaning": { "en": "Enough, sufficient", "vi": "Đủ" } },
                     { "word": "十字路", "reading": "じゅうじろ", "meaning": { "en": "Crossroads", "vi": "Ngã tư" } }
                 ],
-                "sentence": { "jp": "会議は十分で終わります。", "en": "The meeting will end in ten minutes.", "vi": "Cuộc họp sẽ kết thúc trong mười phút." }
+                "sentence": {
+                    "jp_tokens": [
+                        { "w": "会議", "r": "かいぎ" },
+                        { "w": "は" },
+                        { "w": "十", "r": "じゅっ" },
+                        { "w": "分", "r": "ぷん" },
+                        { "w": "で" },
+                        { "w": "終", "r": "お" },
+                        { "w": "わります。" }
+                    ],
+                    "en": "The meeting will end in ten minutes.",
+                    "vi": "Cuộc họp sẽ kết thúc trong mười phút."
+                }
             },
             {
                 "id": "k11",
@@ -199,7 +306,18 @@
                     { "word": "百貨店", "reading": "ひゃっかてん", "meaning": { "en": "Department store", "vi": "Trung tâm thương mại" } },
                     { "word": "百年", "reading": "ひゃくねん", "meaning": { "en": "A hundred years", "vi": "Trăm năm" } }
                 ],
-                "sentence": { "jp": "このパンは百円です。", "en": "This bread is 100 yen.", "vi": "Ổ bánh mì này giá 100 yên." }
+                "sentence": {
+                    "jp_tokens": [
+                        { "w": "この" },
+                        { "w": "パン" },
+                        { "w": "は" },
+                        { "w": "百", "r": "ひゃく" },
+                        { "w": "円", "r": "えん" },
+                        { "w": "です。" }
+                    ],
+                    "en": "This bread is 100 yen.",
+                    "vi": "Ổ bánh mì này giá 100 yên."
+                }
             },
             {
                 "id": "k12",
@@ -217,7 +335,17 @@
                     { "word": "千葉", "reading": "ちば", "meaning": { "en": "Chiba (prefecture in Japan)", "vi": "Chiba (tỉnh ở Nhật Bản)" } },
                     { "word": "千年", "reading": "せんねん", "meaning": { "en": "A thousand years", "vi": "Nghìn năm" } }
                 ],
-                "sentence": { "jp": "千円札をください。", "en": "A 1,000 yen bill, please.", "vi": "Làm ơn cho tôi một tờ 1,000 yên." }
+                "sentence": {
+                    "jp_tokens": [
+                        { "w": "千", "r": "せん" },
+                        { "w": "円", "r": "えん" },
+                        { "w": "札", "r": "さつ" },
+                        { "w": "を" },
+                        { "w": "ください。" }
+                    ],
+                    "en": "A 1,000 yen bill, please.",
+                    "vi": "Làm ơn cho tôi một tờ 1,000 yên."
+                }
             },
             {
                 "id": "k13",
@@ -235,7 +363,19 @@
                     { "word": "万歳", "reading": "ばんざい", "meaning": { "en": "Banzai! (Hurray!)", "vi": "Vạn tuế!" } },
                     { "word": "万年筆", "reading": "まんねんひつ", "meaning": { "en": "Fountain pen", "vi": "Bút máy" } }
                 ],
-                "sentence": { "jp": "彼は一万円をなくした。", "en": "He lost 10,000 yen.", "vi": "Anh ấy đã làm mất 10,000 yên." }
+                "sentence": {
+                    "jp_tokens": [
+                        { "w": "彼", "r": "かれ" },
+                        { "w": "は" },
+                        { "w": "一", "r": "いち" },
+                        { "w": "万", "r": "まん" },
+                        { "w": "円", "r": "えん" },
+                        { "w": "を" },
+                        { "w": "なくした。" }
+                    ],
+                    "en": "He lost 10,000 yen.",
+                    "vi": "Anh ấy đã làm mất 10,000 yên."
+                }
             },
             {
                 "id": "k14",
@@ -253,7 +393,17 @@
                     { "word": "円周", "reading": "えんしゅう", "meaning": { "en": "Circumference", "vi": "Chu vi" } },
                     { "word": "百円", "reading": "ひゃくえん", "meaning": { "en": "100 yen", "vi": "100 yên" } }
                 ],
-                "sentence": { "jp": "テーブルは円いです。", "en": "The table is round.", "vi": "Cái bàn này hình tròn." }
+                "sentence": {
+                    "jp_tokens": [
+                        { "w": "テーブル" },
+                        { "w": "は" },
+                        { "w": "円", "r": "まる" },
+                        { "w": "い" },
+                        { "w": "です。" }
+                    ],
+                    "en": "The table is round.",
+                    "vi": "Cái bàn này hình tròn."
+                }
             }
         ]
     },
@@ -277,7 +427,17 @@
                     { "word": "日本", "reading": "にほん", "meaning": { "en": "Japan", "vi": "Nhật Bản" } },
                     { "word": "日曜日", "reading": "にちようび", "meaning": { "en": "Sunday", "vi": "Chủ nhật" } }
                 ],
-                "sentence": { "jp": "今日は日曜日です。", "en": "Today is Sunday.", "vi": "Hôm nay là Chủ nhật." }
+                "sentence": {
+                    "jp_tokens": [
+                        { "w": "今日", "r": "きょう" },
+                        { "w": "は" },
+                        { "w": "日", "r": "にち" },
+                        { "w": "曜日", "r": "ようび" },
+                        { "w": "です。" }
+                    ],
+                    "en": "Today is Sunday.",
+                    "vi": "Hôm nay là Chủ nhật."
+                }
             },
             {
                 "id": "k17",
@@ -295,7 +455,16 @@
                     { "word": "今月", "reading": "こんげつ", "meaning": { "en": "This month", "vi": "Tháng này" } },
                     { "word": "一月", "reading": "いちがつ", "meaning": { "en": "January", "vi": "Tháng một" } }
                 ],
-                "sentence": { "jp": "月が綺麗ですね。", "en": "The moon is beautiful, isn't it?", "vi": "Trăng đẹp quá nhỉ?" }
+                "sentence": {
+                    "jp_tokens": [
+                        { "w": "月", "r": "つき" },
+                        { "w": "が" },
+                        { "w": "綺麗", "r": "きれい" },
+                        { "w": "ですね。" }
+                    ],
+                    "en": "The moon is beautiful, isn't it?",
+                    "vi": "Trăng đẹp quá nhỉ?"
+                }
             },
             {
                 "id": "k18",
@@ -313,7 +482,19 @@
                     { "word": "火山", "reading": "かざん", "meaning": { "en": "Volcano", "vi": "Núi lửa" } },
                     { "word": "花火", "reading": "はなび", "meaning": { "en": "Fireworks", "vi": "Pháo hoa" } }
                 ],
-                "sentence": { "jp": "花火を見に行きます。", "en": "I'm going to see the fireworks.", "vi": "Tôi sẽ đi xem pháo hoa." }
+                "sentence": {
+                    "jp_tokens": [
+                        { "w": "花", "r": "はな" },
+                        { "w": "火", "r": "び" },
+                        { "w": "を" },
+                        { "w": "見", "r": "み" },
+                        { "w": "に" },
+                        { "w": "行", "r": "い" },
+                        { "w": "きます。" }
+                    ],
+                    "en": "I'm going to see the fireworks.",
+                    "vi": "Tôi sẽ đi xem pháo hoa."
+                }
             },
             {
                 "id": "k19",
@@ -331,7 +512,15 @@
                     { "word": "水を飲む", "reading": "みずをのむ", "meaning": { "en": "To drink water", "vi": "Uống nước" } },
                     { "word": "水道", "reading": "すいどう", "meaning": { "en": "Water supply", "vi": "Nước máy" } }
                 ],
-                "sentence": { "jp": "水をください。", "en": "Water, please.", "vi": "Làm ơn cho tôi nước." }
+                "sentence": {
+                    "jp_tokens": [
+                        { "w": "水", "r": "みず" },
+                        { "w": "を" },
+                        { "w": "ください。" }
+                    ],
+                    "en": "Water, please.",
+                    "vi": "Làm ơn cho tôi nước."
+                }
             },
             {
                 "id": "k20",
@@ -349,7 +538,19 @@
                     { "word": "木村", "reading": "きむら", "meaning": { "en": "Kimura (surname)", "vi": "Kimura (họ)" } },
                     { "word": "木造", "reading": "もくぞう", "meaning": { "en": "Made of wood", "vi": "Làm bằng gỗ" } }
                 ],
-                "sentence": { "jp": "この机は木でできています。", "en": "This desk is made of wood.", "vi": "Cái bàn này được làm bằng gỗ." }
+                "sentence": {
+                    "jp_tokens": [
+                        { "w": "この" },
+                        { "w": "机", "r": "つくえ" },
+                        { "w": "は" },
+                        { "w": "木", "r": "き" },
+                        { "w": "で" },
+                        { "w": "できて" },
+                        { "w": "います。" }
+                    ],
+                    "en": "This desk is made of wood.",
+                    "vi": "Cái bàn này được làm bằng gỗ."
+                }
             },
             {
                 "id": "k15",
@@ -367,7 +568,17 @@
                     { "word": "お金", "reading": "おかね", "meaning": { "en": "Money", "vi": "Tiền" } },
                     { "word": "料金", "reading": "りょうきん", "meaning": { "en": "Fee, charge", "vi": "Phí" } }
                 ],
-                "sentence": { "jp": "お金が足りません。", "en": "I don't have enough money.", "vi": "Tôi không có đủ tiền." }
+                "sentence": {
+                    "jp_tokens": [
+                        { "w": "お" },
+                        { "w": "金", "r": "かね" },
+                        { "w": "が" },
+                        { "w": "足", "r": "た" },
+                        { "w": "りません。" }
+                    ],
+                    "en": "I don't have enough money.",
+                    "vi": "Tôi không có đủ tiền."
+                }
             },
             {
                 "id": "k21",
@@ -385,7 +596,19 @@
                     { "word": "土地", "reading": "とち", "meaning": { "en": "Land, plot", "vi": "Đất đai" } },
                     { "word": "粘土", "reading": "ねんど", "meaning": { "en": "Clay", "vi": "Đất sét" } }
                 ],
-                "sentence": { "jp": "庭の土は黒いです。", "en": "The soil in the garden is black.", "vi": "Đất trong vườn màu đen." }
+                "sentence": {
+                    "jp_tokens": [
+                        { "w": "庭", "r": "にわ" },
+                        { "w": "の" },
+                        { "w": "土", "r": "つち" },
+                        { "w": "は" },
+                        { "w": "黒", "r": "くろ" },
+                        { "w": "い" },
+                        { "w": "です。" }
+                    ],
+                    "en": "The soil in the garden is black.",
+                    "vi": "Đất trong vườn màu đen."
+                }
             },
             {
                 "id": "k22",
@@ -402,7 +625,17 @@
                     { "word": "日曜日", "reading": "にちようび", "meaning": { "en": "Sunday", "vi": "Chủ nhật" } },
                     { "word": "何曜日", "reading": "なんようび", "meaning": { "en": "What day of the week?", "vi": "Thứ mấy?" } }
                 ],
-                "sentence": { "jp": "今日は何曜日ですか。", "en": "What day of the week is it today?", "vi": "Hôm nay là thứ mấy?" }
+                "sentence": {
+                    "jp_tokens": [
+                        { "w": "今日", "r": "きょう" },
+                        { "w": "は" },
+                        { "w": "何", "r": "なん" },
+                        { "w": "曜日", "r": "ようび" },
+                        { "w": "ですか。" }
+                    ],
+                    "en": "What day of the week is it today?",
+                    "vi": "Hôm nay là thứ mấy?"
+                }
             },
             {
                 "id": "k23",
@@ -420,7 +653,18 @@
                     { "word": "去年", "reading": "きょねん", "meaning": { "en": "Last year", "vi": "Năm ngoái" } },
                     { "word": "来年", "reading": "らいねん", "meaning": { "en": "Next year", "vi": "Năm sau" } }
                 ],
-                "sentence": { "jp": "来年日本に行きます。", "en": "I will go to Japan next year.", "vi": "Năm sau tôi sẽ đi Nhật." }
+                "sentence": {
+                    "jp_tokens": [
+                        { "w": "来", "r": "らい" },
+                        { "w": "年", "r": "ねん" },
+                        { "w": "日本", "r": "にほん" },
+                        { "w": "に" },
+                        { "w": "行", "r": "い" },
+                        { "w": "きます。" }
+                    ],
+                    "en": "I will go to Japan next year.",
+                    "vi": "Năm sau tôi sẽ đi Nhật."
+                }
             },
             {
                 "id": "k24",
@@ -438,7 +682,17 @@
                     { "word": "時々", "reading": "ときどき", "meaning": { "en": "Sometimes", "vi": "Thỉnh thoảng" } },
                     { "word": "時計", "reading": "とけい", "meaning": { "en": "Clock, watch", "vi": "Đồng hồ" } }
                 ],
-                "sentence": { "jp": "今、何時ですか。", "en": "What time is it now?", "vi": "Bây giờ là mấy giờ?" }
+                "sentence": {
+                    "jp_tokens": [
+                        { "w": "今", "r": "いま" },
+                        { "w": "、" },
+                        { "w": "何", "r": "なん" },
+                        { "w": "時", "r": "じ" },
+                        { "w": "ですか。" }
+                    ],
+                    "en": "What time is it now?",
+                    "vi": "Bây giờ là mấy giờ?"
+                }
             },
             {
                 "id": "k25",
@@ -456,7 +710,19 @@
                     { "word": "間もなく", "reading": "まもなく", "meaning": { "en": "Soon, shortly", "vi": "Sắp, lát nữa" } },
                     { "word": "間に合う", "reading": "まにあう", "meaning": { "en": "To be on time", "vi": "Kịp giờ" } }
                 ],
-                "sentence": { "jp": "駅と銀行の間にあります。", "en": "It is between the station and the bank.", "vi": "Nó ở giữa nhà ga và ngân hàng." }
+                "sentence": {
+                    "jp_tokens": [
+                        { "w": "駅", "r": "えき" },
+                        { "w": "と" },
+                        { "w": "銀行", "r": "ぎんこう" },
+                        { "w": "の" },
+                        { "w": "間", "r": "あいだ" },
+                        { "w": "に" },
+                        { "w": "あります。" }
+                    ],
+                    "en": "It is between the station and the bank.",
+                    "vi": "Nó ở giữa nhà ga và ngân hàng."
+                }
             },
             {
                 "id": "k26",
@@ -474,7 +740,16 @@
                     { "word": "半分", "reading": "はんぶん", "meaning": { "en": "Half", "vi": "Một nửa" } },
                     { "word": "五分", "reading": "ごふん", "meaning": { "en": "Five minutes", "vi": "Năm phút" } }
                 ],
-                "sentence": { "jp": "日本語が分かりますか。", "en": "Do you understand Japanese?", "vi": "Bạn có hiểu tiếng Nhật không?" }
+                "sentence": {
+                    "jp_tokens": [
+                        { "w": "日本語", "r": "にほんご" },
+                        { "w": "が" },
+                        { "w": "分", "r": "わ" },
+                        { "w": "かりますか。" }
+                    ],
+                    "en": "Do you understand Japanese?",
+                    "vi": "Bạn có hiểu tiếng Nhật không?"
+                }
             },
             {
                 "id": "k27",
@@ -492,7 +767,18 @@
                     { "word": "一時半", "reading": "いちじはん", "meaning": { "en": "1:30", "vi": "1 giờ rưỡi" } },
                     { "word": "半年", "reading": "はんとし", "meaning": { "en": "Half a year", "vi": "Nửa năm" } }
                 ],
-                "sentence": { "jp": "一時半に会いましょう。", "en": "Let's meet at 1:30.", "vi": "Hãy gặp nhau lúc 1:30." }
+                "sentence": {
+                    "jp_tokens": [
+                        { "w": "一", "r": "いち" },
+                        { "w": "時", "r": "じ" },
+                        { "w": "半", "r": "はん" },
+                        { "w": "に" },
+                        { "w": "会", "r": "あ" },
+                        { "w": "いましょう。" }
+                    ],
+                    "en": "Let's meet at 1:30.",
+                    "vi": "Hãy gặp nhau lúc 1:30."
+                }
             },
             {
                 "id": "k28",
@@ -510,7 +796,19 @@
                     { "word": "午後", "reading": "ごご", "meaning": { "en": "P.M., afternoon", "vi": "Buổi chiều" } },
                     { "word": "正午", "reading": "しょうご", "meaning": { "en": "Noon", "vi": "Giữa trưa" } }
                 ],
-                "sentence": { "jp": "会議は午後三時です。", "en": "The meeting is at 3 PM.", "vi": "Cuộc họp diễn ra lúc 3 giờ chiều." }
+                "sentence": {
+                    "jp_tokens": [
+                        { "w": "会議", "r": "かいぎ" },
+                        { "w": "は" },
+                        { "w": "午", "r": "ご" },
+                        { "w": "後", "r": "ご" },
+                        { "w": "三", "r": "さん" },
+                        { "w": "時", "r": "じ" },
+                        { "w": "です。" }
+                    ],
+                    "en": "The meeting is at 3 PM.",
+                    "vi": "Cuộc họp diễn ra lúc 3 giờ chiều."
+                }
             },
             {
                 "id": "k29",
@@ -528,7 +826,17 @@
                     { "word": "駅前", "reading": "えきまえ", "meaning": { "en": "In front of the station", "vi": "Trước nhà ga" } },
                     { "word": "午前", "reading": "ごぜん", "meaning": { "en": "A.M., morning", "vi": "Buổi sáng" } }
                 ],
-                "sentence": { "jp": "駅前で会いましょう。", "en": "Let's meet in front of the station.", "vi": "Hãy gặp nhau ở trước nhà ga." }
+                "sentence": {
+                    "jp_tokens": [
+                        { "w": "駅", "r": "えき" },
+                        { "w": "前", "r": "まえ" },
+                        { "w": "で" },
+                        { "w": "会", "r": "あ" },
+                        { "w": "いましょう。" }
+                    ],
+                    "en": "Let's meet in front of the station.",
+                    "vi": "Hãy gặp nhau ở trước nhà ga."
+                }
             },
             {
                 "id": "k30",
@@ -546,7 +854,16 @@
                     { "word": "後で", "reading": "あとで", "meaning": { "en": "Later", "vi": "Lát nữa" } },
                     { "word": "午後", "reading": "ごご", "meaning": { "en": "P.M., afternoon", "vi": "Buổi chiều" } }
                 ],
-                "sentence": { "jp": "後で電話します。", "en": "I will call you later.", "vi": "Tôi sẽ gọi cho bạn sau." }
+                "sentence": {
+                    "jp_tokens": [
+                        { "w": "後", "r": "あと" },
+                        { "w": "で" },
+                        { "w": "電話", "r": "でんわ" },
+                        { "w": "します。" }
+                    ],
+                    "en": "I will call you later.",
+                    "vi": "Tôi sẽ gọi cho bạn sau."
+                }
             },
             {
                 "id": "k31",
@@ -564,7 +881,16 @@
                     { "word": "今週", "reading": "こんしゅう", "meaning": { "en": "This week", "vi": "Tuần này" } },
                     { "word": "今晩", "reading": "こんばん", "meaning": { "en": "Tonight", "vi": "Tối nay" } }
                 ],
-                "sentence": { "jp": "今、勉強しています。", "en": "I am studying now.", "vi": "Bây giờ tôi đang học." }
+                "sentence": {
+                    "jp_tokens": [
+                        { "w": "今", "r": "いま" },
+                        { "w": "、" },
+                        { "w": "勉強", "r": "べんきょう" },
+                        { "w": "しています。" }
+                    ],
+                    "en": "I am studying now.",
+                    "vi": "Bây giờ tôi đang học."
+                }
             },
             {
                 "id": "k32",
@@ -582,7 +908,17 @@
                     { "word": "来週", "reading": "らいしゅう", "meaning": { "en": "Next week", "vi": "Tuần sau" } },
                     { "word": "週末", "reading": "しゅうまつ", "meaning": { "en": "Weekend", "vi": "Cuối tuần" } }
                 ],
-                "sentence": { "jp": "週末に何をしますか。", "en": "What will you do on the weekend?", "vi": "Bạn sẽ làm gì vào cuối tuần?" }
+                "sentence": {
+                    "jp_tokens": [
+                        { "w": "週末", "r": "しゅうまつ" },
+                        { "w": "に" },
+                        { "w": "何", "r": "なに" },
+                        { "w": "を" },
+                        { "w": "しますか。" }
+                    ],
+                    "en": "What will you do on the weekend?",
+                    "vi": "Bạn sẽ làm gì vào cuối tuần?"
+                }
             },
             {
                 "id": "k33",
@@ -600,7 +936,18 @@
                     { "word": "毎週", "reading": "まいしゅう", "meaning": { "en": "Every week", "vi": "Mỗi tuần" } },
                     { "word": "毎朝", "reading": "まいあさ", "meaning": { "en": "Every morning", "vi": "Mỗi sáng" } }
                 ],
-                "sentence": { "jp": "毎朝、ジョギングをします。", "en": "I go jogging every morning.", "vi": "Tôi chạy bộ mỗi sáng." }
+                "sentence": {
+                    "jp_tokens": [
+                        { "w": "毎", "r": "まい" },
+                        { "w": "朝", "r": "あさ" },
+                        { "w": "、" },
+                        { "w": "ジョギング" },
+                        { "w": "を" },
+                        { "w": "します。" }
+                    ],
+                    "en": "I go jogging every morning.",
+                    "vi": "Tôi chạy bộ mỗi sáng."
+                }
             },
             {
                 "id": "k139",
@@ -618,7 +965,18 @@
                     { "word": "明るい", "reading": "あかるい", "meaning": { "en": "Bright", "vi": "Sáng sủa" } },
                     { "word": "説明", "reading": "せつめい", "meaning": { "en": "Explanation", "vi": "Giải thích" } }
                 ],
-                "sentence": { "jp": "部屋はとても明るいです。", "en": "The room is very bright.", "vi": "Căn phòng rất sáng." }
+                "sentence": {
+                    "jp_tokens": [
+                        { "w": "部屋", "r": "へや" },
+                        { "w": "は" },
+                        { "w": "とても" },
+                        { "w": "明", "r": "あか" },
+                        { "w": "るい" },
+                        { "w": "です。" }
+                    ],
+                    "en": "The room is very bright.",
+                    "vi": "Căn phòng rất sáng."
+                }
             }
         ]
     },
@@ -642,7 +1000,17 @@
                     { "word": "一人", "reading": "ひとり", "meaning": { "en": "One person", "vi": "Một người" } },
                     { "word": "三人", "reading": "さんにん", "meaning": { "en": "Three people", "vi": "Ba người" } }
                 ],
-                "sentence": { "jp": "あの人は誰ですか。", "en": "Who is that person?", "vi": "Người đó là ai?" }
+                "sentence": {
+                    "jp_tokens": [
+                        { "w": "あの" },
+                        { "w": "人", "r": "ひと" },
+                        { "w": "は" },
+                        { "w": "誰", "r": "だれ" },
+                        { "w": "ですか。" }
+                    ],
+                    "en": "Who is that person?",
+                    "vi": "Người đó là ai?"
+                }
             },
             {
                 "id": "k35",
@@ -660,7 +1028,19 @@
                     { "word": "男性", "reading": "だんせい", "meaning": { "en": "Male", "vi": "Nam giới" } },
                     { "word": "長男", "reading": "ちょうなん", "meaning": { "en": "Eldest son", "vi": "Trưởng nam" } }
                 ],
-                "sentence": { "jp": "あの男の人は先生です。", "en": "That man is a teacher.", "vi": "Người đàn ông đó là một giáo viên." }
+                "sentence": {
+                    "jp_tokens": [
+                        { "w": "あの" },
+                        { "w": "男", "r": "おとこ" },
+                        { "w": "の" },
+                        { "w": "人", "r": "ひと" },
+                        { "w": "は" },
+                        { "w": "先生", "r": "せんせい" },
+                        { "w": "です。" }
+                    ],
+                    "en": "That man is a teacher.",
+                    "vi": "Người đàn ông đó là một giáo viên."
+                }
             },
             {
                 "id": "k36",
@@ -678,7 +1058,18 @@
                     { "word": "女性", "reading": "じょせい", "meaning": { "en": "Female", "vi": "Nữ giới" } },
                     { "word": "彼女", "reading": "かのじょ", "meaning": { "en": "She, girlfriend", "vi": "Cô ấy, bạn gái" } }
                 ],
-                "sentence": { "jp": "彼女は私の友達です。", "en": "She is my friend.", "vi": "Cô ấy là bạn của tôi." }
+                "sentence": {
+                    "jp_tokens": [
+                        { "w": "彼女", "r": "かのじょ" },
+                        { "w": "は" },
+                        { "w": "私", "r": "わたし" },
+                        { "w": "の" },
+                        { "w": "友達", "r": "ともだち" },
+                        { "w": "です。" }
+                    ],
+                    "en": "She is my friend.",
+                    "vi": "Cô ấy là bạn của tôi."
+                }
             },
             {
                 "id": "k37",
@@ -696,7 +1087,18 @@
                     { "word": "帽子", "reading": "ぼうし", "meaning": { "en": "Hat, cap", "vi": "Mũ" } },
                     { "word": "電子", "reading": "でんし", "meaning": { "en": "Electron", "vi": "Điện tử" } }
                 ],
-                "sentence": { "jp": "公園に子供がたくさんいます。", "en": "There are many children in the park.", "vi": "Có rất nhiều trẻ em trong công viên." }
+                "sentence": {
+                    "jp_tokens": [
+                        { "w": "公園", "r": "こうえん" },
+                        { "w": "に" },
+                        { "w": "子供", "r": "こども" },
+                        { "w": "が" },
+                        { "w": "たくさん" },
+                        { "w": "います。" }
+                    ],
+                    "en": "There are many children in the park.",
+                    "vi": "Có rất nhiều trẻ em trong công viên."
+                }
             },
             {
                 "id": "k38",
@@ -714,7 +1116,18 @@
                     { "word": "祖父", "reading": "そふ", "meaning": { "en": "Grandfather", "vi": "Ông nội/ngoại" } },
                     { "word": "父母", "reading": "ふぼ", "meaning": { "en": "Father and mother", "vi": "Cha mẹ" } }
                 ],
-                "sentence": { "jp": "私の父は医者です。", "en": "My father is a doctor.", "vi": "Cha tôi là một bác sĩ." }
+                "sentence": {
+                    "jp_tokens": [
+                        { "w": "私", "r": "わたし" },
+                        { "w": "の" },
+                        { "w": "父", "r": "ちち" },
+                        { "w": "は" },
+                        { "w": "医者", "r": "いしゃ" },
+                        { "w": "です。" }
+                    ],
+                    "en": "My father is a doctor.",
+                    "vi": "Cha tôi là một bác sĩ."
+                }
             },
             {
                 "id": "k39",
@@ -732,7 +1145,19 @@
                     { "word": "祖母", "reading": "そぼ", "meaning": { "en": "Grandmother", "vi": "Bà nội/ngoại" } },
                     { "word": "母国語", "reading": "ぼこくご", "meaning": { "en": "Mother tongue", "vi": "Tiếng mẹ đẻ" } }
                 ],
-                "sentence": { "jp": "母の料理は美味しいです。", "en": "My mother's cooking is delicious.", "vi": "Món ăn mẹ tôi nấu rất ngon." }
+                "sentence": {
+                    "jp_tokens": [
+                        { "w": "母", "r": "はは" },
+                        { "w": "の" },
+                        { "w": "料理", "r": "りょうり" },
+                        { "w": "は" },
+                        { "w": "美味", "r": "おい" },
+                        { "w": "しい" },
+                        { "w": "です。" }
+                    ],
+                    "en": "My mother's cooking is delicious.",
+                    "vi": "Món ăn mẹ tôi nấu rất ngon."
+                }
             },
             {
                 "id": "k40",
@@ -749,7 +1174,19 @@
                     { "word": "お兄さん", "reading": "おにいさん", "meaning": { "en": "Older brother (someone else's)", "vi": "Anh trai (của người khác)" } },
                     { "word": "兄弟", "reading": "きょうだい", "meaning": { "en": "Siblings, brothers", "vi": "Anh em" } }
                 ],
-                "sentence": { "jp": "私には兄が一人います。", "en": "I have one older brother.", "vi": "Tôi có một người anh trai." }
+                "sentence": {
+                    "jp_tokens": [
+                        { "w": "私", "r": "わたし" },
+                        { "w": "には" },
+                        { "w": "兄", "r": "あに" },
+                        { "w": "が" },
+                        { "w": "一", "r": "ひと" },
+                        { "w": "人", "r": "り" },
+                        { "w": "います。" }
+                    ],
+                    "en": "I have one older brother.",
+                    "vi": "Tôi có một người anh trai."
+                }
             },
             {
                 "id": "k41",
@@ -766,7 +1203,18 @@
                     { "word": "お姉さん", "reading": "おねえさん", "meaning": { "en": "Older sister (someone else's)", "vi": "Chị gái (của người khác)" } },
                     { "word": "姉妹", "reading": "しまい", "meaning": { "en": "Sisters", "vi": "Chị em gái" } }
                 ],
-                "sentence": { "jp": "私の姉は大学生です。", "en": "My older sister is a university student.", "vi": "Chị gái tôi là sinh viên đại học." }
+                "sentence": {
+                    "jp_tokens": [
+                        { "w": "私", "r": "わたし" },
+                        { "w": "の" },
+                        { "w": "姉", "r": "あね" },
+                        { "w": "は" },
+                        { "w": "大学生", "r": "だいがくせい" },
+                        { "w": "です。" }
+                    ],
+                    "en": "My older sister is a university student.",
+                    "vi": "Chị gái tôi là sinh viên đại học."
+                }
             },
             {
                 "id": "k42",
@@ -783,7 +1231,17 @@
                     { "word": "兄弟", "reading": "きょうだい", "meaning": { "en": "Siblings, brothers", "vi": "Anh em" } },
                     { "word": "弟子", "reading": "でし", "meaning": { "en": "Disciple, apprentice", "vi": "Đệ tử" } }
                 ],
-                "sentence": { "jp": "弟はまだ高校生です。", "en": "My younger brother is still a high school student.", "vi": "Em trai tôi vẫn còn là học sinh trung học." }
+                "sentence": {
+                    "jp_tokens": [
+                        { "w": "弟", "r": "おとうと" },
+                        { "w": "は" },
+                        { "w": "まだ" },
+                        { "w": "高校生", "r": "こうこうせい" },
+                        { "w": "です。" }
+                    ],
+                    "en": "My younger brother is still a high school student.",
+                    "vi": "Em trai tôi vẫn còn là học sinh trung học."
+                }
             },
             {
                 "id": "k43",
@@ -799,7 +1257,19 @@
                 "examples": [
                     { "word": "姉妹", "reading": "しまい", "meaning": { "en": "Sisters", "vi": "Chị em gái" } }
                 ],
-                "sentence": { "jp": "妹はピアノを習っています。", "en": "My younger sister is learning the piano.", "vi": "Em gái tôi đang học piano." }
+                "sentence": {
+                    "jp_tokens": [
+                        { "w": "妹", "r": "いもうと" },
+                        { "w": "は" },
+                        { "w": "ピアノ" },
+                        { "w": "を" },
+                        { "w": "習", "r": "なら" },
+                        { "w": "って" },
+                        { "w": "います。" }
+                    ],
+                    "en": "My younger sister is learning the piano.",
+                    "vi": "Em gái tôi đang học piano."
+                }
             },
             {
                 "id": "k44",
@@ -817,7 +1287,19 @@
                     { "word": "親友", "reading": "しんゆう", "meaning": { "en": "Best friend", "vi": "Bạn thân" } },
                     { "word": "友情", "reading": "ゆうじょう", "meaning": { "en": "Friendship", "vi": "Tình bạn" } }
                 ],
-                "sentence": { "jp": "彼女は私の親友です。", "en": "She is my best friend.", "vi": "Cô ấy là bạn thân nhất của tôi." }
+                "sentence": {
+                    "jp_tokens": [
+                        { "w": "彼女", "r": "かのじょ" },
+                        { "w": "は" },
+                        { "w": "私", "r": "わたし" },
+                        { "w": "の" },
+                        { "w": "親", "r": "しん" },
+                        { "w": "友", "r": "ゆう" },
+                        { "w": "です。" }
+                    ],
+                    "en": "She is my best friend.",
+                    "vi": "Cô ấy là bạn thân nhất của tôi."
+                }
             },
             {
                 "id": "k45",
@@ -833,7 +1315,16 @@
                 "examples": [
                     { "word": "私立", "reading": "しりつ", "meaning": { "en": "Private (e.g. school)", "vi": "Tư lập" } }
                 ],
-                "sentence": { "jp": "私は学生です。", "en": "I am a student.", "vi": "Tôi là một sinh viên." }
+                "sentence": {
+                    "jp_tokens": [
+                        { "w": "私", "r": "わたし" },
+                        { "w": "は" },
+                        { "w": "学生", "r": "がくせい" },
+                        { "w": "です。" }
+                    ],
+                    "en": "I am a student.",
+                    "vi": "Tôi là một sinh viên."
+                }
             },
             {
                 "id": "k117",
@@ -851,7 +1342,17 @@
                     { "word": "出口", "reading": "でぐち", "meaning": { "en": "Exit", "vi": "Lối ra" } },
                     { "word": "人口", "reading": "じんこう", "meaning": { "en": "Population", "vi": "Dân số" } }
                 ],
-                "sentence": { "jp": "入口はどこですか。", "en": "Where is the entrance?", "vi": "Lối vào ở đâu?" }
+                "sentence": {
+                    "jp_tokens": [
+                        { "w": "入", "r": "いり" },
+                        { "w": "口", "r": "ぐち" },
+                        { "w": "は" },
+                        { "w": "どこ" },
+                        { "w": "ですか。" }
+                    ],
+                    "en": "Where is the entrance?",
+                    "vi": "Lối vào ở đâu?"
+                }
             },
             {
                 "id": "k118",
@@ -869,7 +1370,18 @@
                     { "word": "目薬", "reading": "めぐすり", "meaning": { "en": "Eye drops", "vi": "Thuốc nhỏ mắt" } },
                     { "word": "注目", "reading": "ちゅうもく", "meaning": { "en": "Attention", "vi": "Sự chú ý" } }
                 ],
-                "sentence": { "jp": "目にゴミが入った。", "en": "Something got in my eye.", "vi": "Có thứ gì đó bay vào mắt tôi." }
+                "sentence": {
+                    "jp_tokens": [
+                        { "w": "目", "r": "め" },
+                        { "w": "に" },
+                        { "w": "ゴミ" },
+                        { "w": "が" },
+                        { "w": "入", "r": "はい" },
+                        { "w": "った。" }
+                    ],
+                    "en": "Something got in my eye.",
+                    "vi": "Có thứ gì đó bay vào mắt tôi."
+                }
             },
             {
                 "id": "k119",
@@ -885,7 +1397,20 @@
                 "examples": [
                     { "word": "耳鼻科", "reading": "じびか", "meaning": { "en": "Otolaryngology (ENT)", "vi": "Khoa tai mũi họng" } }
                 ],
-                "sentence": { "jp": "彼の話に耳を傾けた。", "en": "I listened to his story.", "vi": "Tôi đã lắng nghe câu chuyện của anh ấy." }
+                "sentence": {
+                    "jp_tokens": [
+                        { "w": "彼", "r": "かれ" },
+                        { "w": "の" },
+                        { "w": "話", "r": "はなし" },
+                        { "w": "に" },
+                        { "w": "耳", "r": "みみ" },
+                        { "w": "を" },
+                        { "w": "傾", "r": "かたむ" },
+                        { "w": "けた。" }
+                    ],
+                    "en": "I listened to his story.",
+                    "vi": "Tôi đã lắng nghe câu chuyện của anh ấy."
+                }
             },
             {
                 "id": "k120",
@@ -903,7 +1428,16 @@
                     { "word": "下手", "reading": "へた", "meaning": { "en": "Unskillful, bad at", "vi": "Kém" } },
                     { "word": "手紙", "reading": "てがみ", "meaning": { "en": "Letter", "vi": "Bức thư" } }
                 ],
-                "sentence": { "jp": "手を洗ってください。", "en": "Please wash your hands.", "vi": "Xin hãy rửa tay." }
+                "sentence": {
+                    "jp_tokens": [
+                        { "w": "手", "r": "て" },
+                        { "w": "を" },
+                        { "w": "洗", "r": "あら" },
+                        { "w": "ってください。" }
+                    ],
+                    "en": "Please wash your hands.",
+                    "vi": "Xin hãy rửa tay."
+                }
             },
             {
                 "id": "k121",
@@ -921,7 +1455,17 @@
                     { "word": "不足", "reading": "ふそく", "meaning": { "en": "Insufficiency, lack", "vi": "Thiếu" } },
                     { "word": "遠足", "reading": "えんそく", "meaning": { "en": "Excursion, picnic", "vi": "Dã ngoại" } }
                 ],
-                "sentence": { "jp": "足が痛いです。", "en": "My leg/foot hurts.", "vi": "Chân tôi bị đau." }
+                "sentence": {
+                    "jp_tokens": [
+                        { "w": "足", "r": "あし" },
+                        { "w": "が" },
+                        { "w": "痛", "r": "いた" },
+                        { "w": "い" },
+                        { "w": "です。" }
+                    ],
+                    "en": "My leg/foot hurts.",
+                    "vi": "Chân tôi bị đau."
+                }
             }
         ]
     },
@@ -945,7 +1489,19 @@
                     { "word": "上る", "reading": "のぼる", "meaning": { "en": "To climb", "vi": "Leo lên" } },
                     { "word": "屋上", "reading": "おくじょう", "meaning": { "en": "Rooftop", "vi": "Sân thượng" } }
                 ],
-                "sentence": { "jp": "本は机の上にあります。", "en": "The book is on the desk.", "vi": "Quyển sách ở trên bàn." }
+                "sentence": {
+                    "jp_tokens": [
+                        { "w": "本", "r": "ほん" },
+                        { "w": "は" },
+                        { "w": "机", "r": "つくえ" },
+                        { "w": "の" },
+                        { "w": "上", "r": "うえ" },
+                        { "w": "に" },
+                        { "w": "あります。" }
+                    ],
+                    "en": "The book is on the desk.",
+                    "vi": "Quyển sách ở trên bàn."
+                }
             },
             {
                 "id": "k48",
@@ -963,7 +1519,19 @@
                     { "word": "地下鉄", "reading": "ちかてつ", "meaning": { "en": "Subway", "vi": "Tàu điện ngầm" } },
                     { "word": "下さい", "reading": "ください", "meaning": { "en": "Please give me", "vi": "Xin vui lòng" } }
                 ],
-                "sentence": { "jp": "靴はベッドの下にあります。", "en": "The shoes are under the bed.", "vi": "Đôi giày ở dưới gầm giường." }
+                "sentence": {
+                    "jp_tokens": [
+                        { "w": "靴", "r": "くつ" },
+                        { "w": "は" },
+                        { "w": "ベッド" },
+                        { "w": "の" },
+                        { "w": "下", "r": "した" },
+                        { "w": "に" },
+                        { "w": "あります。" }
+                    ],
+                    "en": "The shoes are under the bed.",
+                    "vi": "Đôi giày ở dưới gầm giường."
+                }
             },
             {
                 "id": "k49",
@@ -981,7 +1549,19 @@
                     { "word": "一日中", "reading": "いちにちじゅう", "meaning": { "en": "All day long", "vi": "Cả ngày" } },
                     { "word": "中学校", "reading": "ちゅうがっこう", "meaning": { "en": "Junior high school", "vi": "Trường cấp hai" } }
                 ],
-                "sentence": { "jp": "箱の中に何がありますか。", "en": "What is inside the box?", "vi": "Bên trong hộp có gì?" }
+                "sentence": {
+                    "jp_tokens": [
+                        { "w": "箱", "r": "はこ" },
+                        { "w": "の" },
+                        { "w": "中", "r": "なか" },
+                        { "w": "に" },
+                        { "w": "何", "r": "なに" },
+                        { "w": "が" },
+                        { "w": "ありますか。" }
+                    ],
+                    "en": "What is inside the box?",
+                    "vi": "Bên trong hộp có gì?"
+                }
             },
             {
                 "id": "k50",
@@ -999,7 +1579,17 @@
                     { "word": "外人", "reading": "がいじん", "meaning": { "en": "Foreigner", "vi": "Người nước ngoài" } },
                     { "word": "以外", "reading": "いがい", "meaning": { "en": "Except, other than", "vi": "Ngoại trừ" } }
                 ],
-                "sentence": { "jp": "外は寒いです。", "en": "It is cold outside.", "vi": "Bên ngoài trời lạnh." }
+                "sentence": {
+                    "jp_tokens": [
+                        { "w": "外", "r": "そと" },
+                        { "w": "は" },
+                        { "w": "寒", "r": "さむ" },
+                        { "w": "い" },
+                        { "w": "です。" }
+                    ],
+                    "en": "It is cold outside.",
+                    "vi": "Bên ngoài trời lạnh."
+                }
             },
             {
                 "id": "k51",
@@ -1016,7 +1606,16 @@
                     { "word": "右手", "reading": "みぎて", "meaning": { "en": "Right hand", "vi": "Tay phải" } },
                     { "word": "左右", "reading": "さゆう", "meaning": { "en": "Left and right", "vi": "Trái và phải" } }
                 ],
-                "sentence": { "jp": "右に曲がってください。", "en": "Please turn right.", "vi": "Xin vui lòng rẽ phải." }
+                "sentence": {
+                    "jp_tokens": [
+                        { "w": "右", "r": "みぎ" },
+                        { "w": "に" },
+                        { "w": "曲", "r": "ま" },
+                        { "w": "がってください。" }
+                    ],
+                    "en": "Please turn right.",
+                    "vi": "Xin vui lòng rẽ phải."
+                }
             },
             {
                 "id": "k52",
@@ -1033,7 +1632,17 @@
                     { "word": "左手", "reading": "ひだりて", "meaning": { "en": "Left hand", "vi": "Tay trái" } },
                     { "word": "左側", "reading": "ひだりがわ", "meaning": { "en": "Left side", "vi": "Bên trái" } }
                 ],
-                "sentence": { "jp": "ポストは左にあります。", "en": "The postbox is on the left.", "vi": "Hòm thư ở bên trái." }
+                "sentence": {
+                    "jp_tokens": [
+                        { "w": "ポスト" },
+                        { "w": "は" },
+                        { "w": "左", "r": "ひだり" },
+                        { "w": "に" },
+                        { "w": "あります。" }
+                    ],
+                    "en": "The postbox is on the left.",
+                    "vi": "Hòm thư ở bên trái."
+                }
             },
             {
                 "id": "k53",
@@ -1050,7 +1659,19 @@
                     { "word": "東京", "reading": "とうきょう", "meaning": { "en": "Tokyo", "vi": "Tokyo" } },
                     { "word": "中東", "reading": "ちゅうとう", "meaning": { "en": "The Middle East", "vi": "Trung Đông" } }
                 ],
-                "sentence": { "jp": "東京は日本の東にあります。", "en": "Tokyo is in the east of Japan.", "vi": "Tokyo ở phía đông của Nhật Bản." }
+                "sentence": {
+                    "jp_tokens": [
+                        { "w": "東京", "r": "とうきょう" },
+                        { "w": "は" },
+                        { "w": "日本", "r": "にほん" },
+                        { "w": "の" },
+                        { "w": "東", "r": "ひがし" },
+                        { "w": "に" },
+                        { "w": "あります。" }
+                    ],
+                    "en": "Tokyo is in the east of Japan.",
+                    "vi": "Tokyo ở phía đông của Nhật Bản."
+                }
             },
             {
                 "id": "k54",
@@ -1067,7 +1688,18 @@
                     { "word": "関西", "reading": "かんさい", "meaning": { "en": "Kansai region", "vi": "Vùng Kansai" } },
                     { "word": "西洋", "reading": "せいよう", "meaning": { "en": "The West, the Occident", "vi": "Phương Tây" } }
                 ],
-                "sentence": { "jp": "太陽は西に沈む。", "en": "The sun sets in the west.", "vi": "Mặt trời lặn ở phía tây." }
+                "sentence": {
+                    "jp_tokens": [
+                        { "w": "太陽", "r": "たいよう" },
+                        { "w": "は" },
+                        { "w": "西", "r": "にし" },
+                        { "w": "に" },
+                        { "w": "沈", "r": "しず" },
+                        { "w": "む。" }
+                    ],
+                    "en": "The sun sets in the west.",
+                    "vi": "Mặt trời lặn ở phía tây."
+                }
             },
             {
                 "id": "k55",
@@ -1084,7 +1716,20 @@
                     { "word": "南口", "reading": "みなみぐち", "meaning": { "en": "South exit", "vi": "Cửa nam" } },
                     { "word": "東南アジア", "reading": "とうなんアジア", "meaning": { "en": "Southeast Asia", "vi": "Đông Nam Á" } }
                 ],
-                "sentence": { "jp": "私の家は南向きです。", "en": "My house faces south.", "vi": "Nhà tôi hướng nam." }
+                "sentence": {
+                    "jp_tokens": [
+                        { "w": "私", "r": "わたし" },
+                        { "w": "の" },
+                        { "w": "家", "r": "いえ" },
+                        { "w": "は" },
+                        { "w": "南", "r": "みなみ" },
+                        { "w": "向", "r": "む" },
+                        { "w": "き" },
+                        { "w": "です。" }
+                    ],
+                    "en": "My house faces south.",
+                    "vi": "Nhà tôi hướng nam."
+                }
             },
             {
                 "id": "k56",
@@ -1101,7 +1746,19 @@
                     { "word": "北海道", "reading": "ほっかいどう", "meaning": { "en": "Hokkaido", "vi": "Hokkaido" } },
                     { "word": "北口", "reading": "きたぐち", "meaning": { "en": "North exit", "vi": "Cửa bắc" } }
                 ],
-                "sentence": { "jp": "北海道は日本の北にあります。", "en": "Hokkaido is in the north of Japan.", "vi": "Hokkaido ở phía bắc của Nhật Bản." }
+                "sentence": {
+                    "jp_tokens": [
+                        { "w": "北海道", "r": "ほっかいどう" },
+                        { "w": "は" },
+                        { "w": "日本", "r": "にほん" },
+                        { "w": "の" },
+                        { "w": "北", "r": "きた" },
+                        { "w": "に" },
+                        { "w": "あります。" }
+                    ],
+                    "en": "Hokkaido is in the north of Japan.",
+                    "vi": "Hokkaido ở phía bắc của Nhật Bản."
+                }
             }
         ]
     },
@@ -1125,7 +1782,18 @@
                     { "word": "中国", "reading": "ちゅうごく", "meaning": { "en": "China", "vi": "Trung Quốc" } },
                     { "word": "国内", "reading": "こくない", "meaning": { "en": "Domestic, internal", "vi": "Trong nước" } }
                 ],
-                "sentence": { "jp": "あなたの国はどこですか。", "en": "Where is your country from?", "vi": "Bạn đến từ nước nào?" }
+                "sentence": {
+                    "jp_tokens": [
+                        { "w": "あなた" },
+                        { "w": "の" },
+                        { "w": "国", "r": "くに" },
+                        { "w": "は" },
+                        { "w": "どこ" },
+                        { "w": "ですか。" }
+                    ],
+                    "en": "Where is your country from?",
+                    "vi": "Bạn đến từ nước nào?"
+                }
             },
             {
                 "id": "k58",
@@ -1143,7 +1811,18 @@
                     { "word": "柔道", "reading": "じゅうどう", "meaning": { "en": "Judo", "vi": "Judo" } },
                     { "word": "北海道", "reading": "ほっかいどう", "meaning": { "en": "Hokkaido", "vi": "Hokkaido" } }
                 ],
-                "sentence": { "jp": "この道は広いです。", "en": "This road is wide.", "vi": "Con đường này rộng." }
+                "sentence": {
+                    "jp_tokens": [
+                        { "w": "この" },
+                        { "w": "道", "r": "みち" },
+                        { "w": "は" },
+                        { "w": "広", "r": "ひろ" },
+                        { "w": "い" },
+                        { "w": "です。" }
+                    ],
+                    "en": "This road is wide.",
+                    "vi": "Con đường này rộng."
+                }
             },
             {
                 "id": "k59",
@@ -1160,7 +1839,19 @@
                     { "word": "駅員", "reading": "えきいん", "meaning": { "en": "Station attendant", "vi": "Nhân viên nhà ga" } },
                     { "word": "駅前", "reading": "えきまえ", "meaning": { "en": "In front of the station", "vi": "Trước nhà ga" } }
                 ],
-                "sentence": { "jp": "東京駅はとても大きいです。", "en": "Tokyo Station is very big.", "vi": "Ga Tokyo rất lớn." }
+                "sentence": {
+                    "jp_tokens": [
+                        { "w": "東京", "r": "とうきょう" },
+                        { "w": "駅", "r": "えき" },
+                        { "w": "は" },
+                        { "w": "とても" },
+                        { "w": "大", "r": "おお" },
+                        { "w": "きい" },
+                        { "w": "です。" }
+                    ],
+                    "en": "Tokyo Station is very big.",
+                    "vi": "Ga Tokyo rất lớn."
+                }
             },
             {
                 "id": "k60",
@@ -1178,7 +1869,20 @@
                     { "word": "喫茶店", "reading": "きっさてん", "meaning": { "en": "Coffee shop", "vi": "Quán cà phê" } },
                     { "word": "書店", "reading": "しょてん", "meaning": { "en": "Bookstore", "vi": "Hiệu sách" } }
                 ],
-                "sentence": { "jp": "あの店は九時に閉まります。", "en": "That shop closes at 9 o'clock.", "vi": "Cửa hàng đó đóng cửa lúc 9 giờ." }
+                "sentence": {
+                    "jp_tokens": [
+                        { "w": "あの" },
+                        { "w": "店", "r": "みせ" },
+                        { "w": "は" },
+                        { "w": "九", "r": "く" },
+                        { "w": "時", "r": "じ" },
+                        { "w": "に" },
+                        { "w": "閉", "r": "し" },
+                        { "w": "まります。" }
+                    ],
+                    "en": "That shop closes at 9 o'clock.",
+                    "vi": "Cửa hàng đó đóng cửa lúc 9 giờ."
+                }
             },
             {
                 "id": "k61",
@@ -1196,7 +1900,21 @@
                     { "word": "家内", "reading": "かない", "meaning": { "en": "My wife", "vi": "Vợ tôi" } },
                     { "word": "作家", "reading": "さっか", "meaning": { "en": "Author, writer", "vi": "Nhà văn" } }
                 ],
-                "sentence": { "jp": "私の家は駅から近いです。", "en": "My house is near the station.", "vi": "Nhà tôi gần nhà ga." }
+                "sentence": {
+                    "jp_tokens": [
+                        { "w": "私", "r": "わたし" },
+                        { "w": "の" },
+                        { "w": "家", "r": "いえ" },
+                        { "w": "は" },
+                        { "w": "駅", "r": "えき" },
+                        { "w": "から" },
+                        { "w": "近", "r": "ちか" },
+                        { "w": "い" },
+                        { "w": "です。" }
+                    ],
+                    "en": "My house is near the station.",
+                    "vi": "Nhà tôi gần nhà ga."
+                }
             },
             {
                 "id": "k62",
@@ -1214,7 +1932,18 @@
                     { "word": "社会", "reading": "しゃかい", "meaning": { "en": "Society", "vi": "Xã hội" } },
                     { "word": "社長", "reading": "しゃちょう", "meaning": { "en": "Company president", "vi": "Giám đốc" } }
                 ],
-                "sentence": { "jp": "父は会社の社長です。", "en": "My father is the president of a company.", "vi": "Cha tôi là giám đốc của một công ty." }
+                "sentence": {
+                    "jp_tokens": [
+                        { "w": "父", "r": "ちち" },
+                        { "w": "は" },
+                        { "w": "会社", "r": "かいしゃ" },
+                        { "w": "の" },
+                        { "w": "社長", "r": "しゃちょう" },
+                        { "w": "です。" }
+                    ],
+                    "en": "My father is the president of a company.",
+                    "vi": "Cha tôi là giám đốc của một công ty."
+                }
             },
             {
                 "id": "k113",
@@ -1232,7 +1961,18 @@
                     { "word": "自転車", "reading": "じてんしゃ", "meaning": { "en": "Bicycle", "vi": "Xe đạp" } },
                     { "word": "駐車場", "reading": "ちゅうしゃじょう", "meaning": { "en": "Parking lot", "vi": "Bãi đỗ xe" } }
                 ],
-                "sentence": { "jp": "駅まで車で行きます。", "en": "I will go to the station by car.", "vi": "Tôi sẽ đi đến ga bằng ô tô." }
+                "sentence": {
+                    "jp_tokens": [
+                        { "w": "駅", "r": "えき" },
+                        { "w": "まで" },
+                        { "w": "車", "r": "くるま" },
+                        { "w": "で" },
+                        { "w": "行", "r": "い" },
+                        { "w": "きます。" }
+                    ],
+                    "en": "I will go to the station by car.",
+                    "vi": "Tôi sẽ đi đến ga bằng ô tô."
+                }
             },
             {
                 "id": "k140",
@@ -1250,7 +1990,17 @@
                     { "word": "空港", "reading": "くうこう", "meaning": { "en": "Airport", "vi": "Sân bay" } },
                     { "word": "空手", "reading": "からて", "meaning": { "en": "Karate (empty hand)", "vi": "Karate (tay không)" } }
                 ],
-                "sentence": { "jp": "空は青いです。", "en": "The sky is blue.", "vi": "Bầu trời màu xanh." }
+                "sentence": {
+                    "jp_tokens": [
+                        { "w": "空", "r": "そら" },
+                        { "w": "は" },
+                        { "w": "青", "r": "あお" },
+                        { "w": "い" },
+                        { "w": "です。" }
+                    ],
+                    "en": "The sky is blue.",
+                    "vi": "Bầu trời màu xanh."
+                }
             },
             {
                 "id": "k141",
@@ -1266,7 +2016,19 @@
                 "examples": [
                     { "word": "町長", "reading": "ちょうちょう", "meaning": { "en": "Town mayor", "vi": "Thị trưởng" } }
                 ],
-                "sentence": { "jp": "この町はとても静かです。", "en": "This town is very quiet.", "vi": "Thị trấn này rất yên tĩnh." }
+                "sentence": {
+                    "jp_tokens": [
+                        { "w": "この" },
+                        { "w": "町", "r": "まち" },
+                        { "w": "は" },
+                        { "w": "とても" },
+                        { "w": "静", "r": "しず" },
+                        { "w": "か" },
+                        { "w": "です。" }
+                    ],
+                    "en": "This town is very quiet.",
+                    "vi": "Thị trấn này rất yên tĩnh."
+                }
             },
             {
                 "id": "k143",
@@ -1284,7 +2046,17 @@
                     { "word": "旅館", "reading": "りょかん", "meaning": { "en": "Japanese-style inn", "vi": "Nhà trọ kiểu Nhật" } },
                     { "word": "一人旅", "reading": "ひとりたび", "meaning": { "en": "Solo travel", "vi": "Du lịch một mình" } }
                 ],
-                "sentence": { "jp": "夏休みに旅行します。", "en": "I will travel during the summer vacation.", "vi": "Tôi sẽ đi du lịch trong kỳ nghỉ hè." }
+                "sentence": {
+                    "jp_tokens": [
+                        { "w": "夏", "r": "なつ" },
+                        { "w": "休", "r": "やす" },
+                        { "w": "みに" },
+                        { "w": "旅行", "r": "りょこう" },
+                        { "w": "します。" }
+                    ],
+                    "en": "I will travel during the summer vacation.",
+                    "vi": "Tôi sẽ đi du lịch trong kỳ nghỉ hè."
+                }
             }
         ]
     },
@@ -1308,7 +2080,17 @@
                     { "word": "図書館", "reading": "としょかん", "meaning": { "en": "Library", "vi": "Thư viện" } },
                     { "word": "教科書", "reading": "きょうかしょ", "meaning": { "en": "Textbook", "vi": "Sách giáo khoa" } }
                 ],
-                "sentence": { "jp": "手紙を書いています。", "en": "I am writing a letter.", "vi": "Tôi đang viết một lá thư." }
+                "sentence": {
+                    "jp_tokens": [
+                        { "w": "手紙", "r": "てがみ" },
+                        { "w": "を" },
+                        { "w": "書", "r": "か" },
+                        { "w": "いて" },
+                        { "w": "います。" }
+                    ],
+                    "en": "I am writing a letter.",
+                    "vi": "Tôi đang viết một lá thư."
+                }
             },
             {
                 "id": "k71",
@@ -1326,7 +2108,21 @@
                     { "word": "読書", "reading": "どくしょ", "meaning": { "en": "Reading books", "vi": "Đọc sách" } },
                     { "word": "読者", "reading": "どくしゃ", "meaning": { "en": "Reader", "vi": "Độc giả" } }
                 ],
-                "sentence": { "jp": "本を読むのが好きです。", "en": "I like to read books.", "vi": "Tôi thích đọc sách." }
+                "sentence": {
+                    "jp_tokens": [
+                        { "w": "本", "r": "ほん" },
+                        { "w": "を" },
+                        { "w": "読", "r": "よ" },
+                        { "w": "む" },
+                        { "w": "の" },
+                        { "w": "が" },
+                        { "w": "好", "r": "す" },
+                        { "w": "き" },
+                        { "w": "です。" }
+                    ],
+                    "en": "I like to read books.",
+                    "vi": "Tôi thích đọc sách."
+                }
             },
             {
                 "id": "k72",
@@ -1344,7 +2140,17 @@
                     { "word": "新聞", "reading": "しんぶん", "meaning": { "en": "Newspaper", "vi": "Báo" } },
                     { "word": "聞こえる", "reading": "きこえる", "meaning": { "en": "To be audible", "vi": "Nghe thấy" } }
                 ],
-                "sentence": { "jp": "音楽を聞いています。", "en": "I am listening to music.", "vi": "Tôi đang nghe nhạc." }
+                "sentence": {
+                    "jp_tokens": [
+                        { "w": "音楽", "r": "おんがく" },
+                        { "w": "を" },
+                        { "w": "聞", "r": "き" },
+                        { "w": "いて" },
+                        { "w": "います。" }
+                    ],
+                    "en": "I am listening to music.",
+                    "vi": "Tôi đang nghe nhạc."
+                }
             },
             {
                 "id": "k73",
@@ -1362,7 +2168,16 @@
                     { "word": "銀行", "reading": "ぎんこう", "meaning": { "en": "Bank", "vi": "Ngân hàng" } },
                     { "word": "旅行", "reading": "りょこう", "meaning": { "en": "Travel", "vi": "Du lịch" } }
                 ],
-                "sentence": { "jp": "学校へ行きます。", "en": "I go to school.", "vi": "Tôi đi học." }
+                "sentence": {
+                    "jp_tokens": [
+                        { "w": "学校", "r": "がっこう" },
+                        { "w": "へ" },
+                        { "w": "行", "r": "い" },
+                        { "w": "きます。" }
+                    ],
+                    "en": "I go to school.",
+                    "vi": "Tôi đi học."
+                }
             },
             {
                 "id": "k74",
@@ -1380,7 +2195,18 @@
                     { "word": "来週", "reading": "らいしゅう", "meaning": { "en": "Next week", "vi": "Tuần sau" } },
                     { "word": "未来", "reading": "みらい", "meaning": { "en": "Future", "vi": "Tương lai" } }
                 ],
-                "sentence": { "jp": "友達が家に来ます。", "en": "My friend is coming to my house.", "vi": "Bạn tôi sẽ đến nhà tôi." }
+                "sentence": {
+                    "jp_tokens": [
+                        { "w": "友達", "r": "ともだち" },
+                        { "w": "が" },
+                        { "w": "家", "r": "いえ" },
+                        { "w": "に" },
+                        { "w": "来", "r": "き" },
+                        { "w": "ます。" }
+                    ],
+                    "en": "My friend is coming to my house.",
+                    "vi": "Bạn tôi sẽ đến nhà tôi."
+                }
             },
             {
                 "id": "k75",
@@ -1397,7 +2223,16 @@
                     { "word": "帰る", "reading": "かえる", "meaning": { "en": "To return home", "vi": "Về nhà" } },
                     { "word": "帰国", "reading": "きこく", "meaning": { "en": "To return to one's country", "vi": "Về nước" } }
                 ],
-                "sentence": { "jp": "家に帰ります。", "en": "I am returning home.", "vi": "Tôi đang về nhà." }
+                "sentence": {
+                    "jp_tokens": [
+                        { "w": "家", "r": "いえ" },
+                        { "w": "に" },
+                        { "w": "帰", "r": "かえ" },
+                        { "w": "ります。" }
+                    ],
+                    "en": "I am returning home.",
+                    "vi": "Tôi đang về nhà."
+                }
             },
             {
                 "id": "k76",
@@ -1415,7 +2250,18 @@
                     { "word": "食べ物", "reading": "たべもの", "meaning": { "en": "Food", "vi": "Đồ ăn" } },
                     { "word": "食堂", "reading": "しょくどう", "meaning": { "en": "Cafeteria, dining hall", "vi": "Nhà ăn" } }
                 ],
-                "sentence": { "jp": "昼ご飯を食べます。", "en": "I eat lunch.", "vi": "Tôi ăn trưa." }
+                "sentence": {
+                    "jp_tokens": [
+                        { "w": "昼", "r": "ひる" },
+                        { "w": "ご" },
+                        { "w": "飯", "r": "はん" },
+                        { "w": "を" },
+                        { "w": "食", "r": "た" },
+                        { "w": "べます。" }
+                    ],
+                    "en": "I eat lunch.",
+                    "vi": "Tôi ăn trưa."
+                }
             },
             {
                 "id": "k77",
@@ -1433,7 +2279,17 @@
                     { "word": "飲み物", "reading": "のみもの", "meaning": { "en": "Drink, beverage", "vi": "Đồ uống" } },
                     { "word": "飲酒", "reading": "いんしゅ", "meaning": { "en": "Drinking alcohol", "vi": "Uống rượu" } }
                 ],
-                "sentence": { "jp": "お茶を飲みますか。", "en": "Will you drink tea?", "vi": "Bạn có uống trà không?" }
+                "sentence": {
+                    "jp_tokens": [
+                        { "w": "お" },
+                        { "w": "茶", "r": "ちゃ" },
+                        { "w": "を" },
+                        { "w": "飲", "r": "の" },
+                        { "w": "みますか。" }
+                    ],
+                    "en": "Will you drink tea?",
+                    "vi": "Bạn có uống trà không?"
+                }
             },
             {
                 "id": "k78",
@@ -1451,7 +2307,16 @@
                     { "word": "見せる", "reading": "みせる", "meaning": { "en": "To show", "vi": "Cho xem" } },
                     { "word": "意見", "reading": "いけん", "meaning": { "en": "Opinion", "vi": "Ý kiến" } }
                 ],
-                "sentence": { "jp": "映画を見ます。", "en": "I will watch a movie.", "vi": "Tôi sẽ xem một bộ phim." }
+                "sentence": {
+                    "jp_tokens": [
+                        { "w": "映画", "r": "えいが" },
+                        { "w": "を" },
+                        { "w": "見", "r": "み" },
+                        { "w": "ます。" }
+                    ],
+                    "en": "I will watch a movie.",
+                    "vi": "Tôi sẽ xem một bộ phim."
+                }
             },
             {
                 "id": "k79",
@@ -1469,7 +2334,17 @@
                     { "word": "言葉", "reading": "ことば", "meaning": { "en": "Word, language", "vi": "Từ ngữ, ngôn ngữ" } },
                     { "word": "言語", "reading": "げんご", "meaning": { "en": "Language", "vi": "Ngôn ngữ" } }
                 ],
-                "sentence": { "jp": "もう一度言ってください。", "en": "Please say it again.", "vi": "Làm ơn nói lại lần nữa." }
+                "sentence": {
+                    "jp_tokens": [
+                        { "w": "もう" },
+                        { "w": "一", "r": "いち" },
+                        { "w": "度", "r": "ど" },
+                        { "w": "言", "r": "い" },
+                        { "w": "ってください。" }
+                    ],
+                    "en": "Please say it again.",
+                    "vi": "Làm ơn nói lại lần nữa."
+                }
             },
             {
                 "id": "k80",
@@ -1487,7 +2362,16 @@
                     { "word": "電話", "reading": "でんわ", "meaning": { "en": "Telephone", "vi": "Điện thoại" } },
                     { "word": "会話", "reading": "かいわ", "meaning": { "en": "Conversation", "vi": "Hội thoại" } }
                 ],
-                "sentence": { "jp": "日本語で話しましょう。", "en": "Let's speak in Japanese.", "vi": "Hãy nói chuyện bằng tiếng Nhật." }
+                "sentence": {
+                    "jp_tokens": [
+                        { "w": "日本語", "r": "にほんご" },
+                        { "w": "で" },
+                        { "w": "話", "r": "はな" },
+                        { "w": "しましょう。" }
+                    ],
+                    "en": "Let's speak in Japanese.",
+                    "vi": "Hãy nói chuyện bằng tiếng Nhật."
+                }
             },
             {
                 "id": "k81",
@@ -1505,7 +2389,16 @@
                     { "word": "会社", "reading": "かいしゃ", "meaning": { "en": "Company", "vi": "Công ty" } },
                     { "word": "会議", "reading": "かいぎ", "meaning": { "en": "Meeting", "vi": "Cuộc họp" } }
                 ],
-                "sentence": { "jp": "友達に会います。", "en": "I will meet my friend.", "vi": "Tôi sẽ gặp bạn tôi." }
+                "sentence": {
+                    "jp_tokens": [
+                        { "w": "友達", "r": "ともだち" },
+                        { "w": "に" },
+                        { "w": "会", "r": "あ" },
+                        { "w": "います。" }
+                    ],
+                    "en": "I will meet my friend.",
+                    "vi": "Tôi sẽ gặp bạn tôi."
+                }
             },
             {
                 "id": "k82",
@@ -1522,7 +2415,19 @@
                     { "word": "買う", "reading": "かう", "meaning": { "en": "To buy", "vi": "Mua" } },
                     { "word": "買い物", "reading": "かいもの", "meaning": { "en": "Shopping", "vi": "Mua sắm" } }
                 ],
-                "sentence": { "jp": "新しい服を買いたいです。", "en": "I want to buy new clothes.", "vi": "Tôi muốn mua quần áo mới." }
+                "sentence": {
+                    "jp_tokens": [
+                        { "w": "新", "r": "あたら" },
+                        { "w": "しい" },
+                        { "w": "服", "r": "ふく" },
+                        { "w": "を" },
+                        { "w": "買", "r": "か" },
+                        { "w": "いたい" },
+                        { "w": "です。" }
+                    ],
+                    "en": "I want to buy new clothes.",
+                    "vi": "Tôi muốn mua quần áo mới."
+                }
             },
             {
                 "id": "k142",
@@ -1540,7 +2445,18 @@
                     { "word": "売店", "reading": "ばいてん", "meaning": { "en": "Kiosk, stand", "vi": "Quầy bán hàng" } },
                     { "word": "発売", "reading": "はつばい", "meaning": { "en": "Sale, launch", "vi": "Bán ra" } }
                 ],
-                "sentence": { "jp": "古い車を売りました。", "en": "I sold my old car.", "vi": "Tôi đã bán chiếc xe cũ của mình." }
+                "sentence": {
+                    "jp_tokens": [
+                        { "w": "古", "r": "ふる" },
+                        { "w": "い" },
+                        { "w": "車", "r": "くるま" },
+                        { "w": "を" },
+                        { "w": "売", "r": "う" },
+                        { "w": "りました。" }
+                    ],
+                    "en": "I sold my old car.",
+                    "vi": "Tôi đã bán chiếc xe cũ của mình."
+                }
             },
             {
                 "id": "k83",
@@ -1558,7 +2474,17 @@
                     { "word": "休み", "reading": "やすみ", "meaning": { "en": "Holiday, day off", "vi": "Ngày nghỉ, ngày lễ" } },
                     { "word": "休日", "reading": "きゅうじつ", "meaning": { "en": "Holiday", "vi": "Ngày lễ" } }
                 ],
-                "sentence": { "jp": "今日は休みです。", "en": "Today is a day off.", "vi": "Hôm nay là một ngày nghỉ." }
+                "sentence": {
+                    "jp_tokens": [
+                        { "w": "今日", "r": "きょう" },
+                        { "w": "は" },
+                        { "w": "休", "r": "やす" },
+                        { "w": "み" },
+                        { "w": "です。" }
+                    ],
+                    "en": "Today is a day off.",
+                    "vi": "Hôm nay là một ngày nghỉ."
+                }
             },
             {
                 "id": "k84",
@@ -1576,7 +2502,16 @@
                     { "word": "出す", "reading": "だす", "meaning": { "en": "To take out", "vi": "Lấy ra" } },
                     { "word": "出口", "reading": "でぐち", "meaning": { "en": "Exit", "vi": "Lối ra" } }
                 ],
-                "sentence": { "jp": "家を出ます。", "en": "I am leaving the house.", "vi": "Tôi đang rời khỏi nhà." }
+                "sentence": {
+                    "jp_tokens": [
+                        { "w": "家", "r": "いえ" },
+                        { "w": "を" },
+                        { "w": "出", "r": "で" },
+                        { "w": "ます。" }
+                    ],
+                    "en": "I am leaving the house.",
+                    "vi": "Tôi đang rời khỏi nhà."
+                }
             },
             {
                 "id": "k85",
@@ -1594,7 +2529,16 @@
                     { "word": "入れる", "reading": "いれる", "meaning": { "en": "To put in", "vi": "Cho vào" } },
                     { "word": "入口", "reading": "いりぐち", "meaning": { "en": "Entrance", "vi": "Lối vào" } }
                 ],
-                "sentence": { "jp": "部屋に入ってください。", "en": "Please enter the room.", "vi": "Xin hãy vào phòng." }
+                "sentence": {
+                    "jp_tokens": [
+                        { "w": "部屋", "r": "へや" },
+                        { "w": "に" },
+                        { "w": "入", "r": "はい" },
+                        { "w": "ってください。" }
+                    ],
+                    "en": "Please enter the room.",
+                    "vi": "Xin hãy vào phòng."
+                }
             },
             {
                 "id": "k86",
@@ -1612,7 +2556,16 @@
                     { "word": "国立", "reading": "こくりつ", "meaning": { "en": "National", "vi": "Quốc lập" } },
                     { "word": "設立", "reading": "せつりつ", "meaning": { "en": "Establishment", "vi": "Thành lập" } }
                 ],
-                "sentence": { "jp": "ここに立ってください。", "en": "Please stand here.", "vi": "Xin hãy đứng ở đây." }
+                "sentence": {
+                    "jp_tokens": [
+                        { "w": "ここ" },
+                        { "w": "に" },
+                        { "w": "立", "r": "た" },
+                        { "w": "ってください。" }
+                    ],
+                    "en": "Please stand here.",
+                    "vi": "Xin hãy đứng ở đây."
+                }
             },
             {
                 "id": "k87",
@@ -1630,7 +2583,16 @@
                     { "word": "招待", "reading": "しょうたい", "meaning": { "en": "Invitation", "vi": "Lời mời" } },
                     { "word": "期待", "reading": "きたい", "meaning": { "en": "Expectation", "vi": "Kỳ vọng" } }
                 ],
-                "sentence": { "jp": "バスを待っています。", "en": "I am waiting for the bus.", "vi": "Tôi đang đợi xe buýt." }
+                "sentence": {
+                    "jp_tokens": [
+                        { "w": "バス" },
+                        { "w": "を" },
+                        { "w": "待", "r": "ま" },
+                        { "w": "っています。" }
+                    ],
+                    "en": "I am waiting for the bus.",
+                    "vi": "Tôi đang đợi xe buýt."
+                }
             },
             {
                 "id": "k88",
@@ -1648,7 +2610,16 @@
                     { "word": "気持ち", "reading": "きもち", "meaning": { "en": "Feeling", "vi": "Cảm xúc" } },
                     { "word": "金持ち", "reading": "かねもち", "meaning": { "en": "Rich person", "vi": "Người giàu" } }
                 ],
-                "sentence": { "jp": "荷物を持ってください。", "en": "Please hold the luggage.", "vi": "Xin hãy giữ hành lý." }
+                "sentence": {
+                    "jp_tokens": [
+                        { "w": "荷物", "r": "にもつ" },
+                        { "w": "を" },
+                        { "w": "持", "r": "も" },
+                        { "w": "ってください。" }
+                    ],
+                    "en": "Please hold the luggage.",
+                    "vi": "Xin hãy giữ hành lý."
+                }
             },
             {
                 "id": "k89",
@@ -1666,7 +2637,16 @@
                     { "word": "作品", "reading": "さくひん", "meaning": { "en": "Work of art, piece", "vi": "Tác phẩm" } },
                     { "word": "作文", "reading": "さくぶん", "meaning": { "en": "Composition, essay", "vi": "Bài văn" } }
                 ],
-                "sentence": { "jp": "夕食を作ります。", "en": "I will make dinner.", "vi": "Tôi sẽ làm bữa tối." }
+                "sentence": {
+                    "jp_tokens": [
+                        { "w": "夕食", "r": "ゆうしょく" },
+                        { "w": "を" },
+                        { "w": "作", "r": "つく" },
+                        { "w": "ります。" }
+                    ],
+                    "en": "I will make dinner.",
+                    "vi": "Tôi sẽ làm bữa tối."
+                }
             },
             {
                 "id": "k90",
@@ -1684,7 +2664,16 @@
                     { "word": "使い方", "reading": "つかいかた", "meaning": { "en": "How to use", "vi": "Cách sử dụng" } },
                     { "word": "大使館", "reading": "たいしかん", "meaning": { "en": "Embassy", "vi": "Đại sứ quán" } }
                 ],
-                "sentence": { "jp": "パソコンを使います。", "en": "I use a computer.", "vi": "Tôi sử dụng máy tính." }
+                "sentence": {
+                    "jp_tokens": [
+                        { "w": "パソコン" },
+                        { "w": "を" },
+                        { "w": "使", "r": "つか" },
+                        { "w": "います。" }
+                    ],
+                    "en": "I use a computer.",
+                    "vi": "Tôi sử dụng máy tính."
+                }
             },
             {
                 "id": "k91",
@@ -1702,7 +2691,18 @@
                     { "word": "教室", "reading": "きょうしつ", "meaning": { "en": "Classroom", "vi": "Phòng học" } },
                     { "word": "教会", "reading": "きょうかい", "meaning": { "en": "Church", "vi": "Nhà thờ" } }
                 ],
-                "sentence": { "jp": "先生が日本語を教えています。", "en": "The teacher is teaching Japanese.", "vi": "Giáo viên đang dạy tiếng Nhật." }
+                "sentence": {
+                    "jp_tokens": [
+                        { "w": "先生", "r": "せんせい" },
+                        { "w": "が" },
+                        { "w": "日本語", "r": "にほんご" },
+                        { "w": "を" },
+                        { "w": "教", "r": "おし" },
+                        { "w": "えています。" }
+                    ],
+                    "en": "The teacher is teaching Japanese.",
+                    "vi": "Giáo viên đang dạy tiếng Nhật."
+                }
             },
             {
                 "id": "k131",
@@ -1719,7 +2719,16 @@
                     { "word": "走る", "reading": "はしる", "meaning": { "en": "To run", "vi": "Chạy" } },
                     { "word": "競争", "reading": "きょうそう", "meaning": { "en": "Competition, race", "vi": "Cuộc thi" } }
                 ],
-                "sentence": { "jp": "公園を走ります。", "en": "I run in the park.", "vi": "Tôi chạy trong công viên." }
+                "sentence": {
+                    "jp_tokens": [
+                        { "w": "公園", "r": "こうえん" },
+                        { "w": "を" },
+                        { "w": "走", "r": "はし" },
+                        { "w": "ります。" }
+                    ],
+                    "en": "I run in the park.",
+                    "vi": "Tôi chạy trong công viên."
+                }
             },
             {
                 "id": "k132",
@@ -1737,7 +2746,18 @@
                     { "word": "散歩", "reading": "さんぽ", "meaning": { "en": "A walk, stroll", "vi": "Đi dạo" } },
                     { "word": "進歩", "reading": "しんぽ", "meaning": { "en": "Progress", "vi": "Tiến bộ" } }
                 ],
-                "sentence": { "jp": "毎日、駅まで歩きます。", "en": "I walk to the station every day.", "vi": "Tôi đi bộ đến ga mỗi ngày." }
+                "sentence": {
+                    "jp_tokens": [
+                        { "w": "毎日", "r": "まいにち" },
+                        { "w": "、" },
+                        { "w": "駅", "r": "えき" },
+                        { "w": "まで" },
+                        { "w": "歩", "r": "ある" },
+                        { "w": "きます。" }
+                    ],
+                    "en": "I walk to the station every day.",
+                    "vi": "Tôi đi bộ đến ga mỗi ngày."
+                }
             },
             {
                 "id": "k133",
@@ -1754,7 +2774,19 @@
                     { "word": "起きる", "reading": "おきる", "meaning": { "en": "To wake up, get up", "vi": "Thức dậy" } },
                     { "word": "起こす", "reading": "おこす", "meaning": { "en": "To wake someone up", "vi": "Đánh thức" } }
                 ],
-                "sentence": { "jp": "毎朝六時に起きます。", "en": "I get up at 6 o'clock every morning.", "vi": "Tôi thức dậy lúc 6 giờ mỗi sáng." }
+                "sentence": {
+                    "jp_tokens": [
+                        { "w": "毎", "r": "まい" },
+                        { "w": "朝", "r": "あさ" },
+                        { "w": "六", "r": "ろく" },
+                        { "w": "時", "r": "じ" },
+                        { "w": "に" },
+                        { "w": "起", "r": "お" },
+                        { "w": "きます。" }
+                    ],
+                    "en": "I get up at 6 o'clock every morning.",
+                    "vi": "Tôi thức dậy lúc 6 giờ mỗi sáng."
+                }
             },
             {
                 "id": "k134",
@@ -1772,7 +2804,19 @@
                     { "word": "寝室", "reading": "しんしつ", "meaning": { "en": "Bedroom", "vi": "Phòng ngủ" } },
                     { "word": "昼寝", "reading": "ひるね", "meaning": { "en": "Nap", "vi": "Ngủ trưa" } }
                 ],
-                "sentence": { "jp": "夜十一時に寝ます。", "en": "I go to sleep at 11 PM.", "vi": "Tôi đi ngủ lúc 11 giờ tối." }
+                "sentence": {
+                    "jp_tokens": [
+                        { "w": "夜", "r": "よる" },
+                        { "w": "十", "r": "じゅう" },
+                        { "w": "一", "r": "いち" },
+                        { "w": "時", "r": "じ" },
+                        { "w": "に" },
+                        { "w": "寝", "r": "ね" },
+                        { "w": "ます。" }
+                    ],
+                    "en": "I go to sleep at 11 PM.",
+                    "vi": "Tôi đi ngủ lúc 11 giờ tối."
+                }
             }
         ]
     },
@@ -1796,7 +2840,18 @@
                     { "word": "大学", "reading": "だいがく", "meaning": { "en": "University", "vi": "Đại học" } },
                     { "word": "大丈夫", "reading": "だいじょうぶ", "meaning": { "en": "Okay, all right", "vi": "Không sao, ổn" } }
                 ],
-                "sentence": { "jp": "この犬は大きいです。", "en": "This dog is big.", "vi": "Con chó này to." }
+                "sentence": {
+                    "jp_tokens": [
+                        { "w": "この" },
+                        { "w": "犬", "r": "いぬ" },
+                        { "w": "は" },
+                        { "w": "大", "r": "おお" },
+                        { "w": "きい" },
+                        { "w": "です。" }
+                    ],
+                    "en": "This dog is big.",
+                    "vi": "Con chó này to."
+                }
             },
             {
                 "id": "k93",
@@ -1814,7 +2869,18 @@
                     { "word": "小学校", "reading": "しょうがっこう", "meaning": { "en": "Elementary school", "vi": "Trường tiểu học" } },
                     { "word": "小説", "reading": "しょうせつ", "meaning": { "en": "Novel", "vi": "Tiểu thuyết" } }
                 ],
-                "sentence": { "jp": "これは小さい箱です。", "en": "This is a small box.", "vi": "Đây là một cái hộp nhỏ." }
+                "sentence": {
+                    "jp_tokens": [
+                        { "w": "これ" },
+                        { "w": "は" },
+                        { "w": "小", "r": "ちい" },
+                        { "w": "さい" },
+                        { "w": "箱", "r": "はこ" },
+                        { "w": "です。" }
+                    ],
+                    "en": "This is a small box.",
+                    "vi": "Đây là một cái hộp nhỏ."
+                }
             },
             {
                 "id": "k94",
@@ -1832,7 +2898,19 @@
                     { "word": "高校", "reading": "こうこう", "meaning": { "en": "High school", "vi": "Trường cấp ba" } },
                     { "word": "最高", "reading": "さいこう", "meaning": { "en": "The best, maximum", "vi": "Tuyệt vời, cao nhất" } }
                 ],
-                "sentence": { "jp": "このビルはとても高いです。", "en": "This building is very tall.", "vi": "Tòa nhà này rất cao." }
+                "sentence": {
+                    "jp_tokens": [
+                        { "w": "この" },
+                        { "w": "ビル" },
+                        { "w": "は" },
+                        { "w": "とても" },
+                        { "w": "高", "r": "たか" },
+                        { "w": "い" },
+                        { "w": "です。" }
+                    ],
+                    "en": "This building is very tall.",
+                    "vi": "Tòa nhà này rất cao."
+                }
             },
             {
                 "id": "k95",
@@ -1850,7 +2928,18 @@
                     { "word": "安心", "reading": "あんしん", "meaning": { "en": "Relief, peace of mind", "vi": "An tâm" } },
                     { "word": "安全", "reading": "あんぜん", "meaning": { "en": "Safety", "vi": "An toàn" } }
                 ],
-                "sentence": { "jp": "この店は安いです。", "en": "This shop is cheap.", "vi": "Cửa hàng này rẻ." }
+                "sentence": {
+                    "jp_tokens": [
+                        { "w": "この" },
+                        { "w": "店", "r": "みせ" },
+                        { "w": "は" },
+                        { "w": "安", "r": "やす" },
+                        { "w": "い" },
+                        { "w": "です。" }
+                    ],
+                    "en": "This shop is cheap.",
+                    "vi": "Cửa hàng này rẻ."
+                }
             },
             {
                 "id": "k96",
@@ -1868,7 +2957,18 @@
                     { "word": "新聞", "reading": "しんぶん", "meaning": { "en": "Newspaper", "vi": "Báo" } },
                     { "word": "新年", "reading": "しんねん", "meaning": { "en": "New Year", "vi": "Năm mới" } }
                 ],
-                "sentence": { "jp": "新しい車を買いました。", "en": "I bought a new car.", "vi": "Tôi đã mua một chiếc xe mới." }
+                "sentence": {
+                    "jp_tokens": [
+                        { "w": "新", "r": "あたら" },
+                        { "w": "しい" },
+                        { "w": "車", "r": "くるま" },
+                        { "w": "を" },
+                        { "w": "買", "r": "か" },
+                        { "w": "いました。" }
+                    ],
+                    "en": "I bought a new car.",
+                    "vi": "Tôi đã mua một chiếc xe mới."
+                }
             },
             {
                 "id": "k97",
@@ -1886,7 +2986,18 @@
                     { "word": "古本", "reading": "ふるほん", "meaning": { "en": "Used book", "vi": "Sách cũ" } },
                     { "word": "中古", "reading": "ちゅうこ", "meaning": { "en": "Second-hand", "vi": "Đồ cũ" } }
                 ],
-                "sentence": { "jp": "この家は古いです。", "en": "This house is old.", "vi": "Ngôi nhà này cũ rồi." }
+                "sentence": {
+                    "jp_tokens": [
+                        { "w": "この" },
+                        { "w": "家", "r": "いえ" },
+                        { "w": "は" },
+                        { "w": "古", "r": "ふる" },
+                        { "w": "い" },
+                        { "w": "です。" }
+                    ],
+                    "en": "This house is old.",
+                    "vi": "Ngôi nhà này cũ rồi."
+                }
             },
             {
                 "id": "k98",
@@ -1904,7 +3015,17 @@
                     { "word": "社長", "reading": "しゃちょう", "meaning": { "en": "Company president", "vi": "Giám đốc" } },
                     { "word": "長所", "reading": "ちょうしょ", "meaning": { "en": "Strong point, merit", "vi": "Sở trường" } }
                 ],
-                "sentence": { "jp": "髪が長いです。", "en": "My hair is long.", "vi": "Tóc tôi dài." }
+                "sentence": {
+                    "jp_tokens": [
+                        { "w": "髪", "r": "かみ" },
+                        { "w": "が" },
+                        { "w": "長", "r": "なが" },
+                        { "w": "い" },
+                        { "w": "です。" }
+                    ],
+                    "en": "My hair is long.",
+                    "vi": "Tóc tôi dài."
+                }
             },
             {
                 "id": "k99",
@@ -1922,7 +3043,17 @@
                     { "word": "多分", "reading": "たぶん", "meaning": { "en": "Probably, maybe", "vi": "Có lẽ" } },
                     { "word": "多数決", "reading": "たすうけつ", "meaning": { "en": "Majority rule", "vi": "Biểu quyết theo đa số" } }
                 ],
-                "sentence": { "jp": "人が多いです。", "en": "There are many people.", "vi": "Có nhiều người." }
+                "sentence": {
+                    "jp_tokens": [
+                        { "w": "人", "r": "ひと" },
+                        { "w": "が" },
+                        { "w": "多", "r": "おお" },
+                        { "w": "い" },
+                        { "w": "です。" }
+                    ],
+                    "en": "There are many people.",
+                    "vi": "Có nhiều người."
+                }
             },
             {
                 "id": "k100",
@@ -1940,7 +3071,17 @@
                     { "word": "少し", "reading": "すこし", "meaning": { "en": "A little", "vi": "Một chút" } },
                     { "word": "少年", "reading": "しょうねん", "meaning": { "en": "Boy", "vi": "Thiếu niên" } }
                 ],
-                "sentence": { "jp": "時間が少ないです。", "en": "There is little time.", "vi": "Có ít thời gian." }
+                "sentence": {
+                    "jp_tokens": [
+                        { "w": "時間", "r": "じかん" },
+                        { "w": "が" },
+                        { "w": "少", "r": "すく" },
+                        { "w": "ない" },
+                        { "w": "です。" }
+                    ],
+                    "en": "There is little time.",
+                    "vi": "Có ít thời gian."
+                }
             },
             {
                 "id": "k101",
@@ -1958,7 +3099,19 @@
                     { "word": "面白い", "reading": "おもしろい", "meaning": { "en": "Interesting, funny", "vi": "Thú vị" } },
                     { "word": "白鳥", "reading": "はくちょう", "meaning": { "en": "Swan", "vi": "Thiên nga" } }
                 ],
-                "sentence": { "jp": "白い猫が好きです。", "en": "I like white cats.", "vi": "Tôi thích mèo trắng." }
+                "sentence": {
+                    "jp_tokens": [
+                        { "w": "白", "r": "しろ" },
+                        { "w": "い" },
+                        { "w": "猫", "r": "ねこ" },
+                        { "w": "が" },
+                        { "w": "好", "r": "す" },
+                        { "w": "き" },
+                        { "w": "です。" }
+                    ],
+                    "en": "I like white cats.",
+                    "vi": "Tôi thích mèo trắng."
+                }
             },
             {
                 "id": "k102",
@@ -1976,7 +3129,18 @@
                     { "word": "赤ちゃん", "reading": "あかちゃん", "meaning": { "en": "Baby", "vi": "Em bé" } },
                     { "word": "赤字", "reading": "あかじ", "meaning": { "en": "Deficit, 'in the red'", "vi": "Thâm hụt, lỗ" } }
                 ],
-                "sentence": { "jp": "そのドレスは赤いです。", "en": "That dress is red.", "vi": "Cái váy đó màu đỏ." }
+                "sentence": {
+                    "jp_tokens": [
+                        { "w": "その" },
+                        { "w": "ドレス" },
+                        { "w": "は" },
+                        { "w": "赤", "r": "あか" },
+                        { "w": "い" },
+                        { "w": "です。" }
+                    ],
+                    "en": "That dress is red.",
+                    "vi": "Cái váy đó màu đỏ."
+                }
             },
             {
                 "id": "k103",
@@ -1994,7 +3158,17 @@
                     { "word": "青年", "reading": "せいねん", "meaning": { "en": "Youth, young man", "vi": "Thanh niên" } },
                     { "word": "青空", "reading": "あおぞら", "meaning": { "en": "Blue sky", "vi": "Bầu trời xanh" } }
                 ],
-                "sentence": { "jp": "空は青いです。", "en": "The sky is blue.", "vi": "Bầu trời màu xanh." }
+                "sentence": {
+                    "jp_tokens": [
+                        { "w": "空", "r": "そら" },
+                        { "w": "は" },
+                        { "w": "青", "r": "あお" },
+                        { "w": "い" },
+                        { "w": "です。" }
+                    ],
+                    "en": "The sky is blue.",
+                    "vi": "Bầu trời màu xanh."
+                }
             },
             {
                 "id": "k124",
@@ -2012,7 +3186,18 @@
                     { "word": "黒板", "reading": "こくばん", "meaning": { "en": "Blackboard", "vi": "Bảng đen" } },
                     { "word": "真っ黒", "reading": "まっくろ", "meaning": { "en": "Pitch black", "vi": "Đen kịt" } }
                 ],
-                "sentence": { "jp": "黒い犬を飼っています。", "en": "I have a black dog.", "vi": "Tôi có một con chó đen." }
+                "sentence": {
+                    "jp_tokens": [
+                        { "w": "黒", "r": "くろ" },
+                        { "w": "い" },
+                        { "w": "犬", "r": "いぬ" },
+                        { "w": "を" },
+                        { "w": "飼", "r": "か" },
+                        { "w": "っています。" }
+                    ],
+                    "en": "I have a black dog.",
+                    "vi": "Tôi có một con chó đen."
+                }
             },
             {
                 "id": "k104",
@@ -2029,7 +3214,17 @@
                     { "word": "好き", "reading": "すき", "meaning": { "en": "To like", "vi": "Thích" } },
                     { "word": "好物", "reading": "こうぶつ", "meaning": { "en": "Favorite food", "vi": "Món ăn yêu thích" } }
                 ],
-                "sentence": { "jp": "寿司が好きです。", "en": "I like sushi.", "vi": "Tôi thích sushi." }
+                "sentence": {
+                    "jp_tokens": [
+                        { "w": "寿司", "r": "すし" },
+                        { "w": "が" },
+                        { "w": "好", "r": "す" },
+                        { "w": "き" },
+                        { "w": "です。" }
+                    ],
+                    "en": "I like sushi.",
+                    "vi": "Tôi thích sushi."
+                }
             },
             {
                 "id": "k105",
@@ -2047,7 +3242,16 @@
                     { "word": "元々", "reading": "もともと", "meaning": { "en": "Originally", "vi": "Vốn dĩ" } },
                     { "word": "地元", "reading": "じもと", "meaning": { "en": "Local area", "vi": "Địa phương" } }
                 ],
-                "sentence": { "jp": "お元気ですか。", "en": "How are you?", "vi": "Bạn có khỏe không?" }
+                "sentence": {
+                    "jp_tokens": [
+                        { "w": "お" },
+                        { "w": "元", "r": "げん" },
+                        { "w": "気", "r": "き" },
+                        { "w": "ですか。" }
+                    ],
+                    "en": "How are you?",
+                    "vi": "Bạn có khỏe không?"
+                }
             },
             {
                 "id": "k106",
@@ -2064,7 +3268,17 @@
                     { "word": "早い", "reading": "はやい", "meaning": { "en": "Early", "vi": "Sớm" } },
                     { "word": "早速", "reading": "さっそく", "meaning": { "en": "Immediately", "vi": "Ngay lập tức" } }
                 ],
-                "sentence": { "jp": "朝早く起きます。", "en": "I wake up early in the morning.", "vi": "Tôi thức dậy sớm vào buổi sáng." }
+                "sentence": {
+                    "jp_tokens": [
+                        { "w": "朝", "r": "あさ" },
+                        { "w": "早", "r": "はや" },
+                        { "w": "く" },
+                        { "w": "起", "r": "お" },
+                        { "w": "きます。" }
+                    ],
+                    "en": "I wake up early in the morning.",
+                    "vi": "Tôi thức dậy sớm vào buổi sáng."
+                }
             },
             {
                 "id": "k125",
@@ -2081,7 +3295,17 @@
                     { "word": "暑い", "reading": "あつい", "meaning": { "en": "Hot (weather)", "vi": "Nóng (thời tiết)" } },
                     { "word": "猛暑", "reading": "もうしょ", "meaning": { "en": "Heatwave", "vi": "Nắng nóng gay gắt" } }
                 ],
-                "sentence": { "jp": "今日は暑いですね。", "en": "It's hot today, isn't it?", "vi": "Hôm nay trời nóng nhỉ?" }
+                "sentence": {
+                    "jp_tokens": [
+                        { "w": "今日", "r": "きょう" },
+                        { "w": "は" },
+                        { "w": "暑", "r": "あつ" },
+                        { "w": "い" },
+                        { "w": "ですね。" }
+                    ],
+                    "en": "It's hot today, isn't it?",
+                    "vi": "Hôm nay trời nóng nhỉ?"
+                }
             },
             {
                 "id": "k126",
@@ -2098,7 +3322,17 @@
                     { "word": "寒い", "reading": "さむい", "meaning": { "en": "Cold (weather)", "vi": "Lạnh (thời tiết)" } },
                     { "word": "寒気", "reading": "さむけ", "meaning": { "en": "Chill", "vi": "Cảm giác ớn lạnh" } }
                 ],
-                "sentence": { "jp": "冬は寒いです。", "en": "Winter is cold.", "vi": "Mùa đông trời lạnh." }
+                "sentence": {
+                    "jp_tokens": [
+                        { "w": "冬", "r": "ふゆ" },
+                        { "w": "は" },
+                        { "w": "寒", "r": "さむ" },
+                        { "w": "い" },
+                        { "w": "です。" }
+                    ],
+                    "en": "Winter is cold.",
+                    "vi": "Mùa đông trời lạnh."
+                }
             },
             {
                 "id": "k136",
@@ -2116,7 +3350,19 @@
                     { "word": "勉強", "reading": "べんきょう", "meaning": { "en": "Study", "vi": "Học" } },
                     { "word": "強調", "reading": "きょうちょう", "meaning": { "en": "Emphasis", "vi": "Nhấn mạnh" } }
                 ],
-                "sentence": { "jp": "彼は力が強いです。", "en": "He is very strong.", "vi": "Anh ấy rất khỏe." }
+                "sentence": {
+                    "jp_tokens": [
+                        { "w": "彼", "r": "かれ" },
+                        { "w": "は" },
+                        { "w": "力", "r": "ちから" },
+                        { "w": "が" },
+                        { "w": "強", "r": "つよ" },
+                        { "w": "い" },
+                        { "w": "です。" }
+                    ],
+                    "en": "He is very strong.",
+                    "vi": "Anh ấy rất khỏe."
+                }
             },
             {
                 "id": "k137",
@@ -2133,7 +3379,17 @@
                     { "word": "静か", "reading": "しずか", "meaning": { "en": "Quiet", "vi": "Yên tĩnh" } },
                     { "word": "安静", "reading": "あんせい", "meaning": { "en": "Rest, quiet", "vi": "Nghỉ ngơi yên tĩnh" } }
                 ],
-                "sentence": { "jp": "図書館は静かです。", "en": "The library is quiet.", "vi": "Thư viện yên tĩnh." }
+                "sentence": {
+                    "jp_tokens": [
+                        { "w": "図書館", "r": "としょかん" },
+                        { "w": "は" },
+                        { "w": "静", "r": "しず" },
+                        { "w": "か" },
+                        { "w": "です。" }
+                    ],
+                    "en": "The library is quiet.",
+                    "vi": "Thư viện yên tĩnh."
+                }
             },
             {
                 "id": "k138",
@@ -2150,7 +3406,17 @@
                     { "word": "嫌い", "reading": "きらい", "meaning": { "en": "To dislike, hateful", "vi": "Ghét" } },
                     { "word": "機嫌", "reading": "きげん", "meaning": { "en": "Mood, temper", "vi": "Tâm trạng" } }
                 ],
-                "sentence": { "jp": "ピーマンが嫌いです。", "en": "I dislike bell peppers.", "vi": "Tôi ghét ớt chuông." }
+                "sentence": {
+                    "jp_tokens": [
+                        { "w": "ピーマン" },
+                        { "w": "が" },
+                        { "w": "嫌", "r": "きら" },
+                        { "w": "い" },
+                        { "w": "です。" }
+                    ],
+                    "en": "I dislike bell peppers.",
+                    "vi": "Tôi ghét ớt chuông."
+                }
             }
         ]
     },
@@ -2173,7 +3439,16 @@
                     { "word": "火山", "reading": "かざん", "meaning": { "en": "Volcano", "vi": "Núi lửa" } },
                     { "word": "富士山", "reading": "ふじさん", "meaning": { "en": "Mt. Fuji", "vi": "Núi Phú Sĩ" } }
                 ],
-                "sentence": { "jp": "山に登ります。", "en": "I will climb the mountain.", "vi": "Tôi sẽ leo núi." }
+                "sentence": {
+                    "jp_tokens": [
+                        { "w": "山", "r": "やま" },
+                        { "w": "に" },
+                        { "w": "登", "r": "のぼ" },
+                        { "w": "ります。" }
+                    ],
+                    "en": "I will climb the mountain.",
+                    "vi": "Tôi sẽ leo núi."
+                }
             },
             {
                 "id": "k108",
@@ -2189,7 +3464,20 @@
                 "examples": [
                     { "word": "小川", "reading": "おがわ", "meaning": { "en": "Stream, brook", "vi": "Suối" } }
                 ],
-                "sentence": { "jp": "家の近くに川があります。", "en": "There is a river near my house.", "vi": "Gần nhà tôi có một con sông." }
+                "sentence": {
+                    "jp_tokens": [
+                        { "w": "家", "r": "いえ" },
+                        { "w": "の" },
+                        { "w": "近", "r": "ちか" },
+                        { "w": "く" },
+                        { "w": "に" },
+                        { "w": "川", "r": "かわ" },
+                        { "w": "が" },
+                        { "w": "あります。" }
+                    ],
+                    "en": "There is a river near my house.",
+                    "vi": "Gần nhà tôi có một con sông."
+                }
             },
             {
                 "id": "k115",
@@ -2206,7 +3494,19 @@
                     { "word": "田中", "reading": "たなか", "meaning": { "en": "Tanaka (surname)", "vi": "Tanaka (họ)" } },
                     { "word": "水田", "reading": "すいでん", "meaning": { "en": "Rice paddy", "vi": "Ruộng nước" } }
                 ],
-                "sentence": { "jp": "田んぼで米を作ります。", "en": "They grow rice in the rice fields.", "vi": "Họ trồng lúa trên những cánh đồng." }
+                "sentence": {
+                    "jp_tokens": [
+                        { "w": "田", "r": "た" },
+                        { "w": "んぼ" },
+                        { "w": "で" },
+                        { "w": "米", "r": "こめ" },
+                        { "w": "を" },
+                        { "w": "作", "r": "つく" },
+                        { "w": "ります。" }
+                    ],
+                    "en": "They grow rice in the rice fields.",
+                    "vi": "Họ trồng lúa trên những cánh đồng."
+                }
             },
             {
                 "id": "k109",
@@ -2224,7 +3524,19 @@
                     { "word": "花見", "reading": "はなみ", "meaning": { "en": "Flower viewing", "vi": "Ngắm hoa" } },
                     { "word": "生け花", "reading": "いけばな", "meaning": { "en": "Flower arrangement", "vi": "Cắm hoa" } }
                 ],
-                "sentence": { "jp": "庭にきれいな花が咲いています。", "en": "Beautiful flowers are blooming in the garden.", "vi": "Những bông hoa đẹp đang nở trong vườn." }
+                "sentence": {
+                    "jp_tokens": [
+                        { "w": "庭", "r": "にわ" },
+                        { "w": "に" },
+                        { "w": "きれいな" },
+                        { "w": "花", "r": "はな" },
+                        { "w": "が" },
+                        { "w": "咲", "r": "さ" },
+                        { "w": "いています。" }
+                    ],
+                    "en": "Beautiful flowers are blooming in the garden.",
+                    "vi": "Những bông hoa đẹp đang nở trong vườn."
+                }
             },
             {
                 "id": "k110",
@@ -2241,7 +3553,16 @@
                     { "word": "大雨", "reading": "おおあめ", "meaning": { "en": "Heavy rain", "vi": "Mưa lớn" } },
                     { "word": "雨季", "reading": "うき", "meaning": { "en": "Rainy season", "vi": "Mùa mưa" } }
                 ],
-                "sentence": { "jp": "雨が降っています。", "en": "It is raining.", "vi": "Trời đang mưa." }
+                "sentence": {
+                    "jp_tokens": [
+                        { "w": "雨", "r": "あめ" },
+                        { "w": "が" },
+                        { "w": "降", "r": "ふ" },
+                        { "w": "っています。" }
+                    ],
+                    "en": "It is raining.",
+                    "vi": "Trời đang mưa."
+                }
             },
             {
                 "id": "k111",
@@ -2259,7 +3580,18 @@
                     { "word": "天国", "reading": "てんごく", "meaning": { "en": "Heaven, paradise", "vi": "Thiên đường" } },
                     { "word": "天才", "reading": "てんさい", "meaning": { "en": "Genius", "vi": "Thiên tài" } }
                 ],
-                "sentence": { "jp": "今日の天気はどうですか。", "en": "How is the weather today?", "vi": "Thời tiết hôm nay thế nào?" }
+                "sentence": {
+                    "jp_tokens": [
+                        { "w": "今日", "r": "きょう" },
+                        { "w": "の" },
+                        { "w": "天気", "r": "てんき" },
+                        { "w": "は" },
+                        { "w": "どう" },
+                        { "w": "ですか。" }
+                    ],
+                    "en": "How is the weather today?",
+                    "vi": "Thời tiết hôm nay thế nào?"
+                }
             },
             {
                 "id": "k112",
@@ -2277,7 +3609,18 @@
                     { "word": "天気", "reading": "てんき", "meaning": { "en": "Weather", "vi": "Thời tiết" } },
                     { "word": "気分", "reading": "きぶん", "meaning": { "en": "Feeling, mood", "vi": "Tâm trạng" } }
                 ],
-                "sentence": { "jp": "気分が悪いです。", "en": "I feel sick.", "vi": "Tôi cảm thấy không khỏe." }
+                "sentence": {
+                    "jp_tokens": [
+                        { "w": "気", "r": "き" },
+                        { "w": "分", "r": "ぶん" },
+                        { "w": "が" },
+                        { "w": "悪", "r": "わる" },
+                        { "w": "い" },
+                        { "w": "です。" }
+                    ],
+                    "en": "I feel sick.",
+                    "vi": "Tôi cảm thấy không khỏe."
+                }
             },
             {
                 "id": "k114",
@@ -2295,7 +3638,15 @@
                     { "word": "電車", "reading": "でんしゃ", "meaning": { "en": "Electric train", "vi": "Tàu điện" } },
                     { "word": "電話", "reading": "でんわ", "meaning": { "en": "Telephone", "vi": "Điện thoại" } }
                 ],
-                "sentence": { "jp": "電気がつきました。", "en": "The light turned on.", "vi": "Đèn đã bật." }
+                "sentence": {
+                    "jp_tokens": [
+                        { "w": "電気", "r": "でんき" },
+                        { "w": "が" },
+                        { "w": "つきました。" }
+                    ],
+                    "en": "The light turned on.",
+                    "vi": "Đèn đã bật."
+                }
             },
             {
                 "id": "k127",
@@ -2312,7 +3663,20 @@
                     { "word": "子犬", "reading": "こいぬ", "meaning": { "en": "Puppy", "vi": "Chó con" } },
                     { "word": "番犬", "reading": "ばんけん", "meaning": { "en": "Watchdog", "vi": "Chó giữ nhà" } }
                 ],
-                "sentence": { "jp": "犬を散歩に連れて行きます。", "en": "I'm taking the dog for a walk.", "vi": "Tôi đang dắt chó đi dạo." }
+                "sentence": {
+                    "jp_tokens": [
+                        { "w": "犬", "r": "いぬ" },
+                        { "w": "を" },
+                        { "w": "散歩", "r": "さんぽ" },
+                        { "w": "に" },
+                        { "w": "連", "r": "つ" },
+                        { "w": "れて" },
+                        { "w": "行", "r": "い" },
+                        { "w": "きます。" }
+                    ],
+                    "en": "I'm taking the dog for a walk.",
+                    "vi": "Tôi đang dắt chó đi dạo."
+                }
             },
             {
                 "id": "k128",
@@ -2328,7 +3692,19 @@
                 "examples": [
                     { "word": "子猫", "reading": "こねこ", "meaning": { "en": "Kitten", "vi": "Mèo con" } }
                 ],
-                "sentence": { "jp": "うちの猫は黒いです。", "en": "My cat is black.", "vi": "Con mèo của tôi màu đen." }
+                "sentence": {
+                    "jp_tokens": [
+                        { "w": "うち" },
+                        { "w": "の" },
+                        { "w": "猫", "r": "ねこ" },
+                        { "w": "は" },
+                        { "w": "黒", "r": "くろ" },
+                        { "w": "い" },
+                        { "w": "です。" }
+                    ],
+                    "en": "My cat is black.",
+                    "vi": "Con mèo của tôi màu đen."
+                }
             },
             {
                 "id": "k129",
@@ -2345,7 +3721,18 @@
                     { "word": "小鳥", "reading": "ことり", "meaning": { "en": "Small bird", "vi": "Chim nhỏ" } },
                     { "word": "白鳥", "reading": "はくちょう", "meaning": { "en": "Swan", "vi": "Thiên nga" } }
                 ],
-                "sentence": { "jp": "鳥が空を飛んでいます。", "en": "A bird is flying in the sky.", "vi": "Một con chim đang bay trên bầu trời." }
+                "sentence": {
+                    "jp_tokens": [
+                        { "w": "鳥", "r": "とり" },
+                        { "w": "が" },
+                        { "w": "空", "r": "そら" },
+                        { "w": "を" },
+                        { "w": "飛", "r": "と" },
+                        { "w": "んでいます。" }
+                    ],
+                    "en": "A bird is flying in the sky.",
+                    "vi": "Một con chim đang bay trên bầu trời."
+                }
             },
             {
                 "id": "k130",
@@ -2362,7 +3749,21 @@
                     { "word": "金魚", "reading": "きんぎょ", "meaning": { "en": "Goldfish", "vi": "Cá vàng" } },
                     { "word": "人魚", "reading": "にんぎょ", "meaning": { "en": "Mermaid", "vi": "Nàng tiên cá" } }
                 ],
-                "sentence": { "jp": "魚を釣るのが好きです。", "en": "I like to go fishing.", "vi": "Tôi thích đi câu cá." }
+                "sentence": {
+                    "jp_tokens": [
+                        { "w": "魚", "r": "さかな" },
+                        { "w": "を" },
+                        { "w": "釣", "r": "つ" },
+                        { "w": "る" },
+                        { "w": "の" },
+                        { "w": "が" },
+                        { "w": "好", "r": "す" },
+                        { "w": "き" },
+                        { "w": "です。" }
+                    ],
+                    "en": "I like to go fishing.",
+                    "vi": "Tôi thích đi câu cá."
+                }
             }
         ]
     },
@@ -2386,7 +3787,18 @@
                     { "word": "有名", "reading": "ゆうめい", "meaning": { "en": "Famous", "vi": "Nổi tiếng" } },
                     { "word": "名刺", "reading": "めいし", "meaning": { "en": "Business card", "vi": "Danh thiếp" } }
                 ],
-                "sentence": { "jp": "お名前は何ですか。", "en": "What is your name?", "vi": "Tên bạn là gì?" }
+                "sentence": {
+                    "jp_tokens": [
+                        { "w": "お" },
+                        { "w": "名", "r": "な" },
+                        { "w": "前", "r": "まえ" },
+                        { "w": "は" },
+                        { "w": "何", "r": "なん" },
+                        { "w": "ですか。" }
+                    ],
+                    "en": "What is your name?",
+                    "vi": "Tên bạn là gì?"
+                }
             },
             {
                 "id": "k63",
@@ -2404,7 +3816,17 @@
                     { "word": "先週", "reading": "せんしゅう", "meaning": { "en": "Last week", "vi": "Tuần trước" } },
                     { "word": "先月", "reading": "せんげつ", "meaning": { "en": "Last month", "vi": "Tháng trước" } }
                 ],
-                "sentence": { "jp": "お先に失礼します。", "en": "Excuse me for leaving first.", "vi": "Xin lỗi vì tôi về trước." }
+                "sentence": {
+                    "jp_tokens": [
+                        { "w": "お" },
+                        { "w": "先", "r": "さき" },
+                        { "w": "に" },
+                        { "w": "失礼", "r": "しつれい" },
+                        { "w": "します。" }
+                    ],
+                    "en": "Excuse me for leaving first.",
+                    "vi": "Xin lỗi vì tôi về trước."
+                }
             },
             {
                 "id": "k64",
@@ -2422,7 +3844,18 @@
                     { "word": "先生", "reading": "せんせい", "meaning": { "en": "Teacher", "vi": "Giáo viên" } },
                     { "word": "誕生日", "reading": "たんじょうび", "meaning": { "en": "Birthday", "vi": "Sinh nhật" } }
                 ],
-                "sentence": { "jp": "私は三年生です。", "en": "I am a third-year student.", "vi": "Tôi là sinh viên năm ba." }
+                "sentence": {
+                    "jp_tokens": [
+                        { "w": "私", "r": "わたし" },
+                        { "w": "は" },
+                        { "w": "三", "r": "さん" },
+                        { "w": "年", "r": "ねん" },
+                        { "w": "生", "r": "せい" },
+                        { "w": "です。" }
+                    ],
+                    "en": "I am a third-year student.",
+                    "vi": "Tôi là sinh viên năm ba."
+                }
             },
             {
                 "id": "k65",
@@ -2440,7 +3873,16 @@
                     { "word": "学校", "reading": "がっこう", "meaning": { "en": "School", "vi": "Trường học" } },
                     { "word": "大学", "reading": "だいがく", "meaning": { "en": "University", "vi": "Đại học" } }
                 ],
-                "sentence": { "jp": "日本語を学んでいます。", "en": "I am learning Japanese.", "vi": "Tôi đang học tiếng Nhật." }
+                "sentence": {
+                    "jp_tokens": [
+                        { "w": "日本語", "r": "にほんご" },
+                        { "w": "を" },
+                        { "w": "学", "r": "まな" },
+                        { "w": "んでいます。" }
+                    ],
+                    "en": "I am learning Japanese.",
+                    "vi": "Tôi đang học tiếng Nhật."
+                }
             },
             {
                 "id": "k66",
@@ -2457,7 +3899,19 @@
                     { "word": "学校", "reading": "がっこう", "meaning": { "en": "School", "vi": "Trường học" } },
                     { "word": "校長", "reading": "こうちょう", "meaning": { "en": "Principal", "vi": "Hiệu trưởng" } }
                 ],
-                "sentence": { "jp": "学校は八時に始まります。", "en": "School starts at 8 o'clock.", "vi": "Trường học bắt đầu lúc 8 giờ." }
+                "sentence": {
+                    "jp_tokens": [
+                        { "w": "学校", "r": "がっこう" },
+                        { "w": "は" },
+                        { "w": "八", "r": "はち" },
+                        { "w": "時", "r": "じ" },
+                        { "w": "に" },
+                        { "w": "始", "r": "はじ" },
+                        { "w": "まります。" }
+                    ],
+                    "en": "School starts at 8 o'clock.",
+                    "vi": "Trường học bắt đầu lúc 8 giờ."
+                }
             },
             {
                 "id": "k67",
@@ -2475,7 +3929,18 @@
                     { "word": "本屋", "reading": "ほんや", "meaning": { "en": "Bookstore", "vi": "Hiệu sách" } },
                     { "word": "基本", "reading": "きほん", "meaning": { "en": "Basics, foundation", "vi": "Cơ bản" } }
                 ],
-                "sentence": { "jp": "これは日本語の本です。", "en": "This is a Japanese book.", "vi": "Đây là một cuốn sách tiếng Nhật." }
+                "sentence": {
+                    "jp_tokens": [
+                        { "w": "これ" },
+                        { "w": "は" },
+                        { "w": "日本語", "r": "にほんご" },
+                        { "w": "の" },
+                        { "w": "本", "r": "ほん" },
+                        { "w": "です。" }
+                    ],
+                    "en": "This is a Japanese book.",
+                    "vi": "Đây là một cuốn sách tiếng Nhật."
+                }
             },
             {
                 "id": "k68",
@@ -2493,7 +3958,17 @@
                     { "word": "英語", "reading": "えいご", "meaning": { "en": "English language", "vi": "Tiếng Anh" } },
                     { "word": "物語", "reading": "ものがたり", "meaning": { "en": "Story, tale", "vi": "Câu chuyện" } }
                 ],
-                "sentence": { "jp": "何語を話しますか。", "en": "What languages do you speak?", "vi": "Bạn nói được những ngôn ngữ nào?" }
+                "sentence": {
+                    "jp_tokens": [
+                        { "w": "何", "r": "なに" },
+                        { "w": "語", "r": "ご" },
+                        { "w": "を" },
+                        { "w": "話", "r": "はな" },
+                        { "w": "しますか。" }
+                    ],
+                    "en": "What languages do you speak?",
+                    "vi": "Bạn nói được những ngôn ngữ nào?"
+                }
             },
             {
                 "id": "k69",
@@ -2511,7 +3986,16 @@
                     { "word": "英国", "reading": "えいこく", "meaning": { "en": "United Kingdom", "vi": "Vương quốc Anh" } },
                     { "word": "英雄", "reading": "えいゆう", "meaning": { "en": "Hero", "vi": "Anh hùng" } }
                 ],
-                "sentence": { "jp": "英語が話せますか。", "en": "Can you speak English?", "vi": "Bạn có thể nói tiếng Anh không?" }
+                "sentence": {
+                    "jp_tokens": [
+                        { "w": "英語", "r": "えいご" },
+                        { "w": "が" },
+                        { "w": "話", "r": "はな" },
+                        { "w": "せますか。" }
+                    ],
+                    "en": "Can you speak English?",
+                    "vi": "Bạn có thể nói tiếng Anh không?"
+                }
             },
             {
                 "id": "k116",
@@ -2529,7 +4013,19 @@
                     { "word": "協力", "reading": "きょうりょく", "meaning": { "en": "Cooperation", "vi": "Hợp tác" } },
                     { "word": "能力", "reading": "のうりょく", "meaning": { "en": "Ability", "vi": "Năng lực" } }
                 ],
-                "sentence": { "jp": "彼は力が強いです。", "en": "He is very strong.", "vi": "Anh ấy rất khỏe." }
+                "sentence": {
+                    "jp_tokens": [
+                        { "w": "彼", "r": "かれ" },
+                        { "w": "は" },
+                        { "w": "力", "r": "ちから" },
+                        { "w": "が" },
+                        { "w": "強", "r": "つよ" },
+                        { "w": "い" },
+                        { "w": "です。" }
+                    ],
+                    "en": "He is very strong.",
+                    "vi": "Anh ấy rất khỏe."
+                }
             },
             {
                 "id": "k122",
@@ -2545,7 +4041,16 @@
                 "examples": [
                     { "word": "何時", "reading": "なんじ", "meaning": { "en": "What time?", "vi": "Mấy giờ?" } }
                 ],
-                "sentence": { "jp": "これは何ですか。", "en": "What is this?", "vi": "Đây là cái gì?" }
+                "sentence": {
+                    "jp_tokens": [
+                        { "w": "これ" },
+                        { "w": "は" },
+                        { "w": "何", "r": "なん" },
+                        { "w": "ですか。" }
+                    ],
+                    "en": "What is this?",
+                    "vi": "Đây là cái gì?"
+                }
             },
             {
                 "id": "k123",
@@ -2561,7 +4066,17 @@
                 "examples": [
                     { "word": "誰か", "reading": "だれか", "meaning": { "en": "Someone, somebody", "vi": "Ai đó" } }
                 ],
-                "sentence": { "jp": "あの人は誰ですか。", "en": "Who is that person?", "vi": "Người đó là ai?" }
+                "sentence": {
+                    "jp_tokens": [
+                        { "w": "あの" },
+                        { "w": "人", "r": "ひと" },
+                        { "w": "は" },
+                        { "w": "誰", "r": "だれ" },
+                        { "w": "ですか。" }
+                    ],
+                    "en": "Who is that person?",
+                    "vi": "Người đó là ai?"
+                }
             },
             {
                 "id": "k135",
@@ -2577,7 +4092,18 @@
                 "examples": [
                     { "word": "勉強", "reading": "べんきょう", "meaning": { "en": "Study", "vi": "Học" } }
                 ],
-                "sentence": { "jp": "毎日、二時間勉強します。", "en": "I study for two hours every day.", "vi": "Tôi học hai tiếng mỗi ngày." }
+                "sentence": {
+                    "jp_tokens": [
+                        { "w": "毎日", "r": "まいにち" },
+                        { "w": "、" },
+                        { "w": "二", "r": "に" },
+                        { "w": "時間", "r": "じかん" },
+                        { "w": "勉強", "r": "べんきょう" },
+                        { "w": "します。" }
+                    ],
+                    "en": "I study for two hours every day.",
+                    "vi": "Tôi học hai tiếng mỗi ngày."
+                }
             }
         ]
     }
