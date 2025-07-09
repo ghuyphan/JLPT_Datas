@@ -9,7 +9,7 @@
                 "onyomi": "ダイ, タイ",
                 "kunyomi": "か.わる, よ",
                 "meaning": { "en": "Replace", "vi": "Thay thế" },
-                "radical": "亻 (person, nhân)",
+                "radical": { "en": "亻 (person)", "vi": "亻 (nhân)" },
                 "mnemonic": {
                     "en": "A person (亻) with a ceremonial weapon (弋) is ready to 'replace' the current leader. This also represents a generation or an era.",
                     "vi": "Một người (亻) với một vũ khí nghi lễ (弋) sẵn sàng 'thay thế' người lãnh đạo hiện tại. Điều này cũng đại diện cho một thế hệ hoặc một thời đại."
@@ -27,7 +27,7 @@
                 "onyomi": "リョウ",
                 "kunyomi": "",
                 "meaning": { "en": "Fee", "vi": "Phí" },
-                "radical": "斗 (dipper, đấu)",
+                "radical": { "en": "斗 (dipper)", "vi": "斗 (đấu)" },
                 "mnemonic": {
                     "en": "You use a dipper (斗) to measure rice (米), which can be the 'materials' for a meal or the 'fee' you pay for it.",
                     "vi": "Bạn dùng đấu (斗) để đong gạo (米), đó có thể là 'nguyên liệu' cho bữa ăn hoặc là 'phí' bạn phải trả."
@@ -45,7 +45,7 @@
                 "onyomi": "ヒン",
                 "kunyomi": "しな",
                 "meaning": { "en": "Goods", "vi": "Hàng hóa" },
-                "radical": "口 (mouth, khẩu)",
+                "radical": { "en": "口 (mouth)", "vi": "口 (khẩu)" },
                 "mnemonic": {
                     "en": "Three mouths (口) stacked together. Many mouths are talking about the quality of the 'goods'.",
                     "vi": "Ba cái miệng (口) xếp chồng lên nhau. Nhiều cái miệng đang bàn tán về chất lượng của 'hàng hóa'."
@@ -63,7 +63,7 @@
                 "onyomi": "ギン",
                 "kunyomi": "しろがね",
                 "meaning": { "en": "Silver", "vi": "Bạc" },
-                "radical": "金 (metal, kim)",
+                "radical": { "en": "金 (metal)", "vi": "金 (kim)" },
                 "mnemonic": {
                     "en": "A metal (金) that is good (良) but not quite gold, so it must be 'silver'. The right side represents stopping or being a step back.",
                     "vi": "Một kim loại (金) tốt (良) nhưng không phải là vàng, vậy nên nó phải là 'bạc'. Phần bên phải tượng trưng cho sự dừng lại hoặc lùi một bước."
@@ -81,7 +81,7 @@
                 "onyomi": "バン",
                 "kunyomi": "",
                 "meaning": { "en": "Number (in series)", "vi": "Số (thứ tự)" },
-                "radical": "田 (rice field, điền)",
+                "radical": { "en": "田 (rice field)", "vi": "田 (điền)" },
                 "mnemonic": {
                     "en": "Separating (釆) a rice field (田) to assign a 'number' or 'turn' to each plot.",
                     "vi": "Phân chia (釆) một cánh đồng (田) để gán 'số' hoặc 'lượt' cho mỗi mảnh đất."
@@ -99,7 +99,7 @@
                 "onyomi": "ゴウ",
                 "kunyomi": "",
                 "meaning": { "en": "Number (name/ID)", "vi": "Số hiệu" },
-                "radical": "口 (mouth, khẩu)",
+                "radical": { "en": "口 (mouth)", "vi": "口 (khẩu)" },
                 "mnemonic": {
                     "en": "A mouth (口) shouting out a signal or 'number' to call someone.",
                     "vi": "Một cái miệng (口) hét lên một tín hiệu hoặc 'số hiệu' để gọi ai đó."
@@ -117,7 +117,7 @@
                 "onyomi": "ド, ト",
                 "kunyomi": "たび",
                 "meaning": { "en": "Degree", "vi": "Độ" },
-                "radical": "广 (dotted cliff, nghiễm)",
+                "radical": { "en": "广 (dotted cliff)", "vi": "广 (nghiễm)" },
                 "mnemonic": {
                     "en": "Under a shelter (广), you do something again and again (又), to a certain 'degree' or a number of 'times'.",
                     "vi": "Dưới một mái che (广), bạn làm một việc lặp đi lặp lại (又), đến một 'mức độ' nhất định hoặc một số 'lần'."
@@ -135,7 +135,7 @@
                 "onyomi": "フツ",
                 "kunyomi": "はら.う",
                 "meaning": { "en": "Pay", "vi": "Trả" },
-                "radical": "扌 (hand, thủ)",
+                "radical": { "en": "扌 (hand)", "vi": "扌 (thủ)" },
                 "mnemonic": {
                     "en": "Using your hand (扌) to sweep away a debt is to 'pay' it.",
                     "vi": "Dùng tay (扌) để quét sạch nợ nần chính là 'trả' nó."
@@ -152,7 +152,7 @@
                 "onyomi": "カ",
                 "kunyomi": "あたい",
                 "meaning": { "en": "Value", "vi": "Giá trị" },
-                "radical": "亻 (person, nhân)",
+                "radical": { "en": "亻 (person)", "vi": "亻 (nhân)" },
                 "mnemonic": {
                     "en": "A person (亻) in the west (西) determines the 'value' or price of goods.",
                     "vi": "Một người (亻) ở phía tây (西) xác định 'giá trị' hay giá cả của hàng hóa."
@@ -176,7 +176,7 @@
                 "onyomi": "チョウ",
                 "kunyomi": "あさ",
                 "meaning": { "en": "Morning", "vi": "Buổi sáng" },
-                "radical": "月 (moon, nguyệt)",
+                "radical": { "en": "月 (moon)", "vi": "月 (nguyệt)" },
                 "mnemonic": {
                     "en": "In the early 'morning', the sun (日) rises over the grass (十), and the moon (月) is still faintly visible.",
                     "vi": "Vào 'buổi sáng' sớm, mặt trời (日) mọc trên cỏ (十), và mặt trăng (月) vẫn còn nhìn thấy lờ mờ."
@@ -194,7 +194,7 @@
                 "onyomi": "チュウ",
                 "kunyomi": "ひる",
                 "meaning": { "en": "Noon", "vi": "Buổi trưa" },
-                "radical": "日 (sun, nhật)",
+                "radical": { "en": "日 (sun)", "vi": "日 (nhật)" },
                 "mnemonic": {
                     "en": "A flag (top part) under the sun (日) at its highest point marks 'noon' or 'daytime'.",
                     "vi": "Một lá cờ (phần trên) dưới mặt trời (日) ở điểm cao nhất đánh dấu 'buổi trưa' hoặc 'ban ngày'."
@@ -212,7 +212,7 @@
                 "onyomi": "ヤ",
                 "kunyomi": "よる, よ",
                 "meaning": { "en": "Night", "vi": "Ban đêm" },
-                "radical": "夕 (evening, tịch)",
+                "radical": { "en": "夕 (evening)", "vi": "夕 (tịch)" },
                 "mnemonic": {
                     "en": "In the evening (夕), a person (亻) also (亦) enjoys the 'night'.",
                     "vi": "Vào buổi tối (夕), một người (亻) cũng (亦) tận hưởng 'ban đêm'."
@@ -229,7 +229,7 @@
                 "onyomi": "バン",
                 "kunyomi": "",
                 "meaning": { "en": "Evening", "vi": "Buổi tối" },
-                "radical": "日 (sun, nhật)",
+                "radical": { "en": "日 (sun)", "vi": "日 (nhật)" },
                 "mnemonic": {
                     "en": "When the sun (日) is excused or has escaped (免), it is 'evening'.",
                     "vi": "Khi mặt trời (日) được miễn hoặc đã trốn thoát (免), đó là 'buổi tối'."
@@ -246,7 +246,7 @@
                 "onyomi": "セキ",
                 "kunyomi": "ゆう",
                 "meaning": { "en": "Evening", "vi": "Chiều tối" },
-                "radical": "夕 (evening, tịch)",
+                "radical": { "en": "夕 (evening)", "vi": "夕 (tịch)" },
                 "mnemonic": {
                     "en": "A pictograph of a crescent moon, which appears in the 'evening'.",
                     "vi": "Một chữ tượng hình của mặt trăng lưỡi liềm, xuất hiện vào 'buổi chiều tối'."
@@ -264,7 +264,7 @@
                 "onyomi": "キョ, コ",
                 "kunyomi": "さ.る",
                 "meaning": { "en": "Past", "vi": "Quá khứ" },
-                "radical": "土 (earth, thổ)",
+                "radical": { "en": "土 (earth)", "vi": "土 (thổ)" },
                 "mnemonic": {
                     "en": "Something private (厶) is removed from the earth (土). It has 'left', so it is in the 'past'.",
                     "vi": "Một thứ riêng tư (厶) được lấy đi khỏi mặt đất (土). Nó đã 'rời đi', vì vậy nó thuộc về 'quá khứ'."
@@ -282,7 +282,7 @@
                 "onyomi": "サク",
                 "kunyomi": "",
                 "meaning": { "en": "Yesterday", "vi": "Hôm qua" },
-                "radical": "日 (sun, nhật)",
+                "radical": { "en": "日 (sun)", "vi": "日 (nhật)" },
                 "mnemonic": {
                     "en": "The sun (日) from a previous work day (作). It refers to the 'previous' day, or 'yesterday'.",
                     "vi": "Mặt trời (日) của một ngày làm việc (作) trước đó. Nó chỉ ngày 'hôm trước', hay 'hôm qua'."
@@ -299,7 +299,7 @@
                 "onyomi": "セキ, シャク",
                 "kunyomi": "むかし",
                 "meaning": { "en": "Old times", "vi": "Ngày xưa" },
-                "radical": "日 (sun, nhật)",
+                "radical": { "en": "日 (sun)", "vi": "日 (nhật)" },
                 "mnemonic": {
                     "en": "Something stacked up (top part) over many days (日). This represents the 'old times'.",
                     "vi": "Thứ gì đó được chất đống (phần trên) qua nhiều ngày (日). Điều này đại diện cho 'ngày xưa'."
@@ -315,7 +315,7 @@
                 "onyomi": "ケイ",
                 "kunyomi": "はか.る",
                 "meaning": { "en": "Measure", "vi": "Đo lường" },
-                "radical": "言 (word, ngôn)",
+                "radical": { "en": "言 (word)", "vi": "言 (ngôn)" },
                 "mnemonic": {
                     "en": "Words (言) and numbers (十) are used to 'measure' or to 'plan'.",
                     "vi": "Lời nói (言) và con số (十) được sử dụng để 'đo lường' hoặc 'lập kế hoạch'."
@@ -339,7 +339,7 @@
                 "onyomi": "イ",
                 "kunyomi": "",
                 "meaning": { "en": "Doctor", "vi": "Bác sĩ" },
-                "radical": "匚 (box, phương)",
+                "radical": { "en": "匚 (box)", "vi": "匚 (phương)" },
                 "mnemonic": {
                     "en": "A box (匚) of arrows (矢). In ancient times, a 'doctor' might use arrow-like tools for healing.",
                     "vi": "Một cái hộp (匚) chứa mũi tên (矢). Thời xưa, một 'bác sĩ' có thể dùng các dụng cụ giống mũi tên để chữa bệnh."
@@ -357,7 +357,7 @@
                 "onyomi": "シャ",
                 "kunyomi": "もの",
                 "meaning": { "en": "Person (specialist)", "vi": "Người (chuyên gia)" },
-                "radical": "老 (old, lão)",
+                "radical": { "en": "老 (old)", "vi": "老 (lão)" },
                 "mnemonic": {
                     "en": "An old person (耂) sitting under the sun (日). A wise 'person' or 'specialist' in a certain field.",
                     "vi": "Một người già (耂) ngồi dưới mặt trời (日). Một 'người' thông thái hoặc 'chuyên gia' trong một lĩnh vực nào đó."
@@ -375,7 +375,7 @@
                 "onyomi": "ゾク",
                 "kunyomi": "",
                 "meaning": { "en": "Family", "vi": "Gia đình" },
-                "radical": "方 (direction, phương)",
+                "radical": { "en": "方 (direction)", "vi": "方 (phương)" },
                 "mnemonic": {
                     "en": "A group under a banner (方) with an arrow (矢), forming a tribe or 'family'.",
                     "vi": "Một nhóm người dưới một ngọn cờ (方) với một mũi tên (矢), tạo thành một bộ lạc hoặc 'gia đình'."
@@ -392,7 +392,7 @@
                 "onyomi": "タイ, テイ",
                 "kunyomi": "からだ",
                 "meaning": { "en": "Body", "vi": "Cơ thể" },
-                "radical": "亻 (person, nhân)",
+                "radical": { "en": "亻 (person)", "vi": "亻 (nhân)" },
                 "mnemonic": {
                     "en": "A person's (亻) origin (本) is their 'body'.",
                     "vi": "Nguồn gốc (本) của một người (亻) là 'cơ thể' của họ."
@@ -410,7 +410,7 @@
                 "onyomi": "シン",
                 "kunyomi": "こころ",
                 "meaning": { "en": "Heart", "vi": "Trái tim" },
-                "radical": "心 (heart, tâm)",
+                "radical": { "en": "心 (heart)", "vi": "心 (tâm)" },
                 "mnemonic": {
                     "en": "A pictograph of a human 'heart' or 'mind'.",
                     "vi": "Một chữ tượng hình của 'trái tim' hoặc 'tâm trí' con người."
@@ -428,7 +428,7 @@
                 "onyomi": "トウ, ズ",
                 "kunyomi": "あたま",
                 "meaning": { "en": "Head", "vi": "Đầu" },
-                "radical": "頁 (leaf, hiệt)",
+                "radical": { "en": "頁 (leaf)", "vi": "頁 (hiệt)" },
                 "mnemonic": {
                     "en": "A bean (豆) on a page/head (頁). The most important part on top of the 'head' radical.",
                     "vi": "Một hạt đậu (豆) trên một trang/đầu (頁). Phần quan trọng nhất trên đỉnh của bộ thủ 'đầu'."
@@ -445,7 +445,7 @@
                 "onyomi": "ガン",
                 "kunyomi": "かお",
                 "meaning": { "en": "Face", "vi": "Mặt" },
-                "radical": "頁 (leaf, hiệt)",
+                "radical": { "en": "頁 (leaf)", "vi": "頁 (hiệt)" },
                 "mnemonic": {
                     "en": "A cliff (厂) with stylish hair (彡) on a head (頁) makes up a 'face'.",
                     "vi": "Một vách đá (厂) với mái tóc thời trang (彡) trên một cái đầu (頁) tạo thành một 'khuôn mặt'."
@@ -462,7 +462,7 @@
                 "onyomi": "セイ, ショウ",
                 "kunyomi": "こえ",
                 "meaning": { "en": "Voice", "vi": "Giọng nói" },
-                "radical": "士 (samurai, sĩ)",
+                "radical": { "en": "士 (samurai)", "vi": "士 (sĩ)" },
                 "mnemonic": {
                     "en": "A samurai (士) uses a tool (殳) to make a sound. This is his 'voice' or a shout.",
                     "vi": "Một samurai (士) sử dụng một công cụ (殳) để tạo ra âm thanh. Đây là 'giọng nói' hoặc tiếng hét của anh ta."
@@ -479,7 +479,7 @@
                 "onyomi": "ビョウ",
                 "kunyomi": "や.む, やまい",
                 "meaning": { "en": "Sick", "vi": "Bệnh" },
-                "radical": "疒 (sickness, nạch)",
+                "radical": { "en": "疒 (sickness)", "vi": "疒 (nạch)" },
                 "mnemonic": {
                     "en": "The sickness radical (疒) with a character for 'third' (丙) inside. Being 'sick' is the third state after healthy and tired.",
                     "vi": "Bộ thủ bệnh (疒) với một ký tự cho 'thứ ba' (丙) bên trong. 'Bệnh' là trạng thái thứ ba sau khỏe mạnh và mệt mỏi."
@@ -496,7 +496,7 @@
                 "onyomi": "シ",
                 "kunyomi": "し.ぬ",
                 "meaning": { "en": "Die", "vi": "Chết" },
-                "radical": "歹 (death/decay, đãi)",
+                "radical": { "en": "歹 (death/decay)", "vi": "歹 (đãi)" },
                 "mnemonic": {
                     "en": "The decay radical (歹) with a person (匕) turned on their side. This signifies 'death'.",
                     "vi": "Bộ thủ phân rã (歹) với một người (匕) nằm nghiêng. Điều này biểu thị 'cái chết'."
@@ -518,7 +518,7 @@
                 "onyomi": "チ, ジ",
                 "kunyomi": "",
                 "meaning": { "en": "Ground", "vi": "Đất" },
-                "radical": "土 (earth, thổ)",
+                "radical": { "en": "土 (earth)", "vi": "土 (thổ)" },
                 "mnemonic": {
                     "en": "Earth (土) and a scorpion (也). The 'ground' is where scorpions live.",
                     "vi": "Đất (土) và một con bọ cạp (也). 'Mặt đất' là nơi bọ cạp sinh sống."
@@ -536,7 +536,7 @@
                 "onyomi": "ズ, ト",
                 "kunyomi": "はか.る",
                 "meaning": { "en": "Map", "vi": "Bản đồ" },
-                "radical": "囗 (enclosure, vi)",
+                "radical": { "en": "囗 (enclosure)", "vi": "囗 (vây)" },
                 "mnemonic": {
                     "en": "An enclosure (囗) with a winter (冬) scene inside. It's a 'drawing' or 'map' of a winter landscape.",
                     "vi": "Một khuôn viên (囗) với cảnh mùa đông (冬) bên trong. Đó là một 'bức vẽ' hoặc 'bản đồ' về một phong cảnh mùa đông."
@@ -553,7 +553,7 @@
                 "onyomi": "カン",
                 "kunyomi": "やかた",
                 "meaning": { "en": "Building", "vi": "Tòa nhà" },
-                "radical": "食 (eat, thực)",
+                "radical": { "en": "食 (eat)", "vi": "食 (thực)" },
                 "mnemonic": {
                     "en": "A place to eat (食) with a fancy roof (官). A large public 'building' or hall.",
                     "vi": "Một nơi để ăn (食) với mái nhà sang trọng (官). Một 'tòa nhà' công cộng lớn hoặc hội trường."
@@ -571,7 +571,7 @@
                 "onyomi": "シ",
                 "kunyomi": "いち",
                 "meaning": { "en": "City", "vi": "Thành phố" },
-                "radical": "巾 (towel, cân)",
+                "radical": { "en": "巾 (towel)", "vi": "巾 (cân)" },
                 "mnemonic": {
                     "en": "A person wearing a top hat (亠) and carrying a towel (巾) goes to the 'market' or 'city'.",
                     "vi": "Một người đội mũ cao (亠) và mang theo một chiếc khăn (巾) đi đến 'chợ' hoặc 'thành phố'."
@@ -588,7 +588,7 @@
                 "onyomi": "チョウ",
                 "kunyomi": "まち",
                 "meaning": { "en": "Town", "vi": "Thị trấn" },
-                "radical": "田 (rice field, điền)",
+                "radical": { "en": "田 (rice field)", "vi": "田 (điền)" },
                 "mnemonic": {
                     "en": "A rice field (田) with a nail (丁), marking the boundary of a 'town'.",
                     "vi": "Một cánh đồng lúa (田) với một cái đinh (丁), đánh dấu ranh giới của một 'thị trấn'."
@@ -604,7 +604,7 @@
                 "onyomi": "ソン",
                 "kunyomi": "むら",
                 "meaning": { "en": "Village", "vi": "Làng" },
-                "radical": "木 (tree, mộc)",
+                "radical": { "en": "木 (tree)", "vi": "木 (mộc)" },
                 "mnemonic": {
                     "en": "A 'village' is measured (寸) from a central tree (木).",
                     "vi": "Một 'ngôi làng' được đo (寸) từ một cái cây (木) trung tâm."
@@ -621,7 +621,7 @@
                 "onyomi": "キョウ, ケイ",
                 "kunyomi": "",
                 "meaning": { "en": "Capital", "vi": "Thủ đô" },
-                "radical": "亠 (lid, đầu)",
+                "radical": { "en": "亠 (lid)", "vi": "亠 (đầu)" },
                 "mnemonic": {
                     "en": "A tall building with a lid (亠) and a big opening (口) on small (小) legs. This grand structure represents the 'capital' city.",
                     "vi": "Một tòa nhà cao có nắp (亠) và một lối mở lớn (口) trên những cái chân nhỏ (小). Cấu trúc hoành tráng này đại diện cho thành phố 'thủ đô'."
@@ -638,7 +638,7 @@
                 "onyomi": "ト, ツ",
                 "kunyomi": "みやこ",
                 "meaning": { "en": "Metropolis", "vi": "Đô thị" },
-                "radical": "阝(B) (city, ấp)",
+                "radical": { "en": "阝(B) (city)", "vi": "阝(B) (ấp)" },
                 "mnemonic": {
                     "en": "A person (者) in a big city (阝). A 'metropolis' or capital.",
                     "vi": "Một người (者) trong một thành phố lớn (阝). Một 'đô thị' hoặc thủ đô."
@@ -656,7 +656,7 @@
                 "onyomi": "ケン, コン",
                 "kunyomi": "た.てる",
                 "meaning": { "en": "To build", "vi": "Xây dựng" },
-                "radical": "廴 (long stride, dẫn)",
+                "radical": { "en": "廴 (long stride)", "vi": "廴 (dẫn)" },
                 "mnemonic": {
                     "en": "To take long strides (廴) with a brush (聿) to draw the plans to 'build'.",
                     "vi": "Bước những bước dài (廴) với cây bút lông (聿) để vẽ bản kế hoạch để 'xây dựng'."
@@ -673,7 +673,7 @@
                 "onyomi": "ショ",
                 "kunyomi": "ところ",
                 "meaning": { "en": "Place", "vi": "Nơi" },
-                "radical": "戸 (door, hộ)",
+                "radical": { "en": "戸 (door)", "vi": "戸 (hộ)" },
                 "mnemonic": {
                     "en": "A door (戸) and an axe (斤). This is the 'place' where you chop wood.",
                     "vi": "Một cánh cửa (戸) và một cái rìu (斤). Đây là 'nơi' bạn chặt củi."
@@ -691,7 +691,7 @@
                 "onyomi": "テイ",
                 "kunyomi": "にわ",
                 "meaning": { "en": "Garden", "vi": "Vườn" },
-                "radical": "广 (dotted cliff, nghiễm)",
+                "radical": { "en": "广 (dotted cliff)", "vi": "广 (nghiễm)" },
                 "mnemonic": {
                     "en": "Under a shelter (广), a royal (廷) 'garden' is located.",
                     "vi": "Dưới một mái che (广), một 'khu vườn' (廷) hoàng gia được đặt ở đó."
@@ -708,7 +708,7 @@
                 "onyomi": "キョウ",
                 "kunyomi": "はし",
                 "meaning": { "en": "Bridge", "vi": "Cầu" },
-                "radical": "木 (tree, mộc)",
+                "radical": { "en": "木 (tree)", "vi": "木 (mộc)" },
                 "mnemonic": {
                     "en": "A 'bridge' made of wood (木) that is tall (喬).",
                     "vi": "Một cây 'cầu' làm bằng gỗ (木) cao (喬)."
@@ -731,7 +731,7 @@
                 "onyomi": "シュウ",
                 "kunyomi": "お.わる",
                 "meaning": { "en": "End", "vi": "Kết thúc" },
-                "radical": "糸 (thread, mịch)",
+                "radical": { "en": "糸 (thread)", "vi": "糸 (mịch)" },
                 "mnemonic": {
                     "en": "A thread (糸) in winter (冬). All things come to an 'end' in winter.",
                     "vi": "Một sợi chỉ (糸) trong mùa đông (冬). Mọi thứ đều 'kết thúc' vào mùa đông."
@@ -748,7 +748,7 @@
                 "onyomi": "シ",
                 "kunyomi": "はじ.まる",
                 "meaning": { "en": "Begin", "vi": "Bắt đầu" },
-                "radical": "女 (woman, nữ)",
+                "radical": { "en": "女 (woman)", "vi": "女 (nữ)" },
                 "mnemonic": {
                     "en": "A woman (女) on a platform (台) 'begins' a performance.",
                     "vi": "Một người phụ nữ (女) trên một sân khấu (台) 'bắt đầu' một buổi biểu diễn."
@@ -765,7 +765,7 @@
                 "onyomi": "タイ",
                 "kunyomi": "か.す",
                 "meaning": { "en": "Lend", "vi": "Cho mượn" },
-                "radical": "貝 (shell, bối)",
+                "radical": { "en": "貝 (shell)", "vi": "貝 (bối)" },
                 "mnemonic": {
                     "en": "To 'lend' money/valuables (貝) that represent an era (代).",
                     "vi": "Để 'cho mượn' tiền/vật có giá trị (貝) đại diện cho một thời đại (代)."
@@ -782,7 +782,7 @@
                 "onyomi": "シャク",
                 "kunyomi": "か.りる",
                 "meaning": { "en": "Borrow", "vi": "Mượn" },
-                "radical": "亻 (person, nhân)",
+                "radical": { "en": "亻 (person)", "vi": "亻 (nhân)" },
                 "mnemonic": {
                     "en": "A person (亻) from old times (昔) had to 'borrow' things.",
                     "vi": "Một người (亻) từ thời xa xưa (昔) đã phải 'mượn' đồ."
@@ -799,7 +799,7 @@
                 "onyomi": "ソウ",
                 "kunyomi": "おく.る",
                 "meaning": { "en": "Send", "vi": "Gửi" },
-                "radical": "辶 (walk, sước)",
+                "radical": { "en": "辶 (walk)", "vi": "辶 (sước)" },
                 "mnemonic": {
                     "en": "To walk (辶) and see something off to the heavens (天). You 'send' it.",
                     "vi": "Đi bộ (辶) và tiễn một thứ gì đó lên trời (天). Bạn 'gửi' nó đi."
@@ -816,7 +816,7 @@
                 "onyomi": "セツ, サイ",
                 "kunyomi": "き.る",
                 "meaning": { "en": "Cut", "vi": "Cắt" },
-                "radical": "刀 (sword, đao)",
+                "radical": { "en": "刀 (sword)", "vi": "刀 (đao)" },
                 "mnemonic": {
                     "en": "Seven (七) cuts with a sword (刀).",
                     "vi": "Bảy (七) nhát cắt bằng một thanh kiếm (刀)."
@@ -834,7 +834,7 @@
                 "onyomi": "チ",
                 "kunyomi": "し.る",
                 "meaning": { "en": "Know", "vi": "Biết" },
-                "radical": "矢 (arrow, thỉ)",
+                "radical": { "en": "矢 (arrow)", "vi": "矢 (thỉ)" },
                 "mnemonic": {
                     "en": "To speak (口) words as sharp and direct as an arrow (矢) is to 'know'.",
                     "vi": "Nói (口) những lời sắc bén và trực tiếp như một mũi tên (矢) là 'biết'."
@@ -852,7 +852,7 @@
                 "onyomi": "ジュウ",
                 "kunyomi": "す.む",
                 "meaning": { "en": "Live", "vi": "Sống" },
-                "radical": "亻 (person, nhân)",
+                "radical": { "en": "亻 (person)", "vi": "亻 (nhân)" },
                 "mnemonic": {
                     "en": "A person (亻) who is a master (主) of their own place where they 'live'.",
                     "vi": "Một người (亻) là chủ nhân (主) của nơi họ 'sống'."
@@ -869,7 +869,7 @@
                 "onyomi": "バイ",
                 "kunyomi": "う.る",
                 "meaning": { "en": "Sell", "vi": "Bán" },
-                "radical": "士 (samurai, sĩ)",
+                "radical": { "en": "士 (samurai)", "vi": "士 (sĩ)" },
                 "mnemonic": {
                     "en": "A samurai (士) as a merchant. The top part represents the item being 'sold'.",
                     "vi": "Một samurai (士) trong vai một thương gia. Phần trên cùng đại diện cho mặt hàng đang được 'bán'."
@@ -886,7 +886,7 @@
                 "onyomi": "シ",
                 "kunyomi": "おも.う",
                 "meaning": { "en": "Think", "vi": "Nghĩ" },
-                "radical": "心 (heart, tâm)",
+                "radical": { "en": "心 (heart)", "vi": "心 (tâm)" },
                 "mnemonic": {
                     "en": "A rice field (田) on top of a heart (心). You 'think' with your heart and mind about important things like the fields.",
                     "vi": "Một cánh đồng (田) trên một trái tim (心). Bạn 'suy nghĩ' bằng trái tim và khối óc về những điều quan trọng như đồng ruộng."
@@ -903,7 +903,7 @@
                 "onyomi": "ドウ",
                 "kunyomi": "はたら.く",
                 "meaning": { "en": "Work", "vi": "Làm việc" },
-                "radical": "亻 (person, nhân)",
+                "radical": { "en": "亻 (person)", "vi": "亻 (nhân)" },
                 "mnemonic": {
                     "en": "A person (亻) who moves (動) is a person who 'works'.",
                     "vi": "Một người (亻) di chuyển (動) là một người 'làm việc'."
@@ -919,7 +919,7 @@
                 "onyomi": "チャク, ジャク",
                 "kunyomi": "き.る, つ.く",
                 "meaning": { "en": "Arrive", "vi": "Đến" },
-                "radical": "羊 (sheep, dương)",
+                "radical": { "en": "羊 (sheep)", "vi": "羊 (dương)" },
                 "mnemonic": {
                     "en": "A sheep (羊) with an eye (目) underneath. When you 'arrive' at the flock, you look for your sheep.",
                     "vi": "Một con cừu (羊) với một con mắt (目) bên dưới. Khi bạn 'đến' đàn, bạn tìm con cừu của mình."
@@ -937,7 +937,7 @@
                 "onyomi": "カイ",
                 "kunyomi": "あ.く, ひら.く",
                 "meaning": { "en": "Open", "vi": "Mở" },
-                "radical": "門 (gate, môn)",
+                "radical": { "en": "門 (gate)", "vi": "門 (môn)" },
                 "mnemonic": {
                     "en": "A gate (門) with a torii gate (开) inside. You 'open' the gate to pass through.",
                     "vi": "Một cánh cổng (門) với một cổng torii (开) bên trong. Bạn 'mở' cổng để đi qua."
@@ -955,7 +955,7 @@
                 "onyomi": "ヘイ",
                 "kunyomi": "し.まる, と.じる",
                 "meaning": { "en": "Close", "vi": "Đóng" },
-                "radical": "門 (gate, môn)",
+                "radical": { "en": "門 (gate)", "vi": "門 (môn)" },
                 "mnemonic": {
                     "en": "A gate (門) with a genius/talent (才) inside. The talent is locked up, so the gate is 'closed'.",
                     "vi": "Một cánh cổng (門) với một tài năng (才) bên trong. Tài năng bị nhốt, vì vậy cánh cổng bị 'đóng'."
@@ -973,7 +973,7 @@
                 "onyomi": "オウ",
                 "kunyomi": "お.す",
                 "meaning": { "en": "Push", "vi": "Ấn" },
-                "radical": "扌 (hand, thủ)",
+                "radical": { "en": "扌 (hand)", "vi": "扌 (thủ)" },
                 "mnemonic": {
                     "en": "Using your hand (扌) to 'push' something straight (甲).",
                     "vi": "Dùng tay (扌) để 'ấn' một vật thẳng (甲)."
@@ -989,7 +989,7 @@
                 "onyomi": "イン",
                 "kunyomi": "ひ.く",
                 "meaning": { "en": "Pull", "vi": "Kéo" },
-                "radical": "弓 (bow, cung)",
+                "radical": { "en": "弓 (bow)", "vi": "弓 (cung)" },
                 "mnemonic": {
                     "en": "To 'pull' the string of a bow (弓).",
                     "vi": "Để 'kéo' dây của một cây cung (弓)."
@@ -1013,7 +1013,7 @@
                 "onyomi": "ジュウ, チョウ",
                 "kunyomi": "おも.い",
                 "meaning": { "en": "Heavy", "vi": "Nặng" },
-                "radical": "里 (village, lý)",
+                "radical": { "en": "里 (village)", "vi": "里 (lý)" },
                 "mnemonic": {
                     "en": "A thousand (千) villages (里) stacked on top of each other would be very 'heavy'.",
                     "vi": "Một ngàn (千) ngôi làng (里) xếp chồng lên nhau sẽ rất 'nặng'."
@@ -1030,7 +1030,7 @@
                 "onyomi": "ケイ",
                 "kunyomi": "かる.い",
                 "meaning": { "en": "Light (weight)", "vi": "Nhẹ" },
-                "radical": "車 (car, xa)",
+                "radical": { "en": "車 (car)", "vi": "車 (xa)" },
                 "mnemonic": {
                     "en": "A car (車) that can go up a stream (圣). It must be 'light'.",
                     "vi": "Một chiếc xe (車) có thể đi ngược dòng suối (圣). Nó hẳn phải rất 'nhẹ'."
@@ -1047,7 +1047,7 @@
                 "onyomi": "コウ",
                 "kunyomi": "ひろ.い",
                 "meaning": { "en": "Wide", "vi": "Rộng" },
-                "radical": "广 (dotted cliff, nghiễm)",
+                "radical": { "en": "广 (dotted cliff)", "vi": "广 (nghiễm)" },
                 "mnemonic": {
                     "en": "Under a shelter (广), there is a private (厶) and 'wide' space.",
                     "vi": "Dưới một mái che (广), có một không gian riêng tư (厶) và 'rộng rãi'."
@@ -1064,7 +1064,7 @@
                 "onyomi": "ソク",
                 "kunyomi": "はや.い",
                 "meaning": { "en": "Fast", "vi": "Nhanh" },
-                "radical": "辶 (walk, sước)",
+                "radical": { "en": "辶 (walk)", "vi": "辶 (sước)" },
                 "mnemonic": {
                     "en": "To walk (辶) with a bundle (束) tied to you, you must move 'fast'.",
                     "vi": "Để đi bộ (辶) với một bó (束) buộc vào người, bạn phải di chuyển 'nhanh'."
@@ -1081,7 +1081,7 @@
                 "onyomi": "チ",
                 "kunyomi": "おそ.い",
                 "meaning": { "en": "Slow", "vi": "Chậm" },
-                "radical": "辶 (walk, sước)",
+                "radical": { "en": "辶 (walk)", "vi": "辶 (sước)" },
                 "mnemonic": {
                     "en": "To walk (辶) behind a sheep (羊), you move 'slowly' or you will be 'late'.",
                     "vi": "Đi bộ (辶) sau một con cừu (羊), bạn di chuyển 'chậm' hoặc bạn sẽ bị 'muộn'."
@@ -1098,7 +1098,7 @@
                 "onyomi": "キン",
                 "kunyomi": "ちか.い",
                 "meaning": { "en": "Near", "vi": "Gần" },
-                "radical": "辶 (walk, sước)",
+                "radical": { "en": "辶 (walk)", "vi": "辶 (sước)" },
                 "mnemonic": {
                     "en": "To walk (辶) with an axe (斤) means you are 'near' home and can start chopping wood.",
                     "vi": "Đi bộ (辶) với một cái rìu (斤) có nghĩa là bạn đã ở 'gần' nhà và có thể bắt đầu chặt củi."
@@ -1116,7 +1116,7 @@
                 "onyomi": "エン, オン",
                 "kunyomi": "とお.い",
                 "meaning": { "en": "Far", "vi": "Xa" },
-                "radical": "辶 (walk, sước)",
+                "radical": { "en": "辶 (walk)", "vi": "辶 (sước)" },
                 "mnemonic": {
                     "en": "To walk (辶) to a place where you wear a special robe (袁). That place must be 'far' away.",
                     "vi": "Đi bộ (辶) đến một nơi mà bạn mặc một chiếc áo choàng đặc biệt (袁). Nơi đó hẳn phải ở rất 'xa'."
@@ -1133,7 +1133,7 @@
                 "onyomi": "アク, オ",
                 "kunyomi": "わる.い",
                 "meaning": { "en": "Bad", "vi": "Xấu" },
-                "radical": "心 (heart, tâm)",
+                "radical": { "en": "心 (heart)", "vi": "心 (tâm)" },
                 "mnemonic": {
                     "en": "A second (亜) heart (心). Having two hearts or being two-faced is 'bad'.",
                     "vi": "Một trái tim thứ hai (亜) (心). Có hai trái tim hoặc hai mặt là 'xấu'."
@@ -1150,7 +1150,7 @@
                 "onyomi": "アン",
                 "kunyomi": "くら.い",
                 "meaning": { "en": "Dark", "vi": "Tối" },
-                "radical": "日 (sun, nhật)",
+                "radical": { "en": "日 (sun)", "vi": "日 (nhật)" },
                 "mnemonic": {
                     "en": "The sun (日) makes a sound (音) as it sets, and then it becomes 'dark'.",
                     "vi": "Mặt trời (日) tạo ra âm thanh (音) khi nó lặn, và rồi trời trở nên 'tối'."
@@ -1167,7 +1167,7 @@
                 "onyomi": "ガク, ラク",
                 "kunyomi": "たの.しい",
                 "meaning": { "en": "Fun", "vi": "Vui" },
-                "radical": "木 (tree, mộc)",
+                "radical": { "en": "木 (tree)", "vi": "木 (mộc)" },
                 "mnemonic": {
                     "en": "White (白) threads (幺) on a wooden (木) frame. This is a musical instrument, which is 'fun' to play.",
                     "vi": "Những sợi chỉ trắng (白) (幺) trên một khung gỗ (木). Đây là một nhạc cụ, chơi rất 'vui'."
@@ -1185,7 +1185,7 @@
                 "onyomi": "タイ, タ",
                 "kunyomi": "ふと.い",
                 "meaning": { "en": "Fat", "vi": "Béo" },
-                "radical": "大 (big, đại)",
+                "radical": { "en": "大 (big)", "vi": "大 (đại)" },
                 "mnemonic": {
                     "en": "A big (大) person with a little extra dot. They are 'fat' or 'thick'.",
                     "vi": "Một người to lớn (大) với một dấu chấm nhỏ thêm vào. Họ 'béo' hoặc 'mập'."
@@ -1203,7 +1203,7 @@
                 "onyomi": "サイ",
                 "kunyomi": "ほそ.い, こま.かい",
                 "meaning": { "en": "Thin", "vi": "Gầy" },
-                "radical": "糸 (thread, mịch)",
+                "radical": { "en": "糸 (thread)", "vi": "糸 (mịch)" },
                 "mnemonic": {
                     "en": "A thread (糸) in a rice field (田). A thread is very 'thin'.",
                     "vi": "Một sợi chỉ (糸) trong một cánh đồng (田). Một sợi chỉ rất 'mỏng'."
@@ -1220,7 +1220,7 @@
                 "onyomi": "セイ, ショウ",
                 "kunyomi": "ただ.しい",
                 "meaning": { "en": "Correct", "vi": "Đúng" },
-                "radical": "止 (stop, chỉ)",
+                "radical": { "en": "止 (stop)", "vi": "止 (chỉ)" },
                 "mnemonic": {
                     "en": "To stop (止) at one (一) point. This is the 'correct' thing to do.",
                     "vi": "Dừng lại (止) tại một (一) điểm. Đây là điều 'đúng đắn' phải làm."
@@ -1237,7 +1237,7 @@
                 "onyomi": "ドウ",
                 "kunyomi": "おな.じ",
                 "meaning": { "en": "Same", "vi": "Giống" },
-                "radical": "冂 (down box, quynh)",
+                "radical": { "en": "冂 (down box)", "vi": "冂 (quynh)" },
                 "mnemonic": {
                     "en": "Inside a box (冂), one (一) mouth (口) speaks for everyone. They all say the 'same' thing.",
                     "vi": "Trong một cái hộp (冂), một (一) cái miệng (口) nói cho tất cả mọi người. Tất cả họ đều nói 'giống' nhau."
@@ -1259,7 +1259,7 @@
                 "onyomi": "ニク",
                 "kunyomi": "",
                 "meaning": { "en": "Meat", "vi": "Thịt" },
-                "radical": "肉 (meat, nhục)",
+                "radical": { "en": "肉 (meat)", "vi": "肉 (nhục)" },
                 "mnemonic": {
                     "en": "A pictograph of a slab of 'meat', with lines representing muscle fiber.",
                     "vi": "Một chữ tượng hình của một miếng 'thịt', với các đường kẻ đại diện cho sợi cơ."
@@ -1276,7 +1276,7 @@
                 "onyomi": "ヤ",
                 "kunyomi": "の",
                 "meaning": { "en": "Field", "vi": "Đồng" },
-                "radical": "里 (village, lý)",
+                "radical": { "en": "里 (village)", "vi": "里 (lý)" },
                 "mnemonic": {
                     "en": "The village (里) also (也) has a wild 'field'.",
                     "vi": "Ngôi làng (里) cũng (也) có một 'cánh đồng' hoang."
@@ -1293,7 +1293,7 @@
                 "onyomi": "サイ",
                 "kunyomi": "な",
                 "meaning": { "en": "Vegetable", "vi": "Rau" },
-                "radical": "艹 (grass, thảo)",
+                "radical": { "en": "艹 (grass)", "vi": "艹 (thảo)" },
                 "mnemonic": {
                     "en": "A plant (艹) that you grab with your hand/claws (爪) from a tree (木). These are 'vegetables'.",
                     "vi": "Một loài cây (艹) mà bạn dùng tay/móng vuốt (爪) để hái từ một cái cây (木). Đó là 'rau'."
@@ -1310,7 +1310,7 @@
                 "onyomi": "ヤク",
                 "kunyomi": "くすり",
                 "meaning": { "en": "Medicine", "vi": "Thuốc" },
-                "radical": "艹 (grass, thảo)",
+                "radical": { "en": "艹 (grass)", "vi": "艹 (thảo)" },
                 "mnemonic": {
                     "en": "A plant (艹) that brings fun/ease (楽). This is 'medicine'.",
                     "vi": "Một loài cây (艹) mang lại niềm vui/sự dễ chịu (楽). Đây là 'thuốc'."
@@ -1327,7 +1327,7 @@
                 "onyomi": "フク",
                 "kunyomi": "",
                 "meaning": { "en": "Clothes", "vi": "Quần áo" },
-                "radical": "月 (moon/flesh, nhục)",
+                "radical": { "en": "月 (moon/flesh)", "vi": "月 (nhục)" },
                 "mnemonic": {
                     "en": "Part of the body/flesh (月) is covered by something you grab with your hand (right side). These are 'clothes'.",
                     "vi": "Một phần của cơ thể/thịt (月) được che bởi thứ gì đó bạn cầm bằng tay (phần bên phải). Đó là 'quần áo'."
@@ -1344,7 +1344,7 @@
                 "onyomi": "ハン",
                 "kunyomi": "めし",
                 "meaning": { "en": "Meal", "vi": "Bữa ăn" },
-                "radical": "食 (eat, thực)",
+                "radical": { "en": "食 (eat)", "vi": "食 (thực)" },
                 "mnemonic": {
                     "en": "Food (食) that is on the opposite (反) side of the table. It is a 'meal'.",
                     "vi": "Thức ăn (食) ở phía đối diện (反) của bàn. Đó là một 'bữa ăn'."
@@ -1360,7 +1360,7 @@
                 "onyomi": "チャ, サ",
                 "kunyomi": "",
                 "meaning": { "en": "Tea", "vi": "Trà" },
-                "radical": "艹 (grass, thảo)",
+                "radical": { "en": "艹 (grass)", "vi": "艹 (thảo)" },
                 "mnemonic": {
                     "en": "A plant (艹) that looks like a person with a roof and wooden legs. This famous plant is 'tea'.",
                     "vi": "Một loài cây (艹) trông giống như một người có mái che và chân gỗ. Loài cây nổi tiếng này là 'trà'."
@@ -1377,7 +1377,7 @@
                 "onyomi": "シュ",
                 "kunyomi": "さけ",
                 "meaning": { "en": "Alcohol", "vi": "Rượu" },
-                "radical": "氵(water, thủy)",
+                "radical": { "en": "氵(water)", "vi": "氵(thủy)" },
                 "mnemonic": {
                     "en": "Water (氵) from the west (西) is fermented to make 'sake' or 'alcohol'.",
                     "vi": "Nước (氵) từ phía tây (西) được lên men để làm 'sake' hoặc 'rượu'."
@@ -1394,7 +1394,7 @@
                 "onyomi": "ギュウ",
                 "kunyomi": "うし",
                 "meaning": { "en": "Cow", "vi": "Bò" },
-                "radical": "牛 (cow, ngưu)",
+                "radical": { "en": "牛 (cow)", "vi": "牛 (ngưu)" },
                 "mnemonic": {
                     "en": "A pictograph of a 'cow's' head with its horns.",
                     "vi": "Một chữ tượng hình của đầu một con 'bò' với sừng của nó."
@@ -1412,7 +1412,7 @@
                 "onyomi": "チョウ",
                 "kunyomi": "とり",
                 "meaning": { "en": "Bird", "vi": "Chim" },
-                "radical": "鳥 (bird, điểu)",
+                "radical": { "en": "鳥 (bird)", "vi": "鳥 (điểu)" },
                 "mnemonic": {
                     "en": "A pictograph of a 'bird' with a crest, eye, and tail feathers.",
                     "vi": "Một chữ tượng hình của một con 'chim' có mào, mắt và lông đuôi."
@@ -1429,7 +1429,7 @@
                 "onyomi": "クウ",
                 "kunyomi": "そら, あ.く",
                 "meaning": { "en": "Sky", "vi": "Bầu trời" },
-                "radical": "穴 (hole, huyệt)",
+                "radical": { "en": "穴 (hole)", "vi": "穴 (huyệt)" },
                 "mnemonic": {
                     "en": "A hole (穴) made by a tool (工). An empty space, like the 'sky'.",
                     "vi": "Một cái lỗ (穴) được tạo ra bởi một công cụ (工). Một không gian trống rỗng, giống như 'bầu trời'."
@@ -1446,7 +1446,7 @@
                 "onyomi": "シ",
                 "kunyomi": "かみ",
                 "meaning": { "en": "Paper", "vi": "Giấy" },
-                "radical": "糸 (thread, mịch)",
+                "radical": { "en": "糸 (thread)", "vi": "糸 (mịch)" },
                 "mnemonic": {
                     "en": "Thread (糸) from a certain clan (氏) is used to make 'paper'.",
                     "vi": "Chỉ (糸) từ một thị tộc (氏) nhất định được dùng để làm 'giấy'."
@@ -1463,7 +1463,7 @@
                 "onyomi": "ソウ",
                 "kunyomi": "はこ",
                 "meaning": { "en": "Box", "vi": "Hộp" },
-                "radical": "竹 (bamboo, trúc)",
+                "radical": { "en": "竹 (bamboo)", "vi": "竹 (trúc)" },
                 "mnemonic": {
                     "en": "A 'box' made of bamboo (竹) that looks (相) good.",
                     "vi": "Một cái 'hộp' làm bằng tre (竹) trông có vẻ (相) tốt."
@@ -1480,7 +1480,7 @@
                 "onyomi": "ソウ",
                 "kunyomi": "まど",
                 "meaning": { "en": "Window", "vi": "Cửa sổ" },
-                "radical": "穴 (hole, huyệt)",
+                "radical": { "en": "穴 (hole)", "vi": "穴 (huyệt)" },
                 "mnemonic": {
                     "en": "A hole (穴) in the wall with a heart/mind (心) looking out. This is a 'window'.",
                     "vi": "Một cái lỗ (穴) trên tường với một trái tim/tâm trí (心) nhìn ra ngoài. Đây là một 'cửa sổ'."
@@ -1503,7 +1503,7 @@
                 "onyomi": "カン",
                 "kunyomi": "",
                 "meaning": { "en": "Han (Chinese)", "vi": "Hán" },
-                "radical": "氵(water, thủy)",
+                "radical": { "en": "氵(water)", "vi": "氵(thủy)" },
                 "mnemonic": {
                     "en": "Water (氵) that is difficult to cross (right side). This refers to the 'Han' river and by extension, the Han people.",
                     "vi": "Nước (氵) khó vượt qua (phần bên phải). Điều này đề cập đến sông 'Hán' và mở rộng ra là người Hán."
@@ -1519,7 +1519,7 @@
                 "onyomi": "ジ",
                 "kunyomi": "あざな",
                 "meaning": { "en": "Character", "vi": "Chữ" },
-                "radical": "子 (child, tử)",
+                "radical": { "en": "子 (child)", "vi": "子 (tử)" },
                 "mnemonic": {
                     "en": "A child (子) under a roof (宀) is learning a 'character'.",
                     "vi": "Một đứa trẻ (子) dưới một mái nhà (宀) đang học một 'chữ'."
@@ -1536,7 +1536,7 @@
                 "onyomi": "ブン, モン",
                 "kunyomi": "ふみ",
                 "meaning": { "en": "Sentence", "vi": "Văn" },
-                "radical": "文 (writing, văn)",
+                "radical": { "en": "文 (writing)", "vi": "文 (văn)" },
                 "mnemonic": {
                     "en": "A pictograph of a person with a tattoo on their chest, representing 'writing', culture, or a 'sentence'.",
                     "vi": "Một chữ tượng hình của một người có hình xăm trên ngực, đại diện cho 'chữ viết', văn hóa, hoặc một 'câu'."
@@ -1554,7 +1554,7 @@
                 "onyomi": "イ",
                 "kunyomi": "",
                 "meaning": { "en": "Idea", "vi": "Ý" },
-                "radical": "心 (heart, tâm)",
+                "radical": { "en": "心 (heart)", "vi": "心 (tâm)" },
                 "mnemonic": {
                     "en": "A sound (音) in your heart (心) is an 'idea' or 'meaning'.",
                     "vi": "Một âm thanh (音) trong trái tim (心) bạn là một 'ý tưởng' hoặc 'ý nghĩa'."
@@ -1572,7 +1572,7 @@
                 "onyomi": "ミ",
                 "kunyomi": "あじ",
                 "meaning": { "en": "Taste", "vi": "Vị" },
-                "radical": "口 (mouth, khẩu)",
+                "radical": { "en": "口 (mouth)", "vi": "口 (khẩu)" },
                 "mnemonic": {
                     "en": "A mouth (口) tasting something that is not yet (未) ripe. It has a distinct 'taste'.",
                     "vi": "Một cái miệng (口) nếm một thứ gì đó chưa (未) chín. Nó có một 'vị' đặc trưng."
@@ -1590,7 +1590,7 @@
                 "onyomi": "チュウ",
                 "kunyomi": "そそ.ぐ",
                 "meaning": { "en": "Pour", "vi": "Rót" },
-                "radical": "氵(water, thủy)",
+                "radical": { "en": "氵(water)", "vi": "氵(thủy)" },
                 "mnemonic": {
                     "en": "Water (氵) is the master (主). You must 'pour' it carefully or pay 'attention'.",
                     "vi": "Nước (氵) là chủ (主). Bạn phải 'rót' nó một cách cẩn thận hoặc 'chú ý'."
@@ -1607,7 +1607,7 @@
                 "onyomi": "シ",
                 "kunyomi": "ため.す",
                 "meaning": { "en": "Test", "vi": "Thử" },
-                "radical": "言 (word, ngôn)",
+                "radical": { "en": "言 (word)", "vi": "言 (ngôn)" },
                 "mnemonic": {
                     "en": "To say words (言) in a certain style or form (式) is a 'test' or trial.",
                     "vi": "Nói (言) theo một phong cách hoặc hình thức (式) nhất định là một cuộc 'thử' nghiệm."
@@ -1625,7 +1625,7 @@
                 "onyomi": "ケン, ゲン",
                 "kunyomi": "",
                 "meaning": { "en": "Examine", "vi": "Nghiệm" },
-                "radical": "馬 (horse, mã)",
+                "radical": { "en": "馬 (horse)", "vi": "馬 (mã)" },
                 "mnemonic": {
                     "en": "A horse (馬) that everyone (㑒) inspects. It's an 'examination' or 'test'.",
                     "vi": "Một con ngựa (馬) mà mọi người (㑒) đều kiểm tra. Đó là một cuộc 'kiểm tra' hoặc 'thí nghiệm'."
@@ -1643,7 +1643,7 @@
                 "onyomi": "ダイ",
                 "kunyomi": "",
                 "meaning": { "en": "Topic", "vi": "Đề tài" },
-                "radical": "頁 (leaf, hiệt)",
+                "radical": { "en": "頁 (leaf)", "vi": "頁 (hiệt)" },
                 "mnemonic": {
                     "en": "A correct (是) idea on a page (頁) is the 'topic' or 'problem'.",
                     "vi": "Một ý tưởng đúng (是) trên một trang giấy (頁) là 'đề tài' hoặc 'vấn đề'."
@@ -1661,7 +1661,7 @@
                 "onyomi": "シツ, シチ",
                 "kunyomi": "",
                 "meaning": { "en": "Quality", "vi": "Chất lượng" },
-                "radical": "貝 (shell, bối)",
+                "radical": { "en": "貝 (shell)", "vi": "貝 (bối)" },
                 "mnemonic": {
                     "en": "Two axes (斤) over a shell (貝). The 'quality' of the shell is being judged. It can also mean 'question'.",
                     "vi": "Hai cái rìu (斤) trên một vỏ sò (貝). 'Chất lượng' của vỏ sò đang được đánh giá. Nó cũng có thể có nghĩa là 'câu hỏi'."
@@ -1678,7 +1678,7 @@
                 "onyomi": "モン",
                 "kunyomi": "と.う",
                 "meaning": { "en": "Question", "vi": "Hỏi" },
-                "radical": "門 (gate, môn)",
+                "radical": { "en": "門 (gate)", "vi": "門 (môn)" },
                 "mnemonic": {
                     "en": "A mouth (口) at a gate (門) asking a 'question'.",
                     "vi": "Một cái miệng (口) ở cổng (門) đang đặt một 'câu hỏi'."
@@ -1696,7 +1696,7 @@
                 "onyomi": "トウ",
                 "kunyomi": "こた.える",
                 "meaning": { "en": "Answer", "vi": "Trả lời" },
-                "radical": "竹 (bamboo, trúc)",
+                "radical": { "en": "竹 (bamboo)", "vi": "竹 (trúc)" },
                 "mnemonic": {
                     "en": "Bamboo (竹) that fits (合) together provides the 'answer'.",
                     "vi": "Tre (竹) khớp (合) lại với nhau tạo ra 'câu trả lời'."
@@ -1713,7 +1713,7 @@
                 "onyomi": "ジ, ズ",
                 "kunyomi": "こと",
                 "meaning": { "en": "Thing (abstract)", "vi": "Việc" },
-                "radical": "亅(hook, quyết)",
+                "radical": { "en": "亅(hook)", "vi": "亅(quyết)" },
                 "mnemonic": {
                     "en": "A flag on a hook with a mouth. It represents an abstract 'thing', matter, or affair.",
                     "vi": "Một lá cờ trên một cái móc với một cái miệng. Nó đại diện cho một 'sự việc', vấn đề, hoặc công việc trừu tượng."
@@ -1731,7 +1731,7 @@
                 "onyomi": "ベン",
                 "kunyomi": "",
                 "meaning": { "en": "Exertion", "vi": "Nỗ lực" },
-                "radical": "力 (power, lực)",
+                "radical": { "en": "力 (power)", "vi": "力 (lực)" },
                 "mnemonic": {
                     "en": "A mysterious figure escaping (免) with great power (力). You need 'exertion' to study hard.",
                     "vi": "Một nhân vật bí ẩn đang trốn thoát (免) với sức mạnh (力) to lớn. Bạn cần 'nỗ lực' để học tập chăm chỉ."
@@ -1747,7 +1747,7 @@
                 "onyomi": "キョウ, ゴウ",
                 "kunyomi": "つよ.い",
                 "meaning": { "en": "Strong", "vi": "Mạnh" },
-                "radical": "弓 (bow, cung)",
+                "radical": { "en": "弓 (bow)", "vi": "弓 (cung)" },
                 "mnemonic": {
                     "en": "A 'strong' bow (弓) used by an insect (虫) - imagine a very strong ant.",
                     "vi": "Một cây cung 'mạnh' (弓) được sử dụng bởi một con côn trùng (虫) - hãy tưởng tượng một con kiến rất mạnh."
@@ -1764,7 +1764,7 @@
                 "onyomi": "ケン",
                 "kunyomi": "と.ぐ",
                 "meaning": { "en": "Research", "vi": "Nghiên cứu" },
-                "radical": "石 (stone, thạch)",
+                "radical": { "en": "石 (stone)", "vi": "石 (thạch)" },
                 "mnemonic": {
                     "en": "A stone (石) that is opened up (开) for 'research' or to be polished.",
                     "vi": "Một hòn đá (石) được mở ra (开) để 'nghiên cứu' hoặc để mài giũa."
@@ -1781,7 +1781,7 @@
                 "onyomi": "キュウ",
                 "kunyomi": "きわ.める",
                 "meaning": { "en": "Study thoroughly", "vi": "Tìm tòi" },
-                "radical": "穴 (hole, huyệt)",
+                "radical": { "en": "穴 (hole)", "vi": "穴 (huyệt)" },
                 "mnemonic": {
                     "en": "A hole (穴) that nine (九) people are looking into to 'study thoroughly' what's inside.",
                     "vi": "Một cái lỗ (穴) mà chín (九) người đang nhìn vào để 'nghiên cứu kỹ' xem bên trong có gì."
@@ -1798,7 +1798,7 @@
                 "onyomi": "セツ",
                 "kunyomi": "と.く",
                 "meaning": { "en": "Explain", "vi": "Giải thích" },
-                "radical": "言 (word, ngôn)",
+                "radical": { "en": "言 (word)", "vi": "言 (ngôn)" },
                 "mnemonic": {
                     "en": "To speak words (言) to your older brother (兄) is to 'explain' something to him.",
                     "vi": "Nói (言) với anh trai (兄) của bạn là để 'giải thích' điều gì đó cho anh ấy."
