@@ -270,6 +270,37 @@
                     "en": "This painting has a high value.",
                     "vi": "Bức tranh này có giá trị cao."
                 }
+            },
+            {
+                "id": "k401",
+                "kanji": "用",
+                "onyomi": "ヨウ",
+                "kunyomi": "もち.いる",
+                "meaning": { "en": "Use", "vi": "Dùng" },
+                "radical": { "en": "用 (use)", "vi": "用 (dụng)" },
+                "mnemonic": {
+                    "en": "A pictograph of a bell in a frame. You 'use' a bell for various purposes.",
+                    "vi": "Một chữ tượng hình của một cái chuông trong khung. Bạn 'sử dụng' chuông cho nhiều mục đích khác nhau."
+                },
+                "examples": [
+                    { "word": "用事", "reading": "ようじ", "meaning": { "en": "Errand, business to take care of", "vi": "Việc bận" } },
+                    { "word": "利用する", "reading": "りようする", "meaning": { "en": "To use, to utilize", "vi": "Sử dụng" } },
+                    { "word": "用意する", "reading": "よういする", "meaning": { "en": "To prepare", "vi": "Chuẩn bị" } }
+                ],
+                "sentence": {
+                    "jp_tokens": [
+                        { "w": "今日", "r": "きょう" },
+                        { "w": "は" },
+                        { "w": "用事", "r": "ようじ" },
+                        { "w": "が" },
+                        { "w": "あって" },
+                        { "w": "忙", "r": "いそが" },
+                        { "w": "しい" },
+                        { "w": "です。" }
+                    ],
+                    "en": "I have things to do today, so I'm busy.",
+                    "vi": "Hôm nay tôi có việc bận nên rất bận rộn."
+                }
             }
         ]
     },
@@ -539,6 +570,175 @@
                     ],
                     "en": "I am making a plan for the trip.",
                     "vi": "Tôi đang lập kế hoạch cho chuyến đi."
+                }
+            },
+            {
+                "id": "k402",
+                "kanji": "週",
+                "onyomi": "シュウ",
+                "kunyomi": "",
+                "meaning": { "en": "Week", "vi": "Tuần" },
+                "radical": { "en": "辶 (walk)", "vi": "辶 (sước)" },
+                "mnemonic": {
+                    "en": "You walk (辶) a complete cycle (周) in a 'week'.",
+                    "vi": "Bạn đi (辶) hết một chu kỳ (周) trong một 'tuần'."
+                },
+                "examples": [
+                    { "word": "今週", "reading": "こんしゅう", "meaning": { "en": "This week", "vi": "Tuần này" } },
+                    { "word": "来週", "reading": "らいしゅう", "meaning": { "en": "Next week", "vi": "Tuần sau" } },
+                    { "word": "週末", "reading": "しゅうまつ", "meaning": { "en": "Weekend", "vi": "Cuối tuần" } }
+                ],
+                "sentence": {
+                    "jp_tokens": [
+                        { "w": "今週", "r": "こんしゅう" },
+                        { "w": "の" },
+                        { "w": "週末", "r": "しゅうまつ" },
+                        { "w": "は" },
+                        { "w": "何", "r": "なに" },
+                        { "w": "を" },
+                        { "w": "しますか。" }
+                    ],
+                    "en": "What are you doing this weekend?",
+                    "vi": "Bạn sẽ làm gì vào cuối tuần này?"
+                }
+            },
+            {
+                "id": "k403",
+                "kanji": "曜",
+                "onyomi": "ヨウ",
+                "kunyomi": "",
+                "meaning": { "en": "Day of the week", "vi": "Thứ trong tuần" },
+                "radical": { "en": "日 (sun)", "vi": "日 (nhật)" },
+                "mnemonic": {
+                    "en": "The sun (日) shines on the fledgling birds (隹) that have learned to fly. A special 'day of the week'.",
+                    "vi": "Mặt trời (日) chiếu sáng những chú chim non (隹) đã học bay. Một 'ngày trong tuần' đặc biệt."
+                },
+                "examples": [
+                    { "word": "日曜日", "reading": "にちようび", "meaning": { "en": "Sunday", "vi": "Chủ Nhật" } },
+                    { "word": "何曜日", "reading": "なんようび", "meaning": { "en": "What day of the week", "vi": "Thứ mấy" } }
+                ],
+                "sentence": {
+                    "jp_tokens": [
+                        { "w": "今日", "r": "きょう" },
+                        { "w": "は" },
+                        { "w": "何曜日", "r": "なんようび" },
+                        { "w": "ですか。" }
+                    ],
+                    "en": "What day of the week is it today?",
+                    "vi": "Hôm nay là thứ mấy?"
+                }
+            },
+            {
+                "id": "k404",
+                "kanji": "春",
+                "onyomi": "シュン",
+                "kunyomi": "はる",
+                "meaning": { "en": "Spring", "vi": "Mùa xuân" },
+                "radical": { "en": "日 (sun)", "vi": "日 (nhật)" },
+                "mnemonic": {
+                    "en": "Three people (三人) go out under the sun (日) in the 'springtime'.",
+                    "vi": "Ba người (三人) đi ra ngoài dưới ánh nắng mặt trời (日) vào 'mùa xuân'."
+                },
+                "examples": [
+                    { "word": "春", "reading": "はる", "meaning": { "en": "Spring", "vi": "Mùa xuân" } },
+                    { "word": "春休み", "reading": "はるやすみ", "meaning": { "en": "Spring break", "vi": "Kỳ nghỉ xuân" } }
+                ],
+                "sentence": {
+                    "jp_tokens": [
+                        { "w": "春", "r": "はる" },
+                        { "w": "に" },
+                        { "w": "なると、" },
+                        { "w": "桜", "r": "さくら" },
+                        { "w": "が" },
+                        { "w": "咲", "r": "さ" },
+                        { "w": "きます。" }
+                    ],
+                    "en": "When spring comes, the cherry blossoms bloom.",
+                    "vi": "Khi mùa xuân đến, hoa anh đào nở."
+                }
+            },
+            {
+                "id": "k405",
+                "kanji": "夏",
+                "onyomi": "カ",
+                "kunyomi": "なつ",
+                "meaning": { "en": "Summer", "vi": "Mùa hè" },
+                "radical": { "en": "夂 (go)", "vi": "夂 (trĩ)" },
+                "mnemonic": {
+                    "en": "A picture of a masked man (頁) with legs (夂). He only comes out in the heat of 'summer'.",
+                    "vi": "Một bức tranh về một người đàn ông đeo mặt nạ (頁) có chân (夂). Anh ta chỉ ra ngoài trong cái nóng của 'mùa hè'."
+                },
+                "examples": [
+                    { "word": "夏", "reading": "なつ", "meaning": { "en": "Summer", "vi": "Mùa hè" } },
+                    { "word": "夏休み", "reading": "なつやすみ", "meaning": { "en": "Summer vacation", "vi": "Kỳ nghỉ hè" } }
+                ],
+                "sentence": {
+                    "jp_tokens": [
+                        { "w": "夏", "r": "なつ" },
+                        { "w": "は" },
+                        { "w": "海", "r": "うみ" },
+                        { "w": "で" },
+                        { "w": "泳", "r": "およ" },
+                        { "w": "ぎたい" },
+                        { "w": "です。" }
+                    ],
+                    "en": "I want to swim in the sea in the summer.",
+                    "vi": "Tôi muốn đi bơi ở biển vào mùa hè."
+                }
+            },
+            {
+                "id": "k406",
+                "kanji": "秋",
+                "onyomi": "シュウ",
+                "kunyomi": "あき",
+                "meaning": { "en": "Autumn", "vi": "Mùa thu" },
+                "radical": { "en": "禾 (grain)", "vi": "禾 (hòa)" },
+                "mnemonic": {
+                    "en": "The grain (禾) is harvested and then there's a fire (火) to clear the fields. This happens in 'autumn'.",
+                    "vi": "Ngũ cốc (禾) được thu hoạch và sau đó có một ngọn lửa (火) để dọn sạch các cánh đồng. Điều này xảy ra vào 'mùa thu'."
+                },
+                "examples": [
+                    { "word": "秋", "reading": "あき", "meaning": { "en": "Autumn, fall", "vi": "Mùa thu" } }
+                ],
+                "sentence": {
+                    "jp_tokens": [
+                        { "w": "秋", "r": "あき" },
+                        { "w": "は" },
+                        { "w": "読書", "r": "どくしょ" },
+                        { "w": "の" },
+                        { "w": "季節", "r": "きせつ" },
+                        { "w": "です。" }
+                    ],
+                    "en": "Autumn is the season for reading.",
+                    "vi": "Mùa thu là mùa của đọc sách."
+                }
+            },
+            {
+                "id": "k407",
+                "kanji": "冬",
+                "onyomi": "トウ",
+                "kunyomi": "ふゆ",
+                "meaning": { "en": "Winter", "vi": "Mùa đông" },
+                "radical": { "en": "冫 (ice)", "vi": "冫 (băng)" },
+                "mnemonic": {
+                    "en": "Going (夂) outside when there's ice (冫). It must be 'winter'.",
+                    "vi": "Đi ra ngoài (夂) khi có băng (冫). Chắc hẳn là 'mùa đông'."
+                },
+                "examples": [
+                    { "word": "冬", "reading": "ふゆ", "meaning": { "en": "Winter", "vi": "Mùa đông" } },
+                    { "word": "冬休み", "reading": "ふゆやすみ", "meaning": { "en": "Winter vacation", "vi": "Kỳ nghỉ đông" } }
+                ],
+                "sentence": {
+                    "jp_tokens": [
+                        { "w": "冬", "r": "ふゆ" },
+                        { "w": "は" },
+                        { "w": "雪", "r": "ゆき" },
+                        { "w": "が" },
+                        { "w": "降", "r": "ふ" },
+                        { "w": "ります。" }
+                    ],
+                    "en": "It snows in the winter.",
+                    "vi": "Tuyết rơi vào mùa đông."
                 }
             }
         ]
@@ -828,6 +1028,153 @@
                     ],
                     "en": "People will surely die someday.",
                     "vi": "Con người rồi một ngày nào đó chắc chắn sẽ chết."
+                }
+            },
+            {
+                "id": "k408",
+                "kanji": "兄",
+                "onyomi": "ケイ, キョウ",
+                "kunyomi": "あに",
+                "meaning": { "en": "Older brother", "vi": "Anh trai" },
+                "radical": { "en": "口 (mouth)", "vi": "口 (khẩu)" },
+                "mnemonic": {
+                    "en": "A mouth (口) with legs (儿). The 'older brother' is the one who speaks and leads.",
+                    "vi": "Một cái miệng (口) có chân (儿). 'Anh trai' là người nói và dẫn dắt."
+                },
+                "examples": [
+                    { "word": "兄", "reading": "あに", "meaning": { "en": "Older brother (my)", "vi": "Anh trai (của tôi)" } },
+                    { "word": "お兄さん", "reading": "おにいさん", "meaning": { "en": "Older brother (someone else's)", "vi": "Anh trai (của người khác)" } },
+                    { "word": "兄弟", "reading": "きょうだい", "meaning": { "en": "Siblings", "vi": "Anh chị em" } }
+                ],
+                "sentence": {
+                    "jp_tokens": [
+                        { "w": "私", "r": "わたし" },
+                        { "w": "の" },
+                        { "w": "兄", "r": "あに" },
+                        { "w": "は" },
+                        { "w": "大学生", "r": "だいがくせい" },
+                        { "w": "です。" }
+                    ],
+                    "en": "My older brother is a university student.",
+                    "vi": "Anh trai tôi là sinh viên đại học."
+                }
+            },
+            {
+                "id": "k409",
+                "kanji": "弟",
+                "onyomi": "テイ, ダイ",
+                "kunyomi": "おとうと",
+                "meaning": { "en": "Younger brother", "vi": "Em trai" },
+                "radical": { "en": "弓 (bow)", "vi": "弓 (cung)" },
+                "mnemonic": {
+                    "en": "This character depicts horns (丷) and a bow (弓) tied with a sash (丨). The 'younger brother' follows the older.",
+                    "vi": "Chữ này mô tả sừng (丷) và một cây cung (弓) được buộc bằng một dải băng (丨). 'Em trai' đi theo người anh."
+                },
+                "examples": [
+                    { "word": "弟", "reading": "おとうと", "meaning": { "en": "Younger brother", "vi": "Em trai" } },
+                    { "word": "兄弟", "reading": "きょうだい", "meaning": { "en": "Siblings", "vi": "Anh chị em" } }
+                ],
+                "sentence": {
+                    "jp_tokens": [
+                        { "w": "弟", "r": "おとうと" },
+                        { "w": "は" },
+                        { "w": "私", "r": "わたし" },
+                        { "w": "より" },
+                        { "w": "背", "r": "せ" },
+                        { "w": "が" },
+                        { "w": "高", "r": "たか" },
+                        { "w": "い" },
+                        { "w": "です。" }
+                    ],
+                    "en": "My younger brother is taller than me.",
+                    "vi": "Em trai tôi cao hơn tôi."
+                }
+            },
+            {
+                "id": "k410",
+                "kanji": "姉",
+                "onyomi": "シ",
+                "kunyomi": "あね",
+                "meaning": { "en": "Older sister", "vi": "Chị gái" },
+                "radical": { "en": "女 (woman)", "vi": "女 (nữ)" },
+                "mnemonic": {
+                    "en": "A woman (女) who goes to the market (市). The 'older sister' is responsible enough to do the shopping.",
+                    "vi": "Một người phụ nữ (女) đi chợ (市). 'Chị gái' là người đủ trách nhiệm để đi mua sắm."
+                },
+                "examples": [
+                    { "word": "姉", "reading": "あね", "meaning": { "en": "Older sister (my)", "vi": "Chị gái (của tôi)" } },
+                    { "word": "お姉さん", "reading": "おねえさん", "meaning": { "en": "Older sister (someone else's)", "vi": "Chị gái (của người khác)" } },
+                    { "word": "姉妹", "reading": "しまい", "meaning": { "en": "Sisters", "vi": "Chị em gái" } }
+                ],
+                "sentence": {
+                    "jp_tokens": [
+                        { "w": "私", "r": "わたし" },
+                        { "w": "には" },
+                        { "w": "姉", "r": "あね" },
+                        { "w": "が" },
+                        { "w": "二人", "r": "ふたり" },
+                        { "w": "います。" }
+                    ],
+                    "en": "I have two older sisters.",
+                    "vi": "Tôi có hai người chị gái."
+                }
+            },
+            {
+                "id": "k411",
+                "kanji": "妹",
+                "onyomi": "マイ",
+                "kunyomi": "いもうと",
+                "meaning": { "en": "Younger sister", "vi": "Em gái" },
+                "radical": { "en": "女 (woman)", "vi": "女 (nữ)" },
+                "mnemonic": {
+                    "en": "A woman (女) who is not yet (未) fully grown. She is the 'younger sister'.",
+                    "vi": "Một người phụ nữ (女) chưa (未) trưởng thành hoàn toàn. Cô ấy là 'em gái'."
+                },
+                "examples": [
+                    { "word": "妹", "reading": "いもうと", "meaning": { "en": "Younger sister", "vi": "Em gái" } },
+                    { "word": "姉妹", "reading": "しまい", "meaning": { "en": "Sisters", "vi": "Chị em gái" } }
+                ],
+                "sentence": {
+                    "jp_tokens": [
+                        { "w": "妹", "r": "いもうと" },
+                        { "w": "の" },
+                        { "w": "誕生日", "r": "たんじょうび" },
+                        { "w": "に" },
+                        { "w": "プレゼント" },
+                        { "w": "を" },
+                        { "w": "あげます。" }
+                    ],
+                    "en": "I will give my younger sister a birthday present.",
+                    "vi": "Tôi sẽ tặng quà sinh nhật cho em gái tôi."
+                }
+            },
+            {
+                "id": "k412",
+                "kanji": "親",
+                "onyomi": "シン",
+                "kunyomi": "おや, した.しい",
+                "meaning": { "en": "Parent", "vi": "Cha mẹ" },
+                "radical": { "en": "見 (see)", "vi": "見 (kiến)" },
+                "mnemonic": {
+                    "en": "Standing (立) on a tree (木) to see (見) your children. A 'parent' watches over their kids.",
+                    "vi": "Đứng (立) trên một cái cây (木) để nhìn (見) con cái của mình. 'Cha mẹ' trông chừng con cái của họ."
+                },
+                "examples": [
+                    { "word": "親", "reading": "おや", "meaning": { "en": "Parent", "vi": "Cha mẹ" } },
+                    { "word": "親切", "reading": "しんせつ", "meaning": { "en": "Kind", "vi": "Tốt bụng, tử tế" } },
+                    { "word": "両親", "reading": "りょうしん", "meaning": { "en": "Both parents", "vi": "Bố mẹ" } }
+                ],
+                "sentence": {
+                    "jp_tokens": [
+                        { "w": "私", "r": "わたし" },
+                        { "w": "は" },
+                        { "w": "両親", "r": "りょうしん" },
+                        { "w": "と" },
+                        { "w": "住", "r": "す" },
+                        { "w": "んでいます。" }
+                    ],
+                    "en": "I live with my parents.",
+                    "vi": "Tôi sống cùng với bố mẹ."
                 }
             }
         ]
@@ -1180,6 +1527,120 @@
                     ],
                     "en": "Let's cross this bridge.",
                     "vi": "Hãy qua cây cầu này."
+                }
+            },
+            {
+                "id": "k413",
+                "kanji": "道",
+                "onyomi": "ドウ",
+                "kunyomi": "みち",
+                "meaning": { "en": "Road", "vi": "Đường" },
+                "radical": { "en": "辶 (walk)", "vi": "辶 (sước)" },
+                "mnemonic": {
+                    "en": "A 'road' (辶) where you put your head/neck (首) out and lead the way.",
+                    "vi": "Một con 'đường' (辶) nơi bạn đưa đầu/cổ (首) ra và dẫn lối."
+                },
+                "examples": [
+                    { "word": "道", "reading": "みち", "meaning": { "en": "Road, street", "vi": "Con đường" } },
+                    { "word": "歩道", "reading": "ほどう", "meaning": { "en": "Sidewalk", "vi": "Vỉa hè" } },
+                    { "word": "柔道", "reading": "じゅうどう", "meaning": { "en": "Judo", "vi": "Judo" } }
+                ],
+                "sentence": {
+                    "jp_tokens": [
+                        { "w": "この" },
+                        { "w": "道", "r": "みち" },
+                        { "w": "を" },
+                        { "w": "まっすぐ" },
+                        { "w": "行", "r": "い" },
+                        { "w": "ってください。" }
+                    ],
+                    "en": "Please go straight down this road.",
+                    "vi": "Vui lòng đi thẳng con đường này."
+                }
+            },
+            {
+                "id": "k414",
+                "kanji": "駅",
+                "onyomi": "エキ",
+                "kunyomi": "",
+                "meaning": { "en": "Station", "vi": "Ga" },
+                "radical": { "en": "馬 (horse)", "vi": "馬 (mã)" },
+                "mnemonic": {
+                    "en": "In old times, a 'station' was where you changed horses (馬) for the next leg of your journey.",
+                    "vi": "Thời xưa, 'nhà ga' là nơi bạn đổi ngựa (馬) cho chặng tiếp theo của cuộc hành trình."
+                },
+                "examples": [
+                    { "word": "駅員", "reading": "えきいん", "meaning": { "en": "Station attendant", "vi": "Nhân viên nhà ga" } },
+                    { "word": "東京駅", "reading": "とうきょうえき", "meaning": { "en": "Tokyo Station", "vi": "Ga Tokyo" } }
+                ],
+                "sentence": {
+                    "jp_tokens": [
+                        { "w": "駅", "r": "えき" },
+                        { "w": "で" },
+                        { "w": "友達", "r": "ともだち" },
+                        { "w": "を" },
+                        { "w": "待", "r": "ま" },
+                        { "w": "っています。" }
+                    ],
+                    "en": "I am waiting for my friend at the station.",
+                    "vi": "Tôi đang đợi bạn ở nhà ga."
+                }
+            },
+            {
+                "id": "k415",
+                "kanji": "室",
+                "onyomi": "シツ",
+                "kunyomi": "むろ",
+                "meaning": { "en": "Room", "vi": "Phòng" },
+                "radical": { "en": "宀 (roof)", "vi": "宀 (miên)" },
+                "mnemonic": {
+                    "en": "Under a roof (宀), you reach (至) a 'room'.",
+                    "vi": "Dưới một mái nhà (宀), bạn đến được (至) một 'căn phòng'."
+                },
+                "examples": [
+                    { "word": "教室", "reading": "きょうしつ", "meaning": { "en": "Classroom", "vi": "Lớp học" } },
+                    { "word": "和室", "reading": "わしつ", "meaning": { "en": "Japanese-style room", "vi": "Phòng kiểu Nhật" } },
+                    { "word": "研究室", "reading": "けんきゅうしつ", "meaning": { "en": "Laboratory, professor's office", "vi": "Phòng nghiên cứu" } }
+                ],
+                "sentence": {
+                    "jp_tokens": [
+                        { "w": "会議室", "r": "かいぎしつ" },
+                        { "w": "は" },
+                        { "w": "どこ" },
+                        { "w": "ですか。" }
+                    ],
+                    "en": "Where is the meeting room?",
+                    "vi": "Phòng họp ở đâu?"
+                }
+            },
+            {
+                "id": "k416",
+                "kanji": "屋",
+                "onyomi": "オク",
+                "kunyomi": "や",
+                "meaning": { "en": "Shop, roof", "vi": "Cửa hàng, mái nhà" },
+                "radical": { "en": "尸 (corpse)", "vi": "尸 (thi)" },
+                "mnemonic": {
+                    "en": "A body (尸) reaches (至) a place with a 'roof' for shelter, or a 'shop'.",
+                    "vi": "Một cơ thể (尸) đến (至) một nơi có 'mái nhà' để trú ẩn, hoặc một 'cửa hàng'."
+                },
+                "examples": [
+                    { "word": "本屋", "reading": "ほんや", "meaning": { "en": "Bookstore", "vi": "Hiệu sách" } },
+                    { "word": "部屋", "reading": "へや", "meaning": { "en": "Room", "vi": "Căn phòng" } },
+                    { "word": "屋上", "reading": "おくじょう", "meaning": { "en": "Rooftop", "vi": "Sân thượng" } }
+                ],
+                "sentence": {
+                    "jp_tokens": [
+                        { "w": "屋上", "r": "おくじょう" },
+                        { "w": "から" },
+                        { "w": "きれいな" },
+                        { "w": "景色", "r": "けしき" },
+                        { "w": "が" },
+                        { "w": "見", "r": "み" },
+                        { "w": "えます。" }
+                    ],
+                    "en": "You can see a beautiful view from the rooftop.",
+                    "vi": "Bạn có thể nhìn thấy cảnh đẹp từ sân thượng."
                 }
             }
         ]
@@ -1637,6 +2098,173 @@
                     "en": "Please pull the door.",
                     "vi": "Xin hãy kéo cửa."
                 }
+            },
+            {
+                "id": "k417",
+                "kanji": "帰",
+                "onyomi": "キ",
+                "kunyomi": "かえ.る",
+                "meaning": { "en": "Return", "vi": "Trở về" },
+                "radical": { "en": "巾 (towel)", "vi": "巾 (cân)" },
+                "mnemonic": {
+                    "en": "A wife (帚) with her towel (巾) on her head, 'returning' home after working in the fields.",
+                    "vi": "Một người vợ (帚) với chiếc khăn (巾) trên đầu, 'trở về' nhà sau khi làm việc trên đồng."
+                },
+                "examples": [
+                    { "word": "帰る", "reading": "かえる", "meaning": { "en": "To return, to go home", "vi": "Trở về, về nhà" } },
+                    { "word": "帰り", "reading": "かえり", "meaning": { "en": "Return, coming home", "vi": "Sự trở về" } }
+                ],
+                "sentence": {
+                    "jp_tokens": [
+                        { "w": "明日", "r": "あした" },
+                        { "w": "国", "r": "くに" },
+                        { "w": "へ" },
+                        { "w": "帰", "r": "かえ" },
+                        { "w": "ります。" }
+                    ],
+                    "en": "I will return to my country tomorrow.",
+                    "vi": "Ngày mai tôi sẽ trở về nước."
+                }
+            },
+            {
+                "id": "k418",
+                "kanji": "使",
+                "onyomi": "シ",
+                "kunyomi": "つか.う",
+                "meaning": { "en": "Use", "vi": "Sử dụng" },
+                "radical": { "en": "亻 (person)", "vi": "亻 (nhân)" },
+                "mnemonic": {
+                    "en": "A person (亻) who is an official (吏) has the authority to 'use' things.",
+                    "vi": "Một người (亻) là quan chức (吏) có thẩm quyền 'sử dụng' mọi thứ."
+                },
+                "examples": [
+                    { "word": "使う", "reading": "つかう", "meaning": { "en": "To use", "vi": "Sử dụng" } },
+                    { "word": "使い方", "reading": "つかいかた", "meaning": { "en": "How to use", "vi": "Cách sử dụng" } },
+                    { "word": "大使館", "reading": "たいしかん", "meaning": { "en": "Embassy", "vi": "Đại sứ quán" } }
+                ],
+                "sentence": {
+                    "jp_tokens": [
+                        { "w": "この" },
+                        { "w": "パソコン" },
+                        { "w": "を" },
+                        { "w": "使", "r": "つか" },
+                        { "w": "っても" },
+                        { "w": "いい" },
+                        { "w": "ですか。" }
+                    ],
+                    "en": "May I use this computer?",
+                    "vi": "Tôi có thể sử dụng máy tính này không?"
+                }
+            },
+            {
+                "id": "k419",
+                "kanji": "待",
+                "onyomi": "タイ",
+                "kunyomi": "ま.つ",
+                "meaning": { "en": "Wait", "vi": "Đợi" },
+                "radical": { "en": "彳 (step)", "vi": "彳 (xích)" },
+                "mnemonic": {
+                    "en": "Taking a step (彳) to the temple (寺) to 'wait' for someone.",
+                    "vi": "Bước một bước (彳) đến ngôi đền (寺) để 'đợi' ai đó."
+                },
+                "examples": [
+                    { "word": "待つ", "reading": "まつ", "meaning": { "en": "To wait", "vi": "Đợi" } },
+                    { "word": "招待する", "reading": "しょうたいする", "meaning": { "en": "To invite", "vi": "Mời" } }
+                ],
+                "sentence": {
+                    "jp_tokens": [
+                        { "w": "少々", "r": "しょうしょう" },
+                        { "w": "お" },
+                        { "w": "待", "r": "ま" },
+                        { "w": "ちください。" }
+                    ],
+                    "en": "Please wait a moment.",
+                    "vi": "Xin vui lòng đợi một chút."
+                }
+            },
+            {
+                "id": "k420",
+                "kanji": "持",
+                "onyomi": "ジ",
+                "kunyomi": "も.つ",
+                "meaning": { "en": "Hold", "vi": "Cầm" },
+                "radical": { "en": "扌 (hand)", "vi": "扌 (thủ)" },
+                "mnemonic": {
+                    "en": "Using your hand (扌) to 'hold' something at the temple (寺).",
+                    "vi": "Dùng tay (扌) để 'cầm' một thứ gì đó ở ngôi đền (寺)."
+                },
+                "examples": [
+                    { "word": "持つ", "reading": "もつ", "meaning": { "en": "To hold, to have", "vi": "Cầm, có" } },
+                    { "word": "気持ち", "reading": "きもち", "meaning": { "en": "Feeling, mood", "vi": "Cảm giác, tâm trạng" } }
+                ],
+                "sentence": {
+                    "jp_tokens": [
+                        { "w": "重", "r": "おも" },
+                        { "w": "い" },
+                        { "w": "荷物", "r": "にもつ" },
+                        { "w": "を" },
+                        { "w": "持", "r": "も" },
+                        { "w": "っています。" }
+                    ],
+                    "en": "I am holding heavy luggage.",
+                    "vi": "Tôi đang cầm hành lý nặng."
+                }
+            },
+            {
+                "id": "k421",
+                "kanji": "教",
+                "onyomi": "キョウ",
+                "kunyomi": "おし.える",
+                "meaning": { "en": "Teach", "vi": "Dạy" },
+                "radical": { "en": "攵 (strike)", "vi": "攵 (phộc)" },
+                "mnemonic": {
+                    "en": "An old man (耂) with a child (子) and a stick (攵). The old man 'teaches' the child.",
+                    "vi": "Một ông già (耂) với một đứa trẻ (子) và một cây gậy (攵). Ông già 'dạy' đứa trẻ."
+                },
+                "examples": [
+                    { "word": "教える", "reading": "おしえる", "meaning": { "en": "To teach, to tell", "vi": "Dạy, chỉ bảo" } },
+                    { "word": "教室", "reading": "きょうしつ", "meaning": { "en": "Classroom", "vi": "Lớp học" } },
+                    { "word": "教会", "reading": "きょうかい", "meaning": { "en": "Church", "vi": "Nhà thờ" } }
+                ],
+                "sentence": {
+                    "jp_tokens": [
+                        { "w": "先生", "r": "せんせい" },
+                        { "w": "が" },
+                        { "w": "日本語", "r": "にほんご" },
+                        { "w": "を" },
+                        { "w": "教", "r": "おし" },
+                        { "w": "えています。" }
+                    ],
+                    "en": "The teacher is teaching Japanese.",
+                    "vi": "Giáo viên đang dạy tiếng Nhật."
+                }
+            },
+            {
+                "id": "k422",
+                "kanji": "習",
+                "onyomi": "シュウ",
+                "kunyomi": "なら.う",
+                "meaning": { "en": "Learn", "vi": "Học" },
+                "radical": { "en": "羽 (feather)", "vi": "羽 (vũ)" },
+                "mnemonic": {
+                    "en": "White (白) feathers (羽). A baby bird 'learns' to fly, showing its white baby feathers.",
+                    "vi": "Lông vũ trắng (白) (羽). Một chú chim con 'học' bay, để lộ bộ lông tơ màu trắng của nó."
+                },
+                "examples": [
+                    { "word": "習う", "reading": "ならう", "meaning": { "en": "To learn", "vi": "Học (từ ai đó)" } },
+                    { "word": "練習", "reading": "れんしゅう", "meaning": { "en": "Practice", "vi": "Luyện tập" } },
+                    { "word": "予習", "reading": "よしゅう", "meaning": { "en": "Preparation (for a lesson)", "vi": "Chuẩn bị bài" } }
+                ],
+                "sentence": {
+                    "jp_tokens": [
+                        { "w": "ピアノ" },
+                        { "w": "を" },
+                        { "w": "習", "r": "なら" },
+                        { "w": "っています。" }
+                    ],
+                    "en": "I am learning to play the piano.",
+                    "vi": "Tôi đang học chơi đàn piano."
+                }
             }
         ]
     },
@@ -2044,6 +2672,97 @@
                     ],
                     "en": "He and I are the same age.",
                     "vi": "Tôi và anh ấy bằng tuổi nhau."
+                }
+            },
+            {
+                "id": "k423",
+                "kanji": "特",
+                "onyomi": "トク",
+                "kunyomi": "",
+                "meaning": { "en": "Special", "vi": "Đặc biệt" },
+                "radical": { "en": "牛 (cow)", "vi": "牛 (ngưu)" },
+                "mnemonic": {
+                    "en": "A cow (牛) from a temple (寺). This must be a 'special' cow, used for ceremonies.",
+                    "vi": "Một con bò (牛) từ một ngôi đền (寺). Đây hẳn là một con bò 'đặc biệt', được dùng cho các nghi lễ."
+                },
+                "examples": [
+                    { "word": "特に", "reading": "とくに", "meaning": { "en": "Especially, particularly", "vi": "Đặc biệt là" } },
+                    { "word": "特別", "reading": "とくべつ", "meaning": { "en": "Special", "vi": "Đặc biệt" } },
+                    { "word": "特急", "reading": "とっきゅう", "meaning": { "en": "Limited express (train)", "vi": "Tàu tốc hành đặc biệt" } }
+                ],
+                "sentence": {
+                    "jp_tokens": [
+                        { "w": "私", "r": "わたし" },
+                        { "w": "は" },
+                        { "w": "果物", "r": "くだもの" },
+                        { "w": "が" },
+                        { "w": "好", "r": "す" },
+                        { "w": "きですが、" },
+                        { "w": "特", "r": "とく" },
+                        { "w": "に" },
+                        { "w": "りんご" },
+                        { "w": "が" },
+                        { "w": "好", "r": "す" },
+                        { "w": "きです。" }
+                    ],
+                    "en": "I like fruit, but I especially like apples.",
+                    "vi": "Tôi thích trái cây, đặc biệt là táo."
+                }
+            },
+            {
+                "id": "k424",
+                "kanji": "便",
+                "onyomi": "ベン, ビン",
+                "kunyomi": "たよ.り",
+                "meaning": { "en": "Convenient", "vi": "Tiện lợi" },
+                "radical": { "en": "亻 (person)", "vi": "亻 (nhân)" },
+                "mnemonic": {
+                    "en": "A person (亻) who is an official (吏) has 'convenient' access to things.",
+                    "vi": "Một người (亻) là quan chức (吏) có quyền truy cập 'thuận tiện' vào mọi thứ. (Lưu ý: phần bên phải thực sự khác nhưng trông giống hệt 吏)"
+                },
+                "examples": [
+                    { "word": "便利", "reading": "べんり", "meaning": { "en": "Convenient", "vi": "Tiện lợi" } },
+                    { "word": "不便", "reading": "ふべん", "meaning": { "en": "Inconvenient", "vi": "Bất tiện" } },
+                    { "word": "郵便局", "reading": "ゆうびんきょく", "meaning": { "en": "Post office", "vi": "Bưu điện" } }
+                ],
+                "sentence": {
+                    "jp_tokens": [
+                        { "w": "この" },
+                        { "w": "アプリ" },
+                        { "w": "は" },
+                        { "w": "とても" },
+                        { "w": "便利", "r": "べんり" },
+                        { "w": "です。" }
+                    ],
+                    "en": "This app is very convenient.",
+                    "vi": "Ứng dụng này rất tiện lợi."
+                }
+            },
+            {
+                "id": "k425",
+                "kanji": "利",
+                "onyomi": "リ",
+                "kunyomi": "き.く",
+                "meaning": { "en": "Profit, advantage", "vi": "Lợi ích" },
+                "radical": { "en": "刀 (sword)", "vi": "刀 (đao)" },
+                "mnemonic": {
+                    "en": "Harvesting grain (禾) with a sharp sword (刂). This gives you 'profit' and 'advantage'.",
+                    "vi": "Thu hoạch ngũ cốc (禾) bằng một thanh kiếm sắc (刂). Điều này mang lại cho bạn 'lợi nhuận' và 'lợi thế'."
+                },
+                "examples": [
+                    { "word": "便利", "reading": "べんり", "meaning": { "en": "Convenient", "vi": "Tiện lợi" } },
+                    { "word": "利用する", "reading": "りようする", "meaning": { "en": "To use, to utilize", "vi": "Sử dụng" } }
+                ],
+                "sentence": {
+                    "jp_tokens": [
+                        { "w": "図書館", "r": "としょかん" },
+                        { "w": "を" },
+                        { "w": "よく" },
+                        { "w": "利用", "r": "りよう" },
+                        { "w": "します。" }
+                    ],
+                    "en": "I often use the library.",
+                    "vi": "Tôi thường xuyên sử dụng thư viện."
                 }
             }
         ]
@@ -2460,6 +3179,128 @@
                     ],
                     "en": "Let's open the window and let in some fresh air.",
                     "vi": "Hãy mở cửa sổ để không khí trong lành vào."
+                }
+            },
+            {
+                "id": "k426",
+                "kanji": "海",
+                "onyomi": "カイ",
+                "kunyomi": "うみ",
+                "meaning": { "en": "Sea", "vi": "Biển" },
+                "radical": { "en": "氵 (water)", "vi": "氵 (thủy)" },
+                "mnemonic": {
+                    "en": "Every (毎) drop of water (氵) makes up the 'sea'.",
+                    "vi": "Mỗi (毎) giọt nước (氵) tạo nên 'biển cả'."
+                },
+                "examples": [
+                    { "word": "海外", "reading": "かいがい", "meaning": { "en": "Overseas", "vi": "Nước ngoài" } },
+                    { "word": "北海道", "reading": "ほっかいどう", "meaning": { "en": "Hokkaido", "vi": "Hokkaido" } }
+                ],
+                "sentence": {
+                    "jp_tokens": [
+                        { "w": "夏休み", "r": "なつやすみ" },
+                        { "w": "に" },
+                        { "w": "海", "r": "うみ" },
+                        { "w": "へ" },
+                        { "w": "行", "r": "い" },
+                        { "w": "きたい" },
+                        { "w": "です。" }
+                    ],
+                    "en": "I want to go to the sea during summer vacation.",
+                    "vi": "Tôi muốn đi biển trong kỳ nghỉ hè."
+                }
+            },
+            {
+                "id": "k427",
+                "kanji": "洋",
+                "onyomi": "ヨウ",
+                "kunyomi": "",
+                "meaning": { "en": "Ocean, Western style", "vi": "Đại dương, kiểu Tây" },
+                "radical": { "en": "氵 (water)", "vi": "氵 (thủy)" },
+                "mnemonic": {
+                    "en": "Water (氵) where the sheep (羊) come from. This means across the 'ocean', and by extension, 'Western style'.",
+                    "vi": "Nước (氵) nơi những con cừu (羊) đến. Điều này có nghĩa là bên kia 'đại dương', và mở rộng ra là 'phong cách phương Tây'."
+                },
+                "examples": [
+                    { "word": "洋服", "reading": "ようふく", "meaning": { "en": "Western clothes", "vi": "Âu phục" } },
+                    { "word": "洋食", "reading": "ようしょく", "meaning": { "en": "Western food", "vi": "Đồ ăn Tây" } },
+                    { "word": "大西洋", "reading": "たいせいよう", "meaning": { "en": "Atlantic Ocean", "vi": "Đại Tây Dương" } }
+                ],
+                "sentence": {
+                    "jp_tokens": [
+                        { "w": "私", "r": "わたし" },
+                        { "w": "は" },
+                        { "w": "和食", "r": "わしょく" },
+                        { "w": "より" },
+                        { "w": "洋食", "r": "ようしょく" },
+                        { "w": "の" },
+                        { "w": "方", "r": "ほう" },
+                        { "w": "が" },
+                        { "w": "好", "r": "す" },
+                        { "w": "きです。" }
+                    ],
+                    "en": "I prefer Western food over Japanese food.",
+                    "vi": "Tôi thích đồ ăn Tây hơn đồ ăn Nhật."
+                }
+            },
+            {
+                "id": "k428",
+                "kanji": "雪",
+                "onyomi": "セツ",
+                "kunyomi": "ゆき",
+                "meaning": { "en": "Snow", "vi": "Tuyết" },
+                "radical": { "en": "雨 (rain)", "vi": "雨 (vũ)" },
+                "mnemonic": {
+                    "en": "Rain (雨) that you can sweep with a broom (ヨ). That must be 'snow'.",
+                    "vi": "Mưa (雨) mà bạn có thể quét bằng chổi (ヨ). Đó hẳn là 'tuyết'."
+                },
+                "examples": [
+                    { "word": "雪", "reading": "ゆき", "meaning": { "en": "Snow", "vi": "Tuyết" } },
+                    { "word": "大雪", "reading": "おおゆき", "meaning": { "en": "Heavy snow", "vi": "Tuyết lớn" } }
+                ],
+                "sentence": {
+                    "jp_tokens": [
+                        { "w": "去年", "r": "きょねん" },
+                        { "w": "の" },
+                        { "w": "冬", "r": "ふゆ" },
+                        { "w": "は" },
+                        { "w": "雪", "r": "ゆき" },
+                        { "w": "が" },
+                        { "w": "たくさん" },
+                        { "w": "降", "r": "ふ" },
+                        { "w": "りました。" }
+                    ],
+                    "en": "A lot of snow fell last winter.",
+                    "vi": "Mùa đông năm ngoái tuyết rơi rất nhiều."
+                }
+            },
+            {
+                "id": "k429",
+                "kanji": "光",
+                "onyomi": "コウ",
+                "kunyomi": "ひか.る",
+                "meaning": { "en": "Light", "vi": "Ánh sáng" },
+                "radical": { "en": "儿 (legs)", "vi": "儿 (nhân)" },
+                "mnemonic": {
+                    "en": "Fire (火) on a person's legs (儿). The person is running so fast they are creating 'light'.",
+                    "vi": "Lửa (火) trên đôi chân của một người (儿). Người đó chạy nhanh đến mức tạo ra 'ánh sáng'."
+                },
+                "examples": [
+                    { "word": "光る", "reading": "ひかる", "meaning": { "en": "To shine", "vi": "Tỏa sáng" } },
+                    { "word": "日光", "reading": "にっこう", "meaning": { "en": "Sunlight", "vi": "Ánh nắng mặt trời" } },
+                    { "word": "観光", "reading": "かんこう", "meaning": { "en": "Sightseeing", "vi": "Tham quan" } }
+                ],
+                "sentence": {
+                    "jp_tokens": [
+                        { "w": "夜空", "r": "よぞら" },
+                        { "w": "に" },
+                        { "w": "星", "r": "ほし" },
+                        { "w": "が" },
+                        { "w": "光", "r": "ひか" },
+                        { "w": "っています。" }
+                    ],
+                    "en": "The stars are shining in the night sky.",
+                    "vi": "Những ngôi sao đang tỏa sáng trên bầu trời đêm."
                 }
             }
         ]
@@ -2984,6 +3825,90 @@
                     ],
                     "en": "The teacher is explaining the grammar.",
                     "vi": "Giáo viên đang giải thích ngữ pháp."
+                }
+            },
+            {
+                "id": "k430",
+                "kanji": "旅",
+                "onyomi": "リョ",
+                "kunyomi": "たび",
+                "meaning": { "en": "Travel", "vi": "Du lịch" },
+                "radical": { "en": "方 (direction)", "vi": "方 (phương)" },
+                "mnemonic": {
+                    "en": "People under a banner (方) wearing special clothes (top right). They are on a 'trip' or 'journey'.",
+                    "vi": "Những người dưới một ngọn cờ (方) mặc quần áo đặc biệt (trên cùng bên phải). Họ đang trong một chuyến đi 'du lịch' hoặc 'hành trình'."
+                },
+                "examples": [
+                    { "word": "旅行", "reading": "りょこう", "meaning": { "en": "Travel, trip", "vi": "Du lịch" } },
+                    { "word": "旅", "reading": "たび", "meaning": { "en": "Trip, journey", "vi": "Chuyến đi" } },
+                    { "word": "旅館", "reading": "りょかん", "meaning": { "en": "Japanese inn", "vi": "Nhà trọ kiểu Nhật" } }
+                ],
+                "sentence": {
+                    "jp_tokens": [
+                        { "w": "夏休み", "r": "なつやすみ" },
+                        { "w": "に" },
+                        { "w": "家族", "r": "かぞく" },
+                        { "w": "と" },
+                        { "w": "旅行", "r": "りょこう" },
+                        { "w": "します。" }
+                    ],
+                    "en": "I will travel with my family during summer vacation.",
+                    "vi": "Tôi sẽ đi du lịch cùng gia đình trong kỳ nghỉ hè."
+                }
+            },
+            {
+                "id": "k431",
+                "kanji": "界",
+                "onyomi": "カイ",
+                "kunyomi": "",
+                "meaning": { "en": "World", "vi": "Thế giới" },
+                "radical": { "en": "田 (rice field)", "vi": "田 (điền)" },
+                "mnemonic": {
+                    "en": "A rice field (田) with boundaries. It represents a boundary, a circle, or the entire 'world'.",
+                    "vi": "Một cánh đồng (田) có ranh giới. Nó đại diện cho một ranh giới, một vòng tròn, hoặc toàn bộ 'thế giới'."
+                },
+                "examples": [
+                    { "word": "世界", "reading": "せかい", "meaning": { "en": "World", "vi": "Thế giới" } },
+                    { "word": "限界", "reading": "げんかい", "meaning": { "en": "Limit, boundary", "vi": "Giới hạn" } }
+                ],
+                "sentence": {
+                    "jp_tokens": [
+                        { "w": "世界", "r": "せかい" },
+                        { "w": "には" },
+                        { "w": "たくさんの" },
+                        { "w": "国", "r": "くに" },
+                        { "w": "が" },
+                        { "w": "あります。" }
+                    ],
+                    "en": "There are many countries in the world.",
+                    "vi": "Trên thế giới có rất nhiều quốc gia."
+                }
+            },
+            {
+                "id": "k432",
+                "kanji": "仕",
+                "onyomi": "シ",
+                "kunyomi": "つか.える",
+                "meaning": { "en": "Serve", "vi": "Phục vụ" },
+                "radical": { "en": "亻 (person)", "vi": "亻 (nhân)" },
+                "mnemonic": {
+                    "en": "A person (亻) who is a samurai or gentleman (士) 'serves' a lord.",
+                    "vi": "Một người (亻) là samurai hoặc quý ông (士) 'phục vụ' cho một lãnh chúa."
+                },
+                "examples": [
+                    { "word": "仕事", "reading": "しごと", "meaning": { "en": "Work, job", "vi": "Công việc" } },
+                    { "word": "仕方", "reading": "しかた", "meaning": { "en": "Method, way", "vi": "Cách làm, phương pháp" } }
+                ],
+                "sentence": {
+                    "jp_tokens": [
+                        { "w": "仕事", "r": "しごと" },
+                        { "w": "は" },
+                        { "w": "楽", "r": "たの" },
+                        { "w": "しい" },
+                        { "w": "です。" }
+                    ],
+                    "en": "My job is fun.",
+                    "vi": "Công việc của tôi rất vui."
                 }
             }
         ]
