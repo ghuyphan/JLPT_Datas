@@ -318,7 +318,21 @@
       { "id": "v271", "word": "はく", "reading": "はく", "meaning": { "en": "to wear (on lower body)", "vi": "mặc, đi (phần dưới)" } },
       { "id": "v272", "word": "始まる", "reading": "はじまる", "meaning": { "en": "to begin, to start (vi.)", "vi": "bắt đầu" } },
       { "id": "v273", "word": "走る", "reading": "はしる", "meaning": { "en": "to run", "vi": "chạy" } },
-_ITEMS_
+      { "id": "v274", "word": "貼る", "reading": "はる", "meaning": { "en": "to paste, to stick", "vi": "dán" } },
+      { "id": "v275", "word": "晴れる", "reading": "はれる", "meaning": { "en": "to become sunny", "vi": "trời nắng" } },
+      { "id": "v276", "word": "引く", "reading": "ひく", "meaning": { "en": "to pull", "vi": "kéo" } },
+      { "id": "v277", "word": "弾く", "reading": "ひく", "meaning": { "en": "to play (a string instrument)", "vi": "chơi (nhạc cụ có dây)" } },
+      { "id": "v278", "word": "吹く", "reading": "ふく", "meaning": { "en": "to blow", "vi": "thổi" } },
+      { "id": "v279", "word": "降る", "reading": "ふる", "meaning": { "en": "to fall (rain, snow)", "vi": "rơi (mưa, tuyết)" } },
+      { "id": "v280", "word": "曲る", "reading": "まがる", "meaning": { "en": "to turn, to bend", "vi": "rẽ, uốn cong" } },
+      { "id": "v281", "word": "磨く", "reading": "みがく", "meaning": { "en": "to polish, to brush", "vi": "đánh bóng, chải" } },
+      { "id": "v282", "word": "持つ", "reading": "もつ", "meaning": { "en": "to hold, to have", "vi": "cầm, có" } },
+      { "id": "v283", "word": "やる", "reading": "やる", "meaning": { "en": "to do, to give (to inferiors)", "vi": "làm, cho" } },
+      { "id": "v284", "word": "呼ぶ", "reading": "よぶ", "meaning": { "en": "to call", "vi": "gọi" } },
+      { "id": "v285", "word": "渡す", "reading": "わたす", "meaning": { "en": "to hand over", "vi": "trao, đưa" } },
+      { "id": "v286", "word": "渡る", "reading": "わたる", "meaning": { "en": "to cross", "vi": "băng qua" } },
+      { "id": "v287", "word": "忘れる", "reading": "わすれる", "meaning": { "en": "to forget", "vi": "quên" } },
+      { "id": "v288", "word": "練習する", "reading": "れんしゅうする", "meaning": { "en": "to practice", "vi": "luyện tập" } }
     ]
   },
   "descriptive_words": {
