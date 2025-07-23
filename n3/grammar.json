@@ -1,0 +1,263 @@
+{
+  "verbs_conjugation": {
+    "en": "Advanced Verbs ⚙️",
+    "vi": "Động từ Nâng cao ⚙️",
+    "items": [
+      {
+        "id": "g201",
+        "en": {
+          "title": "Passive Form (受身形)",
+          "content": "Used when the subject is acted upon. Also used for 'suffering' passives.<br>• Group 1: change final -u to -areru (書く→書かれる).<br>• Group 2: replace -ru with -rareru (食べる→食べられる).<br>• Irregular: する→される, 来る→こられる.<br>The doer of the action is marked by に.<br><b>Example:</b> 私は先生に褒められました。(Watashi wa sensei ni homeraremashita.) - I was praised by the teacher."
+        },
+        "vi": {
+          "title": "Thể Bị động (受身形)",
+          "content": "Dùng khi chủ ngữ bị tác động bởi hành động. Cũng được dùng trong câu bị động 'phiền toái'.<br>• Nhóm 1: đổi đuôi -u thành -areru (書く→書かれる).<br>• Nhóm 2: thay đuôi -ru bằng -rareru (食べる→食べられる).<br>• Bất quy tắc: する→される, 来る→こられる.<br>Người thực hiện hành động được đánh dấu bằng trợ từ に.<br><b>Ví dụ:</b> 私は先生に褒められました。(Watashi wa sensei ni homeraremashita.) - Tôi đã được giáo viên khen."
+        }
+      },
+      {
+        "id": "g202",
+        "en": {
+          "title": "Causative Form (使役形)",
+          "content": "Used to express 'make/let someone do' something.<br>• Group 1: change final -u to -aseru (書く→書かせる).<br>• Group 2: replace -ru with -saseru (食べる→食べさせる).<br>• Irregular: する→させる, 来る→こさせる.<br>The person made to do the action is marked with に or を.<br><b>Example:</b> 先生は学生に宿題をたくさんさせました。(Sensei wa gakusei ni shukudai o takusan sasemashita.) - The teacher made the students do a lot of homework."
+        },
+        "vi": {
+          "title": "Thể Sai khiến (使役形)",
+          "content": "Dùng để diễn tả ý 'bắt/cho phép ai đó làm' gì đó.<br>• Nhóm 1: đổi đuôi -u thành -aseru (書く→書かせる).<br>• Nhóm 2: thay đuôi -ru bằng -saseru (食べる→食べさせる).<br>• Bất quy tắc: する→させる, 来る→こさせる.<br>Người bị bắt làm hành động được đánh dấu bằng に hoặc を.<br><b>Ví dụ:</b> 先生は学生に宿題をたくさんさせました。(Sensei wa gakusei ni shukudai o takusan sasemashita.) - Giáo viên đã bắt học sinh làm nhiều bài tập."
+        }
+      },
+      {
+        "id": "g203",
+        "en": {
+          "title": "Causative-Passive Form (使役受身形)",
+          "content": "Expresses being forced to do something against one's will.<br>• Group 1: change final -u to -asareru (書く→書かされる).<br>• Group 2: replace -ru with -saserareru (食べる→食べさせられる).<br>• Irregular: する→させられる, 来る→こさせられる.<br><b>Example:</b> 子供の時、母に野菜を食べさせられました。(Kodomo no toki, haha ni yasai o tabesaseraremashita.) - When I was a child, I was forced to eat vegetables by my mother."
+        },
+        "vi": {
+          "title": "Thể Bị động Sai khiến (使役受身形)",
+          "content": "Diễn tả việc bị ai đó bắt làm điều gì trái với ý muốn.<br>• Nhóm 1: đổi đuôi -u thành -asareru (書く→書かされる).<br>• Nhóm 2: thay đuôi -ru bằng -saserareru (食べる→食べさせられる).<br>• Bất quy tắc: する→させられる, 来る→こさせられる.<br><b>Ví dụ:</b> 子供の時、母に野菜を食べさせられました。(Kodomo no toki, haha ni yasai o tabesaseraremashita.) - Hồi nhỏ, tôi đã bị mẹ bắt ăn rau."
+        }
+      }
+    ]
+  },
+  "nuanced_expressions": {
+    "en": "Nuanced Expressions & Logic 🧠",
+    "vi": "Cách diễn đạt & Logic tinh tế 🧠",
+    "items": [
+      {
+        "id": "g211",
+        "en": {
+          "title": "~わけだ (It's no wonder...)",
+          "content": "Indicates a logical conclusion or natural consequence ('that's why', 'no wonder').<br>Plain form + わけだ。<br><b>Example:</b> あ、電気がついていない。彼はもう寝たわけだ。(A, denki ga tsuiteinai. Kare wa mō neta wake da.) - Ah, the lights are off. No wonder he's already asleep."
+        },
+        "vi": {
+          "title": "~わけだ (Hèn chi/Thảo nào...)",
+          "content": "Chỉ một kết luận logic hoặc một hệ quả tự nhiên ('đó là lý do tại sao', 'thảo nào').<br>Thể thông thường + わけだ。<br><b>Ví dụ:</b> あ、電気がついていない。彼はもう寝たわけだ。(A, denki ga tsuiteinai. Kare wa mō neta wake da.) - À, đèn tắt rồi. Thảo nào anh ấy đã ngủ rồi."
+        }
+      },
+      {
+        "id": "g212",
+        "en": {
+          "title": "~わけではない (It's not that...)",
+          "content": "Used for partial negation. It clarifies that a statement isn't 100% true.<br>Plain form + わけではない。<br><b>Example:</b> 料理ができないわけではないが、忙しいからあまりしない。(Ryōri ga dekinai wake dewanai ga, isogashii kara amari shinai.) - It's not that I can't cook, but I don't do it much because I'm busy."
+        },
+        "vi": {
+          "title": "~わけではない (Không phải là...)",
+          "content": "Dùng để phủ định một phần. Làm rõ rằng một mệnh đề không đúng 100%.<br>Thể thông thường + わけではない。<br><b>Ví dụ:</b> 料理ができないわけではないが、忙しいからあまりしない。(Ryōri ga dekinai wake dewanai ga, isogashii kara amari shinai.) - Không phải là tôi không biết nấu ăn, mà vì bận nên tôi ít khi nấu."
+        }
+      },
+      {
+        "id": "g213",
+        "en": {
+          "title": "~がる (To show signs of)",
+          "content": "Used to describe the feelings or desires of a third person, based on observation.<br>い-adj (drop い) + がる<br>な-adj + がる<br><b>Example:</b> うちの猫は、知らない人が来ると怖がります。(Uchi no neko wa, shiranai hito ga kuru to kowagarimasu.) - My cat shows signs of being scared when strangers come."
+        },
+        "vi": {
+          "title": "~がる (Tỏ ra/Có vẻ...)",
+          "content": "Dùng để mô tả cảm xúc hoặc mong muốn của người thứ ba, dựa trên quan sát.<br>Tính từ い (bỏ い) + がる<br>Tính từ な + がる<br><b>Ví dụ:</b> うちの猫は、知らない人が来ると怖がります。(Uchi no neko wa, shiranai hito ga kuru to kowagarimasu.) - Con mèo nhà tôi tỏ ra sợ hãi khi có người lạ đến."
+        }
+      },
+      {
+        "id": "g214",
+        "en": {
+          "title": "~らしい (Seems like / I've heard)",
+          "content": "Expresses a judgment based on information heard or seen. Stronger than ~ようです.<br>Plain form + らしい。<br><b>Example:</b> 天気予報によると、明日は雨らしいです。(Tenki yohō ni yoru to, ashita wa ame rashii desu.) - According to the weather forecast, it seems it will rain tomorrow."
+        },
+        "vi": {
+          "title": "~らしい (Hình như / Nghe nói)",
+          "content": "Diễn tả một phán đoán dựa trên thông tin nghe được hoặc nhìn thấy. Mức độ chắc chắn cao hơn ~ようです.<br>Thể thông thường + らしい。<br><b>Ví dụ:</b> 天気予報によると、明日は雨らしいです。(Tenki yohō ni yoru to, ashita wa ame rashii desu.) - Theo dự báo thời tiết, hình như ngày mai trời sẽ mưa."
+        }
+      },
+      {
+        "id": "g215",
+        "en": {
+          "title": "~っぽい (-ish / like)",
+          "content": "Indicates that something has the qualities or characteristics of something else. Often used informally.<br>Noun/Verb-stem + っぽい<br><b>Example:</b> あの黒っぽい服を着ている人が田中さんです。(Ano kuroppoi fuku o kiteiru hito ga Tanaka-san desu.) - That person wearing the blackish clothes is Mr. Tanaka."
+        },
+        "vi": {
+          "title": "~っぽい (Trông có vẻ / Giống như)",
+          "content": "Chỉ ra rằng một cái gì đó có phẩm chất hoặc đặc điểm của một cái khác. Thường được sử dụng trong giao tiếp thân mật.<br>Danh từ/Thân động từ + っぽい<br><b>Ví dụ:</b> あの黒っぽい服を着ている人が田中さんです。(Ano kuroppoi fuku o kiteiru hito ga Tanaka-san desu.) - Người đang mặc bộ quần áo trông đen đen kia là anh Tanaka."
+        }
+      }
+    ]
+  },
+  "common_patterns": {
+    "en": "Common Patterns & Usages 💬",
+    "vi": "Các mẫu câu & cách dùng thông dụng 💬",
+    "items": [
+      {
+        "id": "g221",
+        "en": {
+          "title": "~ところだ (Phases of an Action)",
+          "content": "Expresses the precise moment of an action.<br>• V-dict + ところ: about to do.<br>• V-teiru + ところ: in the middle of doing.<br>• V-ta + ところ: have just done.<br><b>Example:</b> 今からご飯を食べるところです。(Ima kara gohan o taberu tokoro desu.) - I'm just about to eat now."
+        },
+        "vi": {
+          "title": "~ところだ (Các giai đoạn của hành động)",
+          "content": "Diễn tả thời điểm chính xác của một hành động.<br>• V-nguyên mẫu + ところ: sắp sửa làm.<br>• V-teiru + ところ: đang làm.<br>• V-ta + ところ: vừa mới làm xong.<br><b>Ví dụ:</b> 今からご飯を食べるところです。(Ima kara gohan o taberu tokoro desu.) - Bây giờ tôi sắp ăn cơm."
+        }
+      },
+      {
+        "id": "g222",
+        "en": {
+          "title": "~ばかり (Just Did / Only Doing)",
+          "content": "1. V-ta + ばかり: to have just done (subjective).<br>2. V-te + ばかりいる: to be always doing something (negative nuance).<br><b>Example 1:</b> さっき昼ご飯を食べたばかりです。(Sakki hirugohan o tabeta bakari desu.) - I just ate lunch a moment ago.<br><b>Example 2:</b> 弟はゲームをしてばかりいる。(Otōto wa gēmu o shite bakari iru.) - My brother is always playing games."
+        },
+        "vi": {
+          "title": "~ばかり (Vừa mới/Chỉ toàn...)",
+          "content": "1. V-ta + ばかり: vừa mới làm gì đó (chủ quan).<br>2. V-te + ばかりいる: lúc nào cũng chỉ làm một việc (tiêu cực).<br><b>Ví dụ 1:</b> さっき昼ご飯を食べたばかりです。(Sakki hirugohan o tabeta bakari desu.) - Tôi vừa mới ăn trưa lúc nãy.<br><b>Ví dụ 2:</b> 弟はゲームをしてばかりいる。(Otōto wa gēmu o shite bakari iru.) - Em trai tôi lúc nào cũng chỉ chơi game."
+        }
+      },
+      {
+        "id": "g223",
+        "en": {
+          "title": "~ことにする / ~ことになる",
+          "content": "• ~ことにする: I/we decide to do something.<br>• ~ことになる: It has been decided that (by others).<br><b>Example (する):</b> 来月からジムに通うことにしました。(Raigetsu kara jimu ni kayou koto ni shimashita.) - I've decided to go to the gym from next month.<br><b>Example (なる):</b> 来年、大阪に転勤することになりました。(Rainen, Ōsaka ni tenkin suru koto ni narimashita.) - It has been decided I'll be transferred to Osaka next year."
+        },
+        "vi": {
+          "title": "~ことにする / ~ことになる",
+          "content": "• ~ことにする: Tôi/chúng tôi quyết định làm gì đó.<br>• ~ことになる: Đã được quyết định rằng (bởi người khác).<br><b>Ví dụ (する):</b> 来月からジムに通うことにしました。(Raigetsu kara jimu ni kayou koto ni shimashita.) - Tôi đã quyết định đi tập gym từ tháng sau.<br><b>Ví dụ (なる):</b> 来年、大阪に転勤することになりました。(Rainen, Ōsaka ni tenkin suru koto ni narimashita.) - Đã được quyết định là năm sau tôi sẽ chuyển công tác đến Osaka."
+        }
+      },
+      {
+        "id": "g224",
+        "en": {
+          "title": "~ようにする (Make an Effort To)",
+          "content": "Expresses making a conscious effort to do something habitually.<br>V-dict / V-nai form + ようにする。<br><b>Example:</b> 健康のために、毎日野菜を食べるようにしています。(Kenkō no tame ni, mainichi yasai o taberu yō ni shite imasu.) - For my health, I make an effort to eat vegetables every day."
+        },
+        "vi": {
+          "title": "~ようにする (Cố gắng để...)",
+          "content": "Diễn tả việc cố gắng một cách có ý thức để làm điều gì đó theo thói quen.<br>Động từ thể từ điển / thể nai + ようにする。<br><b>Ví dụ:</b> 健康のために、毎日野菜を食べるようにしています。(Kenkō no tame ni, mainichi yasai o taberu yō ni shite imasu.) - Vì sức khỏe, tôi cố gắng ăn rau mỗi ngày."
+        }
+      },
+      {
+        "id": "g225",
+        "en": {
+          "title": "~べきだ / ~べきではない (Should / Shouldn't)",
+          "content": "Expresses a strong suggestion or opinion about what one should do, based on social norms or common sense. More formal than ～たほうがいい.<br>V-dict + べきだ。<br><b>Example:</b> 約束は守るべきだ。(Yakusoku wa mamoru beki da.) - You should keep your promises."
+        },
+        "vi": {
+          "title": "~べきだ / ~べきではない (Nên / Không nên)",
+          "content": "Diễn tả một đề nghị hoặc ý kiến mạnh mẽ về những gì một người nên làm, dựa trên chuẩn mực xã hội hoặc lẽ thường. Trang trọng hơn ～たほうがいい.<br>Động từ thể từ điển + べきだ。<br><b>Ví dụ:</b> 約束は守るべきだ。(Yakusoku wa mamoru beki da.) - Nên giữ lời hứa."
+        }
+      },
+      {
+        "id": "g226",
+        "en": {
+          "title": "~まま (As it is / Unchanged)",
+          "content": "Indicates that a state or condition remains unchanged while another action takes place.<br>V-ta / Noun + の + まま<br><b>Example:</b> 窓を開けたまま寝てしまった。(Mado o aketa mama nete shimatta.) - I fell asleep with the window still open."
+        },
+        "vi": {
+          "title": "~まま (Để nguyên / Giữ nguyên)",
+          "content": "Chỉ ra rằng một trạng thái hoặc điều kiện không thay đổi trong khi một hành động khác diễn ra.<br>V-ta / Danh từ + の + まま<br><b>Ví dụ:</b> 窓を開けたまま寝てしまった。(Mado o aketa mama nete shimatta.) - Tôi đã ngủ quên trong khi cửa sổ vẫn mở."
+        }
+      }
+    ]
+  },
+  "connecting_words": {
+    "en": "Connecting Clauses 🔗",
+    "vi": "Nối Mệnh đề 🔗",
+    "items": [
+      {
+        "id": "g231",
+        "en": {
+          "title": "~おかげで / ~せいで (Thanks to / Due to)",
+          "content": "• おかげで: For a positive result ('thanks to').<br>• せいで: For a negative result ('because of').<br><b>Example (おかげで):</b> 先生のおかげで、合格しました。(Sensei no okage de, gōkaku shimashita.) - Thanks to you, teacher, I passed.<br><b>Example (せいで):</b> 電車が遅れたせいで、遅刻しました。(Densha ga okureta sei de, chikoku shimashita.) - Due to the train being late, I was late."
+        },
+        "vi": {
+          "title": "~おかげで / ~せいで (Nhờ có / Tại vì)",
+          "content": "• おかげで: Cho kết quả tích cực ('nhờ có').<br>• せいで: Cho kết quả tiêu cực ('tại vì').<br><b>Ví dụ (おかげで):</b> 先生のおかげで、合格しました。(Sensei no okage de, gōkaku shimashita.) - Nhờ có cô giáo mà em đã đỗ.<br><b>Ví dụ (せいで):</b> 電車が遅れたせいで、遅刻しました。(Densha ga okureta sei de, chikoku shimashita.) - Tại vì tàu đến muộn nên tôi đã bị trễ."
+        }
+      },
+      {
+        "id": "g232",
+        "en": {
+          "title": "~うちに / ~間に (While / During)",
+          "content": "• うちに: Do something before a state changes. Can also mean an unexpected change happened during an action.<br>• 間に: An action takes place during a specific, continuous period.<br><b>Example (うちに):</b> 温かいうちに、どうぞ。(Atatakai uchi ni, dōzo.) - Please eat while it's warm.<br><b>Example (間に):</b> 留守の間に、どろぼうが入りました。(Rusu no aida ni, dorobō ga hairimashita.) - A thief broke in while I was out."
+        },
+        "vi": {
+          "title": "~うちに / ~間に (Trong lúc / Trong khi)",
+          "content": "• うちに: Làm gì đó trước khi một trạng thái thay đổi. Cũng có thể có nghĩa là một sự thay đổi bất ngờ đã xảy ra trong khi hành động.<br>• 間に: Một hành động diễn ra trong một khoảng thời gian cụ thể, liên tục.<br><b>Ví dụ (うちに):</b> 温かいうちに、どうぞ。(Atatakai uchi ni, dōzo.) - Mời anh ăn trong lúc còn nóng ạ.<br><b>Ví dụ (間に):</b> 留守の間に、どろぼうが入りました。(Rusu no aida ni, dorobō ga hairimashita.) - Trong khi tôi đi vắng, trộm đã vào nhà."
+        }
+      },
+      {
+        "id": "g233",
+        "en": {
+          "title": "~に対して (In contrast to / Towards)",
+          "content": "Indicates contrast or the direction of an action/feeling.<br><b>Example (Contrast):</b> 大阪はにぎやかなのに対して、私の町は静かです。(Ōsaka wa nigiyaka na no ni taishite, watashi no machi wa shizuka desu.) - In contrast to Osaka being lively, my town is quiet.<br><b>Example (Towards):</b> 先生に対して失礼なことを言ってはいけません。(Sensei ni taishite shitsurei na koto o itte wa ikemasen.) - You must not say rude things to your teacher."
+        },
+        "vi": {
+          "title": "~に対して (Trái với / Đối với)",
+          "content": "Chỉ sự tương phản hoặc hướng của một hành động/cảm xúc.<br><b>Ví dụ (Tương phản):</b> 大阪はにぎやかなのに対して、私の町は静かです。(Ōsaka wa nigiyaka na no ni taishite, watashi no machi wa shizuka desu.) - Trái với Osaka náo nhiệt, thị trấn của tôi thì yên tĩnh.<br><b>Ví dụ (Đối với):</b> 先生に対して失礼なことを言ってはいけません。(Sensei ni taishite shitsurei na koto o itte wa ikemasen.) - Bạn không được nói những điều thất lễ đối với giáo viên."
+        }
+      },
+      {
+        "id": "g234",
+        "en": {
+          "title": "~たとたん (The moment / As soon as)",
+          "content": "Expresses that something happened immediately after another action. Often used for unexpected events.<br>V-ta + とたん<br><b>Example:</b> 窓を開けたとたん、強い風が入ってきた。(Mado o aketa totan, tsuyoi kaze ga haitte kita.) - The moment I opened the window, a strong wind came in."
+        },
+        "vi": {
+          "title": "~たとたん (Vừa mới... thì ngay lập tức)",
+          "content": "Diễn tả rằng một điều gì đó đã xảy ra ngay sau một hành động khác. Thường được dùng cho các sự kiện bất ngờ.<br>V-ta + とたん<br><b>Ví dụ:</b> 窓を開けたとたん、強い風が入ってきた。(Mado o aketa totan, tsuyoi kaze ga haitte kita.) - Vừa mới mở cửa sổ ra thì một cơn gió mạnh thổi vào."
+        }
+      }
+    ]
+  },
+  "comparison_perspective": {
+    "en": "Comparison & Perspective ⚖️",
+    "vi": "So sánh & Quan điểm ⚖️",
+    "items": [
+      {
+        "id": "g241",
+        "en": {
+          "title": "~に比べて (Compared to)",
+          "content": "A direct way to make a comparison.<br>Noun + に比べて.<br><b>Example:</b> 試験は去年に比べて、とても難しくなりました。(Shiken wa kyonen ni kurabete, totemo muzukashiku narimashita.) - Compared to last year, the exam became very difficult."
+        },
+        "vi": {
+          "title": "~に比べて (So với)",
+          "content": "Một cách trực tiếp để thực hiện so sánh.<br>Danh từ + に比べて.<br><b>Ví dụ:</b> 試験は去年に比べて、とても難しくなりました。(Shiken wa kyonen ni kurabete, totemo muzukashiku narimashita.) - So với năm ngoái, kỳ thi đã trở nên khó hơn rất nhiều."
+        }
+      },
+      {
+        "id": "g242",
+        "en": {
+          "title": "~にとって (From the perspective of)",
+          "content": "Used to state the viewpoint from which something is being judged.<br>Noun + にとって.<br><b>Example:</b> この問題は、私にとって非常に重要です。(Kono mondai wa, watashi ni totte hijō ni jūyō desu.) - From my perspective, this problem is extremely important."
+        },
+        "vi": {
+          "title": "~にとって (Đối với/Theo quan điểm của)",
+          "content": "Dùng để nêu quan điểm mà từ đó một sự việc được đánh giá.<br>Danh từ + にとって.<br><b>Ví dụ:</b> この問題は、私にとって非常に重要です。(Kono mondai wa, watashi ni totte hijō ni jūyō desu.) - Đối với tôi, vấn đề này cực kỳ quan trọng."
+        }
+      },
+      {
+        "id": "g243",
+        "en": {
+          "title": "~ば~ほど (The more... the more...)",
+          "content": "Shows that as one thing increases or changes, another thing changes proportionally.<br>Verb-ば form + Verb-dict. / い-adj-ければ + い-adj / な-adj-なら + な-adj + ほど<br><b>Example:</b> 日本語は、勉強すればするほど面白くなる。(Nihongo wa, benkyō sureba suru hodo omoshiroku naru.) - The more you study Japanese, the more interesting it becomes."
+        },
+        "vi": {
+          "title": "~ば~ほど (Càng... càng...)",
+          "content": "Cho thấy khi một thứ tăng lên hoặc thay đổi, thì một thứ khác cũng thay đổi một cách tương ứng.<br>Động từ thể ば + Động từ thể từ điển / い-adj-ければ + い-adj / な-adj-なら + な-adj + ほど<br><b>Ví dụ:</b> 日本語は、勉強すればするほど面白くなる。(Nihongo wa, benkyō sureba suru hodo omoshiroku naru.) - Tiếng Nhật càng học thì càng thấy thú vị."
+        }
+      }
+    ]
+  }
+}
