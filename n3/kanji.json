@@ -462,6 +462,66 @@
                     "en": "She attended an international conference.",
                     "vi": "Cô ấy đã tham dự một hội nghị quốc tế."
                 }
+            },
+            {
+                "id": "k519",
+                "kanji": "税",
+                "onyomi": "ゼイ",
+                "kunyomi": "",
+                "meaning": { "en": "Tax", "vi": "Thuế" },
+                "radical": { "en": "禾 (grain)", "vi": "禾 (hòa)" },
+                "mnemonic": {
+                    "en": "Grain (禾) is exchanged (兑) as a form of 'tax'.",
+                    "vi": "Ngũ cốc (禾) được trao đổi (兑) như một hình thức 'thuế'."
+                },
+                "examples": [
+                    { "word": "税金", "reading": "ぜいきん", "meaning": { "en": "Tax", "vi": "Tiền thuế" } },
+                    { "word": "消費税", "reading": "しょうひぜい", "meaning": { "en": "Consumption tax", "vi": "Thuế tiêu thụ" } }
+                ],
+                "sentence": {
+                    "jp_tokens": [
+                        { "w": "この" },
+                        { "w": "値段", "r": "ねだん" },
+                        { "w": "には" },
+                        { "w": "税金", "r": "ぜいきん" },
+                        { "w": "が" },
+                        { "w": "含", "r": "ふく" },
+                        { "w": "まれています。" }
+                    ],
+                    "en": "The tax is included in this price.",
+                    "vi": "Giá này đã bao gồm thuế."
+                }
+            },
+            {
+                "id": "k520",
+                "kanji": "制",
+                "onyomi": "セイ",
+                "kunyomi": "",
+                "meaning": { "en": "System, control", "vi": "Chế độ, hệ thống" },
+                "radical": { "en": "刂 (knife)", "vi": "刂 (đao)" },
+                "mnemonic": {
+                    "en": "A cow (牛) is cut with a knife (刂) according to a 'system' or set of rules.",
+                    "vi": "Một con bò (牛) bị cắt bằng dao (刂) theo một 'hệ thống' hoặc bộ quy tắc."
+                },
+                "examples": [
+                    { "word": "制度", "reading": "せいど", "meaning": { "en": "System, institution", "vi": "Chế độ" } },
+                    { "word": "制服", "reading": "せいふく", "meaning": { "en": "Uniform", "vi": "Đồng phục" } },
+                    { "word": "制限", "reading": "せいげん", "meaning": { "en": "Restriction, limit", "vi": "Sự hạn chế" } }
+                ],
+                "sentence": {
+                    "jp_tokens": [
+                        { "w": "この" },
+                        { "w": "学校", "r": "がっこう" },
+                        { "w": "には" },
+                        { "w": "制服", "r": "せいふく" },
+                        { "w": "の" },
+                        { "w": "制度", "r": "せいど" },
+                        { "w": "が" },
+                        { "w": "あります。" }
+                    ],
+                    "en": "This school has a uniform system.",
+                    "vi": "Trường này có chế độ đồng phục."
+                }
             }
         ]
     },
@@ -651,6 +711,66 @@
                     "en": "Everyone laughed at his joke.",
                     "vi": "Mọi người đều bật cười trước câu nói đùa của anh ấy."
                 }
+            },
+            {
+                "id": "k527",
+                "kanji": "怒",
+                "onyomi": "ド",
+                "kunyomi": "おこ.る, いか.る",
+                "meaning": { "en": "Get angry", "vi": "Tức giận" },
+                "radical": { "en": "心 (heart)", "vi": "心 (tâm)" },
+                "mnemonic": {
+                    "en": "A woman (女) holding her hand (又) to her heart (心) in 'anger'.",
+                    "vi": "Một người phụ nữ (女) đặt tay (又) lên trái tim (心) trong 'cơn tức giận'."
+                },
+                "examples": [
+                    { "word": "怒る", "reading": "おこる", "meaning": { "en": "To get angry", "vi": "Tức giận" } },
+                    { "word": "怒り", "reading": "いかり", "meaning": { "en": "Anger, rage", "vi": "Sự tức giận" } }
+                ],
+                "sentence": {
+                    "jp_tokens": [
+                        { "w": "彼", "r": "かれ" },
+                        { "w": "は" },
+                        { "w": "簡単", "r": "かんたん" },
+                        { "w": "に" },
+                        { "w": "怒", "r": "おこ" },
+                        { "w": "る" },
+                        { "w": "人", "r": "ひと" },
+                        { "w": "だ。" }
+                    ],
+                    "en": "He is a person who gets angry easily.",
+                    "vi": "Anh ấy là người dễ nổi giận."
+                }
+            },
+            {
+                "id": "k528",
+                "kanji": "識",
+                "onyomi": "シキ",
+                "kunyomi": "",
+                "meaning": { "en": "Knowledge, consciousness", "vi": "Tri thức, ý thức" },
+                "radical": { "en": "言 (word)", "vi": "言 (ngôn)" },
+                "mnemonic": {
+                    "en": "To have 'knowledge' (識), you need words (言) and the sound (音) of a halberd (戈) to make a point.",
+                    "vi": "Để có 'tri thức' (識), bạn cần lời nói (言) và âm thanh (音) của một cây kích (戈) để nêu bật quan điểm."
+                },
+                "examples": [
+                    { "word": "知識", "reading": "ちしき", "meaning": { "en": "Knowledge", "vi": "Kiến thức" } },
+                    { "word": "意識", "reading": "いしき", "meaning": { "en": "Consciousness, awareness", "vi": "Ý thức" } }
+                ],
+                "sentence": {
+                    "jp_tokens": [
+                        { "w": "彼", "r": "かれ" },
+                        { "w": "は" },
+                        { "w": "歴史", "r": "れきし" },
+                        { "w": "の" },
+                        { "w": "知識", "r": "ちしき" },
+                        { "w": "が" },
+                        { "w": "豊富", "r": "ほうふ" },
+                        { "w": "だ。" }
+                    ],
+                    "en": "He has a rich knowledge of history.",
+                    "vi": "Anh ấy có kiến thức sâu rộng về lịch sử."
+                }
             }
         ]
     },
@@ -834,6 +954,1033 @@
                     ],
                     "en": "His story is logical and easy to understand.",
                     "vi": "Câu chuyện của anh ấy logic và dễ hiểu."
+                }
+            },
+            {
+                "id": "k537",
+                "kanji": "比",
+                "onyomi": "ヒ",
+                "kunyomi": "くら.べる",
+                "meaning": { "en": "Compare", "vi": "So sánh" },
+                "radical": { "en": "比 (compare)", "vi": "比 (tỉ)" },
+                "mnemonic": {
+                    "en": "Two people standing side-by-side to 'compare' their height. The character itself is its own radical and meaning.",
+                    "vi": "Hai người đứng cạnh nhau để 'so sánh' chiều cao. Bản thân chữ Hán này là bộ thủ và mang nghĩa của chính nó."
+                },
+                "examples": [
+                    { "word": "比べる", "reading": "くらべる", "meaning": { "en": "To compare", "vi": "So sánh" } },
+                    { "word": "比較", "reading": "ひかく", "meaning": { "en": "Comparison", "vi": "Sự so sánh" } }
+                ],
+                "sentence": {
+                    "jp_tokens": [
+                        { "w": "値段", "r": "ねだん" },
+                        { "w": "を" },
+                        { "w": "比", "r": "くら" },
+                        { "w": "べてから" },
+                        { "w": "買", "r": "か" },
+                        { "w": "います。" }
+                    ],
+                    "en": "I'll buy it after comparing prices.",
+                    "vi": "Tôi sẽ mua sau khi so sánh giá cả."
+                }
+            },
+            {
+                "id": "k538",
+                "kanji": "共",
+                "onyomi": "キョウ",
+                "kunyomi": "とも",
+                "meaning": { "en": "Together, both", "vi": "Cùng nhau, cả hai" },
+                "radical": { "en": "八 (eight)", "vi": "八 (bát)" },
+                "mnemonic": {
+                    "en": "Two hands (廿) offering something up on a stand. We do this 'together'.",
+                    "vi": "Hai bàn tay (廿) dâng một thứ gì đó lên trên một cái bệ. Chúng ta làm điều này 'cùng nhau'."
+                },
+                "examples": [
+                    { "word": "共通", "reading": "きょうつう", "meaning": { "en": "Common", "vi": "Chung" } },
+                    { "word": "共和国", "reading": "きょうわこく", "meaning": { "en": "Republic", "vi": "Nước cộng hòa" } },
+                    { "word": "公共", "reading": "こうきょう", "meaning": { "en": "Public", "vi": "Công cộng" } }
+                ],
+                "sentence": {
+                    "jp_tokens": [
+                        { "w": "私", "r": "わたし" },
+                        { "w": "たちには" },
+                        { "w": "共通", "r": "きょうつう" },
+                        { "w": "の" },
+                        { "w": "趣味", "r": "しゅみ" },
+                        { "w": "が" },
+                        { "w": "あります。" }
+                    ],
+                    "en": "We have common hobbies.",
+                    "vi": "Chúng tôi có những sở thích chung."
+                }
+            }
+        ]
+    },
+    "peopleAndRelations": {
+        "en": "People & Relations 👥",
+        "vi": "Con người & Quan hệ 👥",
+        "items": [
+            {
+                "id": "k539",
+                "kanji": "様",
+                "onyomi": "ヨウ",
+                "kunyomi": "さま",
+                "meaning": { "en": "Mr./Mrs., manner", "vi": "Ngài/Bà, cách thức" },
+                "radical": { "en": "木 (tree)", "vi": "木 (mộc)" },
+                "mnemonic": {
+                    "en": "A sheep (羊) under a tree (木) with water (永) flowing by. This peaceful 'manner' is how you should treat 'Mr. or Mrs.' so-and-so.",
+                    "vi": "Một con cừu (羊) dưới một cái cây (木) với dòng nước (永) chảy qua. 'Cách thức' yên bình này là cách bạn nên đối xử với 'Ngài hoặc Bà' nào đó."
+                },
+                "examples": [
+                    { "word": "お客様", "reading": "おきゃくさま", "meaning": { "en": "Customer, guest", "vi": "Quý khách" } },
+                    { "word": "様子", "reading": "ようす", "meaning": { "en": "Aspect, state", "vi": "Tình trạng, vẻ bề ngoài" } },
+                    { "word": "様々", "reading": "さまざま", "meaning": { "en": "Various", "vi": "Đa dạng" } }
+                ],
+                "sentence": {
+                    "jp_tokens": [
+                        { "w": "田中", "r": "たなか" },
+                        { "w": "様", "r": "さま" },
+                        { "w": "、" },
+                        { "w": "お" },
+                        { "w": "電話", "r": "でんわ" },
+                        { "w": "です。" }
+                    ],
+                    "en": "Mr. Tanaka, you have a phone call.",
+                    "vi": "Thưa ngài Tanaka, có điện thoại cho ngài ạ."
+                }
+            },
+            {
+                "id": "k540",
+                "kanji": "君",
+                "onyomi": "クン",
+                "kunyomi": "きみ",
+                "meaning": { "en": "You (informal), suffix for boys", "vi": "Bạn (thân mật), hậu tố cho con trai" },
+                "radical": { "en": "口 (mouth)", "vi": "口 (khẩu)" },
+                "mnemonic": {
+                    "en": "A ruler (尹) uses his mouth (口) to address 'you' (君). Used for people of equal or lower status.",
+                    "vi": "Một người cai trị (尹) dùng miệng (口) của mình để nói chuyện với 'bạn' (君). Dùng cho người có địa vị ngang bằng hoặc thấp hơn."
+                },
+                "examples": [
+                    { "word": "君", "reading": "きみ", "meaning": { "en": "You (informal)", "vi": "Bạn, cậu" } },
+                    { "word": "田中君", "reading": "たなかくん", "meaning": { "en": "Tanaka-kun", "vi": "Cậu Tanaka" } }
+                ],
+                "sentence": {
+                    "jp_tokens": [
+                        { "w": "君", "r": "きみ" },
+                        { "w": "の" },
+                        { "w": "名前", "r": "なまえ" },
+                        { "w": "は" },
+                        { "w": "何", "r": "なん" },
+                        { "w": "ですか。" }
+                    ],
+                    "en": "What is your name?",
+                    "vi": "Tên của bạn là gì?"
+                }
+            },
+            {
+                "id": "k541",
+                "kanji": "彼",
+                "onyomi": "ヒ",
+                "kunyomi": "かれ, かの",
+                "meaning": { "en": "He, that", "vi": "Anh ấy, đó" },
+                "radical": { "en": "彳 (step)", "vi": "彳 (xích)" },
+                "mnemonic": {
+                    "en": "A step (彳) towards skin (皮). You are pointing at 'him' over there.",
+                    "vi": "Một bước (彳) đến gần lớp da (皮). Bạn đang chỉ vào 'anh ấy' ở đằng kia."
+                },
+                "examples": [
+                    { "word": "彼", "reading": "かれ", "meaning": { "en": "He, boyfriend", "vi": "Anh ấy, bạn trai" } },
+                    { "word": "彼女", "reading": "かのじょ", "meaning": { "en": "She, girlfriend", "vi": "Cô ấy, bạn gái" } }
+                ],
+                "sentence": {
+                    "jp_tokens": [
+                        { "w": "彼", "r": "かれ" },
+                        { "w": "は" },
+                        { "w": "私", "r": "わたし" },
+                        { "w": "の" },
+                        { "w": "クラスメートです。" }
+                    ],
+                    "en": "He is my classmate.",
+                    "vi": "Anh ấy là bạn cùng lớp của tôi."
+                }
+            },
+            {
+                "id": "k542",
+                "kanji": "夫",
+                "onyomi": "フ, フウ",
+                "kunyomi": "おっと",
+                "meaning": { "en": "Husband", "vi": "Chồng" },
+                "radical": { "en": "大 (big)", "vi": "大 (đại)" },
+                "mnemonic": {
+                    "en": "A big person (大) with a line across the top. This is the man of the house, the 'husband' (夫).",
+                    "vi": "Một người lớn (大) với một đường kẻ ngang trên đầu. Đây là người đàn ông của gia đình, là 'chồng' (夫)."
+                },
+                "examples": [
+                    { "word": "夫", "reading": "おっと", "meaning": { "en": "Husband", "vi": "Chồng" } },
+                    { "word": "夫婦", "reading": "ふうふ", "meaning": { "en": "Married couple", "vi": "Vợ chồng" } },
+                    { "word": "大丈夫", "reading": "だいじょうぶ", "meaning": { "en": "Okay, all right", "vi": "Không sao, ổn" } }
+                ],
+                "sentence": {
+                    "jp_tokens": [
+                        { "w": "私", "r": "わたし" },
+                        { "w": "の" },
+                        { "w": "夫", "r": "おっと" },
+                        { "w": "は" },
+                        { "w": "医者", "r": "いしゃ" },
+                        { "w": "です。" }
+                    ],
+                    "en": "My husband is a doctor.",
+                    "vi": "Chồng tôi là bác sĩ."
+                }
+            },
+            {
+                "id": "k543",
+                "kanji": "妻",
+                "onyomi": "サイ",
+                "kunyomi": "つま",
+                "meaning": { "en": "Wife", "vi": "Vợ" },
+                "radical": { "en": "女 (woman)", "vi": "女 (nữ)" },
+                "mnemonic": {
+                    "en": "A woman (女) holding a broom (top right part). This traditionally depicted a 'wife' (妻).",
+                    "vi": "Một người phụ nữ (女) đang cầm một cái chổi (phần trên bên phải). Điều này theo truyền thống mô tả một người 'vợ' (妻)."
+                },
+                "examples": [
+                    { "word": "妻", "reading": "つま", "meaning": { "en": "Wife", "vi": "Vợ" } },
+                    { "word": "夫妻", "reading": "ふさい", "meaning": { "en": "Mr. and Mrs., married couple", "vi": "Vợ chồng" } }
+                ],
+                "sentence": {
+                    "jp_tokens": [
+                        { "w": "彼", "r": "かれ" },
+                        { "w": "は" },
+                        { "w": "妻", "r": "つま" },
+                        { "w": "を" },
+                        { "w": "深", "r": "ふか" },
+                        { "w": "く" },
+                        { "w": "愛", "r": "あい" },
+                        { "w": "している。" }
+                    ],
+                    "en": "He loves his wife deeply.",
+                    "vi": "Anh ấy yêu vợ sâu sắc."
+                }
+            },
+            {
+                "id": "k544",
+                "kanji": "徒",
+                "onyomi": "ト",
+                "kunyomi": "",
+                "meaning": { "en": "Follower, pupil", "vi": "Môn đồ, học trò" },
+                "radical": { "en": "彳 (step)", "vi": "彳 (xích)" },
+                "mnemonic": {
+                    "en": "Taking a step (彳) to run (走). Someone who does this is a 'follower' or 'pupil'.",
+                    "vi": "Bước một bước (彳) để chạy (走). Người làm điều này là một 'tín đồ' hoặc 'học trò'."
+                },
+                "examples": [
+                    { "word": "生徒", "reading": "せいと", "meaning": { "en": "Pupil, student", "vi": "Học sinh" } },
+                    { "word": "徒歩で", "reading": "とほで", "meaning": { "en": "On foot", "vi": "Đi bộ" } }
+                ],
+                "sentence": {
+                    "jp_tokens": [
+                        { "w": "この" },
+                        { "w": "クラス" },
+                        { "w": "の" },
+                        { "w": "生徒", "r": "せいと" },
+                        { "w": "は" },
+                        { "w": "みんな" },
+                        { "w": "熱心", "r": "ねっしん" },
+                        { "w": "だ。" }
+                    ],
+                    "en": "All the students in this class are enthusiastic.",
+                    "vi": "Tất cả học sinh trong lớp này đều nhiệt tình."
+                }
+            }
+        ]
+    },
+    "placesAndEnvironment": {
+        "en": "Places & Environment 🌳",
+        "vi": "Địa điểm & Môi trường 🌳",
+        "items": [
+            {
+                "id": "k545",
+                "kanji": "然",
+                "onyomi": "ゼン, ネン",
+                "kunyomi": "しか.り",
+                "meaning": { "en": "Nature, So", "vi": "Tự nhiên, Như vậy" },
+                "radical": { "en": "灬 (fire)", "vi": "灬 (hỏa)" },
+                "mnemonic": {
+                    "en": "Dog meat (月 + 犬) being roasted over a fire (灬). This is how things are 'so', it's the 'natural' state of things.",
+                    "vi": "Thịt chó (月 + 犬) được nướng trên lửa (灬). Mọi việc 'là như vậy', đó là trạng thái 'tự nhiên' của sự vật."
+                },
+                "examples": [
+                    { "word": "自然", "reading": "しぜん", "meaning": { "en": "Nature", "vi": "Tự nhiên" } },
+                    { "word": "突然", "reading": "とつぜん", "meaning": { "en": "Suddenly", "vi": "Đột nhiên" } },
+                    { "word": "全然", "reading": "ぜんぜん", "meaning": { "en": "Not at all (with neg.)", "vi": "Hoàn toàn không" } }
+                ],
+                "sentence": {
+                    "jp_tokens": [
+                        { "w": "私", "r": "わたし" },
+                        { "w": "は" },
+                        { "w": "自然", "r": "しぜん" },
+                        { "w": "の" },
+                        { "w": "中", "r": "なか" },
+                        { "w": "で" },
+                        { "w": "リラックスするのが" },
+                        { "w": "好", "r": "す" },
+                        { "w": "きです。" }
+                    ],
+                    "en": "I like to relax in nature.",
+                    "vi": "Tôi thích thư giãn giữa thiên nhiên."
+                }
+            },
+            {
+                "id": "k546",
+                "kanji": "湖",
+                "onyomi": "コ",
+                "kunyomi": "みずうみ",
+                "meaning": { "en": "Lake", "vi": "Hồ" },
+                "radical": { "en": "氵(water)", "vi": "氵(thủy)" },
+                "mnemonic": {
+                    "en": "Water (氵) that is ancient (古) and from the moon (月) forms a 'lake' (湖).",
+                    "vi": "Nước (氵) từ xa xưa (古) và từ mặt trăng (月) tạo thành một cái 'hồ' (湖)."
+                },
+                "examples": [
+                    { "word": "湖", "reading": "みずうみ", "meaning": { "en": "Lake", "vi": "Hồ nước" } },
+                    { "word": "富士五湖", "reading": "ふじごこ", "meaning": { "en": "Fuji Five Lakes", "vi": "Phú Sĩ Ngũ Hồ" } }
+                ],
+                "sentence": {
+                    "jp_tokens": [
+                        { "w": "週末", "r": "しゅうまつ" },
+                        { "w": "に" },
+                        { "w": "湖", "r": "みずうみ" },
+                        { "w": "へ" },
+                        { "w": "ボート" },
+                        { "w": "に" },
+                        { "w": "乗", "r": "の" },
+                        { "w": "りに" },
+                        { "w": "行", "r": "い" },
+                        { "w": "きました。" }
+                    ],
+                    "en": "I went boating on the lake over the weekend.",
+                    "vi": "Cuối tuần tôi đã đi chèo thuyền trên hồ."
+                }
+            },
+            {
+                "id": "k547",
+                "kanji": "港",
+                "onyomi": "コウ",
+                "kunyomi": "みなと",
+                "meaning": { "en": "Harbor", "vi": "Cảng" },
+                "radical": { "en": "氵(water)", "vi": "氵(thủy)" },
+                "mnemonic": {
+                    "en": "A place with water (氵) where everyone (共) can come together. That's a 'harbor' (港).",
+                    "vi": "Một nơi có nước (氵) mà mọi người (共) có thể cùng nhau đến. Đó là một 'bến cảng' (港)."
+                },
+                "examples": [
+                    { "word": "港", "reading": "みなと", "meaning": { "en": "Harbor, port", "vi": "Bến cảng" } },
+                    { "word": "空港", "reading": "くうこう", "meaning": { "en": "Airport", "vi": "Sân bay" } }
+                ],
+                "sentence": {
+                    "jp_tokens": [
+                        { "w": "大", "r": "おお" },
+                        { "w": "きな" },
+                        { "w": "船", "r": "ふね" },
+                        { "w": "が" },
+                        { "w": "港", "r": "みなと" },
+                        { "w": "に" },
+                        { "w": "入", "r": "はい" },
+                        { "w": "ってきた。" }
+                    ],
+                    "en": "A large ship came into the harbor.",
+                    "vi": "Một con tàu lớn đã vào cảng."
+                }
+            },
+            {
+                "id": "k548",
+                "kanji": "湯",
+                "onyomi": "トウ",
+                "kunyomi": "ゆ",
+                "meaning": { "en": "Hot water", "vi": "Nước nóng" },
+                "radical": { "en": "氵(water)", "vi": "氵(thủy)" },
+                "mnemonic": {
+                    "en": "Water (氵) that is easy (易) to use because it's already heated. This is 'hot water' (湯).",
+                    "vi": "Nước (氵) dễ (易) sử dụng vì đã được đun nóng. Đây là 'nước nóng' (湯)."
+                },
+                "examples": [
+                    { "word": "お湯", "reading": "おゆ", "meaning": { "en": "Hot water", "vi": "Nước nóng" } },
+                    { "word": "熱湯", "reading": "ねっとう", "meaning": { "en": "Boiling water", "vi": "Nước sôi" } }
+                ],
+                "sentence": {
+                    "jp_tokens": [
+                        { "w": "お" },
+                        { "w": "湯", "r": "ゆ" },
+                        { "w": "を" },
+                        { "w": "沸", "r": "わ" },
+                        { "w": "かしてください。" }
+                    ],
+                    "en": "Please boil the water.",
+                    "vi": "Làm ơn đun sôi nước."
+                }
+            },
+            {
+                "id": "k549",
+                "kanji": "階",
+                "onyomi": "カイ",
+                "kunyomi": "",
+                "meaning": { "en": "Floor, story", "vi": "Tầng, lầu" },
+                "radical": { "en": "阝(B) (hill/mound)", "vi": "阝(B) (phụ)" },
+                "mnemonic": {
+                    "en": "On a hill (阝), everyone (皆) has their own 'floor' in a building.",
+                    "vi": "Trên một ngọn đồi (阝), mọi người (皆) đều có 'tầng' riêng của mình trong một tòa nhà."
+                },
+                "examples": [
+                    { "word": "〜階", "reading": "〜かい", "meaning": { "en": "floor (counter)", "vi": "tầng (hậu tố đếm)" } },
+                    { "word": "階段", "reading": "かいだん", "meaning": { "en": "Stairs", "vi": "Cầu thang" } }
+                ],
+                "sentence": {
+                    "jp_tokens": [
+                        { "w": "私", "r": "わたし" },
+                        { "w": "の" },
+                        { "w": "部屋", "r": "へや" },
+                        { "w": "は" },
+                        { "w": "三", "r": "さん" },
+                        { "w": "階", "r": "がい" },
+                        { "w": "にあります。" }
+                    ],
+                    "en": "My room is on the third floor.",
+                    "vi": "Phòng của tôi ở trên tầng ba."
+                }
+            },
+            {
+                "id": "k550",
+                "kanji": "庭",
+                "onyomi": "テイ",
+                "kunyomi": "にわ",
+                "meaning": { "en": "Garden, yard", "vi": "Vườn" },
+                "radical": { "en": "广 (house on cliff)", "vi": "广 (nghiễm)" },
+                "mnemonic": {
+                    "en": "An open space (广) where the court (廷) can gather. This is a 'garden' or 'yard'.",
+                    "vi": "Một không gian mở (广) nơi triều đình (廷) có thể tụ họp. Đây là một 'khu vườn'."
+                },
+                "examples": [
+                    { "word": "庭", "reading": "にわ", "meaning": { "en": "Garden, yard", "vi": "Sân, vườn" } },
+                    { "word": "校庭", "reading": "こうてい", "meaning": { "en": "Schoolyard", "vi": "Sân trường" } },
+                    { "word": "家庭", "reading": "かてい", "meaning": { "en": "Home, family", "vi": "Gia đình" } }
+                ],
+                "sentence": {
+                    "jp_tokens": [
+                        { "w": "庭", "r": "にわ" },
+                        { "w": "には" },
+                        { "w": "きれいな" },
+                        { "w": "花", "r": "はな" },
+                        { "w": "が" },
+                        { "w": "咲", "r": "さ" },
+                        { "w": "いています。" }
+                    ],
+                    "en": "Beautiful flowers are blooming in the garden.",
+                    "vi": "Trong vườn có những bông hoa đẹp đang nở."
+                }
+            }
+        ]
+    },
+    "moreVerbs": {
+        "en": "More Verbs ✍️",
+        "vi": "Thêm Động từ ✍️",
+        "items": [
+            {
+                "id": "k551",
+                "kanji": "投",
+                "onyomi": "トウ",
+                "kunyomi": "な.げる",
+                "meaning": { "en": "Throw", "vi": "Ném" },
+                "radical": { "en": "扌 (hand)", "vi": "扌 (thủ)" },
+                "mnemonic": {
+                    "en": "Use your hand (扌) to 'throw' a spear (殳).",
+                    "vi": "Dùng tay (扌) để 'ném' một ngọn giáo (殳)."
+                },
+                "examples": [
+                    { "word": "投げる", "reading": "なげる", "meaning": { "en": "To throw", "vi": "Ném" } },
+                    { "word": "投資", "reading": "とうし", "meaning": { "en": "Investment", "vi": "Đầu tư" } }
+                ],
+                "sentence": {
+                    "jp_tokens": [
+                        { "w": "ボール" },
+                        { "w": "を" },
+                        { "w": "遠", "r": "とお" },
+                        { "w": "くに" },
+                        { "w": "投", "r": "な" },
+                        { "w": "げてください。" }
+                    ],
+                    "en": "Please throw the ball far.",
+                    "vi": "Làm ơn ném quả bóng đi xa."
+                }
+            },
+            {
+                "id": "k552",
+                "kanji": "拾",
+                "onyomi": "シュウ, ジュウ",
+                "kunyomi": "ひろ.う",
+                "meaning": { "en": "Pick up", "vi": "Nhặt" },
+                "radical": { "en": "扌 (hand)", "vi": "扌 (thủ)" },
+                "mnemonic": {
+                    "en": "Use your hand (扌) to 'pick up' something that fits (合) in it.",
+                    "vi": "Dùng tay (扌) để 'nhặt' một thứ gì đó vừa vặn (合) với nó."
+                },
+                "examples": [
+                    { "word": "拾う", "reading": "ひろう", "meaning": { "en": "To pick up, gather", "vi": "Nhặt, lượm" } }
+                ],
+                "sentence": {
+                    "jp_tokens": [
+                        { "w": "道", "r": "みち" },
+                        { "w": "で" },
+                        { "w": "財布", "r": "さいふ" },
+                        { "w": "を" },
+                        { "w": "拾", "r": "ひろ" },
+                        { "w": "いました。" }
+                    ],
+                    "en": "I picked up a wallet on the street.",
+                    "vi": "Tôi đã nhặt được một chiếc ví trên đường."
+                }
+            },
+            {
+                "id": "k553",
+                "kanji": "払",
+                "onyomi": "フツ",
+                "kunyomi": "はら.う",
+                "meaning": { "en": "Pay", "vi": "Trả tiền" },
+                "radical": { "en": "扌 (hand)", "vi": "扌 (thủ)" },
+                "mnemonic": {
+                    "en": "You use your hand (扌) to make a private (ム) transaction, i.e., to 'pay'.",
+                    "vi": "Bạn dùng tay (扌) để thực hiện một giao dịch riêng tư (ム), tức là để 'trả tiền'."
+                },
+                "examples": [
+                    { "word": "払う", "reading": "はらう", "meaning": { "en": "To pay", "vi": "Trả tiền" } },
+                    { "word": "支払い", "reading": "しはらい", "meaning": { "en": "Payment", "vi": "Sự thanh toán" } }
+                ],
+                "sentence": {
+                    "jp_tokens": [
+                        { "w": "食事", "r": "しょくじ" },
+                        { "w": "の" },
+                        { "w": "後", "r": "あと" },
+                        { "w": "で" },
+                        { "w": "お金", "r": "かね" },
+                        { "w": "を" },
+                        { "w": "払", "r": "はら" },
+                        { "w": "います。" }
+                    ],
+                    "en": "I will pay after the meal.",
+                    "vi": "Tôi sẽ trả tiền sau bữa ăn."
+                }
+            },
+            {
+                "id": "k554",
+                "kanji": "助",
+                "onyomi": "ジョ",
+                "kunyomi": "たす.ける",
+                "meaning": { "en": "Help", "vi": "Giúp đỡ" },
+                "radical": { "en": "力 (power)", "vi": "力 (lực)" },
+                "mnemonic": {
+                    "en": "Again (且) and again, you use your power (力) to 'help' someone.",
+                    "vi": "Lặp đi lặp lại (且), bạn dùng sức mạnh (力) của mình để 'giúp đỡ' ai đó."
+                },
+                "examples": [
+                    { "word": "助ける", "reading": "たすける", "meaning": { "en": "To help, to save", "vi": "Giúp đỡ, cứu" } },
+                    { "word": "助かる", "reading": "たすかる", "meaning": { "en": "To be saved, to be helped", "vi": "Được cứu, được giúp" } },
+                    { "word": "助言", "reading": "じょげん", "meaning": { "en": "Advice", "vi": "Lời khuyên" } }
+                ],
+                "sentence": {
+                    "jp_tokens": [
+                        { "w": "困", "r": "こま" },
+                        { "w": "っている" },
+                        { "w": "人", "r": "ひと" },
+                        { "w": "を" },
+                        { "w": "助", "r": "たす" },
+                        { "w": "けたいです。" }
+                    ],
+                    "en": "I want to help people who are in trouble.",
+                    "vi": "Tôi muốn giúp đỡ những người đang gặp khó khăn."
+                }
+            },
+            {
+                "id": "k555",
+                "kanji": "折",
+                "onyomi": "セツ",
+                "kunyomi": "お.る",
+                "meaning": { "en": "Break, fold", "vi": "Bẻ, gấp" },
+                "radical": { "en": "扌 (hand)", "vi": "扌 (thủ)" },
+                "mnemonic": {
+                    "en": "Use your hand (扌) to 'break' an axe (斤).",
+                    "vi": "Dùng tay (扌) để 'bẻ' gãy một cái rìu (斤)."
+                },
+                "examples": [
+                    { "word": "折る", "reading": "おる", "meaning": { "en": "To break, to fold", "vi": "Bẻ, gấp" } },
+                    { "word": "折れる", "reading": "おれる", "meaning": { "en": "To be broken, to be folded", "vi": "Bị gãy, bị gấp" } },
+                    { "word": "骨折", "reading": "こっせつ", "meaning": { "en": "Bone fracture", "vi": "Gãy xương" } }
+                ],
+                "sentence": {
+                    "jp_tokens": [
+                        { "w": "紙", "r": "かみ" },
+                        { "w": "を" },
+                        { "w": "半分", "r": "はんぶん" },
+                        { "w": "に" },
+                        { "w": "折", "r": "お" },
+                        { "w": "ってください。" }
+                    ],
+                    "en": "Please fold the paper in half.",
+                    "vi": "Làm ơn gấp tờ giấy làm đôi."
+                }
+            },
+            {
+                "id": "k556",
+                "kanji": "慣",
+                "onyomi": "カン",
+                "kunyomi": "な.れる",
+                "meaning": { "en": "Get used to", "vi": "Quen với" },
+                "radical": { "en": "忄(heart)", "vi": "忄(tâm)" },
+                "mnemonic": {
+                    "en": "Your heart (忄) pierces through (貫) a difficult task, and you finally 'get used to' it.",
+                    "vi": "Trái tim (忄) của bạn xuyên qua (貫) một công việc khó khăn, và cuối cùng bạn cũng 'quen với' nó."
+                },
+                "examples": [
+                    { "word": "慣れる", "reading": "なれる", "meaning": { "en": "To get used to", "vi": "Quen với" } },
+                    { "word": "習慣", "reading": "しゅうかん", "meaning": { "en": "Habit, custom", "vi": "Thói quen, tập quán" } }
+                ],
+                "sentence": {
+                    "jp_tokens": [
+                        { "w": "新", "r": "あたら" },
+                        { "w": "しい" },
+                        { "w": "生活", "r": "せいかつ" },
+                        { "w": "に" },
+                        { "w": "早", "r": "はや" },
+                        { "w": "く" },
+                        { "w": "慣", "r": "な" },
+                        { "w": "れたいです。" }
+                                        ],
+                    "en": "I want to get used to the new life quickly.",
+                    "vi": "Tôi muốn nhanh chóng quen với cuộc sống mới."
+                }
+            },
+            {
+                "id": "k557",
+                "kanji": "育",
+                "onyomi": "イク",
+                "kunyomi": "そだ.つ",
+                "meaning": { "en": "Raise, bring up", "vi": "Nuôi dưỡng, giáo dục" },
+                "radical": { "en": "月 (meat/flesh)", "vi": "月 (nhục)" },
+                "mnemonic": {
+                    "en": "A child (top part) is given flesh (月) and nutrients to 'be raised'.",
+                    "vi": "Một đứa trẻ (phần trên) được cho ăn thịt (月) và chất dinh dưỡng để được 'nuôi dưỡng'."
+                },
+                "examples": [
+                    { "word": "育つ", "reading": "そだつ", "meaning": { "en": "To be raised, to grow up", "vi": "Lớn lên, phát triển" } },
+                    { "word": "育てる", "reading": "そだてる", "meaning": { "en": "To raise, to bring up", "vi": "Nuôi nấng" } },
+                    { "word": "教育", "reading": "きょういく", "meaning": { "en": "Education", "vi": "Giáo dục" } }
+                ],
+                "sentence": {
+                    "jp_tokens": [
+                        { "w": "親", "r": "おや" },
+                        { "w": "は" },
+                        { "w": "子供", "r": "こども" },
+                        { "w": "を" },
+                        { "w": "大切", "r": "たいせつ" },
+                        { "w": "に" },
+                        { "w": "育", "r": "そだ" },
+                        { "w": "てるべきだ。" }
+                    ],
+                    "en": "Parents should raise their children with care.",
+                    "vi": "Cha mẹ nên nuôi dạy con cái cẩn thận."
+                }
+            },
+            {
+                "id": "k558",
+                "kanji": "調",
+                "onyomi": "チョウ",
+                "kunyomi": "しら.べる",
+                "meaning": { "en": "Investigate, tune", "vi": "Điều tra, điều chỉnh" },
+                "radical": { "en": "言 (word)", "vi": "言 (ngôn)" },
+                "mnemonic": {
+                    "en": "Using words (言) that go all around (周) to 'investigate' a matter thoroughly.",
+                    "vi": "Sử dụng lời nói (言) đi khắp nơi (周) để 'điều tra' một vấn đề một cách kỹ lưỡng."
+                },
+                "examples": [
+                    { "word": "調べる", "reading": "しらべる", "meaning": { "en": "To investigate, to look up", "vi": "Điều tra, tra cứu" } },
+                    { "word": "調子", "reading": "ちょうし", "meaning": { "en": "Condition, state", "vi": "Tình trạng, phong độ" } },
+                    { "word": "強調", "reading": "きょうちょう", "meaning": { "en": "Emphasis", "vi": "Sự nhấn mạnh" } }
+                ],
+                "sentence": {
+                    "jp_tokens": [
+                        { "w": "事件", "r": "じけん" },
+                        { "w": "の" },
+                        { "w": "原因", "r": "げんいん" },
+                        { "w": "を" },
+                        { "w": "調", "r": "しら" },
+                        { "w": "べています。" }
+                    ],
+                    "en": "I am investigating the cause of the incident.",
+                    "vi": "Tôi đang điều tra nguyên nhân của vụ việc."
+                }
+            },
+            {
+                "id": "k559",
+                "kanji": "直",
+                "onyomi": "チョク, ジキ",
+                "kunyomi": "なお.す, ただ.ちに",
+                "meaning": { "en": "Fix, direct", "vi": "Sửa, trực tiếp" },
+                "radical": { "en": "目 (eye)", "vi": "目 (mục)" },
+                "mnemonic": {
+                    "en": "Ten (十) eyes (目) look at something to make sure it's 'straight' or to 'fix' it.",
+                    "vi": "Mười (十) con mắt (目) nhìn vào một cái gì đó để đảm bảo nó 'thẳng' hoặc để 'sửa' nó."
+                },
+                "examples": [
+                    { "word": "直す", "reading": "なおす", "meaning": { "en": "To fix, to repair", "vi": "Sửa chữa" } },
+                    { "word": "直る", "reading": "なおる", "meaning": { "en": "To be fixed, to get well", "vi": "Được sửa, khỏi bệnh" } },
+                    { "word": "直接", "reading": "ちょくせつ", "meaning": { "en": "Directly", "vi": "Trực tiếp" } }
+                ],
+                "sentence": {
+                    "jp_tokens": [
+                        { "w": "壊", "r": "こわ" },
+                        { "w": "れた" },
+                        { "w": "時計", "r": "とけい" },
+                        { "w": "を" },
+                        { "w": "直", "r": "なお" },
+                        { "w": "してもらいました。" }
+                    ],
+                    "en": "I had my broken watch fixed.",
+                    "vi": "Tôi đã được sửa chiếc đồng hồ bị hỏng."
+                }
+            },
+            {
+                "id": "k560",
+                "kanji": "辞",
+                "onyomi": "ジ",
+                "kunyomi": "や.める",
+                "meaning": { "en": "Resign, word", "vi": "Từ chức, từ ngữ" },
+                "radical": { "en": "辛 (spicy)", "vi": "辛 (tân)" },
+                "mnemonic": {
+                    "en": "A bitter tongue (舌) and spicy (辛) words are needed to 'resign' or to form the 'words' in a dictionary.",
+                    "vi": "Cần một cái lưỡi (舌) cay đắng và những lời lẽ cay độc (辛) để 'từ chức' hoặc để tạo thành 'từ ngữ' trong từ điển."
+                },
+                "examples": [
+                    { "word": "辞める", "reading": "やめる", "meaning": { "en": "To resign, to quit", "vi": "Nghỉ việc, từ chức" } },
+                    { "word": "辞書", "reading": "じしょ", "meaning": { "en": "Dictionary", "vi": "Từ điển" } }
+                ],
+                "sentence": {
+                    "jp_tokens": [
+                        { "w": "彼", "r": "かれ" },
+                        { "w": "は" },
+                        { "w": "会社", "r": "かいしゃ" },
+                        { "w": "を" },
+                        { "w": "辞", "r": "や" },
+                        { "w": "めることにした。" }
+                    ],
+                    "en": "He decided to quit the company.",
+                    "vi": "Anh ấy đã quyết định nghỉ việc ở công ty."
+                }
+            }
+        ]
+    },
+    "communicationAndInformation": {
+        "en": "Communication & Info 📢",
+        "vi": "Giao tiếp & Thông tin 📢",
+        "items": [
+            {
+                "id": "k561",
+                "kanji": "報",
+                "onyomi": "ホウ",
+                "kunyomi": "むく.いる",
+                "meaning": { "en": "Report, information", "vi": "Báo cáo, thông tin" },
+                "radical": { "en": "扌 (hand)", "vi": "扌 (thủ)" },
+                "mnemonic": {
+                    "en": "A hand (扌) offers happiness (幸) as a 'report' or piece of 'information'.",
+                    "vi": "Một bàn tay (扌) mang lại hạnh phúc (幸) như một 'báo cáo' hoặc một mẩu 'thông tin'."
+                },
+                "examples": [
+                    { "word": "情報", "reading": "じょうほう", "meaning": { "en": "Information", "vi": "Thông tin" } },
+                    { "word": "報告", "reading": "ほうこく", "meaning": { "en": "Report", "vi": "Báo cáo" } },
+                    { "word": "天気予報", "reading": "てんきよほう", "meaning": { "en": "Weather forecast", "vi": "Dự báo thời tiết" } }
+                ],
+                "sentence": {
+                    "jp_tokens": [
+                        { "w": "重要", "r": "じゅうよう" },
+                        { "w": "な" },
+                        { "w": "情報", "r": "じょうほう" },
+                        { "w": "を" },
+                        { "w": "入手", "r": "にゅうしゅ" },
+                        { "w": "しました。" }
+                    ],
+                    "en": "I have obtained important information.",
+                    "vi": "Tôi đã có được thông tin quan trọng."
+                }
+            },
+            {
+                "id": "k562",
+                "kanji": "告",
+                "onyomi": "コク",
+                "kunyomi": "つ.げる",
+                "meaning": { "en": "Inform, announce", "vi": "Thông báo, cáo thị" },
+                "radical": { "en": "口 (mouth)", "vi": "口 (khẩu)" },
+                "mnemonic": {
+                    "en": "A cow (牛) uses its mouth (口) to 'announce' something to the herd.",
+                    "vi": "Một con bò (牛) dùng miệng (口) của mình để 'thông báo' điều gì đó cho cả đàn."
+                },
+                "examples": [
+                    { "word": "報告", "reading": "ほうこく", "meaning": { "en": "Report", "vi": "Báo cáo" } },
+                    { "word": "広告", "reading": "こうこく", "meaning": { "en": "Advertisement", "vi": "Quảng cáo" } },
+                    { "word": "警告", "reading": "けいこく", "meaning": { "en": "Warning", "vi": "Cảnh cáo" } }
+                ],
+                "sentence": {
+                    "jp_tokens": [
+                        { "w": "彼", "r": "かれ" },
+                        { "w": "に" },
+                        { "w": "会議", "r": "かいぎ" },
+                        { "w": "の" },
+                        { "w": "時間", "r": "じかん" },
+                        { "w": "を" },
+                        { "w": "告", "r": "つ" },
+                        { "w": "げてください。" }
+                    ],
+                    "en": "Please inform him of the meeting time.",
+                    "vi": "Làm ơn thông báo cho anh ấy thời gian cuộc họp."
+                }
+            },
+            {
+                "id": "k563",
+                "kanji": "談",
+                "onyomi": "ダン",
+                "kunyomi": "",
+                "meaning": { "en": "Discuss, talk", "vi": "Thảo luận, nói chuyện" },
+                "radical": { "en": "言 (word)", "vi": "言 (ngôn)" },
+                "mnemonic": {
+                    "en": "Using words (言) while there is fire (炎) and passion to 'discuss' something.",
+                    "vi": "Sử dụng lời nói (言) khi có lửa (炎) và đam mê để 'thảo luận' một điều gì đó."
+                },
+                "examples": [
+                    { "word": "相談", "reading": "そうだん", "meaning": { "en": "Consultation, discussion", "vi": "Thảo luận, trao đổi" } },
+                    { "word": "冗談", "reading": "じょうだん", "meaning": { "en": "Joke", "vi": "Nói đùa" } }
+                ],
+                "sentence": {
+                    "jp_tokens": [
+                        { "w": "何", "r": "なに" },
+                        { "w": "か" },
+                        { "w": "問題", "r": "もんだい" },
+                        { "w": "があれば、" },
+                        { "w": "相談", "r": "そうだん" },
+                        { "w": "してください。" }
+                    ],
+                    "en": "If you have any problems, please consult with me.",
+                    "vi": "Nếu có vấn đề gì, hãy trao đổi với tôi nhé."
+                }
+            },
+            {
+                "id": "k564",
+                "kanji": "信",
+                "onyomi": "シン",
+                "kunyomi": "",
+                "meaning": { "en": "Believe, trust", "vi": "Tin tưởng, tín nhiệm" },
+                "radical": { "en": "亻 (person)", "vi": "亻 (nhân)" },
+                "mnemonic": {
+                    "en": "A person (亻) stands by their word (言). You can 'trust' them.",
+                    "vi": "Một người (亻) giữ lời (言) của mình. Bạn có thể 'tin tưởng' họ."
+                },
+                "examples": [
+                    { "word": "信じる", "reading": "しんじる", "meaning": { "en": "To believe", "vi": "Tin tưởng" } },
+                    { "word": "自信", "reading": "じしん", "meaning": { "en": "Confidence", "vi": "Sự tự tin" } },
+                    { "word": "信号", "reading": "しんごう", "meaning": { "en": "Traffic light", "vi": "Đèn giao thông" } }
+                ],
+                "sentence": {
+                    "jp_tokens": [
+                        { "w": "私", "r": "わたし" },
+                        { "w": "は" },
+                        { "w": "彼", "r": "かれ" },
+                        { "w": "の" },
+                        { "w": "成功", "r": "せいこう" },
+                        { "w": "を" },
+                        { "w": "信", "r": "しん" },
+                        { "w": "じています。" }
+                    ],
+                    "en": "I believe in his success.",
+                    "vi": "Tôi tin vào thành công của anh ấy."
+                }
+            }
+        ]
+    },
+    "adjectivesAndStates": {
+        "en": "Adjectives & States 🎨",
+        "vi": "Tính từ & Trạng thái 🎨",
+        "items": [
+            {
+                "id": "k565",
+                "kanji": "苦",
+                "onyomi": "ク",
+                "kunyomi": "くる.しい, にが.い",
+                "meaning": { "en": "Painful, bitter", "vi": "Đau khổ, đắng" },
+                "radical": { "en": "艹 (grass)", "vi": "艹 (thảo)" },
+                "mnemonic": {
+                    "en": "Eating old (古) grass (艹) is a 'painful' and 'bitter' experience.",
+                    "vi": "Ăn cỏ (艹) cũ (古) là một trải nghiệm 'đau đớn' và 'đắng ngắt'."
+                },
+                "examples": [
+                    { "word": "苦しい", "reading": "くるしい", "meaning": { "en": "Painful, difficult", "vi": "Đau đớn, khổ sở" } },
+                    { "word": "苦い", "reading": "にがい", "meaning": { "en": "Bitter", "vi": "Đắng" } },
+                    { "word": "苦手", "reading": "にがて", "meaning": { "en": "Poor at, weak in", "vi": "Kém, yếu" } }
+                ],
+                "sentence": {
+                    "jp_tokens": [
+                        { "w": "この" },
+                        { "w": "薬", "r": "くすり" },
+                        { "w": "は" },
+                        { "w": "とても" },
+                        { "w": "苦", "r": "にが" },
+                        { "w": "い。" }
+                    ],
+                    "en": "This medicine is very bitter.",
+                    "vi": "Thuốc này rất đắng."
+                }
+            },
+            {
+                "id": "k566",
+                "kanji": "眠",
+                "onyomi": "ミン",
+                "kunyomi": "ねむ.る, ねむ.い",
+                "meaning": { "en": "Sleep, sleepy", "vi": "Ngủ, buồn ngủ" },
+                "radical": { "en": "目 (eye)", "vi": "目 (mục)" },
+                "mnemonic": {
+                    "en": "Your eye (目) sees the people (民) and suddenly you feel 'sleepy'.",
+                    "vi": "Mắt (目) bạn nhìn thấy người dân (民) và đột nhiên bạn cảm thấy 'buồn ngủ'."
+                },
+                "examples": [
+                    { "word": "眠い", "reading": "ねむい", "meaning": { "en": "Sleepy", "vi": "Buồn ngủ" } },
+                    { "word": "眠る", "reading": "ねむる", "meaning": { "en": "To sleep", "vi": "Ngủ" } },
+                    { "word": "睡眠", "reading": "すいみん", "meaning": { "en": "Sleep", "vi": "Giấc ngủ" } }
+                ],
+                "sentence": {
+                    "jp_tokens": [
+                        { "w": "昨日", "r": "きのう" },
+                        { "w": "は" },
+                        { "w": "よく" },
+                        { "w": "眠", "r": "ねむ" },
+                        { "w": "れなかったので、" },
+                        { "w": "今日", "r": "きょう" },
+                        { "w": "は" },
+                        { "w": "とても" },
+                        { "w": "眠", "r": "ねむ" },
+                        { "w": "い。" }
+                    ],
+                    "en": "I couldn't sleep well yesterday, so I'm very sleepy today.",
+                    "vi": "Hôm qua tôi không ngủ ngon nên hôm nay rất buồn ngủ."
+                }
+            },
+            {
+                "id": "k567",
+                "kanji": "静",
+                "onyomi": "セイ, ジョウ",
+                "kunyomi": "しず.か",
+                "meaning": { "en": "Quiet, still", "vi": "Yên tĩnh" },
+                "radical": { "en": "青 (blue)", "vi": "青 (thanh)" },
+                "mnemonic": {
+                    "en": "A blue (青) dispute (争). When the dispute is over, everything becomes 'quiet'.",
+                    "vi": "Một cuộc tranh cãi (争) xanh (青). Khi cuộc tranh cãi kết thúc, mọi thứ trở nên 'yên tĩnh'."
+                },
+                "examples": [
+                    { "word": "静か", "reading": "しずか", "meaning": { "en": "Quiet", "vi": "Yên tĩnh" } },
+                    { "word": "冷静", "reading": "れいせい", "meaning": { "en": "Calm", "vi": "Bình tĩnh" } }
+                ],
+                "sentence": {
+                    "jp_tokens": [
+                        { "w": "図書館", "r": "としょかん" },
+                        { "w": "では" },
+                        { "w": "静", "r": "しず" },
+                        { "w": "かにしてください。" }
+                    ],
+                    "en": "Please be quiet in the library.",
+                    "vi": "Vui lòng giữ im lặng trong thư viện."
+                }
+            },
+            {
+                "id": "k568",
+                "kanji": "涼",
+                "onyomi": "リョウ",
+                "kunyomi": "すず.しい",
+                "meaning": { "en": "Cool (weather)", "vi": "Mát mẻ" },
+                "radical": { "en": "氵(water)", "vi": "氵(thủy)" },
+                "mnemonic": {
+                    "en": "Water (氵) from the capital (京) makes the weather 'cool'.",
+                    "vi": "Nước (氵) từ kinh đô (京) làm cho thời tiết 'mát mẻ'."
+                },
+                "examples": [
+                    { "word": "涼しい", "reading": "すずしい", "meaning": { "en": "Cool (weather)", "vi": "Mát mẻ" } },
+                    { "word": "涼む", "reading": "すずむ", "meaning": { "en": "To cool oneself", "vi": "Làm mát" } }
+                ],
+                "sentence": {
+                    "jp_tokens": [
+                        { "w": "今日", "r": "きょう" },
+                        { "w": "は" },
+                        { "w": "昨日", "r": "きのう" },
+                        { "w": "より" },
+                        { "w": "涼", "r": "すず" },
+                        { "w": "しいですね。" }
+                    ],
+                    "en": "It's cooler today than yesterday, isn't it?",
+                    "vi": "Hôm nay mát hơn hôm qua nhỉ?"
+                }
+            },
+            {
+                "id": "k569",
+                "kanji": "危",
+                "onyomi": "キ",
+                "kunyomi": "あぶ.ない",
+                "meaning": { "en": "Dangerous", "vi": "Nguy hiểm" },
+                "radical": { "en": "卩 (seal)", "vi": "卩 (tiết)" },
+                "mnemonic": {
+                    "en": "Someone bound (卩) at the edge of a cliff (厄 without the final stroke). This is a 'dangerous' situation.",
+                    "vi": "Ai đó bị trói (卩) ở mép vách đá (厄 không có nét cuối). Đây là một tình huống 'nguy hiểm'."
+                },
+                "examples": [
+                    { "word": "危ない", "reading": "あぶない", "meaning": { "en": "Dangerous", "vi": "Nguy hiểm" } },
+                    { "word": "危険", "reading": "きけん", "meaning": { "en": "Danger, risk", "vi": "Sự nguy hiểm" } }
+                ],
+                "sentence": {
+                    "jp_tokens": [
+                        { "w": "この" },
+                        { "w": "川", "r": "かわ" },
+                        { "w": "で" },
+                        { "w": "泳", "r": "およ" },
+                        { "w": "ぐのは" },
+                        { "w": "危", "r": "あぶ" },
+                        { "w": "ないですよ。" }
+                    ],
+                    "en": "It is dangerous to swim in this river.",
+                    "vi": "Bơi ở con sông này rất nguy hiểm."
+                }
+            },
+            {
+                "id": "k570",
+                "kanji": "変",
+                "onyomi": "ヘン",
+                "kunyomi": "か.わる",
+                "meaning": { "en": "Change, strange", "vi": "Thay đổi, lạ" },
+                "radical": { "en": "言 (word)", "vi": "言 (ngôn)" },
+                "mnemonic": {
+                    "en": "Words (言) that have many threads (幺) and are struck (攵) are 'strange' and 'changeable'.",
+                    "vi": "Những lời nói (言) có nhiều sợi tơ (幺) và bị đánh (攵) là 'kỳ lạ' và 'hay thay đổi'."
+                },
+                "examples": [
+                    { "word": "変わる", "reading": "かわる", "meaning": { "en": "To change (intransitive)", "vi": "Thay đổi (tự động từ)" } },
+                    { "word": "変える", "reading": "かえる", "meaning": { "en": "To change (transitive)", "vi": "Thay đổi (tha động từ)" } },
+                    { "word": "大変", "reading": "たいへん", "meaning": { "en": "Terrible, very", "vi": "Vất vả, rất" } },
+                    { "word": "変な", "reading": "へんな", "meaning": { "en": "Strange, weird", "vi": "Kỳ lạ, quái" } }
+                ],
+                "sentence": {
+                    "jp_tokens": [
+                        { "w": "信号", "r": "しんごう" },
+                        { "w": "の" },
+                        { "w": "色", "r": "いろ" },
+                        { "w": "が" },
+                        { "w": "赤", "r": "あか" },
+                        { "w": "に" },
+                        { "w": "変", "r": "か" },
+                        { "w": "わった。" }
+                    ],
+                    "en": "The color of the traffic light changed to red.",
+                    "vi": "Màu đèn giao thông đã chuyển sang màu đỏ."
                 }
             }
         ]
