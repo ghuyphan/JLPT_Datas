@@ -1,0 +1,171 @@
+{
+  "causativePassive": {
+    "en": "Causative, Passive & Causative-Passive Voice ⚙️",
+    "vi": "Thể Sai khiến, Bị động & Bị động Sai khiến ⚙️",
+    "type": "table",
+    "introduction": {
+      "en": "Mastering these three forms is crucial for N3. They change who is doing the action and who is being affected by it.",
+      "vi": "Nắm vững ba thể này là cực kỳ quan trọng cho N3. Chúng thay đổi ai là người thực hiện hành động và ai là người bị ảnh hưởng bởi hành động đó."
+    },
+    "content": [
+      {
+        "Form": "Causative (使役形 - Shieki-kei)",
+        "Usage": {
+          "en": "To make or let someone do something. (e.g., The director made the actor wait).",
+          "vi": "Bắt hoặc để ai đó làm gì đó. (VD: Đạo diễn bắt diễn viên phải đợi)."
+        },
+        "Example": "先生は学生に作文を書かせた。(Sensei wa gakusei ni sakubun o kakaseta.) - The teacher made the students write an essay."
+      },
+      {
+        "Form": "Passive (受身形 - Ukemi-kei)",
+        "Usage": {
+          "en": "To express that something was done to the subject. (e.g., The book was read by me).",
+          "vi": "Diễn tả rằng một điều gì đó đã được thực hiện đối với chủ ngữ. (VD: Cuốn sách được tôi đọc)."
+        },
+        "Example": "この絵は有名な画家によって描かれた。(Kono e wa yūmei na gaka ni yotte kakareta.) - This picture was painted by a famous artist."
+      },
+      {
+        "Form": "Causative-Passive (使役受身形 - Shieki-ukemi-kei)",
+        "Usage": {
+          "en": "To express being forced or made to do something against one's will. (e.g., I was made to clean the room).",
+          "vi": "Diễn tả việc bị ép buộc hoặc bị bắt làm điều gì đó trái với ý muốn của mình. (VD: Tôi bị bắt dọn phòng)."
+        },
+        "Example": "私は母に野菜を食べさせられた。(Watashi wa haha ni yasai o tabesaserareta.) - I was made to eat vegetables by my mother."
+      }
+    ]
+  },
+  "conditionalForms": {
+    "en": "Nuanced Conditional Forms (条件形) 🤔",
+    "vi": "Các dạng câu điều kiện phức tạp (条件形) 🤔",
+    "type": "table",
+    "introduction": {
+      "en": "N3 introduces more specific ways to say 'if' beyond the basic と, たら, ば, and なら.",
+      "vi": "N3 giới thiệu các cách nói 'nếu' cụ thể hơn ngoài các dạng cơ bản と, たら, ば, và なら."
+    },
+    "content": [
+      {
+        "Pattern": "～としたら / ～とすれば",
+        "Usage": {
+          "en": "Used for strong, often unrealistic, hypothetical situations. 'Supposing that...', 'If we assume that...'.",
+          "vi": "Dùng cho các tình huống giả định mạnh, thường là phi thực tế. 'Giả sử rằng...', 'Nếu cho là...'."
+        },
+        "Example": "もし、宝くじで一億円が当たったとしたら、仕事を辞めますか。(Moshi, takarakuji de ichioku-en ga atatta to shitara, shigoto o yamemasu ka.)"
+      },
+      {
+        "Pattern": "～としても",
+        "Usage": {
+          "en": "Means 'even if'. Used when the result is the same regardless of the condition.",
+          "vi": "Có nghĩa là 'ngay cả nếu'. Dùng khi kết quả không thay đổi bất kể điều kiện là gì."
+        },
+        "Example": "たとえ反対されたとしても、私の意見は変わりません。(Tatoe hantai sareta to shitemo, watashi no iken wa kawarimasen.)"
+      },
+      {
+        "Pattern": "～限り (かぎり)",
+        "Usage": {
+          "en": "Means 'as long as'. The result holds true as long as the condition is met.",
+          "vi": "Có nghĩa là 'chừng nào mà'. Kết quả sẽ đúng miễn là điều kiện được đáp ứng."
+        },
+        "Example": "私が知っている限り、彼は正直な人です。(Watashi ga shitteiru kagiri, kare wa shōjiki na hito desu.)"
+      },
+      {
+        "Pattern": "～場合に(は)",
+        "Usage": {
+          "en": "Means 'in the case that'. A more formal way to talk about a possibility, often used in instructions or rules.",
+          "vi": "Có nghĩa là 'trong trường hợp'. Một cách nói trang trọng hơn về một khả năng, thường dùng trong các hướng dẫn hoặc quy tắc."
+        },
+        "Example": "火事の場合には、エレベーターを使わないでください。(Kaji no baai ni wa, erebētā o tsukawanai de kudasai.)"
+      }
+    ]
+  },
+  "keyGrammarPatterns": {
+    "en": "Essential N3 Grammar Patterns (主な文法) 📚",
+    "vi": "Các mẫu ngữ pháp N3 thiết yếu (主な文法) 📚",
+    "type": "table",
+    "content": [
+      {
+        "Pattern": "～おかげで / ～せいで",
+        "Usage": {
+          "en": "おかげで for positive results ('thanks to'). せいで for negative results ('because of', 'due to').",
+          "vi": "おかげで cho kết quả tích cực ('nhờ có'). せいで cho kết quả tiêu cực ('tại vì', 'do')."
+        },
+        "Example": "先生のおかげで合格できました。/ 寝坊したせいで、電車に乗り遅れた。"
+      },
+      {
+        "Pattern": "～うちに",
+        "Usage": {
+          "en": "Means 'while' or 'before something changes'. Implies a limited window of opportunity.",
+          "vi": "Có nghĩa là 'trong khi' hoặc 'trước khi có gì đó thay đổi'. Ngụ ý một khoảng thời gian có hạn."
+        },
+        "Example": "日本にいるうちに、一度富士山に登りたい。(Nihon ni iru uchi ni, ichido Fujisan ni noboritai.)"
+      },
+      {
+        "Pattern": "～ばかり",
+        "Usage": {
+          "en": "Expresses 'just did something' (V-taばかり) or 'only does something' (V-teばかりいる).",
+          "vi": "Diễn tả 'vừa mới làm gì' (V-taばかり) hoặc 'chỉ toàn làm gì' (V-teばかりいる)."
+        },
+        "Example": "食べたばかりでお腹がいっぱいです。/ 弟はゲームをしてばかりいる。"
+      },
+      {
+        "Pattern": "～はずだ / ～わけだ",
+        "Usage": {
+          "en": "はずだ expresses a strong expectation or assumption. わけだ expresses a logical conclusion ('it's no wonder that...').",
+          "vi": "はずだ diễn tả một sự kỳ vọng hoặc giả định mạnh mẽ. わけだ diễn tả một kết luận hợp lý ('thảo nào mà...', 'hèn chi')."
+        },
+        "Example": "彼は来ないはずだ。/ 暑いわけだ、エアコンがついていない。"
+      },
+      {
+        "Pattern": "～ということだ",
+        "Usage": {
+          "en": "Used to report hearsay or information learned from another source. 'I heard that...', 'It seems that...'.",
+          "vi": "Dùng để thuật lại thông tin nghe được từ nguồn khác. 'Tôi nghe nói là...', 'Có vẻ như là...'."
+        },
+        "Example": "ニュースによると、明日は雪が降るということだ。(Nyūsu ni yoru to, ashita wa yuki ga furu to iu koto da.)"
+      },
+      {
+        "Pattern": "～にとって",
+        "Usage": {
+          "en": "Means 'for', 'to', 'from the perspective of'. Indicates a point of view.",
+          "vi": "Có nghĩa là 'đối với', 'theo quan điểm của'. Chỉ một góc nhìn."
+        },
+        "Example": "この問題は私にとって、とても重要です。(Kono mondai wa watashi ni totte, totemo jūyō desu.)"
+      },
+      {
+        "Pattern": "～に違いない (にちがいない)",
+        "Usage": {
+          "en": "Expresses strong conviction or certainty. 'I'm sure that...', 'It must be that...'.",
+          "vi": "Diễn tả sự tin tưởng hoặc chắc chắn mạnh mẽ. 'Tôi chắc chắn là...', 'hẳn là...'."
+        },
+        "Example": "あの人は佐藤さんに違いない。(Ano hito wa Satō-san ni chigainai.)"
+      },
+      {
+        "Pattern": "～まま",
+        "Usage": {
+          "en": "Indicates that a state or condition remains unchanged, often when it should have changed.",
+          "vi": "Chỉ một trạng thái hoặc điều kiện vẫn không thay đổi, thường là khi nó đáng lẽ phải thay đổi."
+        },
+        "Example": "昨夜はテレビをつけたまま寝てしまった。(Sakuya wa terebi o tsuketa mama nete shimatta.)"
+      }
+    ]
+  },
+  "keigoRecap": {
+    "en": "Keigo Quick Reference (敬語のまとめ) 🙇",
+    "vi": "Tham khảo nhanh Kính ngữ (敬語のまとめ) 🙇",
+    "type": "table",
+    "introduction": {
+      "en": "N3 requires confident use of Respectful (尊敬語 - Sonkeigo) and Humble (謙譲語 - Kenjougo) forms for common verbs.",
+      "vi": "N3 đòi hỏi việc sử dụng thành thạo Tôn kính ngữ (尊敬語) và Khiêm nhường ngữ (謙譲語) cho các động từ thông dụng."
+    },
+    "content": [
+      { "Regular": "います", "Respectful (尊敬語)": "いらっしゃいます", "Humble (謙譲語)": "おります" },
+      { "Regular": "行きます / 来ます", "Respectful (尊敬語)": "いらっしゃいます", "Humble (謙譲語)": "参ります (mairimasu) / 伺います (ukagaimasu)" },
+      { "Regular": "見ます", "Respectful (尊敬語)": "ご覧になります (goran ni narimasu)", "Humble (謙譲語)": "拝見します (haiken shimasu)" },
+      { "Regular": "言います", "Respectful (尊敬語)": "おっしゃいます", "Humble (謙譲語)": "申します (mōshimasu)" },
+      { "Regular": "食べます / 飲みます", "Respectful (尊敬語)": "召し上がります (meshiagarimasu)", "Humble (謙譲語)": "いただきます" },
+      { "Regular": "します", "Respectful (尊敬語)": "なさいます", "Humble (謙譲語)": "いたします" },
+      { "Regular": "知っています", "Respectful (尊敬語)": "ご存じです (gozonji desu)", "Humble (謙譲語)": "存じております (zonjite orimasu)" },
+      { "Regular": "もらいます", "Respectful (尊敬語)": "－", "Humble (謙譲語)": "いただきます" },
+      { "Regular": "くれます", "Respectful (尊敬語)": "くださいます", "Humble (謙譲語)": "－" }
+    ]
+  }
+}
