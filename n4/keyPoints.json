@@ -1,162 +1,4 @@
 {
-  "trickyParticles": {
-    "en": "Tricky Particle Cheatsheet 📝",
-    "vi": "Ghi nhớ Trợ từ dễ nhầm lẫn 📝",
-    "type": "table",
-    "content": [
-      {
-        "Particles": "は vs. が",
-        "Usage": {
-          "en": "は marks the topic ('As for...'). が marks the subject or new/specific information.",
-          "vi": "は đánh dấu chủ đề ('Về...'). が đánh dấu chủ ngữ hoặc thông tin mới/cụ thể."
-        },
-        "Example": {
-          "en": "「私は学生です」 (Topic: I am a student.) vs. 「猫がいます」 (Subject: There is a cat.)",
-          "vi": "「私は学生です」 (Chủ đề: Tôi là học sinh.) vs. 「猫がいます」 (Chủ ngữ: Có một con mèo.)"
-        }
-      },
-      {
-        "Particles": "に vs. で",
-        "Usage": {
-          "en": "に marks existence (います/あります), a specific time, or a destination. で marks the location of an action or the tool/means used.",
-          "vi": "に chỉ sự tồn tại, thời gian cụ thể, hoặc điểm đến. で chỉ nơi diễn ra hành động hoặc công cụ/phương tiện."
-        },
-        "Example": {
-          "en": "「７時に起きます」 (Time). 「学校へ行きます」 (Destination). 「図書館で勉強します」 (Action Location). 「バスで行きます」 (Means).",
-          "vi": "「７時に起きます」 (Thời gian). 「学校へ行きます」 (Điểm đến). 「図書館で勉強します」 (Nơi diễn ra hành động). 「バスで行きます」 (Phương tiện)."
-        }
-      },
-      {
-        "Particles": "へ vs. に",
-        "Usage": {
-          "en": "For movement verbs (行きます, etc.), へ emphasizes direction, while に emphasizes the destination. Often interchangeable.",
-          "vi": "Với động từ di chuyển, へ nhấn mạnh phương hướng, に nhấn mạnh điểm đến. Thường có thể thay thế cho nhau."
-        },
-        "Example": {
-          "en": "「東京へ行きます」 (Emphasizes going *towards* Tokyo.)",
-          "vi": "「東京へ行きます」 (Nhấn mạnh việc đi *về hướng* Tokyo.)"
-        }
-      },
-      {
-        "Particles": "を vs. が",
-        "Usage": {
-          "en": "を marks the direct object of an action verb. が is used for the object of preference (好き), dislike (嫌い), or ability (できます).",
-          "vi": "を đánh dấu đối tượng trực tiếp của động từ hành động. が được sử dụng cho đối tượng của sự thích (好き), ghét (嫌い), hoặc khả năng (できます)."
-        },
-        "Example": {
-          "en": "「パンを食べます」 (Object of action: I eat bread.) vs. 「パンが好きです」 (Object of preference: I like bread.)",
-          "vi": "「パンを食べます」 (Đối tượng của hành động: Tôi ăn bánh mì.) vs. 「パンが好きです」 (Đối tượng của sở thích: Tôi thích bánh mì.)"
-        }
-      }
-    ]
-  },
-  "kosoadoWords": {
-    "en": "Kosoado Words (Demonstratives) 👇",
-    "vi": "Từ chỉ định (Kosoado) 👇",
-    "type": "table-grid",
-    "content": [
-      {
-        "title": { "en": "こ- (Here, near speaker)", "vi": "こ- (Đây, gần người nói)" },
-        "data": [
-          { "Reading": "これ (kore)", "Meaning": { "en": "this one", "vi": "cái này" }, "Category": { "en": "Thing", "vi": "Vật" } },
-          { "Reading": "ここ (koko)", "Meaning": { "en": "here", "vi": "chỗ này" }, "Category": { "en": "Place", "vi": "Nơi chốn" } },
-          { "Reading": "この (kono)", "Meaning": { "en": "this...", "vi": "cái... này" }, "Category": { "en": "Modifier", "vi": "Bổ ngữ" } }
-        ]
-      },
-      {
-        "title": { "en": "そ- (There, near listener)", "vi": "そ- (Đó, gần người nghe)" },
-        "data": [
-          { "Reading": "それ (sore)", "Meaning": { "en": "that one", "vi": "cái đó" }, "Category": { "en": "Thing", "vi": "Vật" } },
-          { "Reading": "そこ (soko)", "Meaning": { "en": "there", "vi": "chỗ đó" }, "Category": { "en": "Place", "vi": "Nơi chốn" } },
-          { "Reading": "その (sono)", "Meaning": { "en": "that...", "vi": "cái... đó" }, "Category": { "en": "Modifier", "vi": "Bổ ngữ" } }
-        ]
-      },
-      {
-        "title": { "en": "あ- (Over there, far away)", "vi": "あ- (Kia, ở đằng kia)" },
-        "data": [
-          { "Reading": "あれ (are)", "Meaning": { "en": "that one over there", "vi": "cái kia" }, "Category": { "en": "Thing", "vi": "Vật" } },
-          { "Reading": "あそこ (asoko)", "Meaning": { "en": "over there", "vi": "chỗ kia" }, "Category": { "en": "Place", "vi": "Nơi chốn" } },
-          { "Reading": "あの (ano)", "Meaning": { "en": "that... over there", "vi": "cái... kia" }, "Category": { "en": "Modifier", "vi": "Bổ ngữ" } }
-        ]
-      },
-      {
-        "title": { "en": "ど- (Question)", "vi": "ど- (Hỏi)" },
-        "data": [
-          { "Reading": "どれ (dore)", "Meaning": { "en": "which one?", "vi": "cái nào?" }, "Category": { "en": "Thing", "vi": "Vật" } },
-          { "Reading": "どこ (doko)", "Meaning": { "en": "where?", "vi": "chỗ nào?" }, "Category": { "en": "Place", "vi": "Nơi chốn" } },
-          { "Reading": "どの (dono)", "Meaning": { "en": "which...?", "vi": "cái... nào?" }, "Category": { "en": "Modifier", "vi": "Bổ ngữ" } }
-        ]
-      }
-    ]
-  },
-  "verbGroups": {
-    "en": "Verb Group Identification ⚙️",
-    "vi": "Phân loại nhóm Động từ ⚙️",
-    "type": "table",
-    "content": [
-      {
-        "Group": "Group 1 (Godan)",
-        "Identification": {
-          "en": "Verbs ending in ~u, ~ku, ~gu, ~su, ~tsu, ~nu, ~bu, ~mu, ~ru. The sound before -masu is in the 'i' column.",
-          "vi": "Động từ có đuôi ~u, ~ku, ~gu, ~su, ~tsu, ~nu, ~bu, ~mu, ~ru. Âm trước -masu thuộc cột 'i'."
-        },
-        "Example": "かきます (kakimasu), のみます (nomimasu)"
-      },
-      {
-        "Group": "Group 2 (Ichidan)",
-        "Identification": {
-          "en": "Most verbs ending in -iru or -eru. The sound before -masu is in the 'e' column or is a single 'i' syllable.",
-          "vi": "Hầu hết động từ kết thúc bằng -iru hoặc -eru. Âm trước -masu thuộc cột 'e' hoặc là âm 'i' đơn."
-        },
-        "Example": "たべます (tabemasu), みます (mimasu)"
-      },
-      {
-        "Group": "Group 3 (Irregular)",
-        "Identification": {
-          "en": "Only two verbs: します (shimasu) and 来ます (kimasu).",
-          "vi": "Chỉ có hai động từ: します (shimasu) và 来ます (kimasu)."
-        },
-        "Example": "します (shimasu), きます (kimasu)"
-      }
-    ]
-  },
-  "teFormRules": {
-    "en": "Te-Form Conjugation Rules 🔄",
-    "vi": "Quy tắc chia thể Te 🔄",
-    "type": "table",
-    "content": [
-      { "Group": "Group 1", "Rule": { "en": "ending in き -> いて", "vi": "đuôi き -> いて" }, "Example": "かきます -> かいて" },
-      { "Group": "Group 1", "Rule": { "en": "ending in ぎ -> いで", "vi": "đuôi ぎ -> いで" }, "Example": "およぎます -> およいで" },
-      { "Group": "Group 1", "Rule": { "en": "ending in み, び, に -> んで", "vi": "đuôi み, び, に -> んで" }, "Example": "のみます -> のんで" },
-      { "Group": "Group 1", "Rule": { "en": "ending in い, ち, り -> って", "vi": "đuôi い, ち, り -> って" }, "Example": "かいます -> かって" },
-      { "Group": "Group 1", "Rule": { "en": "ending in し -> して", "vi": "đuôi し -> して" }, "Example": "はなします -> はなして" },
-      { "Group": "Group 2", "Rule": { "en": "Drop ます, add て", "vi": "Bỏ ます, thêm て" }, "Example": "たべます -> たべて" },
-      { "Group": "Group 3", "Rule": { "en": "Irregular", "vi": "Bất quy tắc" }, "Example": "します -> して | きます -> きて" }
-    ]
-  },
-  "politeVsPlain": {
-    "en": "Polite vs. Plain Form 🧑‍🏫/🧑‍🤝‍🧑",
-    "vi": "Thể Lịch sự vs. Thể Thông thường 🧑‍🏫/🧑‍🤝‍🧑",
-    "type": "table",
-    "content": [
-      {
-        "Form": "Polite (丁寧語)",
-        "Usage": {
-          "en": "Used with strangers, teachers, superiors, or in formal situations.",
-          "vi": "Dùng với người lạ, giáo viên, cấp trên, hoặc trong các tình huống trang trọng."
-        },
-        "Example": "です / ます"
-      },
-      {
-        "Form": "Plain (普通語)",
-        "Usage": {
-          "en": "Used with close friends, family, or when talking to oneself.",
-          "vi": "Dùng với bạn bè thân, gia đình, hoặc khi tự nói chuyện với bản thân."
-        },
-        "Example": "だ / dictionary form (る)"
-      }
-    ]
-  },
   "transitiveIntransitive": {
     "en": "Transitive & Intransitive Verbs (他動詞と自動詞) ↔️",
     "vi": "Ngoại động từ & Tự động từ (他動詞と自動詞) ↔️",
@@ -166,14 +8,54 @@
       "vi": "Ngoại động từ là hành động do ai đó thực hiện (dùng を). Tự động từ là những việc tự xảy ra (dùng が)."
     },
     "content": [
-      { "Transitive (を)": "開けます (akemasu)", "Intransitive (が)": "開きます (akimasu)", "Meaning": { "en": "to open", "vi": "mở" } },
-      { "Transitive (を)": "閉めます (shimemasu)", "Intransitive (が)": "閉まります (shimarimasu)", "Meaning": { "en": "to close", "vi": "đóng" } },
-      { "Transitive (を)": "入れます (iremasu)", "Intransitive (が)": "入ります (hairimasu)", "Meaning": { "en": "to put in", "vi": "cho vào / vào" } },
-      { "Transitive (を)": "出します (dashimasu)", "Intransitive (が)": "出ます (demasu)", "Meaning": { "en": "to take out", "vi": "lấy ra / ra ngoài" } },
-      { "Transitive (を)": "つけます (tsukemasu)", "Intransitive (が)": "つきます (tsukimasu)", "Meaning": { "en": "to turn on", "vi": "bật" } },
-      { "Transitive (を)": "消します (keshimasu)", "Intransitive (が)": "消えます (kiemasu)", "Meaning": { "en": "to turn off", "vi": "tắt" } },
-      { "Transitive (を)": "始めます (hajimemasu)", "Intransitive (が)": "始まります (hajimarimasu)", "Meaning": { "en": "to begin (something)", "vi": "bắt đầu" } },
-      { "Transitive (を)": "見つけます (mitsukemasu)", "Intransitive (が)": "見つかります (mitsukarimasu)", "Meaning": { "en": "to find", "vi": "tìm thấy" } }
+      {
+        "Transitive (を)": "開けます (akemasu)",
+        "Intransitive (が)": "開きます (akimasu)",
+        "Meaning": "to open",
+        "vi": "mở"
+      },
+      {
+        "Transitive (を)": "閉めます (shimemasu)",
+        "Intransitive (が)": "閉まります (shimarimasu)",
+        "Meaning": "to close",
+        "vi": "đóng"
+      },
+      {
+        "Transitive (を)": "入れます (iremasu)",
+        "Intransitive (が)": "入ります (hairimasu)",
+        "Meaning": "to put in",
+        "vi": "cho vào / vào"
+      },
+      {
+        "Transitive (を)": "出します (dashimasu)",
+        "Intransitive (が)": "出ます (demasu)",
+        "Meaning": "to take out",
+        "vi": "lấy ra / ra ngoài"
+      },
+      {
+        "Transitive (を)": "つけます (tsukemasu)",
+        "Intransitive (が)": "つきます (tsukimasu)",
+        "Meaning": "to turn on",
+        "vi": "bật"
+      },
+      {
+        "Transitive (を)": "消します (keshimasu)",
+        "Intransitive (が)": "消えます (kiemasu)",
+        "Meaning": "to turn off",
+        "vi": "tắt"
+      },
+      {
+        "Transitive (を)": "始めます (hajimemasu)",
+        "Intransitive (が)": "始まります (hajimarimasu)",
+        "Meaning": "to begin (something)",
+        "vi": "bắt đầu"
+      },
+      {
+        "Transitive (を)": "見つけます (mitsukemasu)",
+        "Intransitive (が)": "見つかります (mitsukarimasu)",
+        "Meaning": "to find",
+        "vi": "tìm thấy"
+      }
     ]
   },
   "givingReceiving": {
@@ -181,12 +63,42 @@
     "vi": "Động từ Cho & Nhận (やりもらい) 🎁",
     "type": "table",
     "content": [
-      { "Verb": "あげます", "Action": { "en": "To give", "vi": "Cho" }, "Direction": { "en": "I/My Group → Others", "vi": "Tôi/Nhóm tôi → Người khác" } },
-      { "Verb": "もらいます", "Action": { "en": "To receive", "vi": "Nhận" }, "Direction": { "en": "I/My Group ← Others", "vi": "Tôi/Nhóm tôi ← Người khác" } },
-      { "Verb": "くれます", "Action": { "en": "To give (to me)", "vi": "Cho (tôi)" }, "Direction": { "en": "Others → I/My Group", "vi": "Người khác → Tôi/Nhóm tôi" } },
-      { "Verb": "さしあげます", "Action": { "en": "To give (Humble)", "vi": "Cho (Khiêm nhường)" }, "Direction": { "en": "I → Superior", "vi": "Tôi → Cấp trên" } },
-      { "Verb": "くださいます", "Action": { "en": "To give (Honorific)", "vi": "Cho (Tôn kính)" }, "Direction": { "en": "Superior → I/My Group", "vi": "Cấp trên → Tôi/Nhóm tôi" } },
-      { "Verb": "いただきます", "Action": { "en": "To receive (Humble)", "vi": "Nhận (Khiêm nhường)" }, "Direction": { "en": "I/My Group ← Superior", "vi": "Tôi/Nhóm tôi ← Cấp trên" } }
+      {
+        "Verb": "あげます",
+        "Action": "To give",
+        "Direction": "I/My Group → Others",
+        "vi": "Tôi/Nhóm tôi → Người khác"
+      },
+      {
+        "Verb": "もらいます",
+        "Action": "To receive",
+        "Direction": "I/My Group ← Others",
+        "vi": "Tôi/Nhóm tôi ← Người khác"
+      },
+      {
+        "Verb": "くれます",
+        "Action": "To give (to me)",
+        "Direction": "Others → I/My Group",
+        "vi": "Người khác → Tôi/Nhóm tôi"
+      },
+      {
+        "Verb": "さしあげます",
+        "Action": "To give (Humble)",
+        "Direction": "I → Superior",
+        "vi": "Tôi → Cấp trên (Khiêm nhường)"
+      },
+      {
+        "Verb": "くださいます",
+        "Action": "To give (Honorific)",
+        "Direction": "Superior → I/My Group",
+        "vi": "Cấp trên → Tôi/Nhóm tôi (Tôn kính)"
+      },
+      {
+        "Verb": "いただきます",
+        "Action": "To receive (Humble)",
+        "Direction": "I/My Group ← Superior",
+        "vi": "Tôi/Nhóm tôi ← Cấp trên (Khiêm nhường)"
+      }
     ]
   },
   "commonAffixes": {
@@ -197,21 +109,21 @@
       {
         "title": { "en": "Prefixes (接頭辞)", "vi": "Tiền tố (接頭辞)" },
         "data": [
-          { "Affix": "御～ (お/ご)", "Meaning": { "en": "Makes word polite", "vi": "Làm cho từ lịch sự hơn" }, "Example": { "en": "お茶 (ocha), ご飯 (gohan)", "vi": "お茶 (ocha), ご飯 (gohan)" } },
-          { "Affix": "不～ (ふ)", "Meaning": { "en": "Not, un-", "vi": "Không, bất-" }, "Example": { "en": "不便 (fuben - inconvenient)", "vi": "不便 (fuben - bất tiện)" } },
-          { "Affix": "未～ (み)", "Meaning": { "en": "Not yet", "vi": "Chưa" }, "Example": { "en": "未来 (mirai - future)", "vi": "未来 (mirai - tương lai)" } },
-          { "Affix": "毎～ (まい)", "Meaning": { "en": "Every", "vi": "Mỗi" }, "Example": { "en": "毎日 (mainichi - every day)", "vi": "毎日 (mainichi - mỗi ngày)" } }
+          { "Affix": "御～ (お/ご)", "Meaning": "Makes word polite", "Example": "お茶, ご飯", "vi": "Làm cho từ lịch sự hơn" },
+          { "Affix": "不～ (ふ)", "Meaning": "Not, un-", "Example": "不便 (fuben - inconvenient)", "vi": "Không, bất-" },
+          { "Affix": "未～ (み)", "Meaning": "Not yet", "Example": "未来 (mirai - future)", "vi": "Chưa" },
+          { "Affix": "毎～ (まい)", "Meaning": "Every", "Example": "毎日 (mainichi - every day)", "vi": "Mỗi" }
         ]
       },
       {
         "title": { "en": "Suffixes (接尾辞)", "vi": "Hậu tố (接尾辞)" },
         "data": [
-          { "Affix": "～的 (てき)", "Meaning": { "en": "-ic, -al, -tive", "vi": "Mang tính..." }, "Example": { "en": "科学的 (kagakuteki - scientific)", "vi": "科学的 (kagakuteki - khoa học)" } },
-          { "Affix": "～化 (か)", "Meaning": { "en": "-ization", "vi": "Hóa" }, "Example": { "en": "国際化 (kokusaika - internationalization)", "vi": "国際化 (kokusaika - quốc tế hóa)" } },
-          { "Affix": "～中 (ちゅう)", "Meaning": { "en": "In the middle of", "vi": "Đang trong lúc..." }, "Example": { "en": "勉強中 (benkyōchū - in the middle of studying)", "vi": "勉強中 (benkyōchū - đang học)" } },
-          { "Affix": "～料 (りょう)", "Meaning": { "en": "Fee, charge", "vi": "Phí" }, "Example": { "en": "授業料 (jugyōryō - tuition fee)", "vi": "授業料 (jugyōryō - học phí)" } },
-          { "Affix": "～代 (だい)", "Meaning": { "en": "Charge, cost", "vi": "Tiền, phí" }, "Example": { "en": "電気代 (denkidai - electricity bill)", "vi": "電気代 (denkidai - tiền điện)" } },
-          { "Affix": "～風 (ふう)", "Meaning": { "en": "-style, -like", "vi": "Phong cách..." }, "Example": { "en": "和風 (wafū - Japanese-style)", "vi": "和風 (wafū - kiểu Nhật)" } }
+          { "Affix": "～的 (てき)", "Meaning": "-ic, -al, -tive", "Example": "科学的 (kagakuteki - scientific)", "vi": "Mang tính..." },
+          { "Affix": "～化 (か)", "Meaning": "-ization", "Example": "国際化 (kokusaika - internationalization)", "vi": "Hóa" },
+          { "Affix": "～中 (ちゅう)", "Meaning": "In the middle of", "Example": "勉強中 (benkyōchū - in the middle of studying)", "vi": "Đang trong lúc..." },
+          { "Affix": "～料 (りょう)", "Meaning": "Fee, charge", "Example": "授業料 (jugyōryō - tuition fee)", "vi": "Phí" },
+          { "Affix": "～代 (だい)", "Meaning": "Charge, cost", "Example": "電気代 (denkidai - electricity bill)", "vi": "Tiền, phí" },
+          { "Affix": "～風 (ふう)", "Meaning": "-style, -like", "Example": "和風 (wafū - Japanese-style)", "vi": "Phong cách..." }
         ]
       }
     ]
@@ -221,12 +133,42 @@
     "vi": "Trạng từ & Cách diễn đạt chính 🗣️",
     "type": "table",
     "content": [
-      { "Expression": "ぜひ", "Usage": { "en": "To strongly express a desire or invitation ('by all means').", "vi": "Dùng để nhấn mạnh mong muốn hoặc lời mời ('nhất định')." }, "Example": "ぜひ日本へ来てください。" },
-      { "Expression": "なるべく", "Usage": { "en": "As much as possible.", "vi": "Càng... càng tốt; hết sức có thể." }, "Example": "なるべく早く来てください。" },
-      { "Expression": "やはり/やっぱり", "Usage": { "en": "As expected; after all.", "vi": "Đúng như dự đoán; quả nhiên là." }, "Example": "やはり彼が勝った。" },
-      { "Expression": "それに", "Usage": { "en": "Moreover; in addition.", "vi": "Hơn nữa; ngoài ra." }, "Example": "このレストランは安いです。それに、おいしいです。" },
-      { "Expression": "それで", "Usage": { "en": "And so; for that reason (shows cause and effect).", "vi": "Vì vậy; do đó (chỉ nguyên nhân - kết quả)." }, "Example": "寝坊しました。それで、遅刻しました。" },
-      { "Expression": "それでは", "Usage": { "en": "Well then; in that case (used to begin or end an action).", "vi": "Vậy thì; trong trường hợp đó (dùng để bắt đầu/kết thúc hành động)." }, "Example": "それでは、始めましょう。" }
+      {
+        "Expression": "ぜひ",
+        "Usage": "To strongly express a desire or invitation ('by all means').",
+        "Example": "ぜひ日本へ来てください。",
+        "vi": "Dùng để nhấn mạnh mong muốn hoặc lời mời ('nhất định')."
+      },
+      {
+        "Expression": "なるべく",
+        "Usage": "As much as possible.",
+        "Example": "なるべく早く来てください。",
+        "vi": "Càng... càng tốt; hết sức có thể."
+      },
+      {
+        "Expression": "やはり/やっぱり",
+        "Usage": "As expected; after all.",
+        "Example": "やはり彼が勝った。",
+        "vi": "Đúng như dự đoán; quả nhiên là."
+      },
+      {
+        "Expression": "それに",
+        "Usage": "Moreover; in addition.",
+        "Example": "このレストランは安いです。それに、おいしいです。",
+        "vi": "Hơn nữa; ngoài ra."
+      },
+      {
+        "Expression": "それで",
+        "Usage": "And so; for that reason (shows cause and effect).",
+        "Example": "寝坊しました。それで、遅刻しました。",
+        "vi": "Vì vậy; do đó (chỉ nguyên nhân - kết quả)."
+      },
+      {
+        "Expression": "それでは",
+        "Usage": "Well then; in that case (used to begin or end an action).",
+        "Example": "それでは、始めましょう。",
+        "vi": "Vậy thì; trong trường hợp đó (dùng để bắt đầu/kết thúc hành động)."
+      }
     ]
   },
   "numberConcepts": {
@@ -234,12 +176,48 @@
     "vi": "Khái niệm số & Số lượng 📊",
     "type": "table",
     "content": [
-      { "Concept": { "en": "Number ~ (ordinal)", "vi": "Số thứ tự" }, "Kanji": "～番", "Reading": "～ばん", "Example": { "en": "一番 (ichiban - number one)", "vi": "一番 (ichiban - số một)" } },
-      { "Concept": { "en": "More than/equal to", "vi": "Trở lên" }, "Kanji": "以上", "Reading": "いじょう", "Example": { "en": "百円以上 (hyaku-en ijō - 100 yen or more)", "vi": "百円以上 (hyaku-en ijō - 100 yên trở lên)" } },
-      { "Concept": { "en": "Less than/equal to", "vi": "Trở xuống" }, "Kanji": "以下", "Reading": "いか", "Example": { "en": "十八歳以下 (jūhassai ika - 18 years old or less)", "vi": "十八歳以下 (jūhassai ika - 18 tuổi trở xuống)" } },
-      { "Concept": { "en": "~ times (multiplier)", "vi": "Gấp ~ lần" }, "Kanji": "～倍", "Reading": "～ばい", "Example": { "en": "二倍 (nibai - double)", "vi": "二倍 (nibai - gấp đôi)" } },
-      { "Concept": { "en": "Half", "vi": "Một nửa" }, "Kanji": "半分", "Reading": "はんぶん", "Example": { "en": "りんごの半分 (ringo no hanbun - half of the apple)", "vi": "りんごの半分 (ringo no hanbun - một nửa quả táo)" } },
-      { "Concept": { "en": "Almost, mostly", "vi": "Hầu hết" }, "Kanji": "ほとんど", "Reading": "ほとんど", "Example": { "en": "宿題はほとんど終わった (shukudai wa hotondo owatta - homework is mostly finished)", "vi": "宿題はほとんど終わった (shukudai wa hotondo owatta - bài tập về nhà hầu như đã xong)" } }
+      {
+        "Concept": "Number ~ (ordinal)",
+        "Kanji": "～番",
+        "Reading": "～ばん",
+        "Example": "一番 (ichiban - number one)",
+        "vi": "Số thứ tự"
+      },
+      {
+        "Concept": "More than/equal to",
+        "Kanji": "以上",
+        "Reading": "いじょう",
+        "Example": "百円以上 (hyaku-en ijō - 100 yen or more)",
+        "vi": "Trở lên"
+      },
+      {
+        "Concept": "Less than/equal to",
+        "Kanji": "以下",
+        "Reading": "いか",
+        "Example": "十八歳以下 (jūhassai ika - 18 years old or less)",
+        "vi": "Trở xuống"
+      },
+      {
+        "Concept": "~ times (multiplier)",
+        "Kanji": "～倍",
+        "Reading": "～ばい",
+        "Example": "二倍 (nibai - double)",
+        "vi": "Gấp ~ lần"
+      },
+      {
+        "Concept": "Half",
+        "Kanji": "半分",
+        "Reading": "はんぶん",
+        "Example": "りんごの半分 (ringo no hanbun - half of the apple)",
+        "vi": "Một nửa"
+      },
+      {
+        "Concept": "Almost, mostly",
+        "Kanji": "ほとんど",
+        "Reading": "ほとんど",
+        "Example": "宿題はほとんど終わった (shukudai wa hotondo owatta - homework is mostly finished)",
+        "vi": "Hầu hết"
+      }
     ]
   }
 }
