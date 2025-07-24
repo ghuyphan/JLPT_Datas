@@ -36,8 +36,52 @@
           "content": "Dùng để ra lệnh một cách mạnh mẽ. Rất trực tiếp.<br>• Nhóm 1: đổi đuôi -u thành -e (走る→走れ).<br>• Nhóm 2: thay đuôi -ru bằng -ro (やめる→やめろ).<br>• Bất quy tắc: する→しろ, 来る→こい.<br><b>Ví dụ:</b> 早くしろ！(Hayaku shiro!) - Làm nhanh lên!"
         }
       },
-      {
+	  {
         "id": "g104",
+        "en": {
+          "title": "Prohibitive Form (禁止形)",
+          "content": "Used to command someone *not* to do something ('must not', 'do not').<br>Verb-dictionary form + な.<br><b>Example:</b> ここに入るな！(Koko ni hairu na!) - Do not enter here!"
+        },
+        "vi": {
+          "title": "Thể cấm đoán (禁止形)",
+          "content": "Dùng để ra lệnh cho ai đó *không* được làm gì ('cấm', 'đừng').<br>Động từ thể từ điển + な.<br><b>Ví dụ:</b> ここに入るな！(Koko ni hairu na!) - Cấm vào đây!"
+        }
+      },
+      {
+        "id": "g105",
+        "en": {
+          "title": "Passive Form (受身形)",
+          "content": "Used when the subject is acted upon ('was done by').<br>• Group 1: change final -u to -areru (書く→書かれる).<br>• Group 2: replace -ru with -rareru (食べる→食べられる).<br>• Irregular: する→される, 来る→こられる.<br><b>Example:</b> 私は先生に褒められました。(Watashi wa sensei ni homeraremashita.) - I was praised by the teacher."
+        },
+        "vi": {
+          "title": "Thể bị động (受身形)",
+          "content": "Dùng khi chủ ngữ bị tác động bởi hành động ('bị/được làm bởi').<br>• Nhóm 1: đổi đuôi -u thành -areru (書く→書かれる).<br>• Nhóm 2: thay đuôi -ru bằng -rareru (食べる→食べられる).<br>• Bất quy tắc: する→される, 来る→こられる.<br><b>Ví dụ:</b> 私は先生に褒められました。(Watashi wa sensei ni homeraremashita.) - Tôi đã được giáo viên khen."
+        }
+      },
+      {
+        "id": "g106",
+        "en": {
+          "title": "Causative Form (使役形)",
+          "content": "Used to express 'make/let someone do' something.<br>• Group 1: change final -u to -aseru (待つ→待たせる).<br>• Group 2: replace -ru with -saseru (食べる→食べさせる).<br>• Irregular: する→させる, 来る→こさせる.<br><b>Example:</b> 先生は学生に宿題をたくさんさせました。(Sensei wa gakusei ni shukudai o takusan sasemashita.) - The teacher made the students do a lot of homework."
+        },
+        "vi": {
+          "title": "Thể sai khiến (使役形)",
+          "content": "Dùng để diễn tả 'bắt/cho phép ai đó làm' gì đó.<br>• Nhóm 1: đổi đuôi -u thành -aseru (待つ→待たせる).<br>• Nhóm 2: thay đuôi -ru bằng -saseru (食べる→食べさせる).<br>• Bất quy tắc: する→させる, 来る→こさせる.<br><b>Ví dụ:</b> 先生は学生に宿題をたくさんさせました。(Sensei wa gakusei ni shukudai o takusan sasemashita.) - Giáo viên đã bắt học sinh làm nhiều bài tập."
+        }
+      },
+      {
+        "id": "g107",
+        "en": {
+          "title": "Causative-Passive (使役受身形)",
+          "content": "Used to express being forced to do something ('was made to do').<br>• Group 1: change final -u to -asareru (書く→書かされる).<br>• Group 2: replace -ru with -saserareru (食べる→食べさせられる).<br><b>Example:</b> 私は母に部屋を掃除させられました。(Watashi wa haha ni heya o sōji saseraremashita.) - I was made to clean the room by my mother."
+        },
+        "vi": {
+          "title": "Thể bị động sai khiến (使役受身形)",
+          "content": "Dùng để diễn tả việc bị buộc phải làm gì đó ('bị bắt làm').<br>• Nhóm 1: đổi đuôi -u thành -asareru (書く→書かされる).<br>• Nhóm 2: thay đuôi -ru bằng -saserareru (食べる→食べさせられる).<br><b>Ví dụ:</b> 私は母に部屋を掃除させられました。(Watashi wa haha ni heya o sōji saseraremashita.) - Tôi bị mẹ bắt dọn phòng."
+        }
+      },
+      {
+        "id": "g108",
         "en": {
           "title": "Giving & Receiving Actions",
           "content": "Using ～てあげる, ～てくれる, ～てもらう to express actions done for others.<br>• てあげる: I do for others.<br>• てくれる: Someone does for me/my group.<br>• てもらう: I receive a favor/action from someone.<br><b>Example:</b> 友達が宿題を手伝ってくれました。(Tomodachi ga shukudai o tetsudatte kuremashita.) - My friend helped me with my homework."
@@ -45,6 +89,17 @@
         "vi": {
           "title": "Hành động Cho & Nhận",
           "content": "Dùng ～てあげる, ～てくれる, ～てもらう để diễn tả hành động làm cho người khác.<br>• てあげる: Tôi làm cho người khác.<br>• てくれる: Ai đó làm cho tôi/nhóm tôi.<br>• てもらう: Tôi nhận được một hành động/sự giúp đỡ từ ai đó.<br><b>Ví dụ:</b> 友達が宿題を手伝ってくれました。(Tomodachi ga shukudai o tetsudatte kuremashita.) - Bạn tôi đã giúp tôi làm bài tập."
+        }
+      },
+	  {
+        "id": "g109",
+        "en": {
+          "title": "～なさい (Polite command)",
+          "content": "A softer command than the imperative form, typically used by parents to children or teachers to students.<br>Verb-stem + なさい.<br><b>Example:</b> 早く寝なさい。(Hayaku nenasai.) - Go to bed now."
+        },
+        "vi": {
+          "title": "～なさい (Mệnh lệnh lịch sự)",
+          "content": "Một dạng mệnh lệnh nhẹ nhàng hơn thể mệnh lệnh, thường được cha mẹ dùng với con cái hoặc giáo viên với học sinh.<br>Thân động từ + なさい.<br><b>Ví dụ:</b> 早く寝なさい。(Hayaku nenasai.) - Đi ngủ sớm đi."
         }
       }
     ]
@@ -74,6 +129,17 @@
           "title": "Tính từ → Trạng từ",
           "content": "Biến tính từ thành trạng từ để mô tả động từ.<br>• Tính từ い (đổi い thành く): はやい → はやく<br>• Tính từ な (thêm に): しずか → しずかに<br><b>Ví dụ (đuôi い):</b> もっと速く走ってください。(Motto hayaku hashitte kudasai.) - Hãy chạy nhanh hơn nữa.<br><b>Ví dụ (đuôi な):</b> 図書館では静かに話してください。(Toshokan de wa shizuka ni hanashite kudasai.) - Ở thư viện hãy nói chuyện khẽ thôi."
         }
+      },
+      {
+        "id": "g113",
+        "en": {
+          "title": "Noun/Adj + がる (To show signs of)",
+          "content": "Used to describe the apparent feelings or desires of someone else (a third person).<br>• い-adj (drop い) + がる<br>• な-adj + がる<br><b>Example:</b> 猫は外に行きたがっています。(Neko wa soto ni ikitagatte imasu.) - The cat seems to want to go outside."
+        },
+        "vi": {
+          "title": "Danh từ/Tính từ + がる (ỏ vẻ)",
+          "content": "Dùng để mô tả cảm xúc hoặc mong muốn có vẻ thấy được của người khác (ngôi thứ ba).<br>• Tính từ い (bỏ い) + がる<br>• Tính từ な + がる<br><b>Ví dụ:</b> 猫は外に行きたがっています。(Neko wa soto ni ikitagatte imasu.) - Con mèo có vẻ đang muốn đi ra ngoài."
+        }
       }
     ]
   },
@@ -81,6 +147,17 @@
     "en": "Common Patterns & Expressions 💬",
     "vi": "Các mẫu câu & cách diễn đạt thông dụng 💬",
     "items": [
+	  {
+        "id": "g120",
+        "en": {
+          "title": "～ようになる (To become able to)",
+          "content": "Indicates a change over time to a new state or ability.<br>Verb-potential form + ようになる.<br><b>Example:</b> 毎日練習して、ピアノが弾けるようになりました。(Mainichi renshū shite, piano ga hikeru yō ni narimashita.) - After practicing every day, I became able to play the piano."
+        },
+        "vi": {
+          "title": "～ようになる (Trở nên có thể...)",
+          "content": "Chỉ một sự thay đổi theo thời gian đến một trạng thái hoặc khả năng mới.<br>Động từ thể khả năng + ようになる.<br><b>Ví dụ:</b> 毎日練習して、ピアノが弾けるようになりました。(Mainichi renshū shite, piano ga hikeru yō ni narimashita.) - Sau khi luyện tập mỗi ngày, tôi đã có thể chơi được piano."
+        }
+      },
       {
         "id": "g121",
         "en": {
@@ -146,6 +223,39 @@
           "title": "～かもしれません (Có lẽ là...)",
           "content": "Diễn tả một khả năng. Mức độ chắc chắn thấp hơn でしょう hoặc はずです.<br>Thể thông thường + かもしれません。<br><b>Ví dụ:</b> 明日は雨が降るかもしれません。(Ashita wa ame ga furu kamoshiremasen.) - Có lẽ ngày mai trời sẽ mưa."
         }
+      },
+	  {
+        "id": "g127",
+        "en": {
+          "title": "～やすい / ～にくい (Easy/Hard to do)",
+          "content": "Attached to the verb stem to indicate that an action is easy or difficult to perform.<br>Verb-stem + やすいです / にくいです.<br><b>Example (Easy):</b> このペンは書きやすいです。(Kono pen wa kakiyasui desu.) - This pen is easy to write with.<br><b>Example (Hard):</b> この漢字は覚えにくいです。(Kono kanji wa oboenikui desu.) - This kanji is hard to remember."
+        },
+        "vi": {
+          "title": "～やすい / ～にくい (Dễ/Khó làm)",
+          "content": "Gắn vào thân động từ để chỉ một hành động dễ hay khó thực hiện.<br>Thân động từ + やすいです / にくいです.<br><b>Ví dụ (Dễ):</b> このペンは書きやすいです。(Kono pen wa kakiyasui desu.) - Cây bút này dễ viết.<br><b>Ví dụ (Khó):</b> この漢字は覚えにくいです。(Kono kanji wa oboenikui desu.) - Chữ Hán này khó nhớ."
+        }
+      },
+      {
+        "id": "g128",
+        "en": {
+          "title": "～そうです (Looks like)",
+          "content": "Used to make a guess based on visual evidence. What something *looks like*.<br>• い-adj (drop い) + そうです<br>• な-adj + そうです<br><b>Example:</b> このケーキはおいしそうです。(Kono kēki wa oishisō desu.) - This cake looks delicious."
+        },
+        "vi": {
+          "title": "～そうです (Trông có vẻ)",
+          "content": "Dùng để phỏng đoán dựa trên vẻ bề ngoài. Cái gì đó *trông có vẻ* như thế nào.<br>• Tính từ い (bỏ い) + そうです<br>• Tính từ な + そうです<br><b>Ví dụ:</b> このケーキはおいしそうです。(Kono kēki wa oishisō desu.) - Cái bánh này trông có vẻ ngon."
+        }
+      },
+      {
+        "id": "g129",
+        "en": {
+          "title": "～そうです (I hear that)",
+          "content": "Used to report information heard from another source (hearsay).<br>Plain form + そうです.<br><b>Example:</b> 天気予報によると、明日は晴れるそうです。(Tenki yohō ni yoru to, ashita wa hareru sō desu.) - According to the weather forecast, I hear that it will be sunny tomorrow."
+        },
+        "vi": {
+          "title": "～そうです (Nghe nói là)",
+          "content": "Dùng để thuật lại thông tin nghe được từ một nguồn khác (tin đồn, thông tin).<br>Thể thông thường + そうです.<br><b>Ví dụ:</b> 天気予報によると、明日は晴れるそうです。(Tenki yohō ni yoru to, ashita wa hareru sō desu.) - Theo dự báo thời tiết, nghe nói ngày mai trời sẽ nắng."
+        }
       }
     ]
   },
@@ -157,7 +267,7 @@
         "id": "g131",
         "en": {
           "title": "Conditional ～たら",
-          "content": "A general conditional for 'if' or 'when'. It focuses on the action being completed before the result.<br>Verb-past plain form + ら。<br><b>Example:</b> お金があったら、旅行したいです。(Okane ga attara, ryokō shitai desu.) - If I had money, I would want to travel."
+          "content": "A general conditional for 'if' or 'when'. It focuses on the action being completed before the result.<br>Verb-past plain form (た-form) + ら。<br><b>Example:</b> お金があったら、旅行したいです。(Okane ga attara, ryokō shitai desu.) - If I had money, I would want to travel."
         },
         "vi": {
           "title": "Điều kiện ～たら",
@@ -175,8 +285,30 @@
           "content": "Một dạng điều kiện thường ngụ ý một kết quả tích cực hoặc được mong đợi nếu điều kiện được đáp ứng.<br>Động từ (thể e) + ば.<br><b>Ví dụ:</b> 時間があれば、手伝います。(Jikan ga areba, tetsudaimasu.) - Nếu có thời gian, tôi sẽ giúp."
         }
       },
-      {
+	  {
         "id": "g133",
+        "en": {
+          "title": "Conditional ～と",
+          "content": "A conditional used for natural, inevitable results or general truths. 'When X happens, Y always happens.'<br>Verb-dictionary form + と.<br><b>Example:</b> 春になると、桜が咲きます。(Haru ni naru to, sakura ga sakimasu.) - When spring comes, the cherry blossoms bloom."
+        },
+        "vi": {
+          "title": "Điều kiện ～と",
+          "content": "Điều kiện dùng cho kết quả tự nhiên, tất yếu hoặc sự thật chung. 'Khi X xảy ra, Y luôn xảy ra.'<br>Động từ thể từ điển + と.<br><b>Ví dụ:</b> 春になると、桜が咲きます。(Haru ni naru to, sakura ga sakimasu.) - Hễ xuân về là hoa anh đào lại nở."
+        }
+      },
+      {
+        "id": "g134",
+        "en": {
+          "title": "Conditional なら",
+          "content": "A conditional used when giving advice or a suggestion based on what the other person has said.<br>Noun/Plain form + なら.<br><b>Example:</b> (A: 日本へ行きたいです。) B: 日本へ行くなら、京都がいいですよ。(Nihon e iku nara, Kyōto ga ii desu yo.) - (A: I want to go to Japan.) B: If you're going to Japan, Kyoto is good."
+        },
+        "vi": {
+          "title": "Điều kiện なら",
+          "content": "Điều kiện dùng khi đưa ra lời khuyên hoặc gợi ý dựa trên điều người khác vừa nói.<br>Danh từ/Thể thông thường + なら.<br><b>Ví dụ:</b> (A: 日本へ行きたいです。) B: 日本へ行くなら、京都がいいですよ。(Nihon e iku nara, Kyōto ga ii desu yo.) - (A: Tôi muốn đi Nhật.) B: Nếu đi Nhật thì Kyoto được đấy."
+        }
+      },
+      {
+        "id": "g135",
         "en": {
           "title": "～のに (Even though)",
           "content": "Connects two clauses, where the second clause is an unexpected or contrary result of the first.<br>Plain form + のに.<br><b>Example:</b> 一生懸命勉強したのに、試験に合格しませんでした。(Isshōkenmei benkyō shita noni, shiken ni gōkaku shimasen deshita.) - Even though I studied hard, I didn't pass the exam."
@@ -187,14 +319,25 @@
         }
       },
       {
-        "id": "g134",
+        "id": "g136",
         "en": {
-          "title": "～ように / ～ために",
+          "title": "～ように / ～ために (Purpose)",
           "content": "Both express purpose ('in order to', 'so that').<br>• ように is used with potential verbs or verbs that aren't controllable (e.g.,わかる).<br>• ために is used with volitional/controllable verbs.<br><b>Example (ように):</b> 日本語が話せるように、毎日勉強しています。(Nihongo ga hanaseru yō ni, mainichi benkyō shite imasu.) - I study every day so that I can speak Japanese.<br><b>Example (ために):</b> 家を買うために、貯金しています。(Ie o kau tame ni, chokin shite imasu.) - I'm saving money in order to buy a house."
         },
         "vi": {
-          "title": "～ように / ～ために",
+          "title": "～ように / ～ために (Mục đích)",
           "content": "Cả hai đều diễn tả mục đích ('để', 'cho').<br>• ように dùng với động từ thể khả năng hoặc động từ không chủ ý (vd: わかる).<br>• ために dùng với động từ có chủ ý/kiểm soát được.<br><b>Ví dụ (ように):</b> 日本語が話せるように、毎日勉強しています。(Nihongo ga hanaseru yō ni, mainichi benkyō shite imasu.) - Tôi học mỗi ngày để có thể nói được tiếng Nhật.<br><b>Ví dụ (ために):</b> 家を買うために、貯金しています。(Ie o kau tame ni, chokin shite imasu.) - Tôi đang tiết kiệm tiền để mua nhà."
+        }
+      },
+      {
+        "id": "g137",
+        "en": {
+          "title": "～ながら (While doing)",
+          "content": "Indicates that two actions are being performed at the same time by the same person. The main action comes at the end.<br>Verb-stem + ながら.<br><b>Example:</b> 音楽を聞きながら、勉強します。(Ongaku o kikinagara, benkyō shimasu.) - I study while listening to music."
+        },
+        "vi": {
+          "title": "～ながら (Vừa... vừa...)",
+          "content": "Chỉ hai hành động được thực hiện cùng lúc bởi cùng một người. Hành động chính đứng ở cuối câu.<br>Thân động từ + ながら.<br><b>Ví dụ:</b> 音楽を聞きながら、勉強します。(Ongaku o kikinagara, benkyō shimasu.) - Tôi vừa nghe nhạc vừa học bài."
         }
       }
     ]
@@ -240,6 +383,34 @@
         "vi": {
           "title": "Aは Bほど ～ない (Không ~ bằng)",
           "content": "Một mẫu so sánh chỉ ra rằng A thì kém [tính từ] hơn B.<br><b>Ví dụ:</b> 今年の冬は去年ほど寒くないです。(Kotoshi no fuyu wa kyonen hodo samukunai desu.) - Mùa đông năm nay không lạnh bằng năm ngoái."
+        }
+      }
+    ]
+  },
+  "respectful_language": {
+    "en": "Respectful Language (敬語) 🙏",
+    "vi": "Kính ngữ (敬語) 🙏",
+    "items": [
+      {
+        "id": "g161",
+        "en": {
+          "title": "Honorifics (尊敬語)",
+          "content": "Used to show respect when speaking about a superior or a customer. Special verb conjugations are often used.<br>• お + Verb-stem + になります: (e.g., お書きになります)<br>• Special verbs: 召し上がります (eat/drink), いらっしゃいます (be/go/come), ご覧になります (see).<br><b>Example:</b> 社長は何時にいらっしゃいますか。(Shachō wa nanji ni irasshaimasu ka.) - What time is the company president coming?"
+        },
+        "vi": {
+          "title": "Tôn kính ngữ (尊敬語)",
+          "content": "Dùng để thể hiện sự tôn trọng khi nói về cấp trên hoặc khách hàng. Thường dùng các dạng chia động từ đặc biệt.<br>• お + Thân động từ + になります: (vd: お書きになります)<br>• Động từ đặc biệt: 召し上がります (ăn/uống), いらっしゃいます (ở/đi/đến), ご覧になります (nhìn).<br><b>Ví dụ:</b> 社長は何時にいらっしゃいますか。(Shachō wa nanji ni irasshaimasu ka.) - Mấy giờ giám đốc sẽ đến ạ?"
+        }
+      },
+      {
+        "id": "g162",
+        "en": {
+          "title": "Humble Language (謙譲語)",
+          "content": "Used to speak humbly about oneself or one's own group when interacting with a superior or customer.<br>• お + Verb-stem + します: (e.g., お持ちします)<br>• Special verbs: いただきます (eat/drink/receive), 参ります (go/come), 申します (say).<br><b>Example:</b> 荷物をお持ちします。(Nimotsu o omochi shimasu.) - I will carry your luggage."
+        },
+        "vi": {
+          "title": "Khiêm nhường ngữ (謙譲語)",
+          "content": "Dùng để nói một cách khiêm tốn về bản thân hoặc nhóm của mình khi giao tiếp với cấp trên hoặc khách hàng.<br>• お + Thân động từ + します: (vd: お持ちします)<br>• Động từ đặc biệt: いただきます (ăn/uống/nhận), 参ります (đi/đến), 申します (nói).<br><b>Ví dụ:</b> 荷物をお持ちします。(Nimotsu o omochi shimasu.) - Để tôi mang hành lý cho ạ."
         }
       }
     ]

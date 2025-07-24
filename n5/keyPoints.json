@@ -1,382 +1,158 @@
 {
-  "basicNumbers": {
-    "en": "Basic Numbers (数) 🔢",
-    "vi": "Số đếm cơ bản (数) 🔢",
+  "trickyParticles": {
+    "en": "Tricky Particle Cheatsheet 📝",
+    "vi": "Ghi nhớ Trợ từ dễ nhầm lẫn 📝",
     "type": "table",
     "content": [
       {
-        "Number": "1",
-        "Kanji": "一",
-        "Reading": "いち",
-        "vi": "một"
+        "Particles": "は vs. が",
+        "Usage": "は marks the topic ('As for...'). が marks the subject or new/specific information.",
+        "Example": "「私は学生です」 (Topic: I am a student.) vs. 「猫がいます」 (Subject: There is a cat.)",
+        "vi": "は đánh dấu chủ đề ('Về...'). が đánh dấu chủ ngữ hoặc thông tin mới/cụ thể."
       },
       {
-        "Number": "2",
-        "Kanji": "二",
-        "Reading": "に",
-        "vi": "hai"
+        "Particles": "に vs. で",
+        "Usage": "に marks existence (います/あります), a specific time, or a destination. で marks the location of an action or the tool/means used.",
+        "Example": "「７時に起きます」 (Time). 「学校へ行きます」 (Destination). 「図書館で勉強します」 (Action Location). 「バスで行きます」 (Means).",
+        "vi": "に chỉ sự tồn tại, thời gian cụ thể, hoặc điểm đến. で chỉ nơi diễn ra hành động hoặc công cụ/phương tiện."
       },
       {
-        "Number": "3",
-        "Kanji": "三",
-        "Reading": "さん",
-        "vi": "ba"
-      },
-      {
-        "Number": "4",
-        "Kanji": "四",
-        "Reading": "よん / し",
-        "vi": "bốn / tư"
-      },
-      {
-        "Number": "5",
-        "Kanji": "五",
-        "Reading": "ご",
-        "vi": "năm"
-      },
-      {
-        "Number": "6",
-        "Kanji": "六",
-        "Reading": "ろく",
-        "vi": "sáu"
-      },
-      {
-        "Number": "7",
-        "Kanji": "七",
-        "Reading": "なな / しち",
-        "vi": "bảy"
-      },
-      {
-        "Number": "8",
-        "Kanji": "八",
-        "Reading": "はち",
-        "vi": "tám"
-      },
-      {
-        "Number": "9",
-        "Kanji": "九",
-        "Reading": "きゅう / く",
-        "vi": "chín"
-      },
-      {
-        "Number": "10",
-        "Kanji": "十",
-        "Reading": "じゅう",
-        "vi": "mười"
-      },
-      {
-        "Number": "100",
-        "Kanji": "百",
-        "Reading": "ひゃく",
-        "vi": "một trăm"
-      },
-      {
-        "Number": "1,000",
-        "Kanji": "千",
-        "Reading": "せん",
-        "vi": "một nghìn"
-      },
-      {
-        "Number": "10,000",
-        "Kanji": "万",
-        "Reading": "まん",
-        "vi": "mười nghìn"
+        "Particles": "へ vs. に",
+        "Usage": "For movement verbs (行きます, etc.), へ emphasizes direction, while に emphasizes the destination. Often interchangeable.",
+        "Example": "「東京へ行きます」 (Emphasizes going *towards* Tokyo.)",
+        "vi": "Với động từ di chuyển, へ nhấn mạnh phương hướng, に nhấn mạnh điểm đến. Thường có thể thay thế cho nhau."
       }
     ]
   },
-  "counters": {
-    "en": "Counters (助数詞) 🖐️",
-    "vi": "Lượng từ (助数詞) 🖐️",
+  "kosoadoWords": {
+    "en": "Kosoado Words (Demonstratives) 👇",
+    "vi": "Từ chỉ định (Kosoado) 👇",
+    "type": "table-grid",
+    "content": [
+      {
+        "title": { "en": "こ- (Here, near speaker)", "vi": "こ- (Đây, gần người nói)" },
+        "data": [
+          { "Category": "Thing", "Reading": "これ (kore)", "vi": "cái này" },
+          { "Category": "Place", "Reading": "ここ (koko)", "vi": "chỗ này" },
+          { "Category": "Modifier", "Reading": "この (kono)", "vi": "cái... này" }
+        ]
+      },
+      {
+        "title": { "en": "そ- (There, near listener)", "vi": "そ- (Đó, gần người nghe)" },
+        "data": [
+          { "Category": "Thing", "Reading": "それ (sore)", "vi": "cái đó" },
+          { "Category": "Place", "Reading": "そこ (soko)", "vi": "chỗ đó" },
+          { "Category": "Modifier", "Reading": "その (sono)", "vi": "cái... đó" }
+        ]
+      },
+      {
+        "title": { "en": "あ- (Over there, far away)", "vi": "あ- (Kia, ở đằng kia)" },
+        "data": [
+          { "Category": "Thing", "Reading": "あれ (are)", "vi": "cái kia" },
+          { "Category": "Place", "Reading": "あそこ (asoko)", "vi": "chỗ kia" },
+          { "Category": "Modifier", "Reading": "あの (ano)", "vi": "cái... kia" }
+        ]
+      },
+      {
+        "title": { "en": "ど- (Question)", "vi": "ど- (Hỏi)" },
+        "data": [
+          { "Category": "Thing", "Reading": "どれ (dore)", "vi": "cái nào?" },
+          { "Category": "Place", "Reading": "どこ (doko)", "vi": "chỗ nào?" },
+          { "Category": "Modifier", "Reading": "どの (dono)", "vi": "cái... nào?" }
+        ]
+      }
+    ]
+  },
+  "verbGroups": {
+    "en": "Verb Group Identification ⚙️",
+    "vi": "Phân loại nhóm Động từ ⚙️",
     "type": "table",
     "content": [
       {
-        "Counter": "～つ",
-        "Number": "General objects",
-        "Usage": "General objects",
-        "Example": "ひとつ, ふたつ, みっつ...",
-        "vi": "Vật nói chung"
+        "Group": "Group 1 (Godan)",
+        "Identification": "Verbs ending in ~u, ~ku, ~gu, ~su, ~tsu, ~nu, ~bu, ~mu, ~ru. The sound before -masu is in the 'i' column.",
+        "Example": "かきます (kakimasu), のみます (nomimasu)",
+        "vi": "Động từ có đuôi ~u, ~ku, ~gu, ~su, ~tsu, ~nu, ~bu, ~mu, ~ru. Âm trước -masu thuộc cột 'i'."
       },
       {
-        "Counter": "～人 (にん)",
-        "Number": "People",
-        "Usage": "People",
-        "Example": "ひとり, ふたり, さんにん...",
-        "vi": "Người"
+        "Group": "Group 2 (Ichidan)",
+        "Identification": "Most verbs ending in -iru or -eru. The sound before -masu is in the 'e' column or is a single 'i' syllable.",
+        "Example": "たべます (tabemasu), みます (mimasu)",
+        "vi": "Hầu hết động từ kết thúc bằng -iru hoặc -eru. Âm trước -masu thuộc cột 'e' hoặc là âm 'i' đơn."
       },
       {
-        "Counter": "～枚 (まい)",
-        "Number": "Flat, thin objects",
-        "Usage": "Flat, thin objects",
-        "Example": "いちまい, にまい...",
-        "vi": "Vật mỏng, phẳng (tờ, tấm, miếng...)"
-      },
-      {
-        "Counter": "～本 (ほん)",
-        "Number": "Long, cylindrical objects",
-        "Usage": "Long, cylindrical objects",
-        "Example": "いっぽん, にほん, さんぼん...",
-        "vi": "Vật dài, thon (chai, bút, cây...)"
-      },
-      {
-        "Counter": "～冊 (さつ)",
-        "Number": "Bound volumes (books)",
-        "Usage": "Bound volumes (books)",
-        "Example": "いっさつ, にさつ...",
-        "vi": "Quyển (sách, vở...)"
-      },
-      {
-        "Counter": "～歳 (さい)",
-        "Number": "Age",
-        "Usage": "Age",
-        "Example": "いっさい, にさい...",
-        "vi": "Tuổi"
-      },
-      {
-        "Counter": "～分 (ふん/ぷん)",
-        "Number": "Minutes",
-        "Usage": "Minutes",
-        "Example": "いっぷん, にふん...",
-        "vi": "Phút"
-      },
-      {
-        "Counter": "～時 (じ)",
-        "Number": "Hours",
-        "Usage": "Hours",
-        "Example": "いちじ, にじ...",
-        "vi": "Giờ"
+        "Group": "Group 3 (Irregular)",
+        "Identification": "Only two verbs: します (shimasu) and 来ます (kimasu).",
+        "Example": "します (shimasu), きます (kimasu)",
+        "vi": "Chỉ có hai động từ: します (shimasu) và 来ます (kimasu)."
       }
     ]
   },
-  "time": {
-    "en": "Time (時間) ⏰",
-    "vi": "Thời gian (時間) ⏰",
-    "type": "table-grid",
+  "teFormRules": {
+    "en": "Te-Form Conjugation Rules 🔄",
+    "vi": "Quy tắc chia thể Te 🔄",
+    "type": "table",
     "content": [
       {
-        "title": {
-          "en": "Hours (時 - じ)",
-          "vi": "Giờ (時 - じ)"
-        },
-        "data": [
-          {
-            "Number": "1:00",
-            "Reading": "いちじ",
-            "vi": "1 giờ"
-          },
-          {
-            "Number": "2:00",
-            "Reading": "にじ",
-            "vi": "2 giờ"
-          },
-          {
-            "Number": "4:00",
-            "Reading": "よじ",
-            "vi": "4 giờ"
-          },
-          {
-            "Number": "7:00",
-            "Reading": "しちじ",
-            "vi": "7 giờ"
-          },
-          {
-            "Number": "9:00",
-            "Reading": "くじ",
-            "vi": "9 giờ"
-          }
-        ]
+        "Group": "Group 1",
+        "Ending": "ending in き -> いて",
+        "Example": "かきます -> かいて",
+        "vi": "đuôi き -> いて"
       },
       {
-        "title": {
-          "en": "Minutes (分 - ふん/ぷん)",
-          "vi": "Phút (分 - ふん/ぷん)"
-        },
-        "data": [
-          {
-            "Number": "1 min",
-            "Reading": "いっぷん",
-            "vi": "1 phút"
-          },
-          {
-            "Number": "5 min",
-            "Reading": "ごふん",
-            "vi": "5 phút"
-          },
-          {
-            "Number": "10 min",
-            "Reading": "じゅっぷん/じっぷん",
-            "vi": "10 phút"
-          },
-          {
-            "Number": "30 min",
-            "Reading": "さんじゅっぷん / はん",
-            "vi": "30 phút / nửa tiếng"
-          }
-        ]
+        "Group": "Group 1",
+        "Ending": "ending in ぎ -> いで",
+        "Example": "およぎます -> およいで",
+        "vi": "đuôi ぎ -> いで"
       },
       {
-        "title": {
-          "en": "Time Words",
-          "vi": "Từ chỉ thời gian"
-        },
-        "data": [
-          {
-            "Number": "AM",
-            "Reading": "ごぜん",
-            "vi": "Sáng (AM)"
-          },
-          {
-            "Number": "PM",
-            "Reading": "ごご",
-            "vi": "Chiều (PM)"
-          },
-          {
-            "Number": "Half",
-            "Reading": "はん",
-            "vi": "Nửa, rưỡi"
-          },
-          {
-            "Number": "Hour",
-            "Reading": "じかん",
-            "vi": "Giờ (khoảng thời gian)"
-          }
-        ]
+        "Group": "Group 1",
+        "Ending": "ending in み, び, に -> んで",
+        "Example": "のみます -> のんで",
+        "vi": "đuôi み, び, に -> んで"
+      },
+      {
+        "Group": "Group 1",
+        "Ending": "ending in い, ち, り -> って",
+        "Example": "かいます -> かって",
+        "vi": "đuôi い, ち, り -> って"
+      },
+      {
+        "Group": "Group 1",
+        "Ending": "ending in し -> して",
+        "Example": "はなします -> はなして",
+        "vi": "đuôi し -> して"
+      },
+      {
+        "Group": "Group 2",
+        "Ending": "Drop ます, add て",
+        "Example": "たべます -> たべて",
+        "vi": "Bỏ ます, thêm て"
+      },
+      {
+        "Group": "Group 3",
+        "Ending": "Irregular",
+        "Example": "します -> して | きます -> きて",
+        "vi": "Bất quy tắc"
       }
     ]
   },
-  "calendar": {
-    "en": "Calendar (カレンダー) 📅",
-    "vi": "Lịch (カレンダー) 📅",
-    "type": "table-grid",
+  "politeVsPlain": {
+    "en": "Polite vs. Plain Form 🧑‍🏫/🧑‍🤝‍🧑",
+    "vi": "Thể Lịch sự vs. Thể Thông thường 🧑‍🏫/🧑‍🤝‍🧑",
+    "type": "table",
     "content": [
       {
-        "title": {
-          "en": "Days of the Week (曜日)",
-          "vi": "Các ngày trong tuần (曜日)"
-        },
-        "data": [
-          {
-            "Number": "Sunday",
-            "Kanji": "日曜日",
-            "Reading": "にちようび",
-            "vi": "Chủ nhật"
-          },
-          {
-            "Number": "Monday",
-            "Kanji": "月曜日",
-            "Reading": "げつようび",
-            "vi": "Thứ hai"
-          },
-          {
-            "Number": "Tuesday",
-            "Kanji": "火曜日",
-            "Reading": "かようび",
-            "vi": "Thứ ba"
-          },
-          {
-            "Number": "Wednesday",
-            "Kanji": "水曜日",
-            "Reading": "すいようび",
-            "vi": "Thứ tư"
-          },
-          {
-            "Number": "Thursday",
-            "Kanji": "木曜日",
-            "Reading": "もくようび",
-            "vi": "Thứ năm"
-          },
-          {
-            "Number": "Friday",
-            "Kanji": "金曜日",
-            "Reading": "きんようび",
-            "vi": "Thứ sáu"
-          },
-          {
-            "Number": "Saturday",
-            "Kanji": "土曜日",
-            "Reading": "どようび",
-            "vi": "Thứ bảy"
-          }
-        ]
+        "Form": "Polite (丁寧語)",
+        "Usage": "Used with strangers, teachers, superiors, or in formal situations.",
+        "Example": "です / ます",
+        "vi": "Dùng với người lạ, giáo viên, cấp trên, hoặc trong các tình huống trang trọng."
       },
       {
-        "title": {
-          "en": "Months (月)",
-          "vi": "Các tháng (月)"
-        },
-        "data": [
-          {
-            "Number": "Jan",
-            "Kanji": "一月",
-            "Reading": "いちがつ",
-            "vi": "Tháng 1"
-          },
-          {
-            "Number": "Apr",
-            "Kanji": "四月",
-            "Reading": "しがつ",
-            "vi": "Tháng 4"
-          },
-          {
-            "Number": "Jul",
-            "Kanji": "七月",
-            "Reading": "しちがつ",
-            "vi": "Tháng 7"
-          },
-          {
-            "Number": "Sep",
-            "Kanji": "九月",
-            "Reading": "くがつ",
-            "vi": "Tháng 9"
-          }
-        ]
-      },
-      {
-        "title": {
-          "en": "Days of the Month (日)",
-          "vi": "Các ngày trong tháng (日)"
-        },
-        "data": [
-          {
-            "Number": "1st",
-            "Reading": "ついたち",
-            "vi": "Mùng 1"
-          },
-          {
-            "Number": "2nd",
-            "Reading": "ふつか",
-            "vi": "Mùng 2"
-          },
-          {
-            "Number": "3rd",
-            "Reading": "みっか",
-            "vi": "Mùng 3"
-          },
-          {
-            "Number": "4th",
-            "Reading": "よっか",
-            "vi": "Mùng 4"
-          },
-          {
-            "Number": "8th",
-            "Reading": "ようか",
-            "vi": "Mùng 8"
-          },
-          {
-            "Number": "10th",
-            "Reading": "とおか",
-            "vi": "Mùng 10"
-          },
-          {
-            "Number": "20th",
-            "Reading": "はつか",
-            "vi": "Ngày 20"
-          },
-          {
-            "Number": "Other",
-            "Reading": "Number + にち",
-            "vi": "Số + にち (ngày...)"
-          }
-        ]
+        "Form": "Plain (普通語)",
+        "Usage": "Used with close friends, family, or when talking to oneself.",
+        "Example": "だ / dictionary form (る)",
+        "vi": "Dùng với bạn bè thân, gia đình, hoặc khi tự nói chuyện với bản thân."
       }
     ]
   }

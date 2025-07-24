@@ -96,6 +96,28 @@
           "title": "~っぽい (Trông có vẻ / Giống như)",
           "content": "Chỉ ra rằng một cái gì đó có phẩm chất hoặc đặc điểm của một cái khác. Thường được sử dụng trong giao tiếp thân mật.<br>Danh từ/Thân động từ + っぽい<br><b>Ví dụ:</b> あの黒っぽい服を着ている人が田中さんです。(Ano kuroppoi fuku o kiteiru hito ga Tanaka-san desu.) - Người đang mặc bộ quần áo trông đen đen kia là anh Tanaka."
         }
+      },
+      {
+        "id": "g216",
+        "en": {
+          "title": "~がち (Tend to)",
+          "content": "Indicates that someone has a tendency to do something, often with a negative nuance.<br>Noun / Verb-stem + がち<br><b>Example:</b> 私は子供の時、病気がちでした。(Watashi wa kodomo no toki, byōki-gachi deshita.) - I tended to be sick when I was a child."
+        },
+        "vi": {
+          "title": "~がち (Hay / Thường)",
+          "content": "Chỉ ra rằng ai đó có xu hướng làm điều gì đó, thường mang sắc thái tiêu cực.<br>Danh từ / Thân động từ + がち<br><b>Ví dụ:</b> 私は子供の時、病気がちでした。(Watashi wa kodomo no toki, byōki-gachi deshita.) - Hồi nhỏ tôi hay bị ốm."
+        }
+      },
+      {
+        "id": "g217",
+        "en": {
+          "title": "~気味 (A little / Sort of)",
+          "content": "Indicates that someone or something seems to be slightly in a certain state.<br>Noun / Verb-stem + 気味 (ぎみ)<br><b>Example:</b> 最近、少し疲れ気味です。(Saikin, sukoshi tsukare-gimi desu.) - Recently, I've been feeling a bit tired."
+        },
+        "vi": {
+          "title": "~気味 (Hơi / Có cảm giác)",
+          "content": "Chỉ ra rằng ai đó hoặc cái gì đó có vẻ hơi ở trong một trạng thái nhất định.<br>Danh từ / Thân động từ + 気味 (ぎみ)<br><b>Ví dụ:</b> 最近、少し疲れ気味です。(Saikin, sukoshi tsukare-gimi desu.) - Gần đây, tôi cảm thấy hơi mệt."
+        }
       }
     ]
   },
@@ -168,6 +190,39 @@
           "title": "~まま (Để nguyên / Giữ nguyên)",
           "content": "Chỉ ra rằng một trạng thái hoặc điều kiện không thay đổi trong khi một hành động khác diễn ra.<br>V-ta / Danh từ + の + まま<br><b>Ví dụ:</b> 窓を開けたまま寝てしまった。(Mado o aketa mama nete shimatta.) - Tôi đã ngủ quên trong khi cửa sổ vẫn mở."
         }
+      },
+      {
+        "id": "g227",
+        "en": {
+          "title": "～てほしい (I want you to...)",
+          "content": "Expresses the speaker's desire for someone else to do an action.<br>V-te form + ほしい<br><b>Example:</b> あなたにこの本を読んでほしいです。(Anata ni kono hon o yonde hoshii desu.) - I want you to read this book."
+        },
+        "vi": {
+          "title": "～てほしい (Tôi muốn bạn...)",
+          "content": "Diễn tả mong muốn của người nói về việc người khác làm một hành động.<br>Động từ thể て + ほしい<br><b>Ví dụ:</b> あなたにこの本を読んでほしいです。(Anata ni kono hon o yonde hoshii desu.) - Tôi muốn bạn đọc cuốn sách này."
+        }
+      },
+      {
+        "id": "g228",
+        "en": {
+          "title": "～てたまらない (Can't help but feel)",
+          "content": "Expresses a very strong, often unbearable, feeling or sensation.<br>V-te / Adj-te form + たまらない<br><b>Example:</b> 試験のことが心配でたまらない。(Shiken no koto ga shinpai de tamaranai.) - I can't help but feel worried about the exam."
+        },
+        "vi": {
+          "title": "～てたまらない (Không thể chịu được/Vô cùng...)",
+          "content": "Diễn tả một cảm giác hoặc cảm xúc rất mạnh, thường không thể chịu đựng được.<br>Động từ/Tính từ thể て + たまらない<br><b>Ví dụ:</b> 試験のことが心配でたまらない。(Shiken no koto ga shinpai de tamaranai.) - Tôi lo lắng về kỳ thi không chịu được."
+        }
+      },
+      {
+        "id": "g229",
+        "en": {
+          "title": "～ふりをする (Pretend to)",
+          "content": "To act as if something is true when it is not.<br>Plain form + ふりをする<br><b>Example:</b> 彼は聞こえないふりをした。(Kare wa kikoenai furi o shita.) - He pretended not to hear."
+        },
+        "vi": {
+          "title": "～ふりをする (Giả vờ)",
+          "content": "Hành động như thể một điều gì đó là sự thật trong khi không phải vậy.<br>Thể thông thường + ふりをする<br><b>Ví dụ:</b> 彼は聞こえないふりをした。(Kare wa kikoenai furi o shita.) - Anh ta giả vờ không nghe thấy."
+        }
       }
     ]
   },
@@ -218,6 +273,39 @@
           "title": "~たとたん (Vừa mới... thì ngay lập tức)",
           "content": "Diễn tả rằng một điều gì đó đã xảy ra ngay sau một hành động khác. Thường được dùng cho các sự kiện bất ngờ.<br>V-ta + とたん<br><b>Ví dụ:</b> 窓を開けたとたん、強い風が入ってきた。(Mado o aketa totan, tsuyoi kaze ga haitte kita.) - Vừa mới mở cửa sổ ra thì một cơn gió mạnh thổi vào."
         }
+      },
+      {
+        "id": "g235",
+        "en": {
+          "title": "～くせに (And yet / Even though)",
+          "content": "Expresses the speaker's frustration or criticism when someone's actions contradict their status or words.<br>Plain form + くせに<br><b>Example:</b> 知っているくせに、教えてくれない。(Shitteiru kuse ni, oshiete kurenai.) - Even though he knows, he won't tell me."
+        },
+        "vi": {
+          "title": "～くせに (Vậy mà / Thế mà)",
+          "content": "Diễn tả sự bực bội hoặc chỉ trích của người nói khi hành động của ai đó mâu thuẫn với địa vị hoặc lời nói của họ.<br>Thể thông thường + くせに<br><b>Ví dụ:</b> 知っているくせに、教えてくれない。(Shitteiru kuse ni, oshiete kurenai.) - Biết vậy mà không chỉ cho tôi."
+        }
+      },
+      {
+        "id": "g236",
+        "en": {
+          "title": "～て以来 (Ever since)",
+          "content": "Indicates that a certain state has continued ever since a specific point in the past.<br>V-te form + 以来 (いらい)<br><b>Example:</b> 日本に来て以来、ずっとこの町に住んでいます。(Nihon ni kite irai, zutto kono machi ni sunde imasu.) - Ever since I came to Japan, I have been living in this town."
+        },
+        "vi": {
+          "title": "～て以来 (Kể từ khi)",
+          "content": "Chỉ ra rằng một trạng thái nhất định đã tiếp diễn kể từ một thời điểm cụ thể trong quá khứ.<br>Động từ thể て + 以来 (いらい)<br><b>Ví dụ:</b> 日本に来て以来、ずっとこの町に住んでいます。(Nihon ni kite irai, zutto kono machi ni sunde imasu.) - Kể từ khi đến Nhật, tôi đã sống suốt ở thành phố này."
+        }
+      },
+      {
+        "id": "g237",
+        "en": {
+          "title": "～かわりに (Instead of / In exchange for)",
+          "content": "Expresses that one thing is done instead of another, or as compensation for something.<br>V-dict / Noun + の + かわりに<br><b>Example:</b> 音楽会に行くかわりに、家でCDを聞きました。(Ongakukai ni iku kawari ni, ie de CD o kikimashita.) - Instead of going to the concert, I listened to a CD at home."
+        },
+        "vi": {
+          "title": "～かわりに (Thay vì / Đổi lại)",
+          "content": "Diễn tả rằng một việc được làm thay cho một việc khác, hoặc để đền bù cho một điều gì đó.<br>Động từ thể từ điển / Danh từ + の + かわりに<br><b>Ví dụ:</b> 音楽会に行くかわりに、家でCDを聞きました。(Ongakukai ni iku kawari ni, ie de CD o kikimashita.) - Thay vì đi xem hòa nhạc, tôi đã nghe CD ở nhà."
+        }
       }
     ]
   },
@@ -256,6 +344,17 @@
         "vi": {
           "title": "~ば~ほど (Càng... càng...)",
           "content": "Cho thấy khi một thứ tăng lên hoặc thay đổi, thì một thứ khác cũng thay đổi một cách tương ứng.<br>Động từ thể ば + Động từ thể từ điển / い-adj-ければ + い-adj / な-adj-なら + な-adj + ほど<br><b>Ví dụ:</b> 日本語は、勉強すればするほど面白くなる。(Nihongo wa, benkyō sureba suru hodo omoshiroku naru.) - Tiếng Nhật càng học thì càng thấy thú vị."
+        }
+      },
+      {
+        "id": "g244",
+        "en": {
+          "title": "～はもちろん (Not to mention / Of course)",
+          "content": "Used to emphasize that something is obvious, before mentioning something less obvious. Also known as ～はもとより.<br>Noun + はもちろん<br><b>Example:</b> 彼は英語はもちろん、フランス語も話せます。(Kare wa eigo wa mochiron, furansugo mo hanasemasu.) - He can speak French, not to mention English of course."
+        },
+        "vi": {
+          "title": "～はもちろん (Không chỉ... mà còn/Dĩ nhiên)",
+          "content": "Dùng để nhấn mạnh một điều hiển nhiên, trước khi đề cập đến một điều ít hiển nhiên hơn. Cũng được biết đến là ～はもとより.<br>Danh từ + はもちろん<br><b>Ví dụ:</b> 彼は英語はもちろん、フランス語も話せます。(Kare wa eigo wa mochiron, furansugo mo hanasemasu.) - Anh ấy nói được cả tiếng Pháp, chứ đừng nói đến tiếng Anh."
         }
       }
     ]

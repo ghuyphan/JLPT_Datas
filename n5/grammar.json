@@ -28,6 +28,16 @@
         "id": "g12",
         "en": { "title": "Noun を Verb (Direct Object)", "content": "The particle を marks the direct object of a transitive verb.<br><b>Example:</b> わたしは パンを たべます。(Watashi wa pan o tabemasu.) - I eat bread." },
         "vi": { "title": "Danh từ を Động từ (Tân ngữ trực tiếp)", "content": "Trợ từ を đánh dấu tân ngữ trực tiếp của một ngoại động từ.<br><b>Ví dụ:</b> わたしは パンを たべます。(Watashi wa pan o tabemasu.) - Tôi ăn bánh mì." }
+      },
+      {
+        "id": "g46",
+        "en": { "title": "Tool で Verb (By means of)", "content": "The particle で indicates the tool, method, or means by which an action is performed.<br><b>Example:</b> はしで ごはんを たべます。(Hashi de gohan o tabemasu.) - I eat rice with chopsticks." },
+        "vi": { "title": "Công cụ で Động từ (Bằng phương tiện)", "content": "Trợ từ で chỉ công cụ, phương pháp hoặc phương tiện mà hành động được thực hiện.<br><b>Ví dụ:</b> はしで ごはんを たべます。(Hashi de gohan o tabemasu.) - Tôi ăn cơm bằng đũa." }
+      },
+      {
+        "id": "g47",
+        "en": { "title": "Person と Verb (With someone)", "content": "The particle と is used to indicate doing an action together with someone.<br><b>Example:</b> ともだちと がっこうへ いきます。(Tomodachi to gakkou e ikimasu.) - I go to school with my friend." },
+        "vi": { "title": "Người と Động từ (Cùng với ai đó)", "content": "Trợ từ と được sử dụng để chỉ việc thực hiện một hành động cùng với ai đó.<br><b>Ví dụ:</b> ともだちと がっこうへ いきます。(Tomodachi to gakkou e ikimasu.) - Tôi đi học cùng với bạn." }
       }
     ]
   },
@@ -75,6 +85,11 @@
         "id": "g23",
         "en": { "title": "Verb-て います (Action in progress)", "content": "Expresses an ongoing action, similar to '-ing' in English.<br><b>Example:</b> いま あめが ふって います。(Ima ame ga futte imasu.) - It is raining now." },
         "vi": { "title": "Động từ thể て います (Hành động đang diễn ra)", "content": "Diễn tả một hành động đang diễn ra, tương tự như '-ing' trong tiếng Anh.<br><b>Ví dụ:</b> いま あめが ふって います。(Ima ame ga futte imasu.) - Bây giờ trời đang mưa." }
+      },
+      {
+        "id": "g57",
+        "en": { "title": "まだ + Verb-て いません (Not yet)", "content": "Expresses an action that has not happened yet but is expected to.<br><b>Example:</b> しゅくだいは まだ おわって いません。(Shukudai wa mada owatte imasen.) - I have not finished my homework yet." },
+        "vi": { "title": "まだ + Động từ-て いません (Vẫn chưa)", "content": "Diễn tả một hành động chưa xảy ra nhưng được mong đợi là sẽ xảy ra.<br><b>Ví dụ:</b> しゅくだいは まだ おわって いません。(Shukudai wa mada owatte imasen.) - Tôi vẫn chưa làm xong bài tập về nhà." }
       },
       {
         "id": "g32",
@@ -136,6 +151,11 @@
         "id": "g41",
         "en": { "title": "～なります (To become)", "content": "Indicates a change of state.<br>• い-adj (drop い) + くなります。<br>• な-adj/Noun + に なります。<br><b>Example (い-adj):</b> さむくなります。(Samuku narimasu.) - It will become cold.<br><b>Example (な-adj):</b> げんきに なりました。(Genki ni narimashita.) - I became healthy." },
         "vi": { "title": "～なります (Trở nên)", "content": "Chỉ sự thay đổi trạng thái.<br>• Tính từ い (bỏ い) + くなります。<br>• Tính từ な/Danh từ + に なります。<br><b>Ví dụ (đuôi い):</b> さむくなります。(Samuku narimasu.) - Trời sẽ trở nên lạnh.<br><b>Ví dụ (đuôi な):</b> げんきに なりました。(Genki ni narimashita.) - Tôi đã trở nên khỏe mạnh." }
+      },
+      {
+        "id": "g54",
+        "en": { "title": "～すぎる (Too much)", "content": "Indicates excess.<br>• Verb-stem + すぎます。<br>• い-adj (drop い) + すぎます。<br>• な-adj + すぎます。<br><b>Example (Verb):</b> たべすぎました。(Tabesugimashita.) - I ate too much.<br><b>Example (Adj):</b> このもんだいは むずかしすぎます。(Kono mondai wa muzukashisugimasu.) - This problem is too difficult." },
+        "vi": { "title": "～すぎる (Quá...)", "content": "Chỉ sự vượt quá mức độ.<br>• Động từ-thân + すぎます。<br>• Tính từ い (bỏ い) + すぎます。<br>• Tính từ な + すぎます。<br><b>Ví dụ (Động từ):</b> たべすぎました。(Tabesugimashita.) - Tôi đã ăn quá nhiều.<br><b>Ví dụ (Tính từ):</b> このもんだいは むずかしすぎます。(Kono mondai wa muzukashisugimasu.) - Vấn đề này quá khó." }
       }
     ]
   },
@@ -167,6 +187,31 @@
         "id": "g29",
         "en": { "title": "Expressing Desire (～たい/ほしい)", "content": "Express wants:<br>• Verb-stem + たいです: want to do (日本へ行きたいです。)<br>• Noun が ほしいです: want something (新しいかばんがほしいです。)" },
         "vi": { "title": "Diễn đạt mong muốn (～たい/ほしい)", "content": "Diễn tả mong muốn:<br>• Động từ thân + たいです: muốn làm (日本へ行きたいです。 - Tôi muốn đi Nhật Bản.)<br>• Danh từ が ほしいです: muốn có cái gì (新しいかばんがほしいです。 - Tôi muốn có chiếc túi mới.)" }
+      },
+      {
+        "id": "g48",
+        "en": { "title": "V-たり V-たり する (To do things like...)", "content": "Lists example activities without a specific order. Uses the past tense plain form (た-form) of verbs.<br><b>Example:</b> にちようびは えいがを みたり、かいものを したり しました。(Nichiyoubi wa eiga o mitari, kaimono o shitari shimashita.) - On Sunday, I did things like watching a movie and shopping." },
+        "vi": { "title": "V-たり V-たり する (Làm những việc như...)", "content": "Liệt kê các hoạt động ví dụ mà không theo một thứ tự cụ thể. Sử dụng động từ ở thể た.<br><b>Ví dụ:</b> にちようびは えいがを みたり、かいものを したり しました。(Nichiyoubi wa eiga o mitari, kaimono o shitari shimashita.) - Vào Chủ nhật, tôi đã làm những việc như xem phim và mua sắm." }
+      },
+      {
+        "id": "g49",
+        "en": { "title": "V-たことがある (Experience)", "content": "Expresses that you have had the experience of doing something before. Uses the past tense plain form (た-form).<br><b>Example:</b> すしを たべたことが ありますか。(Sushi o tabeta koto ga arimasu ka.) - Have you ever eaten sushi?" },
+        "vi": { "title": "V-たことがある (Trải nghiệm)", "content": "Diễn tả rằng bạn đã từng có kinh nghiệm làm một việc gì đó trước đây. Sử dụng động từ ở thể た.<br><b>Ví dụ:</b> すしを たべたことが ありますか。(Sushi o tabeta koto ga arimasu ka.) - Bạn đã bao giờ ăn sushi chưa?" }
+      },
+      {
+        "id": "g51",
+        "en": { "title": "Verb-dict form + つもりです (Intend to)", "content": "Expresses a firm intention or plan.<br><b>Example:</b> らいしゅう きょうとへ いく つもりです。(Raishuu Kyouto e iku tsumori desu.) - I intend to go to Kyoto next week." },
+        "vi": { "title": "Động từ thể từ điển + つもりです (Dự định)", "content": "Diễn tả một ý định hoặc kế hoạch chắc chắn.<br><b>Ví dụ:</b> らいしゅう きょうとへ いく つもりです。(Raishuu Kyouto e iku tsumori desu.) - Tôi dự định đi Kyoto vào tuần tới." }
+      },
+      {
+        "id": "g52",
+        "en": { "title": "Verb-た/ない + ほうがいい (Had better)", "content": "Used to give advice or make a strong suggestion.<br>• Affirmative: V-た form + ほうがいい<br>• Negative: V-ない form + ほうがいい<br><b>Example:</b> くすりを のんだほうがいいです。(Kusuri o nonda hou ga ii desu.) - You had better take the medicine." },
+        "vi": { "title": "Động từ thể た/ない + ほうがいい (Nên làm)", "content": "Dùng để đưa ra lời khuyên hoặc một gợi ý mạnh mẽ.<br>• Khẳng định: Động từ thể た + ほうがいい<br>• Phủ định: Động từ thể ない + ほうがいい<br><b>Ví dụ:</b> くすりを のんだほうがいいです。(Kusuri o nonda hou ga ii desu.) - Bạn nên uống thuốc." }
+      },
+      {
+        "id": "g56",
+        "en": { "title": "Noun に する (To decide on)", "content": "Used to express that a decision has been made, often when choosing from options.<br><b>Example:</b>わたしは コーヒーに します。(Watashi wa koohii ni shimasu.) - I'll have the coffee. (I've decided on coffee)." },
+        "vi": { "title": "Danh từ に する (Quyết định chọn)", "content": "Dùng để diễn tả một quyết định đã được đưa ra, thường là khi lựa chọn từ các phương án.<br><b>Ví dụ:</b> わたしは コーヒーに します。(Watashi wa koohii ni shimasu.) - Tôi chọn cà phê." }
       }
     ]
   },
@@ -188,6 +233,11 @@
         "id": "g30",
         "en": { "title": "Basic Counters (～つ)", "content": "Basic native Japanese counters for small items:<br>ひとつ、ふたつ、みっつ、よっつ、いつつ、むっつ、ななつ、やっつ、ここのつ、とお.<br><b>Example:</b> りんごを二つください。 - Please give me two apples." },
         "vi": { "title": "Đếm đơn giản (～つ)", "content": "Các đếm cơ bản:<br>ひとつ (1), ふたつ (2), みっつ (3), よっつ (4), いつつ (5), むっつ (6), ななつ (7), やっつ (8), ここのつ (9), とお (10).<br><b>Ví dụ:</b> りんごを二つください。 - Cho tôi hai quả táo." }
+      },
+      {
+        "id": "g50",
+        "en": { "title": "Specific Counters", "content": "Used for counting specific types of items.<br>• ～人 (nin): people (e.g., ふたり)<br>• ～枚 (mai): flat objects (e.g., にまい)<br>• ～本 (hon): long objects (e.g., さんぼん)<br>• ～台 (dai): machines/vehicles (e.g., いちだい)<br>• ～冊 (satsu): bound volumes (e.g., ごさつ)<br><b>Example:</b> きってを ごまい ください。(Kitte o gomai kudasai.) - Please give me five stamps." },
+        "vi": { "title": "Cách đếm cụ thể", "content": "Dùng để đếm các loại vật phẩm cụ thể.<br>• ～人 (nin): người (VD: ふたり)<br>• ～枚 (mai): vật mỏng (VD: にまい)<br>• ～本 (hon): vật dài (VD: さんぼん)<br>• ～台 (dai): máy móc/xe cộ (VD: いちだい)<br>• ～冊 (satsu): sách vở (VD: ごさつ)<br><b>Ví dụ:</b> きってを ごまい ください。(Kitte o gomai kudasai.) - Cho tôi năm con tem." }
       }
     ]
   },
@@ -199,6 +249,11 @@
         "id": "g25",
         "en": { "title": "と・か・から…まで・そして・でも (Conjunctions)", "content": "Particles used to connect words and clauses:<br>• Noun と Noun: and (りんごとバナナを食べます。)<br>• Noun か Noun: or (コーヒーかおちゃを飲みます。)<br>• Noun から Noun まで: from…to… (９時から５時まで働きます。)<br>• そして: and then (朝ごはんを食べました。そして、出かけます。)<br>• でも: but (野菜は好きです。でも、果物は好きじゃないです。)" },
         "vi": { "title": "Liên từ (と・か・から…まで・そして・でも)", "content": "Các từ dùng để nối:<br>• Danh từ と Danh từ: và (りんごとバナナを食べます。)<br>• Danh từ か Danh từ: hoặc (コーヒーかおちゃを飲みます。)<br>• Danh từ から Danh từ まで: từ…đến… (９時から５時まで働きます。)<br>• そして: và sau đó (朝ごはんを食べました。そして、出かけます。)<br>• でも: nhưng (野菜は好きです。でも、果物は好きじゃないです。)" }
+      },
+      {
+        "id": "g55",
+        "en": { "title": "Noun や Noun (And... etc.)", "content": "Connects nouns to provide a non-exhaustive list, implying there are other things.<br><b>Example:</b> つくえの うえに ほんや ペンが あります。(Tsukue no ue ni hon ya pen ga arimasu.) - There are things like books and pens on the desk." },
+        "vi": { "title": "Danh từ や Danh từ (Và... vân vân)", "content": "Nối các danh từ để đưa ra một danh sách không đầy đủ, ngụ ý rằng còn có những thứ khác.<br><b>Ví dụ:</b> つくえの うえに ほんや ペンが あります。(Tsukue no ue ni hon ya pen ga arimasu.) - Trên bàn có những thứ như sách và bút." }
       },
       {
         "id": "g26",
@@ -214,6 +269,11 @@
         "id": "g42",
         "en": { "title": "Clause Connectors (から / が)", "content": "• ～から: because, so (Used to state a reason).<br>• ～が: but, although (Used to connect contrasting ideas).<br><b>Example (から):</b> あしたは やすみですから、きょうは たくさん のみます。(Ashita wa yasumi desu kara, kyou wa takusan nomimasu.) - Because tomorrow is a holiday, I will drink a lot today.<br><b>Example (が):</b> にほんごは おもしろいですが、むずかしいです。(Nihongo wa omoshiroi desu ga, muzukashii desu.) - Japanese is interesting, but difficult." },
         "vi": { "title": "Từ nối mệnh đề (から / が)", "content": "• ～から: bởi vì, cho nên (Dùng để chỉ nguyên nhân).<br>• ～が: nhưng (Dùng để nối các ý tương phản).<br><b>Ví dụ (から):</b> あしたは やすみですから、きょうは たくさん のみます。(Ashita wa yasumi desu kara, kyou wa takusan nomimasu.) - Vì ngày mai là ngày nghỉ nên hôm nay tôi sẽ uống nhiều.<br><b>Ví dụ (が):</b> にほんごは おもしろいですが、むずかしいです。(Nihongo wa omoshiroi desu ga, muzukashii desu.) - Tiếng Nhật thú vị nhưng khó." }
+      },
+      {
+        "id": "g53",
+        "en": { "title": "Clause + ので (Because/So)", "content": "States a reason or cause, similar to から, but often feels softer. The clause before ので is in plain form.<br><b>Example:</b> あたまが いたいので、はやく かえります。(Atama ga itai node, hayaku kaerimasu.) - Because I have a headache, I will go home early." },
+        "vi": { "title": "Mệnh đề + ので (Bởi vì/Cho nên)", "content": "Nêu lý do hoặc nguyên nhân, tương tự như から, nhưng sắc thái thường nhẹ nhàng hơn. Mệnh đề trước ので ở thể thông thường.<br><b>Ví dụ:</b> あたまが いたいので、はやく かえります。(Atama ga itai node, hayaku kaerimasu.) - Vì tôi bị đau đầu nên tôi sẽ về sớm." }
       }
     ]
   },
