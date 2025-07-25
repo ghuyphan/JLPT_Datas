@@ -35,6 +35,17 @@
           "title": "Thể Bị động Sai khiến (使役受身形)",
           "content": "Diễn tả việc bị ai đó bắt làm điều gì trái với ý muốn.<br>• Nhóm 1: đổi đuôi -u thành -asareru (書く→書かされる).<br>• Nhóm 2: thay đuôi -ru bằng -saserareru (食べる→食べさせられる).<br>• Bất quy tắc: する→させられる, 来る→こさせられる.<br><b>Ví dụ:</b> 子供の時、母に野菜を食べさせられました。(Kodomo no toki, haha ni yasai o tabesaseraremashita.) - Hồi nhỏ, tôi đã bị mẹ bắt ăn rau."
         }
+      },
+      {
+        "id": "g204",
+        "en": {
+          "title": "Respectful Giving & Receiving",
+          "content": "Honorific (尊敬語) and humble (謙譲語) forms for giving and receiving actions.<br>• ～てくださる: (Honorific) Someone superior does for me/my group.<br>• ～ていただく: (Humble) I receive a favor/action from a superior.<br><b>Example (くださる):</b> 部長が仕事を手伝ってくださいました。(Buchō ga shigoto o tetsudatte kudasaimashita.) - The department manager kindly helped me with my work.<br><b>Example (いただく):</b> 先生に日本語を教えていただきました。(Sensei ni nihongo o oshiete itadakimashita.) - I humbly received Japanese language instruction from my teacher."
+        },
+        "vi": {
+          "title": "Hành động Cho & Nhận (Kính ngữ)",
+          "content": "Dạng tôn kính ngữ (尊敬語) và khiêm nhường ngữ (謙譲語) cho hành động cho và nhận.<br>• ～てくださる: (Tôn kính) Người trên làm gì đó cho tôi/nhóm của tôi.<br>• ～ていただく: (Khiêm nhường) Tôi nhận được một hành động/sự giúp đỡ từ người trên.<br><b>Ví dụ (くださる):</b> 部長が仕事を手伝ってくださいました。(Buchō ga shigoto o tetsudatte kudasaimashita.) - Trưởng phòng đã vui lòng giúp tôi công việc.<br><b>Ví dụ (いただく):</b> 先生に日本語を教えていただきました。(Sensei ni nihongo o oshiete itadakimashita.) - Tôi đã được cô giáo chỉ dạy cho tiếng Nhật."
+        }
       }
     ]
   },
@@ -62,6 +73,17 @@
         "vi": {
           "title": "~わけではない (Không phải là...)",
           "content": "Dùng để phủ định một phần. Làm rõ rằng một mệnh đề không đúng 100%.<br>Thể thông thường + わけではない。<br><b>Ví dụ:</b> 料理ができないわけではないが、忙しいからあまりしない。(Ryōri ga dekinai wake dewanai ga, isogashii kara amari shinai.) - Không phải là tôi không biết nấu ăn, mà vì bận nên tôi ít khi nấu."
+        }
+      },
+      {
+        "id": "g251",
+        "en": {
+          "title": "~わけにはいかない (Can't do for social reasons)",
+          "content": "Expresses that one cannot do something because of social norms, responsibility, or circumstances.<br>V-dict + わけにはいかない。<br><b>Example:</b> 大事な会議があるので、病気でも会社を休むわけにはいかない。(Daiji na kaigi ga aru node, byōki demo kaisha o yasumu wake ni wa ikanai.) - Because there's an important meeting, I can't just take the day off even though I'm sick."
+        },
+        "vi": {
+          "title": "~わけにはいかない (Không thể... vì lý do xã hội)",
+          "content": "Diễn tả rằng một người không thể làm gì đó vì chuẩn mực xã hội, trách nhiệm hoặc hoàn cảnh.<br>Động từ thể từ điển + わけにはいかない。<br><b>Ví dụ:</b> 大事な会議があるので、病気でも会社を休むわけにはいかない。(Daiji na kaigi ga aru node, byōki demo kaisha o yasumu wake ni wa ikanai.) - Vì có cuộc họp quan trọng nên dù bị bệnh cũng không thể nghỉ làm được."
         }
       },
       {
@@ -117,6 +139,17 @@
         "vi": {
           "title": "~気味 (Hơi / Có cảm giác)",
           "content": "Chỉ ra rằng ai đó hoặc cái gì đó có vẻ hơi ở trong một trạng thái nhất định.<br>Danh từ / Thân động từ + 気味 (ぎみ)<br><b>Ví dụ:</b> 最近、少し疲れ気味です。(Saikin, sukoshi tsukare-gimi desu.) - Gần đây, tôi cảm thấy hơi mệt."
+        }
+      },
+      {
+        "id": "g252",
+        "en": {
+          "title": "～ざるを得ない (No choice but to)",
+          "content": "Expresses that one must do something against their will due to circumstances. Very formal.<br>V-nai form (drop ない) + ざるを得ない。<br><b>Example:</b> 上司の命令なので、出張に行かざるを得ない。(Jōshi no meirei na node, shutchō ni ikazaru o enai.) - Because it's an order from my boss, I have no choice but to go on the business trip."
+        },
+        "vi": {
+          "title": "～ざるを得ない (Đành phải/Buộc phải)",
+          "content": "Diễn tả rằng một người phải làm điều gì đó trái với ý muốn của họ do hoàn cảnh. Rất trang trọng.<br>Động từ thể nai (bỏ ない) + ざるを得ない。<br><b>Ví dụ:</b> 上司の命令なので、出張に行かざるを得ない。(Jōshi no meirei na node, shutchō ni ikazaru o enai.) - Vì là mệnh lệnh của cấp trên nên tôi đành phải đi công tác."
         }
       }
     ]
@@ -242,6 +275,17 @@
         }
       },
       {
+        "id": "g253",
+        "en": {
+          "title": "~ものだから / ~もので (Because... [Excuse])",
+          "content": "Used to state a reason that is more of a personal explanation or excuse.<br>Plain form + ものだから<br><b>Example:</b> 事故があったものだから、電車が遅れたんです。(Jiko ga atta mono da kara, densha ga okuretan desu.) - Because there was an accident, the train was late (explaining why I was late)."
+        },
+        "vi": {
+          "title": "~ものだから / ~もので (Tại vì... [Biện hộ])",
+          "content": "Dùng để nêu lý do mang tính giải thích cá nhân hoặc biện hộ.<br>Thể thông thường + ものだから<br><b>Ví dụ:</b> 事故があったものだから、電車が遅れたんです。(Jiko ga atta mono da kara, densha ga okuretan desu.) - Tại vì có tai nạn nên tàu mới bị trễ (giải thích tại sao tôi đến muộn)."
+        }
+      },
+      {
         "id": "g232",
         "en": {
           "title": "~うちに / ~間に (While / During)",
@@ -250,6 +294,17 @@
         "vi": {
           "title": "~うちに / ~間に (Trong lúc / Trong khi)",
           "content": "• うちに: Làm gì đó trước khi một trạng thái thay đổi. Cũng có thể có nghĩa là một sự thay đổi bất ngờ đã xảy ra trong khi hành động.<br>• 間に: Một hành động diễn ra trong một khoảng thời gian cụ thể, liên tục.<br><b>Ví dụ (うちに):</b> 温かいうちに、どうぞ。(Atatakai uchi ni, dōzo.) - Mời anh ăn trong lúc còn nóng ạ.<br><b>Ví dụ (間に):</b> 留守の間に、どろぼうが入りました。(Rusu no aida ni, dorobō ga hairimashita.) - Trong khi tôi đi vắng, trộm đã vào nhà."
+        }
+      },
+      {
+        "id": "g254",
+        "en": {
+          "title": "～最中に (In the very middle of)",
+          "content": "Indicates that an unexpected event occurred right in the middle of another action.<br>V-teiru / Noun + の + 最中に (さいちゅうに)<br><b>Example:</b> 会議の最中に、携帯電話が鳴った。(Kaigi no saichū ni, keitai denwa ga natta.) - In the middle of the meeting, my cell phone rang."
+        },
+        "vi": {
+          "title": "～最中に (Đúng vào lúc đang...)",
+          "content": "Chỉ một sự kiện bất ngờ xảy ra đúng vào lúc một hành động khác đang diễn ra.<br>Động từ thể ている / Danh từ + の + 最中に (さいちゅうに)<br><b>Ví dụ:</b> 会議の最中に、携帯電話が鳴った。(Kaigi no saichū ni, keitai denwa ga natta.) - Đúng lúc đang họp thì điện thoại di động của tôi reo."
         }
       },
       {
@@ -283,6 +338,17 @@
         "vi": {
           "title": "～くせに (Vậy mà / Thế mà)",
           "content": "Diễn tả sự bực bội hoặc chỉ trích của người nói khi hành động của ai đó mâu thuẫn với địa vị hoặc lời nói của họ.<br>Thể thông thường + くせに<br><b>Ví dụ:</b> 知っているくせに、教えてくれない。(Shitteiru kuse ni, oshiete kurenai.) - Biết vậy mà không chỉ cho tôi."
+        }
+      },
+      {
+        "id": "g255",
+        "en": {
+          "title": "～にもかかわらず (Despite / In spite of)",
+          "content": "Expresses that something happened in spite of a condition that would normally prevent it. Formal.<br>Plain form / Noun + にもかかわらず<br><b>Example:</b> 悪天候にもかかわらず、試合は行われた。(Akutonkō ni mo kakawarazu, shiai wa okonawareta.) - The match was held despite the bad weather."
+        },
+        "vi": {
+          "title": "～にもかかわらず (Bất chấp / Mặc dù)",
+          "content": "Diễn tả rằng điều gì đó đã xảy ra bất chấp một điều kiện thường sẽ ngăn cản nó. Trang trọng.<br>Thể thông thường / Danh từ + にもかかわらず<br><b>Ví dụ:</b> 悪天候にもかかわらず、試合は行われた。(Akutonkō ni mo kakawarazu, shiai wa okonawareta.) - Bất chấp thời tiết xấu, trận đấu vẫn được diễn ra."
         }
       },
       {
@@ -322,6 +388,17 @@
         "vi": {
           "title": "~に比べて (So với)",
           "content": "Một cách trực tiếp để thực hiện so sánh.<br>Danh từ + に比べて.<br><b>Ví dụ:</b> 試験は去年に比べて、とても難しくなりました。(Shiken wa kyonen ni kurabete, totemo muzukashiku narimashita.) - So với năm ngoái, kỳ thi đã trở nên khó hơn rất nhiều."
+        }
+      },
+      {
+        "id": "g256",
+        "en": {
+          "title": "～わりに (Considering / For)",
+          "content": "Expresses that something is unexpected given a certain standard.<br>Plain form / Noun + の + わりに(は)<br><b>Example:</b> 彼は年のわりには若く見える。(Kare wa toshi no wari ni wa wakaku mieru.) - He looks young for his age."
+        },
+        "vi": {
+          "title": "～わりに (So với... thì)",
+          "content": "Diễn tả một điều gì đó bất ngờ khi xét đến một tiêu chuẩn nhất định.<br>Thể thông thường / Danh từ + の + わりに(は)<br><b>Ví dụ:</b> 彼は年のわりには若く見える。(Kare wa toshi no wari ni wa wakaku mieru.) - So với tuổi thì anh ấy trông trẻ."
         }
       },
       {

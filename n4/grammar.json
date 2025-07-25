@@ -36,7 +36,7 @@
           "content": "Dùng để ra lệnh một cách mạnh mẽ. Rất trực tiếp.<br>• Nhóm 1: đổi đuôi -u thành -e (走る→走れ).<br>• Nhóm 2: thay đuôi -ru bằng -ro (やめる→やめろ).<br>• Bất quy tắc: する→しろ, 来る→こい.<br><b>Ví dụ:</b> 早くしろ！(Hayaku shiro!) - Làm nhanh lên!"
         }
       },
-	  {
+      {
         "id": "g104",
         "en": {
           "title": "Prohibitive Form (禁止形)",
@@ -91,7 +91,7 @@
           "content": "Dùng ～てあげる, ～てくれる, ～てもらう để diễn tả hành động làm cho người khác.<br>• てあげる: Tôi làm cho người khác.<br>• てくれる: Ai đó làm cho tôi/nhóm tôi.<br>• てもらう: Tôi nhận được một hành động/sự giúp đỡ từ ai đó.<br><b>Ví dụ:</b> 友達が宿題を手伝ってくれました。(Tomodachi ga shukudai o tetsudatte kuremashita.) - Bạn tôi đã giúp tôi làm bài tập."
         }
       },
-	  {
+      {
         "id": "g109",
         "en": {
           "title": "～なさい (Polite command)",
@@ -137,7 +137,7 @@
           "content": "Used to describe the apparent feelings or desires of someone else (a third person).<br>• い-adj (drop い) + がる<br>• な-adj + がる<br><b>Example:</b> 猫は外に行きたがっています。(Neko wa soto ni ikitagatte imasu.) - The cat seems to want to go outside."
         },
         "vi": {
-          "title": "Danh từ/Tính từ + がる (ỏ vẻ)",
+          "title": "Danh từ/Tính từ + がる (Tỏ vẻ)",
           "content": "Dùng để mô tả cảm xúc hoặc mong muốn có vẻ thấy được của người khác (ngôi thứ ba).<br>• Tính từ い (bỏ い) + がる<br>• Tính từ な + がる<br><b>Ví dụ:</b> 猫は外に行きたがっています。(Neko wa soto ni ikitagatte imasu.) - Con mèo có vẻ đang muốn đi ra ngoài."
         }
       }
@@ -147,7 +147,7 @@
     "en": "Common Patterns & Expressions 💬",
     "vi": "Các mẫu câu & cách diễn đạt thông dụng 💬",
     "items": [
-	  {
+      {
         "id": "g120",
         "en": {
           "title": "～ようになる (To become able to)",
@@ -224,7 +224,7 @@
           "content": "Diễn tả một khả năng. Mức độ chắc chắn thấp hơn でしょう hoặc はずです.<br>Thể thông thường + かもしれません。<br><b>Ví dụ:</b> 明日は雨が降るかもしれません。(Ashita wa ame ga furu kamoshiremasen.) - Có lẽ ngày mai trời sẽ mưa."
         }
       },
-	  {
+      {
         "id": "g127",
         "en": {
           "title": "～やすい / ～にくい (Easy/Hard to do)",
@@ -256,6 +256,61 @@
           "title": "～そうです (Nghe nói là)",
           "content": "Dùng để thuật lại thông tin nghe được từ một nguồn khác (tin đồn, thông tin).<br>Thể thông thường + そうです.<br><b>Ví dụ:</b> 天気予報によると、明日は晴れるそうです。(Tenki yohō ni yoru to, ashita wa hareru sō desu.) - Theo dự báo thời tiết, nghe nói ngày mai trời sẽ nắng."
         }
+      },
+      {
+        "id": "g170",
+        "en": {
+          "title": "～たばかり (Just finished)",
+          "content": "Indicates an action that was completed very recently.<br>Verb-past plain form (た-form) + ばかりです.<br><b>Example:</b> 食べたばかりですから、お腹がいっぱいです。(Tabeta bakari desu kara, onaka ga ippai desu.) - I'm full because I just ate."
+        },
+        "vi": {
+          "title": "～たばかり (Vừa mới xong)",
+          "content": "Chỉ một hành động vừa mới được hoàn thành gần đây.<br>Động từ thể た + ばかりです.<br><b>Ví dụ:</b> 食べたばかりですから、お腹がいっぱいです。(Tabeta bakari desu kara, onaka ga ippai desu.) - Vì vừa mới ăn xong nên tôi no bụng."
+        }
+      },
+      {
+        "id": "g171",
+        "en": {
+          "title": "～ところです (About to/In the middle of)",
+          "content": "Expresses the immediate phase of an action.<br>• V-dict + ところ: about to do.<br>• V-te iru + ところ: in the middle of doing.<br>• V-ta + ところ: just finished doing.<br><b>Example:</b> これから昼ご飯を食べるところです。(Korekara hirugohan o taberu tokoro desu.) - I am just about to eat lunch now."
+        },
+        "vi": {
+          "title": "～ところです (Sắp/Đang/Vừa mới)",
+          "content": "Diễn tả giai đoạn tức thời của một hành động.<br>• ĐT thể từ điển + ところ: sắp làm.<br>• ĐT thể ている + ところ: đang làm.<br>• ĐT thể た + ところ: vừa mới làm xong.<br><b>Ví dụ:</b> これから昼ご飯を食べるところです。(Korekara hirugohan o taberu tokoro desu.) - Bây giờ tôi sắp ăn trưa."
+        }
+      },
+      {
+        "id": "g172",
+        "en": {
+          "title": "～ていただけませんか (Polite Request)",
+          "content": "A very polite way to ask someone to do something, more polite than ～てください.<br><b>Example:</b> この漢字の読み方を教えていただけませんか。(Kono kanji no yomikata o oshiete itadakemasen ka.) - Could you please teach me how to read this Kanji?"
+        },
+        "vi": {
+          "title": "～ていただけませんか (Yêu cầu lịch sự)",
+          "content": "Một cách rất lịch sự để nhờ ai đó làm gì, lịch sự hơn ～てください.<br><b>Ví dụ:</b> この漢字の読み方を教えていただけませんか。(Kono kanji no yomikata o oshiete itadakemasen ka.) - Bạn có thể vui lòng chỉ cho tôi cách đọc chữ Hán này được không ạ?"
+        }
+      },
+      {
+        "id": "g173",
+        "en": {
+          "title": "～ばいい (Should I...?)",
+          "content": "Used when asking for or giving advice or suggestions.<br>Verb (e-form) + ばいい.<br><b>Example:</b> 日本語が上手になるには、どうすればいいですか。(Nihongo ga jōzu ni naru ni wa, dō sureba ii desu ka.) - What should I do to become good at Japanese?"
+        },
+        "vi": {
+          "title": "～ばいい (Nên làm gì...?)",
+          "content": "Dùng khi hỏi xin hoặc đưa ra lời khuyên, gợi ý.<br>Động từ (thể e) + ばいい.<br><b>Ví dụ:</b> 日本語が上手になるには、どうすればいいですか。(Nihongo ga jōzu ni naru ni wa, dō sureba ii desu ka.) - Để giỏi tiếng Nhật thì tôi nên làm thế nào?"
+        }
+      },
+      {
+        "id": "g174",
+        "en": {
+          "title": "～ようです / ～みたいです (Seems like)",
+          "content": "Expresses a judgment based on sensory information or observation. みたい is more informal.<br>Plain form + ようです.<br>Noun/Plain form + みたいです.<br><b>Example:</b> 隣の部屋に誰かいるようです。(Tonari no heya ni dareka iru yō desu.) - It seems like someone is in the next room."
+        },
+        "vi": {
+          "title": "～ようです / ～みたいです (Dường như là/Hình như là)",
+          "content": "Diễn tả phán đoán dựa trên thông tin cảm nhận hoặc quan sát. みたい thân mật hơn.<br>Thể thông thường + ようです.<br>Danh từ/Thể thông thường + みたいです.<br><b>Ví dụ:</b> 隣の部屋に誰かいるようです。(Tonari no heya ni dareka iru yō desu.) - Hình như có ai đó ở phòng bên cạnh."
+        }
       }
     ]
   },
@@ -285,7 +340,7 @@
           "content": "Một dạng điều kiện thường ngụ ý một kết quả tích cực hoặc được mong đợi nếu điều kiện được đáp ứng.<br>Động từ (thể e) + ば.<br><b>Ví dụ:</b> 時間があれば、手伝います。(Jikan ga areba, tetsudaimasu.) - Nếu có thời gian, tôi sẽ giúp."
         }
       },
-	  {
+      {
         "id": "g133",
         "en": {
           "title": "Conditional ～と",
@@ -338,6 +393,50 @@
         "vi": {
           "title": "～ながら (Vừa... vừa...)",
           "content": "Chỉ hai hành động được thực hiện cùng lúc bởi cùng một người. Hành động chính đứng ở cuối câu.<br>Thân động từ + ながら.<br><b>Ví dụ:</b> 音楽を聞きながら、勉強します。(Ongaku o kikinagara, benkyō shimasu.) - Tôi vừa nghe nhạc vừa học bài."
+        }
+      },
+      {
+        "id": "g175",
+        "en": {
+          "title": "～ても (Even if)",
+          "content": "Expresses a concessive condition, similar to 'even though'.<br>• Verb-te form (+も): 食べても<br>• い-adj (くても): 高くても<br>• な-adj/Noun (+でも): 静かでも<br><b>Example:</b> 雨が降っても、出かけます。(Ame ga futtemo, dekakemasu.) - Even if it rains, I will go out."
+        },
+        "vi": {
+          "title": "～ても (Dù/Ngay cả khi)",
+          "content": "Diễn tả một điều kiện nhượng bộ, tương tự như 'mặc dù'.<br>• Động từ thể て (+も): 食べても<br>• Tính từ い (くても): 高くても<br>• Tính từ な/Danh từ (+でも): 静かでも<br><b>Ví dụ:</b> 雨が降っても、出かけます。(Ame ga futtemo, dekakemasu.) - Dù trời mưa tôi cũng sẽ ra ngoài."
+        }
+      },
+      {
+        "id": "g176",
+        "en": {
+          "title": "～し、～し (Listing reasons)",
+          "content": "Used to list two or more reasons or characteristics, often implying there are others.<br>Plain form + し.<br><b>Example:</b> このアパートは広いし、駅に近いし、とても便利です。(Kono apāto wa hiroi shi, eki ni chikai shi, totemo benri desu.) - This apartment is spacious, and it's close to the station, so it's very convenient."
+        },
+        "vi": {
+          "title": "～し、～し (Liệt kê lý do)",
+          "content": "Dùng để liệt kê hai hoặc nhiều lý do hoặc đặc điểm, thường ngụ ý vẫn còn những lý do khác.<br>Thể thông thường + し.<br><b>Ví dụ:</b> このアパートは広いし、駅に近いし、とても便利です。(Kono apāto wa hiroi shi, eki ni chikai shi, totemo benri desu.) - Căn hộ này vừa rộng, lại vừa gần ga, rất tiện lợi."
+        }
+      },
+      {
+        "id": "g177",
+        "en": {
+          "title": "～ことになっている (It's a rule that...)",
+          "content": "Indicates a rule, schedule, or expectation that has been set by someone else.<br>Verb-dictionary form/Verb-nai form + ことになっている.<br><b>Example:</b> 教室では日本語だけ話すことになっています。(Kyōshitsu de wa nihongo dake hanasu koto ni natte imasu.) - It's a rule that we only speak Japanese in the classroom."
+        },
+        "vi": {
+          "title": "～ことになっている (Quy định là...)",
+          "content": "Chỉ một quy tắc, lịch trình, hoặc kỳ vọng đã được người khác đặt ra.<br>Động từ thể từ điển/thể ない + ことになっている.<br><b>Ví dụ:</b> 教室では日本語だけ話すことになっています。(Kyōshitsu de wa nihongo dake hanasu koto ni natte imasu.) - Theo quy định, trong lớp học chỉ được nói tiếng Nhật."
+        }
+      },
+      {
+        "id": "g178",
+        "en": {
+          "title": "～ことになりました (It has been decided)",
+          "content": "Announces a new decision or change in plans, often something not decided by the speaker alone.<br>Verb-dictionary form + ことになりました.<br><b>Example:</b> 来月、大阪支社へ転勤することになりました。(Raigetsu, Ōsaka shisha e tenkin suru koto ni narimashita.) - It has been decided that I will be transferred to the Osaka branch next month."
+        },
+        "vi": {
+          "title": "～ことになりました (Đã được quyết định là)",
+          "content": "Thông báo một quyết định mới hoặc sự thay đổi kế hoạch, thường không phải do một mình người nói quyết định.<br>Động từ thể từ điển + ことになりました.<br><b>Ví dụ:</b> 来月、大阪支社へ転勤することになりました。(Raigetsu, Ōsaka shisha e tenkin suru koto ni narimashita.) - Đã có quyết định là tháng sau tôi sẽ chuyển công tác đến chi nhánh Osaka."
         }
       }
     ]

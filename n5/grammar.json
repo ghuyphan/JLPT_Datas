@@ -82,6 +82,16 @@
         "vi": { "title": "Chia động từ cơ bản: -ません / -ました / -ませんでした", "content": "Bốn dạng động từ lịch sự cơ bản: Hiện tại khẳng định (-ます), Hiện tại phủ định (-ません), Quá khứ khẳng định (-ました), Quá khứ phủ định (-ませんでした).<br><b>Ví dụ:</b> きのう、テレビを みませんでした。(Kinou, terebi o mimasen deshita.) - Hôm qua, tôi đã không xem TV." }
       },
       {
+        "id": "g60",
+        "en": { "title": "Plain Forms (Dictionary, Nai, Ta)", "content": "The informal style of verbs, also used in many grammar patterns.<br>• <b>Dictionary Form (Jisho-kei):</b> The base form, e.g., たべる, いく.<br>• <b>Nai Form:</b> The negative form, e.g., たべない, いかない.<br>• <b>Ta Form:</b> The past form, e.g., たべた, いった.<br><b>Example:</b> ともだちに あした がっこうへ いくか ききました。(Tomodachi ni ashita gakkou e iku ka kikimashita.) - I asked my friend if he will go to school tomorrow." },
+        "vi": { "title": "Thể thông thường (Từ điển, Nai, Ta)", "content": "Dạng thân mật của động từ, cũng được dùng trong nhiều mẫu ngữ pháp.<br>• <b>Thể từ điển (Jisho-kei):</b> Dạng gốc, VD: たべる, いく.<br>• <b>Thể Nai:</b> Dạng phủ định, VD: たべない, いかない.<br>• <b>Thể Ta:</b> Dạng quá khứ, VD: たべた, いった.<br><b>Ví dụ:</b> ともだちに あした がっこうへ いくか ききました。(Tomodachi ni ashita gakkou e iku ka kikimashita.) - Tôi đã hỏi bạn tôi liệu ngày mai có đi học không." }
+      },
+      {
+        "id": "g61",
+        "en": { "title": "Verb-て Form (How to make)", "content": "A crucial verb form used to connect clauses and in many grammar patterns.<br>• <b>Group 1 (ends in い, ち, り):</b> → って (e.g., かいます → かって)<br>• <b>Group 1 (ends in み, び, に):</b> → んで (e.g., よみます → よんで)<br>• <b>Group 1 (ends in き):</b> → いて (e.g., ききます → きいて)<br>• <b>Group 1 (ends in ぎ):</b> → いで (e.g., いそぎます → いそいで)<br>• <b>Group 1 (ends in し):</b> → して (e.g., はなします → はなして)<br>• <b>Group 2 (ends in -eru/-iru):</b> → て (e.g., たべます → たべて)<br>• <b>Irregular:</b> します → して, きます → きて" },
+        "vi": { "title": "Động từ thể-て (Cách tạo)", "content": "Một dạng động từ quan trọng dùng để nối mệnh đề và trong nhiều mẫu ngữ pháp.<br>• <b>Nhóm 1 (kết thúc bằng い, ち, り):</b> → って (VD: かいます → かって)<br>• <b>Nhóm 1 (kết thúc bằng み, び, に):</b> → んで (VD: よみます → よんで)<br>• <b>Nhóm 1 (kết thúc bằng き):</b> → いて (VD: ききます → きいて)<br>• <b>Nhóm 1 (kết thúc bằng ぎ):</b> → いで (VD: いそぎます → いそいで)<br>• <b>Nhóm 1 (kết thúc bằng し):</b> → して (VD: はなします → はなして)<br>• <b>Nhóm 2 (kết thúc bằng -eru/-iru):</b> → て (VD: たべます → たべて)<br>• <b>Bất quy tắc:</b> します → して, きます → きて" }
+      },
+      {
         "id": "g23",
         "en": { "title": "Verb-て います (Action in progress)", "content": "Expresses an ongoing action, similar to '-ing' in English.<br><b>Example:</b> いま あめが ふって います。(Ima ame ga futte imasu.) - It is raining now." },
         "vi": { "title": "Động từ thể て います (Hành động đang diễn ra)", "content": "Diễn tả một hành động đang diễn ra, tương tự như '-ing' trong tiếng Anh.<br><b>Ví dụ:</b> いま あめが ふって います。(Ima ame ga futte imasu.) - Bây giờ trời đang mưa." }
@@ -93,8 +103,8 @@
       },
       {
         "id": "g32",
-        "en": { "title": "Giving & Receiving (あげます/くれます/もらいます)", "content": "Used to express giving and receiving.<br>• あげます: give (to others).<br>• くれます: give (to me/my family).<br>• もらいます: receive.<br><b>Example:</b> わたしは ともだちに プレゼントを あげました。(Watashi wa tomodachi ni purezento o agemashita.) - I gave a present to my friend." },
-        "vi": { "title": "Cho & Nhận (あげます/くれます/もらいます)", "content": "Dùng để diễn tả hành động cho và nhận.<br>• あげます: cho (người khác).<br>• くれます: cho (tôi/gia đình tôi).<br>• もらいます: nhận.<br><b>Ví dụ:</b> わたしは ともだちに プレゼントを あげました。(Watashi wa tomodachi ni purezento o agemashita.) - Tôi đã tặng quà cho bạn." }
+        "en": { "title": "Giving & Receiving (あげます/くれます/もらいます)", "content": "Used to express giving and receiving.<br>• あげます: give (to others).<br>• くれます: give (to me/my family).<br>• もらいます: receive (from someone - Person に).<br><b>Example (あげます):</b> わたしは ともだちに プレゼントを あげました。(Watashi wa tomodachi ni purezento o agemashita.) - I gave a present to my friend.<br><b>Example (もらいます):</b> わたしは ともだちに プレゼントを もらいました。(Watashi wa tomodachi ni purezento o moraimashita.) - I received a present from my friend." },
+        "vi": { "title": "Cho & Nhận (あげます/くれます/もらいます)", "content": "Dùng để diễn tả hành động cho và nhận.<br>• あげます: cho (người khác).<br>• くれます: cho (tôi/gia đình tôi).<br>• もらいます: nhận (từ ai đó - Person に).<br><b>Ví dụ (あげます):</b> わたしは ともだちに プレゼントを あげました。(Watashi wa tomodachi ni purezento o agemashita.) - Tôi đã tặng quà cho bạn.<br><b>Ví dụ (もらいます):</b> わたしは ともだちに プレゼントを もらいました。(Watashi wa tomodachi ni purezento o moraimashita.) - Tôi đã nhận được quà từ bạn tôi." }
       },
       {
         "id": "g33",
@@ -262,8 +272,8 @@
       },
       {
         "id": "g31",
-        "en": { "title": "Common Adverbs", "content": "Frequent adverbs:<br>• とても: very (とてもおいしいです。)<br>• 少し (すこし): a little (少し休みます。)<br>• もう: already/anymore (もう終わりました。)<br>• あまり (+ neg): not very (あまり好きじゃないです。)<br>• 全然 (+ neg): not at all (全然分かりません。)" },
-        "vi": { "title": "Trạng từ thường gặp", "content": "Các trạng từ thường gặp:<br>• とても: rất (とてもおいしいです。)<br>• 少し (すこし): một chút (少し休みます。)<br>• もう: rồi/không còn (もう終わりました。)<br>• あまり (+ phủ định): không ~ lắm (あまり好きじゃないです。)<br>• 全然 (+ phủ định): hoàn toàn không (全然分かりません。)" }
+        "en": { "title": "Common Adverbs", "content": "Frequent adverbs:<br>• いつも: always (いつも にほんごを べんきょうします。)<br>• よく: often (よく えいがを みます。)<br>• ときどき: sometimes (ときどき としょかんへ いきます。)<br>• とても: very (とてもおいしいです。)<br>• 少し (すこし): a little (少し休みます。)<br>• もう: already/anymore (もう終わりました。)<br>• あまり (+ neg): not very (あまり好きじゃないです。)<br>• 全然 (+ neg): not at all (全然分かりません。)" },
+        "vi": { "title": "Trạng từ thường gặp", "content": "Các trạng từ thường gặp:<br>• いつも: luôn luôn (いつも にほんごを べんきょうします。)<br>• よく: thường (よく えいがを みます。)<br>• ときどき: thỉnh thoảng (ときどき としょかんへ いきます。)<br>• とても: rất (とてもおいしいです。)<br>• 少し (すこし): một chút (少し休みます。)<br>• もう: rồi/không còn (もう終わりました。)<br>• あまり (+ phủ định): không ~ lắm (あまり好きじゃないです。)<br>• 全然 (+ phủ định): hoàn toàn không (全然分かりません。)" }
       },
       {
         "id": "g42",
