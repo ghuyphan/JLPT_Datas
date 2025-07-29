@@ -142,6 +142,17 @@
         }
       },
       {
+        "id": "g218",
+        "en": {
+          "title": "~に違いない (Must be / No doubt that)",
+          "content": "Expresses the speaker's strong conviction that something is true.<br>Plain form + に違いない。<br><b>Example:</b> あの人は毎日練習しているから、試合に勝つに違いない。(Ano hito wa mainichi renshū shiteiru kara, shiai ni katsu ni chigainai.) - That person practices every day, so they will no doubt win the match."
+        },
+        "vi": {
+          "title": "~に違いない (Chắc chắn là / Không nghi ngờ gì)",
+          "content": "Diễn tả sự tin tưởng mạnh mẽ của người nói rằng một điều gì đó là sự thật.<br>Thể thông thường + に違いない。<br><b>Ví dụ:</b> あの人は毎日練習しているから、試合に勝つに違いない。(Ano hito wa mainichi renshū shiteiru kara, shiai ni katsu ni chigainai.) - Người đó luyện tập mỗi ngày nên chắc chắn sẽ thắng trận đấu."
+        }
+      },
+      {
         "id": "g252",
         "en": {
           "title": "～ざるを得ない (No choice but to)",
@@ -150,6 +161,28 @@
         "vi": {
           "title": "～ざるを得ない (Đành phải/Buộc phải)",
           "content": "Diễn tả rằng một người phải làm điều gì đó trái với ý muốn của họ do hoàn cảnh. Rất trang trọng.<br>Động từ thể nai (bỏ ない) + ざるを得ない。<br><b>Ví dụ:</b> 上司の命令なので、出張に行かざるを得ない。(Jōshi no meirei na node, shutchō ni ikazaru o enai.) - Vì là mệnh lệnh của cấp trên nên tôi đành phải đi công tác."
+        }
+      },
+      {
+        "id": "g258",
+        "en": {
+          "title": "～としたら / ～とすれば (If we assume that)",
+          "content": "Used to make an assumption for a hypothetical situation.<br>Plain form + としたら<br><b>Example:</b> もし、100万円あったとしたら、何に使いますか。(Moshi, hyakuman-en atta to shitara, nani ni tsukaimasu ka.) - Assuming you had one million yen, what would you use it for?"
+        },
+        "vi": {
+          "title": "～としたら / ～とすれば (Nếu giả sử rằng)",
+          "content": "Dùng để đưa ra một giả định cho một tình huống giả định.<br>Thể thông thường + としたら<br><b>Ví dụ:</b> もし、100万円あったとしたら、何に使いますか。(Moshi, hyakuman-en atta to shitara, nani ni tsukaimasu ka.) - Nếu giả sử có 1 triệu yên, bạn sẽ dùng vào việc gì?"
+        }
+      },
+      {
+        "id": "g259",
+        "en": {
+          "title": "～おそれがある (There is a risk of)",
+          "content": "A formal way to express that there is a negative possibility that something might happen. Often used in news or official announcements.<br>V-dict / Noun + の + おそれがある<br><b>Example:</b> この地震による津波のおそれはありません。(Kono jishin ni yoru tsunami no osore wa arimasen.) - There is no risk of a tsunami from this earthquake."
+        },
+        "vi": {
+          "title": "～おそれがある (Có nguy cơ/e rằng)",
+          "content": "Một cách nói trang trọng để diễn tả khả năng một điều gì đó tiêu cực có thể xảy ra. Thường được dùng trong tin tức hoặc thông báo chính thức.<br>ĐT thể từ điển / Danh từ + の + おそれがある<br><b>Ví dụ:</b> この地震による津波のおそれはありません。(Kono jishin ni yoru tsunami no osore wa arimasen.) - Không có nguy cơ xảy ra sóng thần do trận động đất này."
         }
       }
     ]
@@ -247,6 +280,17 @@
         }
       },
       {
+        "id": "g264",
+        "en": {
+          "title": "～てしょうがない / ～てしかたがない (Extremely...)",
+          "content": "Expresses a very strong feeling or state that cannot be controlled.<br>Adj-te/V-te + しょうがない<br><b>Example:</b> 今日は暑くてしょうがない。(Kyō wa atsukute shōganai.) - It's so hot today I can't stand it."
+        },
+        "vi": {
+          "title": "～てしょうがない / ～てしかたがない (Vô cùng...)",
+          "content": "Diễn tả một cảm giác hoặc trạng thái rất mạnh không thể kiểm soát.<br>Tính từ/ĐT thể て + しょうがない<br><b>Ví dụ:</b> 今日は暑くてしょうがない。(Kyō wa atsukute shōganai.) - Hôm nay nóng không chịu nổi."
+        }
+      },
+      {
         "id": "g229",
         "en": {
           "title": "～ふりをする (Pretend to)",
@@ -255,6 +299,61 @@
         "vi": {
           "title": "～ふりをする (Giả vờ)",
           "content": "Hành động như thể một điều gì đó là sự thật trong khi không phải vậy.<br>Thể thông thường + ふりをする<br><b>Ví dụ:</b> 彼は聞こえないふりをした。(Kare wa kikoenai furi o shita.) - Anh ta giả vờ không nghe thấy."
+        }
+      },
+      {
+        "id": "g260",
+        "en": {
+          "title": "～ものか / ～もんか (As if I'd...)",
+          "content": "Expresses a strong sense of denial or refusal. Often used in informal speech as `～もんか`.<br>Plain form + ものか<br><b>Example:</b> あんなサービスが悪い店、二度と行くものか。(Anna sābisu ga warui mise, nido to iku mono ka.) - A shop with such bad service? As if I'd ever go there again!"
+        },
+        "vi": {
+          "title": "～ものか / ～もんか (Nhất định không/Làm gì có chuyện...)",
+          "content": "Diễn tả sự phủ nhận hoặc từ chối mạnh mẽ. Thường được dùng trong văn nói thân mật là `～もんか`.<br>Thể thông thường + ものか<br><b>Ví dụ:</b> あんなサービスが悪い店、二度と行くものか。(Anna sābisu ga warui mise, nido to iku mono ka.) - Một cửa hàng có dịch vụ tệ như vậy, nhất định tôi sẽ không bao giờ đến lần thứ hai!"
+        }
+      },
+      {
+        "id": "g261",
+        "en": {
+          "title": "～あげく (In the end... [negative])",
+          "content": "Indicates that after a long period of doing something, a negative result occurred.<br>V-ta / Noun + の + あげく<br><b>Example:</b> ２時間も道に迷ったあげく、結局、約束の時間に間に合わなかった。(Nijikan mo michi ni mayotta ageku, kekkyoku, yakusoku no jikan ni maniawanakatta.) - After getting lost for two hours, in the end, I wasn't on time for the appointment."
+        },
+        "vi": {
+          "title": "～あげく (Sau một hồi... cuối cùng lại [kết quả xấu])",
+          "content": "Chỉ một kết quả tiêu cực xảy ra sau một thời gian dài làm gì đó.<br>ĐT thể た / Danh từ + の + あげく<br><b>Ví dụ:</b> ２時間も道に迷ったあげく、結局、約束の時間に間に合わなかった。(Nijikan mo michi ni mayotta ageku, kekkyoku, yakusoku no jikan ni maniawanakatta.) - Sau một hồi lạc đường suốt 2 tiếng, cuối cùng tôi đã không kịp giờ hẹn."
+        }
+      },
+      {
+        "id": "g262",
+        "en": {
+          "title": "～末（に）(At the end of...)",
+          "content": "Indicates a result that came after a long process or period of consideration. Can be positive or negative.<br>V-ta / Noun + の + 末（に）(すえに)<br><b>Example:</b> いろいろ考えた末、国に帰ることにした。(Iroiro kangaeta sue, kuni ni kaeru koto ni shita.) - After a lot of thought, I decided to return to my country."
+        },
+        "vi": {
+          "title": "～末（に） (Sau khi... cuối cùng đã)",
+          "content": "Chỉ một kết quả có được sau một quá trình dài hoặc thời gian cân nhắc. Có thể là tích cực hoặc tiêu cực.<br>ĐT thể た / Danh từ + の + 末（に）(すえに)<br><b>Ví dụ:</b> いろいろ考えた末、国に帰ることにした。(Iroiro kangaeta sue, kuni ni kaeru koto ni shita.) - Sau khi suy nghĩ rất nhiều, tôi đã quyết định trở về nước."
+        }
+      },
+      {
+        "id": "g263",
+        "en": {
+          "title": "～ところだった (Almost did...)",
+          "content": "Indicates a close call; something was on the verge of happening but did not.<br>V-dict + ところだった<br><b>Example:</b> 注意してくれてありがとう。もう少しで車にひかれるところだった。(Chūi shite kurete arigatō. Mō sukoshi de kuruma ni hikareru tokoro datta.) - Thanks for the warning. I almost got hit by a car."
+        },
+        "vi": {
+          "title": "～ところだった (Suýt nữa thì...)",
+          "content": "Chỉ một tình huống nguy hiểm suýt xảy ra; một việc gì đó sắp xảy ra nhưng cuối cùng đã không xảy ra.<br>ĐT thể từ điển + ところだった<br><b>Ví dụ:</b> 注意してくれてありがとう。もう少しで車にひかれるところだった。(Chūi shite kurete arigatō. Mō sukoshi de kuruma ni hikareru tokoro datta.) - Cảm ơn đã nhắc tôi. Suýt nữa thì tôi bị xe tông rồi."
+        }
+      },
+      {
+        "id": "g266",
+        "en": {
+          "title": "～ずにはいられない (Can't help but do)",
+          "content": "Expresses an uncontrollable urge to do something.<br>V-nai form (drop ない) + ずにはいられない<br><b>Example:</b> 彼の冗談を聞いて、笑わずにはいられなかった。(Kare no jōdan o kiite, warawazu ni wa irarenakatta.) - I couldn't help but laugh at his joke."
+        },
+        "vi": {
+          "title": "～ずにはいられない (Không thể không...)",
+          "content": "Diễn tả một sự thôi thúc không thể kiểm soát để làm điều gì đó.<br>ĐT thể nai (bỏ ない) + ずにはいられない<br><b>Ví dụ:</b> 彼の冗談を聞いて、笑わずにはいられなかった。(Kare no jōdan o kiite, warawazu ni wa irarenakatta.) - Nghe câu chuyện đùa của anh ấy, tôi không thể không cười."
         }
       }
     ]
@@ -272,6 +371,17 @@
         "vi": {
           "title": "~おかげで / ~せいで (Nhờ có / Tại vì)",
           "content": "• おかげで: Cho kết quả tích cực ('nhờ có').<br>• せいで: Cho kết quả tiêu cực ('tại vì').<br><b>Ví dụ (おかげで):</b> 先生のおかげで、合格しました。(Sensei no okage de, gōkaku shimashita.) - Nhờ có cô giáo mà em đã đỗ.<br><b>Ví dụ (せいで):</b> 電車が遅れたせいで、遅刻しました。(Densha ga okureta sei de, chikoku shimashita.) - Tại vì tàu đến muộn nên tôi đã bị trễ."
+        }
+      },
+      {
+        "id": "g265",
+        "en": {
+          "title": "～せいか (Perhaps because of...)",
+          "content": "Suggests a possible reason for a certain result, but without certainty.<br>Plain form + せいか<br><b>Example:</b> 年のせいか、最近忘れっぽくなった。(Toshi no sei ka, saikin wasureppoku natta.) - Perhaps because of my age, I've become more forgetful recently."
+        },
+        "vi": {
+          "title": "～せいか (Có lẽ là vì...)",
+          "content": "Nêu ra một lý do có thể cho một kết quả nào đó, nhưng không chắc chắn.<br>Thể thông thường + せいか<br><b>Ví dụ:</b> 年のせいか、最近忘れっぽくなった。(Toshi no sei ka, saikin wasureppoku natta.) - Có lẽ là vì tuổi tác mà dạo này tôi hay quên."
         }
       },
       {
@@ -344,11 +454,11 @@
         "id": "g255",
         "en": {
           "title": "～にもかかわらず (Despite / In spite of)",
-          "content": "Expresses that something happened in spite of a condition that would normally prevent it. Formal.<br>Plain form / Noun + にもかかわらず<br><b>Example:</b> 悪天候にもかかわらず、試合は行われた。(Akutonkō ni mo kakawarazu, shiai wa okonawareta.) - The match was held despite the bad weather."
+          "content": "Expresses that something happened in spite of a condition that would normally prevent it. Formal.<br>Plain form / Noun + にもかかわらず<br><b>Example:</b> 悪天候にもかかわらず、試合は行われた。(Akutenkō ni mo kakawarazu, shiai wa okonawareta.) - The match was held despite the bad weather."
         },
         "vi": {
           "title": "～にもかかわらず (Bất chấp / Mặc dù)",
-          "content": "Diễn tả rằng điều gì đó đã xảy ra bất chấp một điều kiện thường sẽ ngăn cản nó. Trang trọng.<br>Thể thông thường / Danh từ + にもかかわらず<br><b>Ví dụ:</b> 悪天候にもかかわらず、試合は行われた。(Akutonkō ni mo kakawarazu, shiai wa okonawareta.) - Bất chấp thời tiết xấu, trận đấu vẫn được diễn ra."
+          "content": "Diễn tả rằng điều gì đó đã xảy ra bất chấp một điều kiện thường sẽ ngăn cản nó. Trang trọng.<br>Thể thông thường / Danh từ + にもかかわらず<br><b>Ví dụ:</b> 悪天候にもかかわらず、試合は行われた。(Akutenkō ni mo kakawarazu, shiai wa okonawareta.) - Bất chấp thời tiết xấu, trận đấu vẫn được diễn ra."
         }
       },
       {
@@ -365,12 +475,100 @@
       {
         "id": "g237",
         "en": {
-          "title": "～かわりに (Instead of / In exchange for)",
+          "title": "~かわりに (Instead of / In exchange for)",
           "content": "Expresses that one thing is done instead of another, or as compensation for something.<br>V-dict / Noun + の + かわりに<br><b>Example:</b> 音楽会に行くかわりに、家でCDを聞きました。(Ongakukai ni iku kawari ni, ie de CD o kikimashita.) - Instead of going to the concert, I listened to a CD at home."
         },
         "vi": {
-          "title": "～かわりに (Thay vì / Đổi lại)",
+          "title": "~かわりに (Thay vì / Đổi lại)",
           "content": "Diễn tả rằng một việc được làm thay cho một việc khác, hoặc để đền bù cho một điều gì đó.<br>Động từ thể từ điển / Danh từ + の + かわりに<br><b>Ví dụ:</b> 音楽会に行くかわりに、家でCDを聞きました。(Ongakukai ni iku kawari ni, ie de CD o kikimashita.) - Thay vì đi xem hòa nhạc, tôi đã nghe CD ở nhà."
+        }
+      },
+      {
+        "id": "g238",
+        "en": {
+          "title": "～ついでに (While doing X, also do Y)",
+          "content": "Indicates doing another action by taking advantage of the opportunity of doing the main action.<br>V-dict / V-ta / Noun + の + ついでに<br><b>Example:</b> 郵便局へ行ったついでに、はがきを買ってきた。(Yūbinkyoku e itta tsuide ni, hagaki o katte kita.) - Since I was going to the post office, I bought a postcard while I was at it."
+        },
+        "vi": {
+          "title": "～ついでに (Nhân tiện...)",
+          "content": "Chỉ việc thực hiện một hành động khác bằng cách tận dụng cơ hội của hành động chính.<br>ĐT thể từ điển / ĐT thể ta / Danh từ + の + ついでに<br><b>Ví dụ:</b> 郵便局へ行ったついでに、はがきを買ってきた。(Yūbinkyoku e itta tsuide ni, hagaki o katte kita.) - Nhân tiện đi đến bưu điện, tôi đã mua luôn một tấm bưu thiếp."
+        }
+      },
+      {
+        "id": "g267",
+        "en": {
+          "title": "～からには (Now that / Since)",
+          "content": "Expresses a strong determination or natural conclusion because of a certain fact.<br>Plain form + からには<br><b>Example:</b> 約束したからには、守るべきだ。(Yakusoku shita kara ni wa, mamoru beki da.) - Now that I've promised, I should keep it."
+        },
+        "vi": {
+          "title": "～からには (Một khi đã... thì)",
+          "content": "Diễn tả một quyết tâm mạnh mẽ hoặc một kết luận tự nhiên vì một sự thật nào đó.<br>Thể thông thường + からには<br><b>Ví dụ:</b> 約束したからには、守るべきだ。(Yakusoku shita kara ni wa, mamoru beki da.) - Một khi đã hứa thì nên giữ lời."
+        }
+      },
+      {
+        "id": "g268",
+        "en": {
+          "title": "～きり (Since... and not again)",
+          "content": "Expresses that after an action, an expected subsequent action did not happen and the state continues.<br>V-ta + きり<br><b>Example:</b> 彼は出かけたきり、帰ってこない。(Kare wa dekaketa kiri, kaette konai.) - He went out and hasn't come back since."
+        },
+        "vi": {
+          "title": "～きり (Kể từ khi... thì không)",
+          "content": "Diễn tả rằng sau một hành động, một hành động tiếp theo được mong đợi đã không xảy ra và trạng thái đó vẫn tiếp diễn.<br>ĐT thể た + きり<br><b>Ví dụ:</b> 彼は出かけたきり、帰ってこない。(Kare wa dekaketa kiri, kaette konai.) - Anh ấy đi ra ngoài từ đó rồi không thấy về."
+        }
+      },
+      {
+        "id": "g269",
+        "en": {
+          "title": "～一方だ (To continue to)",
+          "content": "Indicates a continuing, one-way change, often for something negative.<br>V-dict + 一方だ (いっぽうだ)<br><b>Example:</b> 最近、祖父の病気は悪くなる一方だ。(Saikin, sofu no byōki wa waruku naru ippō da.) - Recently, my grandfather's illness has been getting progressively worse."
+        },
+        "vi": {
+          "title": "～一方だ (Ngày càng...)",
+          "content": "Chỉ một sự thay đổi liên tục, một chiều, thường là cho những điều tiêu cực.<br>ĐT thể từ điển + 一方だ (いっぽうだ)<br><b>Ví dụ:</b> 最近、祖父の病気は悪くなる一方だ。(Saikin, sofu no byōki wa waruku naru ippō da.) - Gần đây, bệnh của ông tôi ngày càng trở nên tồi tệ."
+        }
+      },
+      {
+        "id": "g270",
+        "en": {
+          "title": "～にこたえて (In response to)",
+          "content": "An action is done in response to expectations, requests, or hopes.<br>Noun + にこたえて<br><b>Example:</b> 市民の要望にこたえて、新しい図書館が建設された。(Shimin no yōbō ni kotaete, atarashii toshokan ga kensetsu sareta.) - In response to the citizens' requests, a new library was built."
+        },
+        "vi": {
+          "title": "～にこたえて (Đáp lại/Đáp ứng...)",
+          "content": "Một hành động được thực hiện để đáp lại sự kỳ vọng, yêu cầu hoặc hy vọng.<br>Danh từ + にこたえて<br><b>Ví dụ:</b> 市民の要望にこたえて、新しい図書館が建設された。(Shimin no yōbō ni kotaete, atarashii toshokan ga kensetsu sareta.) - Đáp ứng yêu cầu của người dân, một thư viện mới đã được xây dựng."
+        }
+      },
+      {
+        "id": "g271",
+        "en": {
+          "title": "～をめぐって (Concerning / Over)",
+          "content": "Indicates a topic of argument, conflict, or discussion.<br>Noun + をめぐって<br><b>Example:</b> その土地の所有をめぐって、裁判になっている。(Sono tochi no shoyū o megutte, saiban ni natte iru.) - There is a trial going on concerning the ownership of that land."
+        },
+        "vi": {
+          "title": "～をめぐって (Xoay quanh...)",
+          "content": "Chỉ một chủ đề của sự tranh cãi, xung đột hoặc thảo luận.<br>Danh từ + をめぐって<br><b>Ví dụ:</b> その土地の所有をめぐって、裁判になっている。(Sono tochi no shoyū o megutte, saiban ni natte iru.) - Đang có một phiên tòa xoay quanh quyền sở hữu mảnh đất đó."
+        }
+      },
+      {
+        "id": "g272",
+        "en": {
+          "title": "～とか (I hear that...)",
+          "content": "Used to quote hearsay in a casual way. Less certain than そうです.<br>Plain form + とか<br><b>Example:</b> 今年の冬は寒いとか。風邪をひかないようにね。(Kotoshi no fuyu wa samui toka. Kaze o hikanai yō ni ne.) - I hear this winter will be cold. Be careful not to catch a cold."
+        },
+        "vi": {
+          "title": "～とか (Nghe nói là...)",
+          "content": "Dùng để trích dẫn lời đồn một cách thân mật. Ít chắc chắn hơn そうです.<br>Thể thông thường + とか<br><b>Ví dụ:</b> 今年の冬は寒いとか。風邪をひかないようにね。(Kotoshi no fuyu wa samui toka. Kaze o hikanai yō ni ne.) - Nghe nói mùa đông năm nay lạnh lắm. Cẩn thận đừng để bị cảm nhé."
+        }
+      },
+      {
+        "id": "g273",
+        "en": {
+          "title": "～を通じて / ～を通して (Through / Via)",
+          "content": "Indicates a medium, means, or an entire period.<br>Noun + を通じて (をつうじて) / を通して (をとおして)<br><b>Example (Medium):</b> 彼は友人を通じて彼女と知り合った。(Kare wa yūjin o tsūjite kanojo to shiriatta.) - He got to know her through a friend.<br><b>Example (Period):</b> この地域は一年を通して暖かい。(Kono chiiki wa ichinen o tōshite atatakai.) - This region is warm throughout the year."
+        },
+        "vi": {
+          "title": "～を通じて / ～を通して (Thông qua / Suốt)",
+          "content": "Chỉ một phương tiện, cách thức hoặc toàn bộ một khoảng thời gian.<br>Danh từ + を通じて (をつうじて) / を通して (をとおして)<br><b>Ví dụ (Phương tiện):</b> 彼は友人を通じて彼女と知り合った。(Kare wa yūjin o tsūjite kanojo to shiriatta.) - Anh ấy đã làm quen với cô ấy thông qua một người bạn.<br><b>Ví dụ (Thời gian):</b> この地域は一年を通して暖かい。(Kono chiiki wa ichinen o tōshite atatakai.) - Vùng này ấm áp suốt cả năm."
         }
       }
     ]
@@ -413,6 +611,17 @@
         }
       },
       {
+        "id": "g274",
+        "en": {
+          "title": "～からいうと / ～から見ると (From the standpoint of)",
+          "content": "Used to state a judgment based on a specific aspect or viewpoint.<br>Noun + からいうと / から見ると<br><b>Example:</b> 品質からいえば、この製品が一番いい。(Hinshitsu kara ieba, kono seihin ga ichiban ii.) - From a quality standpoint, this product is the best."
+        },
+        "vi": {
+          "title": "～からいうと / ～から見ると (Xét từ/Nhìn từ góc độ...)",
+          "content": "Dùng để đưa ra phán đoán dựa trên một khía cạnh hoặc quan điểm cụ thể.<br>Danh từ + からいうと / から見ると<br><b>Ví dụ:</b> 品質からいえば、この製品が一番いい。(Hinshitsu kara ieba, kono seihin ga ichiban ii.) - Nếu nói về chất lượng thì sản phẩm này là tốt nhất."
+        }
+      },
+      {
         "id": "g243",
         "en": {
           "title": "~ば~ほど (The more... the more...)",
@@ -426,12 +635,34 @@
       {
         "id": "g244",
         "en": {
-          "title": "～はもちろん (Not to mention / Of course)",
-          "content": "Used to emphasize that something is obvious, before mentioning something less obvious. Also known as ～はもとより.<br>Noun + はもちろん<br><b>Example:</b> 彼は英語はもちろん、フランス語も話せます。(Kare wa eigo wa mochiron, furansugo mo hanasemasu.) - He can speak French, not to mention English of course."
+          "title": "～はもちろん / ～はもとより (Not to mention / Of course)",
+          "content": "Used to emphasize that something is obvious, before mentioning something less obvious. はもとより is more formal.<br>Noun + はもちろん<br><b>Example:</b> 彼は英語はもちろん、フランス語も話せます。(Kare wa eigo wa mochiron, furansugo mo hanasemasu.) - He can speak French, not to mention English of course."
         },
         "vi": {
-          "title": "～はもちろん (Không chỉ... mà còn/Dĩ nhiên)",
-          "content": "Dùng để nhấn mạnh một điều hiển nhiên, trước khi đề cập đến một điều ít hiển nhiên hơn. Cũng được biết đến là ～はもとより.<br>Danh từ + はもちろん<br><b>Ví dụ:</b> 彼は英語はもちろん、フランス語も話せます。(Kare wa eigo wa mochiron, furansugo mo hanasemasu.) - Anh ấy nói được cả tiếng Pháp, chứ đừng nói đến tiếng Anh."
+          "title": "～はもちろん / ～はもとより (Không chỉ... mà còn/Dĩ nhiên)",
+          "content": "Dùng để nhấn mạnh một điều hiển nhiên, trước khi đề cập đến một điều ít hiển nhiên hơn. はもとより trang trọng hơn.<br>Danh từ + はもちろん<br><b>Ví dụ:</b> 彼は英語はもちろん、フランス語も話せます。(Kare wa eigo wa mochiron, furansugo mo hanasemasu.) - Anh ấy nói được cả tiếng Pháp, chứ đừng nói đến tiếng Anh."
+        }
+      },
+      {
+        "id": "g275",
+        "en": {
+          "title": "～にかけては (When it comes to...)",
+          "content": "Emphasizes someone's superior skill or knowledge in a specific area.<br>Noun + にかけては<br><b>Example:</b> 彼は足の速さにかけては、クラスで一番だ。(Kare wa ashi no hayasa ni kakete wa, kurasu de ichiban da.) - When it comes to running speed, he is the best in the class."
+        },
+        "vi": {
+          "title": "～にかけては (Nếu nói về/Riêng về...)",
+          "content": "Nhấn mạnh kỹ năng hoặc kiến thức vượt trội của ai đó trong một lĩnh vực cụ thể.<br>Danh từ + にかけては<br><b>Ví dụ:</b> 彼は足の速さにかけては、クラスで一番だ。(Kare wa ashi no hayasa ni kakete wa, kurasu de ichiban da.) - Riêng về tốc độ chạy thì anh ấy là số một trong lớp."
+        }
+      },
+      {
+        "id": "g257",
+        "en": {
+          "title": "～というと / ～といえば (Speaking of...)",
+          "content": "Used to bring up a topic or a typical example associated with something.<br>Noun/V-dict + というと<br><b>Example:</b> 日本の古い都といえば、京都か奈良ですね。(Nihon no furui miyako to ieba, Kyōto ka Nara desu ne.) - Speaking of Japan's old capitals, it's Kyoto or Nara, isn't it?"
+        },
+        "vi": {
+          "title": "～というと / ～といえば (Nói đến... thì)",
+          "content": "Dùng để đề cập đến một chủ đề hoặc một ví dụ điển hình liên quan đến điều gì đó.<br>Danh từ/ĐT thể từ điển + というと<br><b>Ví dụ:</b> 日本の古い都といえば、京都か奈良ですね。(Nihon no furui miyako to ieba, Kyōto ka Nara desu ne.) - Nói đến cố đô của Nhật Bản thì là Kyoto hoặc Nara nhỉ."
         }
       }
     ]

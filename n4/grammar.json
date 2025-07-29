@@ -311,6 +311,50 @@
           "title": "～ようです / ～みたいです (Dường như là/Hình như là)",
           "content": "Diễn tả phán đoán dựa trên thông tin cảm nhận hoặc quan sát. みたい thân mật hơn.<br>Thể thông thường + ようです.<br>Danh từ/Thể thông thường + みたいです.<br><b>Ví dụ:</b> 隣の部屋に誰かいるようです。(Tonari no heya ni dareka iru yō desu.) - Hình như có ai đó ở phòng bên cạnh."
         }
+      },
+      {
+        "id": "g180",
+        "en": {
+          "title": "～てあります (Resultant state)",
+          "content": "Describes the state of something that has been intentionally done by someone. Used with transitive verbs and implies the action was done in preparation.<br><b>Example:</b> 旅行の前に、切符が買ってあります。(Ryokō no mae ni, kippu ga katte arimasu.) - The ticket has been bought before the trip (because someone thoughtfully bought it)."
+        },
+        "vi": {
+          "title": "～てあります (Trạng thái kết quả)",
+          "content": "Mô tả trạng thái của một vật là kết quả của một hành động có chủ ý. Dùng với tha động từ và ngụ ý hành động được làm để chuẩn bị.<br><b>Ví dụ:</b> 旅行の前に、切符が買ってあります。(Ryokō no mae ni, kippu ga katte arimasu.) - Vé đã được mua sẵn trước chuyến đi (vì ai đó đã có ý mua sẵn)."
+        }
+      },
+      {
+        "id": "g181",
+        "en": {
+          "title": "～まま (As it is / Unchanged)",
+          "content": "Used to express that a certain state continues without change.<br>Verb-ta form + まま / Noun + の + まま.<br><b>Example:</b> 窓を開けたまま寝てしまいました。(Mado o aketa mama nete shimaimashita.) - I fell asleep with the window still open."
+        },
+        "vi": {
+          "title": "～まま (Để nguyên / Giữ nguyên)",
+          "content": "Dùng để diễn tả một trạng thái nào đó được giữ nguyên, không thay đổi.<br>Động từ thể た + まま / Danh từ + の + まま.<br><b>Ví dụ:</b> 窓を開けたまま寝てしまいました。(Mado o aketa mama nete shimaimashita.) - Tôi đã ngủ quên trong khi vẫn để cửa sổ mở."
+        }
+      },
+      {
+        "id": "g182",
+        "en": {
+          "title": "～てばかりいる (Do nothing but)",
+          "content": "Indicates that someone is repetitively doing an action, often with a sense of criticism or disapproval.<br>Verb-te form + ばかりいる.<br><b>Example:</b> 息子はテレビを見てばかりいます。(Musuko wa terebi o mite bakari imasu.) - My son does nothing but watch TV."
+        },
+        "vi": {
+          "title": "～てばかりいる (Chỉ toàn làm...)",
+          "content": "Chỉ một người lặp đi lặp lại một hành động, thường với ý nghĩa phê phán hoặc không hài lòng.<br>Động từ thể て + ばかりいる.<br><b>Ví dụ:</b> 息子はテレビを見てばかりいます。(Musuko wa terebi o mite bakari imasu.) - Con trai tôi chỉ toàn xem TV."
+        }
+      },
+      {
+        "id": "g183",
+        "en": {
+          "title": "～らしい (Seems like / I heard)",
+          "content": "Expresses a judgment based on hearsay or objective signs. It feels more objective than ～ようです.<br>Plain form + らしい / Noun + らしい.<br><b>Example:</b> 新しい先生は厳しいらしいです。(Atarashii sensei wa kibishii rashii desu.) - I heard the new teacher is strict."
+        },
+        "vi": {
+          "title": "～らしい (Nghe nói là / Có vẻ đúng là)",
+          "content": "Diễn tả một phán đoán dựa trên thông tin nghe được hoặc dấu hiệu khách quan. Cảm giác khách quan hơn ～ようです.<br>Thể thông thường + らしい / Danh từ + らしい.<br><b>Ví dụ:</b> 新しい先生は厳しいらしいです。(Atarashii sensei wa kibishii rashii desu.) - Nghe nói giáo viên mới nghiêm khắc lắm."
+        }
       }
     ]
   },
@@ -438,6 +482,17 @@
           "title": "～ことになりました (Đã được quyết định là)",
           "content": "Thông báo một quyết định mới hoặc sự thay đổi kế hoạch, thường không phải do một mình người nói quyết định.<br>Động từ thể từ điển + ことになりました.<br><b>Ví dụ:</b> 来月、大阪支社へ転勤することになりました。(Raigetsu, Ōsaka shisha e tenkin suru koto ni narimashita.) - Đã có quyết định là tháng sau tôi sẽ chuyển công tác đến chi nhánh Osaka."
         }
+      },
+      {
+        "id": "g179",
+        "en": {
+          "title": "～のに (For the purpose of)",
+          "content": "Used to state the purpose or how something is used. Different from the 'even though' meaning.<br>Verb-dictionary form + のに.<br><b>Example:</b> このはさみは花を切るのに使います。(Kono hasami wa hana o kiru no ni tsukaimasu.) - These scissors are used for cutting flowers."
+        },
+        "vi": {
+          "title": "～のに (Để / Cho việc)",
+          "content": "Dùng để chỉ mục đích hoặc công dụng của một đồ vật hoặc hành động. Khác với nghĩa 'mặc dù'.<br>Động từ thể từ điển + のに.<br><b>Ví dụ:</b> このはさみは花を切るのに使います。(Kono hasami wa hana o kiru no ni tsukaimasu.) - Cây kéo này dùng để cắt hoa."
+        }
       }
     ]
   },
@@ -466,6 +521,17 @@
           "title": "Câu hỏi Lồng ghép (～か)",
           "content": "Dùng để lồng một câu hỏi WH (cái gì, khi nào, ở đâu, v.v.) vào một câu.<br>Từ để hỏi + Thể thông thường + か.<br><b>Ví dụ:</b> 田中さんがどこに住んでいるか知っていますか。(Tanaka-san ga doko ni sunde iru ka shitte imasu ka.) - Bạn có biết anh Tanaka sống ở đâu không?"
         }
+      },
+      {
+        "id": "g143",
+        "en": {
+          "title": "～かな / ～かしら (I wonder...)",
+          "content": "A sentence-ender used to express one's own doubt or to wonder about something. かな is common, かしら is traditionally feminine.<br>Plain form + かな / かしら.<br><b>Example:</b> 明日は晴れるかな。(Ashita wa hareru kana.) - I wonder if it will be sunny tomorrow."
+        },
+        "vi": {
+          "title": "～かな / ～かしら (Tự hỏi liệu...)",
+          "content": "Đặt ở cuối câu để thể hiện sự nghi ngờ hoặc tự hỏi về điều gì đó. かな là cách nói phổ biến, かしら theo truyền thống là nữ giới dùng.<br>Thể thông thường + かな / かしら.<br><b>Ví dụ:</b> 明日は晴れるかな。(Ashita wa hareru kana.) - Tự hỏi không biết ngày mai trời có nắng không."
+        }
       }
     ]
   },
@@ -483,6 +549,17 @@
           "title": "Aは Bほど ～ない (Không ~ bằng)",
           "content": "Một mẫu so sánh chỉ ra rằng A thì kém [tính từ] hơn B.<br><b>Ví dụ:</b> 今年の冬は去年ほど寒くないです。(Kotoshi no fuyu wa kyonen hodo samukunai desu.) - Mùa đông năm nay không lạnh bằng năm ngoái."
         }
+      },
+      {
+        "id": "g152",
+        "en": {
+          "title": "Aの方がBより (A is more ~ than B)",
+          "content": "The primary way to compare two things, stating that A has more of a certain quality than B.<br><b>Example:</b> 電車の方がバスより速いです。(Densha no hō ga basu yori hayai desu.) - The train is faster than the bus."
+        },
+        "vi": {
+          "title": "Aの方がBより (A thì ~ hơn B)",
+          "content": "Cách so sánh cơ bản giữa hai vật, khẳng định rằng A có một đặc tính nào đó trội hơn B.<br><b>Ví dụ:</b> 電車の方がバスより速いです。(Densha no hō ga basu yori hayai desu.) - Tàu điện thì nhanh hơn xe buýt."
+        }
       }
     ]
   },
@@ -494,22 +571,22 @@
         "id": "g161",
         "en": {
           "title": "Honorifics (尊敬語)",
-          "content": "Used to show respect when speaking about a superior or a customer. Special verb conjugations are often used.<br>• お + Verb-stem + になります: (e.g., お書きになります)<br>• Special verbs: 召し上がります (eat/drink), いらっしゃいます (be/go/come), ご覧になります (see).<br><b>Example:</b> 社長は何時にいらっしゃいますか。(Shachō wa nanji ni irasshaimasu ka.) - What time is the company president coming?"
+          "content": "Used to show respect when speaking about a superior or a customer (elevates the other person).<br>• お + Verb-stem + になります: (e.g., お書きになります)<br>• Special verbs: 召し上がります (eat/drink), いらっしゃいます (be/go/come), ご覧になります (see), なさいます (do), おっしゃいます (say), ご存じです (know).<br><b>Example:</b> 社長は何時にいらっしゃいますか。(Shachō wa nanji ni irasshaimasu ka.) - What time is the company president coming?"
         },
         "vi": {
           "title": "Tôn kính ngữ (尊敬語)",
-          "content": "Dùng để thể hiện sự tôn trọng khi nói về cấp trên hoặc khách hàng. Thường dùng các dạng chia động từ đặc biệt.<br>• お + Thân động từ + になります: (vd: お書きになります)<br>• Động từ đặc biệt: 召し上がります (ăn/uống), いらっしゃいます (ở/đi/đến), ご覧になります (nhìn).<br><b>Ví dụ:</b> 社長は何時にいらっしゃいますか。(Shachō wa nanji ni irasshaimasu ka.) - Mấy giờ giám đốc sẽ đến ạ?"
+          "content": "Dùng để thể hiện sự tôn trọng khi nói về cấp trên hoặc khách hàng (nâng người khác lên).<br>• お + Thân động từ + になります: (vd: お書きになります)<br>• Động từ đặc biệt: 召し上がります (ăn/uống), いらっしゃいます (ở/đi/đến), ご覧になります (nhìn), なさいます (làm), おっしゃいます (nói), ご存じです (biết).<br><b>Ví dụ:</b> 社長は何時にいらっしゃいますか。(Shachō wa nanji ni irasshaimasu ka.) - Mấy giờ giám đốc sẽ đến ạ?"
         }
       },
       {
         "id": "g162",
         "en": {
           "title": "Humble Language (謙譲語)",
-          "content": "Used to speak humbly about oneself or one's own group when interacting with a superior or customer.<br>• お + Verb-stem + します: (e.g., お持ちします)<br>• Special verbs: いただきます (eat/drink/receive), 参ります (go/come), 申します (say).<br><b>Example:</b> 荷物をお持ちします。(Nimotsu o omochi shimasu.) - I will carry your luggage."
+          "content": "Used to speak humbly about oneself or one's own group when interacting with a superior or customer (lowers oneself).<br>• お + Verb-stem + します: (e.g., お持ちします)<br>• Special verbs: いただきます (eat/drink/receive), 参ります (go/come), 申します (say), 拝見します (see/look at), 伺います (visit/ask), 申し上げます (humbly say).<br><b>Example:</b> 荷物をお持ちします。(Nimotsu o omochi shimasu.) - I will carry your luggage."
         },
         "vi": {
           "title": "Khiêm nhường ngữ (謙譲語)",
-          "content": "Dùng để nói một cách khiêm tốn về bản thân hoặc nhóm của mình khi giao tiếp với cấp trên hoặc khách hàng.<br>• お + Thân động từ + します: (vd: お持ちします)<br>• Động từ đặc biệt: いただきます (ăn/uống/nhận), 参ります (đi/đến), 申します (nói).<br><b>Ví dụ:</b> 荷物をお持ちします。(Nimotsu o omochi shimasu.) - Để tôi mang hành lý cho ạ."
+          "content": "Dùng để nói một cách khiêm tốn về bản thân hoặc nhóm của mình khi giao tiếp với cấp trên hoặc khách hàng (hạ mình xuống).<br>• お + Thân động từ + します: (vd: お持ちします)<br>• Động từ đặc biệt: いただきます (ăn/uống/nhận), 参ります (đi/đến), 申します (nói), 拝見します (xem/nhìn), 伺います (thăm/hỏi), 申し上げます (xin được nói).<br><b>Ví dụ:</b> 荷物をお持ちします。(Nimotsu o omochi shimasu.) - Để tôi mang hành lý cho ạ."
         }
       }
     ]
