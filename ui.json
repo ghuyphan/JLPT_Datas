@@ -68,7 +68,23 @@
         "errorContentNotAvailableTitle": "Content Not Available",
         "errorContentNotAvailableBody": "The {tabName} content is not available for level {levelName}.",
         "applicationErrorTitle": "Application Error",
-        "applicationErrorBody": "An unexpected error occurred. Please refresh the page or try again later."
+        "applicationErrorBody": "An unexpected error occurred. Please refresh the page or try again later.",
+        "supportDeveloper": "Support the Developer",
+        "supportMessage": "If you find this handbook helpful, consider supporting its development!",
+        "supportLabel": "Support",
+        "buyMeCoffee": "Buy me a coffee",
+        "momo": "Momo",
+        "madeWithLove": "Made with ❤️ by",
+        "installAppTitle": "Install App",
+        "installAppMessage": "Install this app on your device for a better experience and offline access!",
+        "installStep1iOS": "Tap the <strong>Share</strong> button <span class='pwa-icon-inline'>⬆</span> at the bottom of your browser",
+        "installStep2iOS": "Scroll down and tap <strong>\"Add to Home Screen\"</strong>",
+        "installStep3iOS": "Tap <strong>\"Add\"</strong> to confirm",
+        "installStep1Android": "Tap the <strong>menu</strong> button <span class='pwa-icon-inline'>⋮</span> in your browser",
+        "installStep2Android": "Tap <strong>\"Install app\"</strong> or <strong>\"Add to Home Screen\"</strong>",
+        "installStep3Android": "Tap <strong>\"Install\"</strong> to confirm",
+        "installNowButton": "Install Now",
+        "maybeLater": "Maybe Later"
     },
     "vi": {
         "dictionarySearch": "Tra Từ Điển",
@@ -139,6 +155,22 @@
         "errorContentNotAvailableTitle": "Nội Dung Không Khả Dụng",
         "errorContentNotAvailableBody": "Nội dung {tabName} không khả dụng cho cấp độ {levelName}.",
         "applicationErrorTitle": "Lỗi Ứng Dụng",
-        "applicationErrorBody": "Đã xảy ra lỗi không mong muốn. Vui lòng tải lại trang hoặc thử lại sau."
+        "applicationErrorBody": "Đã xảy ra lỗi không mong muốn. Vui lòng tải lại trang hoặc thử lại sau.",
+        "supportDeveloper": "Ủng Hộ Tác Giả",
+        "supportMessage": "Nếu bạn thấy sổ tay này hữu ích, hãy ủng hộ để tác giả phát triển thêm!",
+        "supportLabel": "Ủng Hộ",
+        "buyMeCoffee": "Mua cho tôi ly cà phê",
+        "momo": "Momo",
+        "madeWithLove": "Được làm bằng ❤️ bởi",
+        "installAppTitle": "Cài Đặt Ứng Dụng",
+        "installAppMessage": "Cài đặt ứng dụng này trên thiết bị của bạn để có trải nghiệm tốt hơn và sử dụng ngoại tuyến!",
+        "installStep1iOS": "Nhấn nút <strong>Chia sẻ</strong> <span class='pwa-icon-inline'>⬆</span> ở cuối trình duyệt",
+        "installStep2iOS": "Cuộn xuống và nhấn <strong>\"Thêm vào Màn hình chính\"</strong>",
+        "installStep3iOS": "Nhấn <strong>\"Thêm\"</strong> để xác nhận",
+        "installStep1Android": "Nhấn nút <strong>menu</strong> <span class='pwa-icon-inline'>⋮</span> trong trình duyệt",
+        "installStep2Android": "Nhấn <strong>\"Cài đặt ứng dụng\"</strong> hoặc <strong>\"Thêm vào Màn hình chính\"</strong>",
+        "installStep3Android": "Nhấn <strong>\"Cài đặt\"</strong> để xác nhận",
+        "installNowButton": "Cài Đặt Ngay",
+        "maybeLater": "Để Sau"
     }
 }
