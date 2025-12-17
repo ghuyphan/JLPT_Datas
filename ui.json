@@ -84,7 +84,11 @@
         "installStep2Android": "Tap <strong>\"Install app\"</strong> or <strong>\"Add to Home Screen\"</strong>",
         "installStep3Android": "Tap <strong>\"Install\"</strong> to confirm",
         "installNowButton": "Install Now",
-        "maybeLater": "Maybe Later"
+        "maybeLater": "Maybe Later",
+        "installBannerHint": "Add to home screen for offline access",
+        "installButton": "Install",
+        "installHintIOS": "Tap Share ⬆ then \"Add to Home Screen\"",
+        "installHintAndroid": "Tap menu ⋮ then \"Install app\""
     },
     "vi": {
         "dictionarySearch": "Tra Từ Điển",
@@ -171,6 +175,10 @@
         "installStep2Android": "Nhấn <strong>\"Cài đặt ứng dụng\"</strong> hoặc <strong>\"Thêm vào Màn hình chính\"</strong>",
         "installStep3Android": "Nhấn <strong>\"Cài đặt\"</strong> để xác nhận",
         "installNowButton": "Cài Đặt Ngay",
-        "maybeLater": "Để Sau"
+        "maybeLater": "Để Sau",
+        "installBannerHint": "Thêm vào màn hình chính để sử dụng ngoại tuyến",
+        "installButton": "Cài Đặt",
+        "installHintIOS": "Nhấn Chia sẻ ⬆ rồi \"Thêm vào Màn hình chính\"",
+        "installHintAndroid": "Nhấn menu ⋮ rồi \"Cài đặt ứng dụng\""
     }
 }
