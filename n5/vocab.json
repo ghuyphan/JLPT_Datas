@@ -3,510 +3,3966 @@
     "en": "People & Pronouns 🧑‍🤝‍🧑",
     "vi": "Người & Đại từ 🧑‍🤝‍🧑",
     "items": [
-      { "id": "v1", "word": "私", "reading": "わたし", "meaning": { "en": "I, me", "vi": "tôi" } },
-      { "id": "v2", "word": "あなた", "reading": "あなた", "meaning": { "en": "you", "vi": "bạn" } },
-      { "id": "v3", "word": "彼", "reading": "かれ", "meaning": { "en": "he, boyfriend", "vi": "anh ấy, bạn trai" } },
-      { "id": "v4", "word": "彼女", "reading": "かのじょ", "meaning": { "en": "she, girlfriend", "vi": "cô ấy, bạn gái" } },
-      { "id": "v5", "word": "人", "reading": "ひと", "meaning": { "en": "person", "vi": "người" } },
-      { "id": "v6", "word": "先生", "reading": "せんせい", "meaning": { "en": "teacher", "vi": "giáo viên" } },
-      { "id": "v7", "word": "学生", "reading": "がくせい", "meaning": { "en": "student", "vi": "học sinh" } },
-      { "id": "v8", "word": "友達", "reading": "ともだち", "meaning": { "en": "friend", "vi": "bạn bè" } },
-      { "id": "v9", "word": "留学生", "reading": "りゅうがくせい", "meaning": { "en": "international student", "vi": "du học sinh" } },
-      { "id": "v10", "word": "医者", "reading": "いしゃ", "meaning": { "en": "doctor", "vi": "bác sĩ" } },
-      { "id": "v11", "word": "会社員", "reading": "かいしゃいん", "meaning": { "en": "office worker", "vi": "nhân viên công ty" } },
-      { "id": "v12", "word": "外国人", "reading": "がいこくじん", "meaning": { "en": "foreigner", "vi": "người nước ngoài" } },
-      { "id": "v13", "word": "男", "reading": "おとこ", "meaning": { "en": "man, male", "vi": "đàn ông, nam giới" } },
-      { "id": "v14", "word": "男の子", "reading": "おとこのこ", "meaning": { "en": "boy", "vi": "cậu bé" } },
-      { "id": "v15", "word": "女", "reading": "おんな", "meaning": { "en": "woman, female", "vi": "phụ nữ, nữ giới" } },
-      { "id": "v16", "word": "女の子", "reading": "おんなのこ", "meaning": { "en": "girl", "vi": "cô bé" } },
-      { "id": "v17", "word": "大人", "reading": "おとな", "meaning": { "en": "adult", "vi": "người lớn" } },
-      { "id": "v18", "word": "子供", "reading": "こども", "meaning": { "en": "child", "vi": "trẻ em" } },
-      { "id": "v19", "word": "生徒", "reading": "せいと", "meaning": { "en": "pupil", "vi": "học sinh, học trò" } },
-      { "id": "v20", "word": "警官", "reading": "けいかん", "meaning": { "en": "police officer", "vi": "cảnh sát" } },
-      { "id": "v21", "word": "おまわりさん", "reading": "おまわりさん", "meaning": { "en": "policeman (friendly term)", "vi": "chú cảnh sát (thân mật)" } }
+      {
+        "id": "v1",
+        "word": "私",
+        "reading": "わたし",
+        "meaning": {
+          "en": "I, me",
+          "vi": "tôi"
+        }
+      },
+      {
+        "id": "v2",
+        "word": "あなた",
+        "reading": "あなた",
+        "meaning": {
+          "en": "you",
+          "vi": "bạn"
+        }
+      },
+      {
+        "id": "v3",
+        "word": "彼",
+        "reading": "かれ",
+        "meaning": {
+          "en": "he, boyfriend",
+          "vi": "anh ấy, bạn trai"
+        }
+      },
+      {
+        "id": "v4",
+        "word": "彼女",
+        "reading": "かのじょ",
+        "meaning": {
+          "en": "she, girlfriend",
+          "vi": "cô ấy, bạn gái"
+        }
+      },
+      {
+        "id": "v5",
+        "word": "人",
+        "reading": "ひと",
+        "meaning": {
+          "en": "person",
+          "vi": "người"
+        }
+      },
+      {
+        "id": "v6",
+        "word": "先生",
+        "reading": "せんせい",
+        "meaning": {
+          "en": "teacher",
+          "vi": "giáo viên"
+        }
+      },
+      {
+        "id": "v7",
+        "word": "学生",
+        "reading": "がくせい",
+        "meaning": {
+          "en": "student",
+          "vi": "học sinh"
+        }
+      },
+      {
+        "id": "v8",
+        "word": "友達",
+        "reading": "ともだち",
+        "meaning": {
+          "en": "friend",
+          "vi": "bạn bè"
+        }
+      },
+      {
+        "id": "v9",
+        "word": "留学生",
+        "reading": "りゅうがくせい",
+        "meaning": {
+          "en": "international student",
+          "vi": "du học sinh"
+        }
+      },
+      {
+        "id": "v10",
+        "word": "医者",
+        "reading": "いしゃ",
+        "meaning": {
+          "en": "doctor",
+          "vi": "bác sĩ"
+        }
+      },
+      {
+        "id": "v11",
+        "word": "会社員",
+        "reading": "かいしゃいん",
+        "meaning": {
+          "en": "office worker",
+          "vi": "nhân viên công ty"
+        }
+      },
+      {
+        "id": "v12",
+        "word": "外国人",
+        "reading": "がいこくじん",
+        "meaning": {
+          "en": "foreigner",
+          "vi": "người nước ngoài"
+        }
+      },
+      {
+        "id": "v13",
+        "word": "男",
+        "reading": "おとこ",
+        "meaning": {
+          "en": "man, male",
+          "vi": "đàn ông, nam giới"
+        }
+      },
+      {
+        "id": "v14",
+        "word": "男の子",
+        "reading": "おとこのこ",
+        "meaning": {
+          "en": "boy",
+          "vi": "cậu bé"
+        }
+      },
+      {
+        "id": "v15",
+        "word": "女",
+        "reading": "おんな",
+        "meaning": {
+          "en": "woman, female",
+          "vi": "phụ nữ, nữ giới"
+        }
+      },
+      {
+        "id": "v16",
+        "word": "女の子",
+        "reading": "おんなのこ",
+        "meaning": {
+          "en": "girl",
+          "vi": "cô bé"
+        }
+      },
+      {
+        "id": "v17",
+        "word": "大人",
+        "reading": "おとな",
+        "meaning": {
+          "en": "adult",
+          "vi": "người lớn"
+        }
+      },
+      {
+        "id": "v18",
+        "word": "子供",
+        "reading": "こども",
+        "meaning": {
+          "en": "child",
+          "vi": "trẻ em"
+        }
+      },
+      {
+        "id": "v19",
+        "word": "生徒",
+        "reading": "せいと",
+        "meaning": {
+          "en": "pupil",
+          "vi": "học sinh, học trò"
+        }
+      },
+      {
+        "id": "v20",
+        "word": "警官",
+        "reading": "けいかん",
+        "meaning": {
+          "en": "police officer",
+          "vi": "cảnh sát"
+        }
+      },
+      {
+        "id": "v21",
+        "word": "おまわりさん",
+        "reading": "おまわりさん",
+        "meaning": {
+          "en": "policeman (friendly term)",
+          "vi": "chú cảnh sát (thân mật)"
+        }
+      }
     ]
   },
   "family": {
     "en": "Family 👨‍👩‍👧‍👦",
     "vi": "Gia đình 👨‍👩‍👧‍👦",
     "items": [
-      { "id": "v22", "word": "家族", "reading": "かぞく", "meaning": { "en": "family", "vi": "gia đình" } },
-      { "id": "v23", "word": "両親", "reading": "りょうしん", "meaning": { "en": "parents", "vi": "bố mẹ" } },
-      { "id": "v24", "word": "父", "reading": "ちち", "meaning": { "en": "(my) father", "vi": "bố (của tôi)" } },
-      { "id": "v25", "word": "母", "reading": "はは", "meaning": { "en": "(my) mother", "vi": "mẹ (của tôi)" } },
-      { "id": "v26", "word": "兄弟", "reading": "きょうだい", "meaning": { "en": "siblings", "vi": "anh chị em" } },
-      { "id": "v27", "word": "お父さん", "reading": "おとうさん", "meaning": { "en": "(someone's) father", "vi": "bố (của người khác)" } },
-      { "id": "v28", "word": "お母さん", "reading": "おかあさん", "meaning": { "en": "(someone's) mother", "vi": "mẹ (của người khác)" } },
-      { "id": "v29", "word": "兄", "reading": "あに", "meaning": { "en": "(my) older brother", "vi": "anh trai (của tôi)" } },
-      { "id": "v30", "word": "お兄さん", "reading": "おにいさん", "meaning": { "en": "(someone's) older brother", "vi": "anh trai (của người khác)" } },
-      { "id": "v31", "word": "姉", "reading": "あね", "meaning": { "en": "(my) older sister", "vi": "chị gái (của tôi)" } },
-      { "id": "v32", "word": "お姉さん", "reading": "おねえさん", "meaning": { "en": "(someone's) older sister", "vi": "chị gái (của người khác)" } },
-      { "id": "v33", "word": "弟", "reading": "おとうと", "meaning": { "en": "(my) younger brother", "vi": "em trai (của tôi)" } },
-      { "id": "v34", "word": "妹", "reading": "いもうと", "meaning": { "en": "(my) younger sister", "vi": "em gái (của tôi)" } },
-      { "id": "v35", "word": "奥さん", "reading": "おくさん", "meaning": { "en": "(someone's) wife", "vi": "vợ (của người khác)" } },
-      { "id": "v36", "word": "おじいさん", "reading": "おじいさん", "meaning": { "en": "grandfather, old man", "vi": "ông, ông cụ" } },
-      { "id": "v37", "word": "おばあさん", "reading": "おばあさん", "meaning": { "en": "grandmother, old woman", "vi": "bà, bà cụ" } },
-      { "id": "v38", "word": "伯父さん/叔父さん", "reading": "おじさん", "meaning": { "en": "uncle", "vi": "chú, bác, cậu" } },
-      { "id": "v39", "word": "伯母さん/叔母さん", "reading": "おばさん", "meaning": { "en": "aunt", "vi": "cô, dì, bác gái" } }
+      {
+        "id": "v22",
+        "word": "家族",
+        "reading": "かぞく",
+        "meaning": {
+          "en": "family",
+          "vi": "gia đình"
+        }
+      },
+      {
+        "id": "v23",
+        "word": "両親",
+        "reading": "りょうしん",
+        "meaning": {
+          "en": "parents",
+          "vi": "bố mẹ"
+        }
+      },
+      {
+        "id": "v24",
+        "word": "父",
+        "reading": "ちち",
+        "meaning": {
+          "en": "(my) father",
+          "vi": "bố (của tôi)"
+        }
+      },
+      {
+        "id": "v25",
+        "word": "母",
+        "reading": "はは",
+        "meaning": {
+          "en": "(my) mother",
+          "vi": "mẹ (của tôi)"
+        }
+      },
+      {
+        "id": "v26",
+        "word": "兄弟",
+        "reading": "きょうだい",
+        "meaning": {
+          "en": "siblings",
+          "vi": "anh chị em"
+        }
+      },
+      {
+        "id": "v27",
+        "word": "お父さん",
+        "reading": "おとうさん",
+        "meaning": {
+          "en": "(someone's) father",
+          "vi": "bố (của người khác)"
+        }
+      },
+      {
+        "id": "v28",
+        "word": "お母さん",
+        "reading": "おかあさん",
+        "meaning": {
+          "en": "(someone's) mother",
+          "vi": "mẹ (của người khác)"
+        }
+      },
+      {
+        "id": "v29",
+        "word": "兄",
+        "reading": "あに",
+        "meaning": {
+          "en": "(my) older brother",
+          "vi": "anh trai (của tôi)"
+        }
+      },
+      {
+        "id": "v30",
+        "word": "お兄さん",
+        "reading": "おにいさん",
+        "meaning": {
+          "en": "(someone's) older brother",
+          "vi": "anh trai (của người khác)"
+        }
+      },
+      {
+        "id": "v31",
+        "word": "姉",
+        "reading": "あね",
+        "meaning": {
+          "en": "(my) older sister",
+          "vi": "chị gái (của tôi)"
+        }
+      },
+      {
+        "id": "v32",
+        "word": "お姉さん",
+        "reading": "おねえさん",
+        "meaning": {
+          "en": "(someone's) older sister",
+          "vi": "chị gái (của người khác)"
+        }
+      },
+      {
+        "id": "v33",
+        "word": "弟",
+        "reading": "おとうと",
+        "meaning": {
+          "en": "(my) younger brother",
+          "vi": "em trai (của tôi)"
+        }
+      },
+      {
+        "id": "v34",
+        "word": "妹",
+        "reading": "いもうと",
+        "meaning": {
+          "en": "(my) younger sister",
+          "vi": "em gái (của tôi)"
+        }
+      },
+      {
+        "id": "v35",
+        "word": "奥さん",
+        "reading": "おくさん",
+        "meaning": {
+          "en": "(someone's) wife",
+          "vi": "vợ (của người khác)"
+        }
+      },
+      {
+        "id": "v36",
+        "word": "おじいさん",
+        "reading": "おじいさん",
+        "meaning": {
+          "en": "grandfather, old man",
+          "vi": "ông, ông cụ"
+        }
+      },
+      {
+        "id": "v37",
+        "word": "おばあさん",
+        "reading": "おばあさん",
+        "meaning": {
+          "en": "grandmother, old woman",
+          "vi": "bà, bà cụ"
+        }
+      },
+      {
+        "id": "v38",
+        "word": "伯父さん/叔父さん",
+        "reading": "おじさん",
+        "meaning": {
+          "en": "uncle",
+          "vi": "chú, bác, cậu"
+        }
+      },
+      {
+        "id": "v39",
+        "word": "伯母さん/叔母さん",
+        "reading": "おばさん",
+        "meaning": {
+          "en": "aunt",
+          "vi": "cô, dì, bác gái"
+        }
+      }
     ]
   },
   "places_locations": {
     "en": "Places & Locations 📍",
     "vi": "Địa điểm & Vị trí 📍",
     "items": [
-      { "id": "v40", "word": "学校", "reading": "がっこう", "meaning": { "en": "school", "vi": "trường học" } },
-      { "id": "v41", "word": "会社", "reading": "かいしゃ", "meaning": { "en": "company", "vi": "công ty" } },
-      { "id": "v42", "word": "駅", "reading": "えき", "meaning": { "en": "station", "vi": "nhà ga" } },
-      { "id": "v43", "word": "家", "reading": "いえ", "meaning": { "en": "house, home", "vi": "nhà" } },
-      { "id": "v44", "word": "うち", "reading": "うち", "meaning": { "en": "home, my place", "vi": "nhà (của mình)" } },
-      { "id": "v45", "word": "日本", "reading": "にほん", "meaning": { "en": "Japan", "vi": "Nhật Bản" } },
-      { "id": "v46", "word": "大学", "reading": "だいがく", "meaning": { "en": "university", "vi": "đại học" } },
-      { "id": "v47", "word": "店", "reading": "みせ", "meaning": { "en": "shop, store", "vi": "cửa hàng" } },
-      { "id": "v48", "word": "レストラン", "reading": "レストラン", "meaning": { "en": "restaurant", "vi": "nhà hàng" } },
-      { "id": "v49", "word": "ホテル", "reading": "ホテル", "meaning": { "en": "hotel", "vi": "khách sạn" } },
-      { "id": "v50", "word": "トイレ", "reading": "トイレ", "meaning": { "en": "toilet, restroom", "vi": "nhà vệ sinh" } },
-      { "id": "v51", "word": "銀行", "reading": "ぎんこう", "meaning": { "en": "bank", "vi": "ngân hàng" } },
-      { "id": "v52", "word": "図書館", "reading": "としょかん", "meaning": { "en": "library", "vi": "thư viện" } },
-      { "id": "v53", "word": "郵便局", "reading": "ゆうびんきょく", "meaning": { "en": "post office", "vi": "bưu điện" } },
-      { "id": "v54", "word": "公園", "reading": "こうえん", "meaning": { "en": "park", "vi": "công viên" } },
-      { "id": "v55", "word": "デパート", "reading": "デパート", "meaning": { "en": "department store", "vi": "trung tâm thương mại" } },
-      { "id": "v56", "word": "病院", "reading": "びょういん", "meaning": { "en": "hospital", "vi": "bệnh viện" } },
-      { "id": "v57", "word": "アパート", "reading": "アパート", "meaning": { "en": "apartment", "vi": "căn hộ" } },
-      { "id": "v58", "word": "外国", "reading": "がいこく", "meaning": { "en": "foreign country", "vi": "nước ngoài" } },
-      { "id": "v59", "word": "映画館", "reading": "えいがかん", "meaning": { "en": "movie theater", "vi": "rạp chiếu phim" } },
-      { "id": "v60", "word": "喫茶店", "reading": "きっさてん", "meaning": { "en": "cafe, coffee shop", "vi": "quán cà phê" } },
-      { "id": "v61", "word": "台所", "reading": "だいどころ", "meaning": { "en": "kitchen", "vi": "nhà bếp" } },
-      { "id": "v62", "word": "村", "reading": "むら", "meaning": { "en": "village", "vi": "làng" } },
-      { "id": "v63", "word": "町", "reading": "まち", "meaning": { "en": "town", "vi": "thị trấn, thành phố" } },
-      { "id": "v64", "word": "国", "reading": "くに", "meaning": { "en": "country", "vi": "đất nước" } },
-      { "id": "v65", "word": "入口", "reading": "いりぐち", "meaning": { "en": "entrance", "vi": "lối vào" } },
-      { "id": "v66", "word": "出口", "reading": "でぐち", "meaning": { "en": "exit", "vi": "lối ra" } },
-      { "id": "v67", "word": "大使館", "reading": "たいしかん", "meaning": { "en": "embassy", "vi": "đại sứ quán" } },
-      { "id": "v68", "word": "交差点", "reading": "こうさてん", "meaning": { "en": "intersection", "vi": "ngã tư" } },
-      { "id": "v69", "word": "交番", "reading": "こうばん", "meaning": { "en": "police box", "vi": "bốt cảnh sát" } },
-      { "id": "v70", "word": "階段", "reading": "かいだん", "meaning": { "en": "stairs", "vi": "cầu thang" } },
-      { "id": "v71", "word": "池", "reading": "いけ", "meaning": { "en": "pond", "vi": "ao, hồ" } },
-      { "id": "v72", "word": "庭", "reading": "にわ", "meaning": { "en": "garden", "vi": "sân vườn" } },
-      { "id": "v73", "word": "道", "reading": "みち", "meaning": { "en": "road, street", "vi": "con đường" } }
+      {
+        "id": "v40",
+        "word": "学校",
+        "reading": "がっこう",
+        "meaning": {
+          "en": "school",
+          "vi": "trường học"
+        }
+      },
+      {
+        "id": "v41",
+        "word": "会社",
+        "reading": "かいしゃ",
+        "meaning": {
+          "en": "company",
+          "vi": "công ty"
+        }
+      },
+      {
+        "id": "v42",
+        "word": "駅",
+        "reading": "えき",
+        "meaning": {
+          "en": "station",
+          "vi": "nhà ga"
+        }
+      },
+      {
+        "id": "v43",
+        "word": "家",
+        "reading": "いえ",
+        "meaning": {
+          "en": "house, home",
+          "vi": "nhà"
+        }
+      },
+      {
+        "id": "v44",
+        "word": "うち",
+        "reading": "うち",
+        "meaning": {
+          "en": "home, my place",
+          "vi": "nhà (của mình)"
+        }
+      },
+      {
+        "id": "v45",
+        "word": "日本",
+        "reading": "にほん",
+        "meaning": {
+          "en": "Japan",
+          "vi": "Nhật Bản"
+        }
+      },
+      {
+        "id": "v46",
+        "word": "大学",
+        "reading": "だいがく",
+        "meaning": {
+          "en": "university",
+          "vi": "đại học"
+        }
+      },
+      {
+        "id": "v47",
+        "word": "店",
+        "reading": "みせ",
+        "meaning": {
+          "en": "shop, store",
+          "vi": "cửa hàng"
+        }
+      },
+      {
+        "id": "v48",
+        "word": "レストラン",
+        "reading": "レストラン",
+        "meaning": {
+          "en": "restaurant",
+          "vi": "nhà hàng"
+        }
+      },
+      {
+        "id": "v49",
+        "word": "ホテル",
+        "reading": "ホテル",
+        "meaning": {
+          "en": "hotel",
+          "vi": "khách sạn"
+        }
+      },
+      {
+        "id": "v50",
+        "word": "トイレ",
+        "reading": "トイレ",
+        "meaning": {
+          "en": "toilet, restroom",
+          "vi": "nhà vệ sinh"
+        }
+      },
+      {
+        "id": "v51",
+        "word": "銀行",
+        "reading": "ぎんこう",
+        "meaning": {
+          "en": "bank",
+          "vi": "ngân hàng"
+        }
+      },
+      {
+        "id": "v52",
+        "word": "図書館",
+        "reading": "としょかん",
+        "meaning": {
+          "en": "library",
+          "vi": "thư viện"
+        }
+      },
+      {
+        "id": "v53",
+        "word": "郵便局",
+        "reading": "ゆうびんきょく",
+        "meaning": {
+          "en": "post office",
+          "vi": "bưu điện"
+        }
+      },
+      {
+        "id": "v54",
+        "word": "公園",
+        "reading": "こうえん",
+        "meaning": {
+          "en": "park",
+          "vi": "công viên"
+        }
+      },
+      {
+        "id": "v55",
+        "word": "デパート",
+        "reading": "デパート",
+        "meaning": {
+          "en": "department store",
+          "vi": "trung tâm thương mại"
+        }
+      },
+      {
+        "id": "v56",
+        "word": "病院",
+        "reading": "びょういん",
+        "meaning": {
+          "en": "hospital",
+          "vi": "bệnh viện"
+        }
+      },
+      {
+        "id": "v57",
+        "word": "アパート",
+        "reading": "アパート",
+        "meaning": {
+          "en": "apartment",
+          "vi": "căn hộ"
+        }
+      },
+      {
+        "id": "v58",
+        "word": "外国",
+        "reading": "がいこく",
+        "meaning": {
+          "en": "foreign country",
+          "vi": "nước ngoài"
+        }
+      },
+      {
+        "id": "v59",
+        "word": "映画館",
+        "reading": "えいがかん",
+        "meaning": {
+          "en": "movie theater",
+          "vi": "rạp chiếu phim"
+        }
+      },
+      {
+        "id": "v60",
+        "word": "喫茶店",
+        "reading": "きっさてん",
+        "meaning": {
+          "en": "cafe, coffee shop",
+          "vi": "quán cà phê"
+        }
+      },
+      {
+        "id": "v61",
+        "word": "台所",
+        "reading": "だいどころ",
+        "meaning": {
+          "en": "kitchen",
+          "vi": "nhà bếp"
+        }
+      },
+      {
+        "id": "v62",
+        "word": "村",
+        "reading": "むら",
+        "meaning": {
+          "en": "village",
+          "vi": "làng"
+        }
+      },
+      {
+        "id": "v63",
+        "word": "町",
+        "reading": "まち",
+        "meaning": {
+          "en": "town",
+          "vi": "thị trấn, thành phố"
+        }
+      },
+      {
+        "id": "v64",
+        "word": "国",
+        "reading": "くに",
+        "meaning": {
+          "en": "country",
+          "vi": "đất nước"
+        }
+      },
+      {
+        "id": "v65",
+        "word": "入口",
+        "reading": "いりぐち",
+        "meaning": {
+          "en": "entrance",
+          "vi": "lối vào"
+        }
+      },
+      {
+        "id": "v66",
+        "word": "出口",
+        "reading": "でぐち",
+        "meaning": {
+          "en": "exit",
+          "vi": "lối ra"
+        }
+      },
+      {
+        "id": "v67",
+        "word": "大使館",
+        "reading": "たいしかん",
+        "meaning": {
+          "en": "embassy",
+          "vi": "đại sứ quán"
+        }
+      },
+      {
+        "id": "v68",
+        "word": "交差点",
+        "reading": "こうさてん",
+        "meaning": {
+          "en": "intersection",
+          "vi": "ngã tư"
+        }
+      },
+      {
+        "id": "v69",
+        "word": "交番",
+        "reading": "こうばん",
+        "meaning": {
+          "en": "police box",
+          "vi": "bốt cảnh sát"
+        }
+      },
+      {
+        "id": "v70",
+        "word": "階段",
+        "reading": "かいだん",
+        "meaning": {
+          "en": "stairs",
+          "vi": "cầu thang"
+        }
+      },
+      {
+        "id": "v71",
+        "word": "池",
+        "reading": "いけ",
+        "meaning": {
+          "en": "pond",
+          "vi": "ao, hồ"
+        }
+      },
+      {
+        "id": "v72",
+        "word": "庭",
+        "reading": "にわ",
+        "meaning": {
+          "en": "garden",
+          "vi": "sân vườn"
+        }
+      },
+      {
+        "id": "v73",
+        "word": "道",
+        "reading": "みち",
+        "meaning": {
+          "en": "road, street",
+          "vi": "con đường"
+        }
+      }
     ]
   },
   "directions_positions": {
     "en": "Directions & Positions 🧭",
     "vi": "Phương hướng & Vị trí 🧭",
     "items": [
-      { "id": "v74", "word": "上", "reading": "うえ", "meaning": { "en": "up, on, above", "vi": "trên" } },
-      { "id": "v75", "word": "下", "reading": "した", "meaning": { "en": "down, under, below", "vi": "dưới" } },
-      { "id": "v76", "word": "前", "reading": "まえ", "meaning": { "en": "front, before", "vi": "trước" } },
-      { "id": "v77", "word": "後ろ", "reading": "うしろ", "meaning": { "en": "back, behind", "vi": "sau" } },
-      { "id": "v78", "word": "右", "reading": "みぎ", "meaning": { "en": "right", "vi": "phải" } },
-      { "id": "v79", "word": "左", "reading": "ひだり", "meaning": { "en": "left", "vi": "trái" } },
-      { "id": "v80", "word": "中", "reading": "なか", "meaning": { "en": "inside", "vi": "trong" } },
-      { "id": "v81", "word": "隣", "reading": "となり", "meaning": { "en": "next to", "vi": "bên cạnh" } },
-      { "id": "v82", "word": "外", "reading": "そと", "meaning": { "en": "outside", "vi": "bên ngoài" } },
-      { "id": "v83", "word": "近く", "reading": "ちかく", "meaning": { "en": "nearby", "vi": "gần" } },
-      { "id": "v84", "word": "東", "reading": "ひがし", "meaning": { "en": "east", "vi": "phía Đông" } },
-      { "id": "v85", "word": "西", "reading": "にし", "meaning": { "en": "west", "vi": "phía Tây" } },
-      { "id": "v86", "word": "南", "reading": "みなみ", "meaning": { "en": "south", "vi": "phía Nam" } },
-      { "id": "v87", "word": "北", "reading": "きた", "meaning": { "en": "north", "vi": "phía Bắc" } }
+      {
+        "id": "v74",
+        "word": "上",
+        "reading": "うえ",
+        "meaning": {
+          "en": "up, on, above",
+          "vi": "trên"
+        }
+      },
+      {
+        "id": "v75",
+        "word": "下",
+        "reading": "した",
+        "meaning": {
+          "en": "down, under, below",
+          "vi": "dưới"
+        }
+      },
+      {
+        "id": "v76",
+        "word": "前",
+        "reading": "まえ",
+        "meaning": {
+          "en": "front, before",
+          "vi": "trước"
+        }
+      },
+      {
+        "id": "v77",
+        "word": "後ろ",
+        "reading": "うしろ",
+        "meaning": {
+          "en": "back, behind",
+          "vi": "sau"
+        }
+      },
+      {
+        "id": "v78",
+        "word": "右",
+        "reading": "みぎ",
+        "meaning": {
+          "en": "right",
+          "vi": "phải"
+        }
+      },
+      {
+        "id": "v79",
+        "word": "左",
+        "reading": "ひだり",
+        "meaning": {
+          "en": "left",
+          "vi": "trái"
+        }
+      },
+      {
+        "id": "v80",
+        "word": "中",
+        "reading": "なか",
+        "meaning": {
+          "en": "inside",
+          "vi": "trong"
+        }
+      },
+      {
+        "id": "v81",
+        "word": "隣",
+        "reading": "となり",
+        "meaning": {
+          "en": "next to",
+          "vi": "bên cạnh"
+        }
+      },
+      {
+        "id": "v82",
+        "word": "外",
+        "reading": "そと",
+        "meaning": {
+          "en": "outside",
+          "vi": "bên ngoài"
+        }
+      },
+      {
+        "id": "v83",
+        "word": "近く",
+        "reading": "ちかく",
+        "meaning": {
+          "en": "nearby",
+          "vi": "gần"
+        }
+      },
+      {
+        "id": "v84",
+        "word": "東",
+        "reading": "ひがし",
+        "meaning": {
+          "en": "east",
+          "vi": "phía Đông"
+        }
+      },
+      {
+        "id": "v85",
+        "word": "西",
+        "reading": "にし",
+        "meaning": {
+          "en": "west",
+          "vi": "phía Tây"
+        }
+      },
+      {
+        "id": "v86",
+        "word": "南",
+        "reading": "みなみ",
+        "meaning": {
+          "en": "south",
+          "vi": "phía Nam"
+        }
+      },
+      {
+        "id": "v87",
+        "word": "北",
+        "reading": "きた",
+        "meaning": {
+          "en": "north",
+          "vi": "phía Bắc"
+        }
+      }
     ]
   },
   "food_drink": {
     "en": "Food & Drink 🍔🥤",
     "vi": "Đồ ăn & Thức uống 🍔🥤",
     "items": [
-      { "id": "v88", "word": "食べ物", "reading": "たべもの", "meaning": { "en": "food", "vi": "đồ ăn" } },
-      { "id": "v89", "word": "飲み物", "reading": "のみもの", "meaning": { "en": "drink", "vi": "đồ uống" } },
-      { "id": "v90", "word": "水", "reading": "みず", "meaning": { "en": "water", "vi": "nước" } },
-      { "id": "v91", "word": "ご飯", "reading": "ごはん", "meaning": { "en": "rice, meal", "vi": "cơm, bữa ăn" } },
-      { "id": "v92", "word": "パン", "reading": "パン", "meaning": { "en": "bread", "vi": "bánh mì" } },
-      { "id": "v93", "word": "肉", "reading": "にく", "meaning": { "en": "meat", "vi": "thịt" } },
-      { "id": "v94", "word": "魚", "reading": "さかな", "meaning": { "en": "fish", "vi": "cá" } },
-      { "id": "v95", "word": "野菜", "reading": "やさい", "meaning": { "en": "vegetable", "vi": "rau" } },
-      { "id": "v96", "word": "果物", "reading": "くだもの", "meaning": { "en": "fruit", "vi": "trái cây" } },
-      { "id": "v97", "word": "卵", "reading": "たまご", "meaning": { "en": "egg", "vi": "trứng" } },
-      { "id": "v98", "word": "コーヒー", "reading": "コーヒー", "meaning": { "en": "coffee", "vi": "cà phê" } },
-      { "id": "v99", "word": "お茶", "reading": "おちゃ", "meaning": { "en": "tea (green tea)", "vi": "trà" } },
-      { "id": "v100", "word": "牛乳", "reading": "ぎゅうにゅう", "meaning": { "en": "milk", "vi": "sữa" } },
-      { "id": "v101", "word": "朝御飯", "reading": "あさごはん", "meaning": { "en": "breakfast", "vi": "bữa sáng" } },
-      { "id": "v102", "word": "昼御飯", "reading": "ひるごはん", "meaning": { "en": "lunch", "vi": "bữa trưa" } },
-      { "id": "v103", "word": "晩御飯", "reading": "ばんごはん", "meaning": { "en": "dinner", "vi": "bữa tối" } },
-      { "id": "v104", "word": "お酒", "reading": "おさけ", "meaning": { "en": "alcohol, sake", "vi": "rượu" } },
-      { "id": "v105", "word": "お菓子", "reading": "おかし", "meaning": { "en": "sweets, snacks", "vi": "bánh kẹo" } },
-      { "id": "v106", "word": "カレー", "reading": "カレー", "meaning": { "en": "curry", "vi": "cà ri" } },
-      { "id": "v107", "word": "バター", "reading": "バター", "meaning": { "en": "butter", "vi": "bơ" } },
-      { "id": "v108", "word": "豚肉", "reading": "ぶたにく", "meaning": { "en": "pork", "vi": "thịt lợn" } },
-      { "id": "v109", "word": "牛肉", "reading": "ぎゅうにく", "meaning": { "en": "beef", "vi": "thịt bò" } },
-      { "id": "v110", "word": "鶏肉", "reading": "とりにく", "meaning": { "en": "chicken meat", "vi": "thịt gà" } },
-      { "id": "v111", "word": "塩", "reading": "しお", "meaning": { "en": "salt", "vi": "muối" } },
-      { "id": "v112", "word": "砂糖", "reading": "さとう", "meaning": { "en": "sugar", "vi": "đường" } },
-      { "id": "v113", "word": "醤油", "reading": "しょうゆ", "meaning": { "en": "soy sauce", "vi": "nước tương" } }
+      {
+        "id": "v88",
+        "word": "食べ物",
+        "reading": "たべもの",
+        "meaning": {
+          "en": "food",
+          "vi": "đồ ăn"
+        }
+      },
+      {
+        "id": "v89",
+        "word": "飲み物",
+        "reading": "のみもの",
+        "meaning": {
+          "en": "drink",
+          "vi": "đồ uống"
+        }
+      },
+      {
+        "id": "v90",
+        "word": "水",
+        "reading": "みず",
+        "meaning": {
+          "en": "water",
+          "vi": "nước"
+        }
+      },
+      {
+        "id": "v91",
+        "word": "ご飯",
+        "reading": "ごはん",
+        "meaning": {
+          "en": "rice, meal",
+          "vi": "cơm, bữa ăn"
+        }
+      },
+      {
+        "id": "v92",
+        "word": "パン",
+        "reading": "パン",
+        "meaning": {
+          "en": "bread",
+          "vi": "bánh mì"
+        }
+      },
+      {
+        "id": "v93",
+        "word": "肉",
+        "reading": "にく",
+        "meaning": {
+          "en": "meat",
+          "vi": "thịt"
+        }
+      },
+      {
+        "id": "v94",
+        "word": "魚",
+        "reading": "さかな",
+        "meaning": {
+          "en": "fish",
+          "vi": "cá"
+        }
+      },
+      {
+        "id": "v95",
+        "word": "野菜",
+        "reading": "やさい",
+        "meaning": {
+          "en": "vegetable",
+          "vi": "rau"
+        }
+      },
+      {
+        "id": "v96",
+        "word": "果物",
+        "reading": "くだもの",
+        "meaning": {
+          "en": "fruit",
+          "vi": "trái cây"
+        }
+      },
+      {
+        "id": "v97",
+        "word": "卵",
+        "reading": "たまご",
+        "meaning": {
+          "en": "egg",
+          "vi": "trứng"
+        }
+      },
+      {
+        "id": "v98",
+        "word": "コーヒー",
+        "reading": "コーヒー",
+        "meaning": {
+          "en": "coffee",
+          "vi": "cà phê"
+        }
+      },
+      {
+        "id": "v99",
+        "word": "お茶",
+        "reading": "おちゃ",
+        "meaning": {
+          "en": "tea (green tea)",
+          "vi": "trà"
+        }
+      },
+      {
+        "id": "v100",
+        "word": "牛乳",
+        "reading": "ぎゅうにゅう",
+        "meaning": {
+          "en": "milk",
+          "vi": "sữa"
+        }
+      },
+      {
+        "id": "v101",
+        "word": "朝ごはん",
+        "reading": "あさごはん",
+        "meaning": {
+          "en": "breakfast",
+          "vi": "bữa sáng"
+        }
+      },
+      {
+        "id": "v102",
+        "word": "昼ごはん",
+        "reading": "ひるごはん",
+        "meaning": {
+          "en": "lunch",
+          "vi": "bữa trưa"
+        }
+      },
+      {
+        "id": "v103",
+        "word": "晩ごはん",
+        "reading": "ばんごはん",
+        "meaning": {
+          "en": "dinner",
+          "vi": "bữa tối"
+        }
+      },
+      {
+        "id": "v104",
+        "word": "お酒",
+        "reading": "おさけ",
+        "meaning": {
+          "en": "alcohol, sake",
+          "vi": "rượu"
+        }
+      },
+      {
+        "id": "v105",
+        "word": "お菓子",
+        "reading": "おかし",
+        "meaning": {
+          "en": "sweets, snacks",
+          "vi": "bánh kẹo"
+        }
+      },
+      {
+        "id": "v106",
+        "word": "カレー",
+        "reading": "カレー",
+        "meaning": {
+          "en": "curry",
+          "vi": "cà ri"
+        }
+      },
+      {
+        "id": "v107",
+        "word": "バター",
+        "reading": "バター",
+        "meaning": {
+          "en": "butter",
+          "vi": "bơ"
+        }
+      },
+      {
+        "id": "v108",
+        "word": "豚肉",
+        "reading": "ぶたにく",
+        "meaning": {
+          "en": "pork",
+          "vi": "thịt lợn"
+        }
+      },
+      {
+        "id": "v109",
+        "word": "牛肉",
+        "reading": "ぎゅうにく",
+        "meaning": {
+          "en": "beef",
+          "vi": "thịt bò"
+        }
+      },
+      {
+        "id": "v110",
+        "word": "鶏肉",
+        "reading": "とりにく",
+        "meaning": {
+          "en": "chicken meat",
+          "vi": "thịt gà"
+        }
+      },
+      {
+        "id": "v111",
+        "word": "塩",
+        "reading": "しお",
+        "meaning": {
+          "en": "salt",
+          "vi": "muối"
+        }
+      },
+      {
+        "id": "v112",
+        "word": "砂糖",
+        "reading": "さとう",
+        "meaning": {
+          "en": "sugar",
+          "vi": "đường"
+        }
+      },
+      {
+        "id": "v113",
+        "word": "醤油",
+        "reading": "しょうゆ",
+        "meaning": {
+          "en": "soy sauce",
+          "vi": "nước tương"
+        }
+      }
     ]
   },
   "objects_general": {
     "en": "Objects & General Nouns 📦",
     "vi": "Đồ vật & Danh từ chung 📦",
     "items": [
-      { "id": "v114", "word": "これ", "reading": "これ", "meaning": { "en": "this", "vi": "cái này" } },
-      { "id": "v115", "word": "それ", "reading": "それ", "meaning": { "en": "that", "vi": "cái đó" } },
-      { "id": "v116", "word": "あれ", "reading": "あれ", "meaning": { "en": "that over there", "vi": "cái kia" } },
-      { "id": "v117", "word": "本", "reading": "ほん", "meaning": { "en": "book", "vi": "sách" } },
-      { "id": "v118", "word": "辞書", "reading": "じしょ", "meaning": { "en": "dictionary", "vi": "từ điển" } },
-      { "id": "v119", "word": "映画", "reading": "えいが", "meaning": { "en": "movie", "vi": "phim" } },
-      { "id": "v120", "word": "仕事", "reading": "しごと", "meaning": { "en": "work, job", "vi": "công việc" } },
-      { "id": "v121", "word": "お金", "reading": "おかね", "meaning": { "en": "money", "vi": "tiền" } },
-      { "id": "v122", "word": "車", "reading": "くるま", "meaning": { "en": "car", "vi": "xe hơi" } },
-      { "id": "v123", "word": "日本語", "reading": "にほんご", "meaning": { "en": "Japanese language", "vi": "Tiếng Nhật" } },
-      { "id": "v124", "word": "テレビ", "reading": "テレビ", "meaning": { "en": "TV", "vi": "TV" } },
-      { "id": "v125", "word": "ラジオ", "reading": "ラジオ", "meaning": { "en": "radio", "vi": "đài radio" } },
-      { "id": "v126", "word": "カメラ", "reading": "カメラ", "meaning": { "en": "camera", "vi": "máy ảnh" } },
-      { "id": "v127", "word": "バス", "reading": "バス", "meaning": { "en": "bus", "vi": "xe buýt" } },
-      { "id": "v128", "word": "タクシー", "reading": "タクシー", "meaning": { "en": "taxi", "vi": "taxi" } },
-      { "id": "v129", "word": "スポーツ", "reading": "スポーツ", "meaning": { "en": "sports", "vi": "thể thao" } },
-      { "id": "v130", "word": "ペン", "reading": "ペン", "meaning": { "en": "pen", "vi": "bút" } },
-      { "id": "v131", "word": "机", "reading": "つくえ", "meaning": { "en": "desk", "vi": "bàn làm việc" } },
-      { "id": "v132", "word": "いす", "reading": "いす", "meaning": { "en": "chair", "vi": "ghế" } },
-      { "id": "v133", "word": "かばん", "reading": "かばん", "meaning": { "en": "bag", "vi": "cái cặp, túi xách" } },
-      { "id": "v134", "word": "手紙", "reading": "てがみ", "meaning": { "en": "letter", "vi": "thư" } },
-      { "id": "v135", "word": "電話", "reading": "でんわ", "meaning": { "en": "telephone", "vi": "điện thoại" } },
-      { "id": "v136", "word": "写真", "reading": "しゃしん", "meaning": { "en": "photograph", "vi": "ảnh" } },
-      { "id": "v137", "word": "新聞", "reading": "しんぶん", "meaning": { "en": "newspaper", "vi": "báo" } },
-      { "id": "v138", "word": "靴", "reading": "くつ", "meaning": { "en": "shoes", "vi": "giày" } },
-      { "id": "v139", "word": "箱", "reading": "はこ", "meaning": { "en": "box", "vi": "cái hộp" } },
-      { "id": "v140", "word": "橋", "reading": "はし", "meaning": { "en": "bridge", "vi": "cây cầu" } },
-      { "id": "v141", "word": "箸", "reading": "はし", "meaning": { "en": "chopsticks", "vi": "đũa" } },
-      { "id": "v142", "word": "切手", "reading": "きって", "meaning": { "en": "postage stamp", "vi": "tem thư" } },
-      { "id": "v143", "word": "切符", "reading": "きっぷ", "meaning": { "en": "ticket", "vi": "vé" } },
-      { "id": "v144", "word": "雑誌", "reading": "ざっし", "meaning": { "en": "magazine", "vi": "tạp chí" } },
-      { "id": "v145", "word": "シャツ", "reading": "シャツ", "meaning": { "en": "shirt", "vi": "áo sơ mi" } },
-      { "id": "v146", "word": "スカート", "reading": "スカート", "meaning": { "en": "skirt", "vi": "váy" } },
-      { "id": "v147", "word": "上着", "reading": "うわぎ", "meaning": { "en": "jacket, coat", "vi": "áo khoác" } },
-      { "id": "v148", "word": "靴下", "reading": "くつした", "meaning": { "en": "socks", "vi": "tất" } },
-      { "id": "v149", "word": "ネクタイ", "reading": "ネクタイ", "meaning": { "en": "necktie", "vi": "cà vạt" } },
-      { "id": "v150", "word": "帽子", "reading": "ぼうし", "meaning": { "en": "hat, cap", "vi": "mũ" } },
-      { "id": "v151", "word": "眼鏡", "reading": "めがね", "meaning": { "en": "glasses", "vi": "kính mắt" } },
-      { "id": "v152", "word": "コップ", "reading": "コップ", "meaning": { "en": "cup, glass", "vi": "cái cốc" } },
-      { "id": "v153", "word": "コート", "reading": "コート", "meaning": { "en": "coat", "vi": "áo choàng" } },
-      { "id": "v154", "word": "セーター", "reading": "セーター", "meaning": { "en": "sweater", "vi": "áo len" } },
-      { "id": "v155", "word": "スーツ", "reading": "スーツ", "meaning": { "en": "suit", "vi": "bộ com-lê" } },
-      { "id": "v156", "word": "ズボン", "reading": "ズボン", "meaning": { "en": "trousers, pants", "vi": "quần dài" } },
-      { "id": "v157", "word": "テープ", "reading": "テープ", "meaning": { "en": "tape", "vi": "băng dính, băng" } },
-      { "id": "v158", "word": "テーブル", "reading": "テーブル", "meaning": { "en": "table", "vi": "cái bàn" } },
-      { "id": "v159", "word": "ノート", "reading": "ノート", "meaning": { "en": "notebook", "vi": "quyển vở" } },
-      { "id": "v160", "word": "ハンカチ", "reading": "ハンカチ", "meaning": { "en": "handkerchief", "vi": "khăn tay" } },
-      { "id": "v161", "word": "ポスト", "reading": "ポスト", "meaning": { "en": "mailbox", "vi": "hòm thư" } },
-      { "id": "v162", "word": "ボタン", "reading": "ボタン", "meaning": { "en": "button", "vi": "cái nút" } },
-      { "id": "v163", "word": "ポケット", "reading": "ポケット", "meaning": { "en": "pocket", "vi": "túi quần, túi áo" } },
-      { "id": "v164", "word": "マッチ", "reading": "マッチ", "meaning": { "en": "match", "vi": "diêm" } },
-      { "id": "v165", "word": "万年筆", "reading": "まんねんひつ", "meaning": { "en": "fountain pen", "vi": "bút máy" } },
-      { "id": "v166", "word": "レコード", "reading": "レコード", "meaning": { "en": "record", "vi": "đĩa nhạc" } },
-      { "id": "v167", "word": "ワイシャツ", "reading": "ワイシャツ", "meaning": { "en": "business shirt", "vi": "áo sơ mi trắng" } },
-      { "id": "v168", "word": "灰皿", "reading": "はいざら", "meaning": { "en": "ashtray", "vi": "gạt tàn" } },
-      { "id": "v169", "word": "花瓶", "reading": "かびん", "meaning": { "en": "vase", "vi": "lọ hoa" } },
-      { "id": "v170", "word": "封筒", "reading": "ふうとう", "meaning": { "en": "envelope", "vi": "phong bì" } },
-      { "id": "v171", "word": "石鹸", "reading": "せっけん", "meaning": { "en": "soap", "vi": "xà phòng" } },
-      { "id": "v172", "word": "背広", "reading": "せびろ", "meaning": { "en": "business suit", "vi": "bộ vest" } },
-      { "id": "v173", "word": "たばこ", "reading": "たばこ", "meaning": { "en": "cigarette, tobacco", "vi": "thuốc lá" } }
+      {
+        "id": "v114",
+        "word": "これ",
+        "reading": "これ",
+        "meaning": {
+          "en": "this",
+          "vi": "cái này"
+        }
+      },
+      {
+        "id": "v115",
+        "word": "それ",
+        "reading": "それ",
+        "meaning": {
+          "en": "that",
+          "vi": "cái đó"
+        }
+      },
+      {
+        "id": "v116",
+        "word": "あれ",
+        "reading": "あれ",
+        "meaning": {
+          "en": "that over there",
+          "vi": "cái kia"
+        }
+      },
+      {
+        "id": "v117",
+        "word": "本",
+        "reading": "ほん",
+        "meaning": {
+          "en": "book",
+          "vi": "sách"
+        }
+      },
+      {
+        "id": "v118",
+        "word": "辞書",
+        "reading": "じしょ",
+        "meaning": {
+          "en": "dictionary",
+          "vi": "từ điển"
+        }
+      },
+      {
+        "id": "v119",
+        "word": "映画",
+        "reading": "えいが",
+        "meaning": {
+          "en": "movie",
+          "vi": "phim"
+        }
+      },
+      {
+        "id": "v120",
+        "word": "仕事",
+        "reading": "しごと",
+        "meaning": {
+          "en": "work, job",
+          "vi": "công việc"
+        }
+      },
+      {
+        "id": "v121",
+        "word": "お金",
+        "reading": "おかね",
+        "meaning": {
+          "en": "money",
+          "vi": "tiền"
+        }
+      },
+      {
+        "id": "v122",
+        "word": "車",
+        "reading": "くるま",
+        "meaning": {
+          "en": "car",
+          "vi": "xe hơi"
+        }
+      },
+      {
+        "id": "v123",
+        "word": "日本語",
+        "reading": "にほんご",
+        "meaning": {
+          "en": "Japanese language",
+          "vi": "Tiếng Nhật"
+        }
+      },
+      {
+        "id": "v124",
+        "word": "テレビ",
+        "reading": "テレビ",
+        "meaning": {
+          "en": "TV",
+          "vi": "TV"
+        }
+      },
+      {
+        "id": "v125",
+        "word": "ラジオ",
+        "reading": "ラジオ",
+        "meaning": {
+          "en": "radio",
+          "vi": "đài radio"
+        }
+      },
+      {
+        "id": "v126",
+        "word": "カメラ",
+        "reading": "カメラ",
+        "meaning": {
+          "en": "camera",
+          "vi": "máy ảnh"
+        }
+      },
+      {
+        "id": "v127",
+        "word": "バス",
+        "reading": "バス",
+        "meaning": {
+          "en": "bus",
+          "vi": "xe buýt"
+        }
+      },
+      {
+        "id": "v128",
+        "word": "タクシー",
+        "reading": "タクシー",
+        "meaning": {
+          "en": "taxi",
+          "vi": "taxi"
+        }
+      },
+      {
+        "id": "v129",
+        "word": "スポーツ",
+        "reading": "スポーツ",
+        "meaning": {
+          "en": "sports",
+          "vi": "thể thao"
+        }
+      },
+      {
+        "id": "v130",
+        "word": "ペン",
+        "reading": "ペン",
+        "meaning": {
+          "en": "pen",
+          "vi": "bút"
+        }
+      },
+      {
+        "id": "v131",
+        "word": "机",
+        "reading": "つくえ",
+        "meaning": {
+          "en": "desk",
+          "vi": "bàn làm việc"
+        }
+      },
+      {
+        "id": "v132",
+        "word": "いす",
+        "reading": "いす",
+        "meaning": {
+          "en": "chair",
+          "vi": "ghế"
+        }
+      },
+      {
+        "id": "v133",
+        "word": "かばん",
+        "reading": "かばん",
+        "meaning": {
+          "en": "bag",
+          "vi": "cái cặp, túi xách"
+        }
+      },
+      {
+        "id": "v134",
+        "word": "手紙",
+        "reading": "てがみ",
+        "meaning": {
+          "en": "letter",
+          "vi": "thư"
+        }
+      },
+      {
+        "id": "v135",
+        "word": "電話",
+        "reading": "でんわ",
+        "meaning": {
+          "en": "telephone",
+          "vi": "điện thoại"
+        }
+      },
+      {
+        "id": "v136",
+        "word": "写真",
+        "reading": "しゃしん",
+        "meaning": {
+          "en": "photograph",
+          "vi": "ảnh"
+        }
+      },
+      {
+        "id": "v137",
+        "word": "新聞",
+        "reading": "しんぶん",
+        "meaning": {
+          "en": "newspaper",
+          "vi": "báo"
+        }
+      },
+      {
+        "id": "v138",
+        "word": "靴",
+        "reading": "くつ",
+        "meaning": {
+          "en": "shoes",
+          "vi": "giày"
+        }
+      },
+      {
+        "id": "v139",
+        "word": "箱",
+        "reading": "はこ",
+        "meaning": {
+          "en": "box",
+          "vi": "cái hộp"
+        }
+      },
+      {
+        "id": "v140",
+        "word": "橋",
+        "reading": "はし",
+        "meaning": {
+          "en": "bridge",
+          "vi": "cây cầu"
+        }
+      },
+      {
+        "id": "v141",
+        "word": "箸",
+        "reading": "はし",
+        "meaning": {
+          "en": "chopsticks",
+          "vi": "đũa"
+        }
+      },
+      {
+        "id": "v142",
+        "word": "切手",
+        "reading": "きって",
+        "meaning": {
+          "en": "postage stamp",
+          "vi": "tem thư"
+        }
+      },
+      {
+        "id": "v143",
+        "word": "切符",
+        "reading": "きっぷ",
+        "meaning": {
+          "en": "ticket",
+          "vi": "vé"
+        }
+      },
+      {
+        "id": "v144",
+        "word": "雑誌",
+        "reading": "ざっし",
+        "meaning": {
+          "en": "magazine",
+          "vi": "tạp chí"
+        }
+      },
+      {
+        "id": "v145",
+        "word": "シャツ",
+        "reading": "シャツ",
+        "meaning": {
+          "en": "shirt",
+          "vi": "áo sơ mi"
+        }
+      },
+      {
+        "id": "v146",
+        "word": "スカート",
+        "reading": "スカート",
+        "meaning": {
+          "en": "skirt",
+          "vi": "váy"
+        }
+      },
+      {
+        "id": "v147",
+        "word": "上着",
+        "reading": "うわぎ",
+        "meaning": {
+          "en": "jacket, coat",
+          "vi": "áo khoác"
+        }
+      },
+      {
+        "id": "v148",
+        "word": "靴下",
+        "reading": "くつした",
+        "meaning": {
+          "en": "socks",
+          "vi": "tất"
+        }
+      },
+      {
+        "id": "v149",
+        "word": "ネクタイ",
+        "reading": "ネクタイ",
+        "meaning": {
+          "en": "necktie",
+          "vi": "cà vạt"
+        }
+      },
+      {
+        "id": "v150",
+        "word": "帽子",
+        "reading": "ぼうし",
+        "meaning": {
+          "en": "hat, cap",
+          "vi": "mũ"
+        }
+      },
+      {
+        "id": "v151",
+        "word": "眼鏡",
+        "reading": "めがね",
+        "meaning": {
+          "en": "glasses",
+          "vi": "kính mắt"
+        }
+      },
+      {
+        "id": "v152",
+        "word": "コップ",
+        "reading": "コップ",
+        "meaning": {
+          "en": "cup, glass",
+          "vi": "cái cốc"
+        }
+      },
+      {
+        "id": "v153",
+        "word": "コート",
+        "reading": "コート",
+        "meaning": {
+          "en": "coat",
+          "vi": "áo choàng"
+        }
+      },
+      {
+        "id": "v154",
+        "word": "セーター",
+        "reading": "セーター",
+        "meaning": {
+          "en": "sweater",
+          "vi": "áo len"
+        }
+      },
+      {
+        "id": "v155",
+        "word": "スーツ",
+        "reading": "スーツ",
+        "meaning": {
+          "en": "suit",
+          "vi": "bộ com-lê"
+        }
+      },
+      {
+        "id": "v156",
+        "word": "ズボン",
+        "reading": "ズボン",
+        "meaning": {
+          "en": "trousers, pants",
+          "vi": "quần dài"
+        }
+      },
+      {
+        "id": "v157",
+        "word": "テープ",
+        "reading": "テープ",
+        "meaning": {
+          "en": "tape",
+          "vi": "băng dính, băng"
+        }
+      },
+      {
+        "id": "v158",
+        "word": "テーブル",
+        "reading": "テーブル",
+        "meaning": {
+          "en": "table",
+          "vi": "cái bàn"
+        }
+      },
+      {
+        "id": "v159",
+        "word": "ノート",
+        "reading": "ノート",
+        "meaning": {
+          "en": "notebook",
+          "vi": "quyển vở"
+        }
+      },
+      {
+        "id": "v160",
+        "word": "ハンカチ",
+        "reading": "ハンカチ",
+        "meaning": {
+          "en": "handkerchief",
+          "vi": "khăn tay"
+        }
+      },
+      {
+        "id": "v161",
+        "word": "ポスト",
+        "reading": "ポスト",
+        "meaning": {
+          "en": "mailbox",
+          "vi": "hòm thư"
+        }
+      },
+      {
+        "id": "v162",
+        "word": "ボタン",
+        "reading": "ボタン",
+        "meaning": {
+          "en": "button",
+          "vi": "cái nút"
+        }
+      },
+      {
+        "id": "v163",
+        "word": "ポケット",
+        "reading": "ポケット",
+        "meaning": {
+          "en": "pocket",
+          "vi": "túi quần, túi áo"
+        }
+      },
+      {
+        "id": "v164",
+        "word": "マッチ",
+        "reading": "マッチ",
+        "meaning": {
+          "en": "match",
+          "vi": "diêm"
+        }
+      },
+      {
+        "id": "v165",
+        "word": "万年筆",
+        "reading": "まんねんひつ",
+        "meaning": {
+          "en": "fountain pen",
+          "vi": "bút máy"
+        }
+      },
+      {
+        "id": "v166",
+        "word": "レコード",
+        "reading": "レコード",
+        "meaning": {
+          "en": "record",
+          "vi": "đĩa nhạc"
+        }
+      },
+      {
+        "id": "v167",
+        "word": "ワイシャツ",
+        "reading": "ワイシャツ",
+        "meaning": {
+          "en": "business shirt",
+          "vi": "áo sơ mi trắng"
+        }
+      },
+      {
+        "id": "v168",
+        "word": "灰皿",
+        "reading": "はいざら",
+        "meaning": {
+          "en": "ashtray",
+          "vi": "gạt tàn"
+        }
+      },
+      {
+        "id": "v169",
+        "word": "花瓶",
+        "reading": "かびん",
+        "meaning": {
+          "en": "vase",
+          "vi": "lọ hoa"
+        }
+      },
+      {
+        "id": "v170",
+        "word": "封筒",
+        "reading": "ふうとう",
+        "meaning": {
+          "en": "envelope",
+          "vi": "phong bì"
+        }
+      },
+      {
+        "id": "v171",
+        "word": "石鹸",
+        "reading": "せっけん",
+        "meaning": {
+          "en": "soap",
+          "vi": "xà phòng"
+        }
+      },
+      {
+        "id": "v172",
+        "word": "背広",
+        "reading": "せびろ",
+        "meaning": {
+          "en": "business suit",
+          "vi": "bộ vest"
+        }
+      },
+      {
+        "id": "v173",
+        "word": "たばこ",
+        "reading": "たばこ",
+        "meaning": {
+          "en": "cigarette, tobacco",
+          "vi": "thuốc lá"
+        }
+      }
     ]
   },
   "time_weather": {
     "en": "Time & Weather 🕰️☀️",
     "vi": "Thời gian & Thời tiết 🕰️☀️",
     "items": [
-      { "id": "v174", "word": "天気", "reading": "てんき", "meaning": { "en": "weather", "vi": "thời tiết" } },
-      { "id": "v175", "word": "晴れ", "reading": "はれ", "meaning": { "en": "sunny weather", "vi": "trời nắng" } },
-      { "id": "v176", "word": "曇り", "reading": "くもり", "meaning": { "en": "cloudy weather", "vi": "trời mây" } },
-      { "id": "v177", "word": "雨", "reading": "あめ", "meaning": { "en": "rain", "vi": "mưa" } },
-      { "id": "v178", "word": "雪", "reading": "ゆき", "meaning": { "en": "snow", "vi": "tuyết" } },
-      { "id": "v179", "word": "時間", "reading": "じかん", "meaning": { "en": "time, hour", "vi": "thời gian, tiếng" } },
-      { "id": "v180", "word": "今日", "reading": "きょう", "meaning": { "en": "today", "vi": "hôm nay" } },
-      { "id": "v181", "word": "昨日", "reading": "きのう", "meaning": { "en": "yesterday", "vi": "hôm qua" } },
-      { "id": "v182", "word": "明日", "reading": "あした", "meaning": { "en": "tomorrow", "vi": "ngày mai" } },
-      { "id": "v183", "word": "朝", "reading": "あさ", "meaning": { "en": "morning", "vi": "buổi sáng" } },
-      { "id": "v184", "word": "昼", "reading": "ひる", "meaning": { "en": "noon, daytime", "vi": "buổi trưa" } },
-      { "id": "v185", "word": "晩", "reading": "ばん", "meaning": { "en": "evening", "vi": "buổi tối" } },
-      { "id": "v186", "word": "夜", "reading": "よる", "meaning": { "en": "night", "vi": "ban đêm" } },
-      { "id": "v187", "word": "今朝", "reading": "けさ", "meaning": { "en": "this morning", "vi": "sáng nay" } },
-      { "id": "v188", "word": "今晩", "reading": "こんばん", "meaning": { "en": "this evening", "vi": "tối nay" } },
-      { "id": "v189", "word": "毎日", "reading": "まいにち", "meaning": { "en": "every day", "vi": "hàng ngày" } },
-      { "id": "v190", "word": "毎朝", "reading": "まいあさ", "meaning": { "en": "every morning", "vi": "hàng sáng" } },
-      { "id": "v191", "word": "毎晩", "reading": "まいばん", "meaning": { "en": "every night", "vi": "hàng tối" } },
-      { "id": "v192", "word": "春", "reading": "はる", "meaning": { "en": "spring", "vi": "mùa xuân" } },
-      { "id": "v193", "word": "夏", "reading": "なつ", "meaning": { "en": "summer", "vi": "mùa hè" } },
-      { "id": "v194", "word": "秋", "reading": "あき", "meaning": { "en": "autumn, fall", "vi": "mùa thu" } },
-      { "id": "v195", "word": "冬", "reading": "ふゆ", "meaning": { "en": "winter", "vi": "mùa đông" } },
-      { "id": "v196", "word": "夏休み", "reading": "なつやすみ", "meaning": { "en": "summer vacation", "vi": "nghỉ hè" } },
-      { "id": "v197", "word": "夕方", "reading": "ゆうがた", "meaning": { "en": "evening", "vi": "chiều tối" } },
-      { "id": "v198", "word": "昨夜", "reading": "ゆうべ", "meaning": { "en": "last night", "vi": "tối qua" } }
+      {
+        "id": "v174",
+        "word": "天気",
+        "reading": "てんき",
+        "meaning": {
+          "en": "weather",
+          "vi": "thời tiết"
+        }
+      },
+      {
+        "id": "v175",
+        "word": "晴れ",
+        "reading": "はれ",
+        "meaning": {
+          "en": "sunny weather",
+          "vi": "trời nắng"
+        }
+      },
+      {
+        "id": "v176",
+        "word": "曇り",
+        "reading": "くもり",
+        "meaning": {
+          "en": "cloudy weather",
+          "vi": "trời mây"
+        }
+      },
+      {
+        "id": "v177",
+        "word": "雨",
+        "reading": "あめ",
+        "meaning": {
+          "en": "rain",
+          "vi": "mưa"
+        }
+      },
+      {
+        "id": "v178",
+        "word": "雪",
+        "reading": "ゆき",
+        "meaning": {
+          "en": "snow",
+          "vi": "tuyết"
+        }
+      },
+      {
+        "id": "v179",
+        "word": "時間",
+        "reading": "じかん",
+        "meaning": {
+          "en": "time, hour",
+          "vi": "thời gian, tiếng"
+        }
+      },
+      {
+        "id": "v180",
+        "word": "今日",
+        "reading": "きょう",
+        "meaning": {
+          "en": "today",
+          "vi": "hôm nay"
+        }
+      },
+      {
+        "id": "v181",
+        "word": "昨日",
+        "reading": "きのう",
+        "meaning": {
+          "en": "yesterday",
+          "vi": "hôm qua"
+        }
+      },
+      {
+        "id": "v182",
+        "word": "明日",
+        "reading": "あした",
+        "meaning": {
+          "en": "tomorrow",
+          "vi": "ngày mai"
+        }
+      },
+      {
+        "id": "v183",
+        "word": "朝",
+        "reading": "あさ",
+        "meaning": {
+          "en": "morning",
+          "vi": "buổi sáng"
+        }
+      },
+      {
+        "id": "v184",
+        "word": "昼",
+        "reading": "ひる",
+        "meaning": {
+          "en": "noon, daytime",
+          "vi": "buổi trưa"
+        }
+      },
+      {
+        "id": "v185",
+        "word": "晩",
+        "reading": "ばん",
+        "meaning": {
+          "en": "evening",
+          "vi": "buổi tối"
+        }
+      },
+      {
+        "id": "v186",
+        "word": "夜",
+        "reading": "よる",
+        "meaning": {
+          "en": "night",
+          "vi": "ban đêm"
+        }
+      },
+      {
+        "id": "v187",
+        "word": "今朝",
+        "reading": "けさ",
+        "meaning": {
+          "en": "this morning",
+          "vi": "sáng nay"
+        }
+      },
+      {
+        "id": "v188",
+        "word": "今晩",
+        "reading": "こんばん",
+        "meaning": {
+          "en": "this evening",
+          "vi": "tối nay"
+        }
+      },
+      {
+        "id": "v189",
+        "word": "毎日",
+        "reading": "まいにち",
+        "meaning": {
+          "en": "every day",
+          "vi": "hàng ngày"
+        }
+      },
+      {
+        "id": "v190",
+        "word": "毎朝",
+        "reading": "まいあさ",
+        "meaning": {
+          "en": "every morning",
+          "vi": "hàng sáng"
+        }
+      },
+      {
+        "id": "v191",
+        "word": "毎晩",
+        "reading": "まいばん",
+        "meaning": {
+          "en": "every night",
+          "vi": "hàng tối"
+        }
+      },
+      {
+        "id": "v192",
+        "word": "春",
+        "reading": "はる",
+        "meaning": {
+          "en": "spring",
+          "vi": "mùa xuân"
+        }
+      },
+      {
+        "id": "v193",
+        "word": "夏",
+        "reading": "なつ",
+        "meaning": {
+          "en": "summer",
+          "vi": "mùa hè"
+        }
+      },
+      {
+        "id": "v194",
+        "word": "秋",
+        "reading": "あき",
+        "meaning": {
+          "en": "autumn, fall",
+          "vi": "mùa thu"
+        }
+      },
+      {
+        "id": "v195",
+        "word": "冬",
+        "reading": "ふゆ",
+        "meaning": {
+          "en": "winter",
+          "vi": "mùa đông"
+        }
+      },
+      {
+        "id": "v196",
+        "word": "夏休み",
+        "reading": "なつやすみ",
+        "meaning": {
+          "en": "summer vacation",
+          "vi": "nghỉ hè"
+        }
+      },
+      {
+        "id": "v197",
+        "word": "夕方",
+        "reading": "ゆうがた",
+        "meaning": {
+          "en": "evening",
+          "vi": "chiều tối"
+        }
+      },
+      {
+        "id": "v198",
+        "word": "昨夜",
+        "reading": "ゆうべ",
+        "meaning": {
+          "en": "last night",
+          "vi": "tối qua"
+        }
+      }
     ]
   },
   "common_verbs": {
     "en": "Common Verbs (動詞) 🏃‍♂️",
     "vi": "Động từ thông dụng (動詞) 🏃‍♂️",
     "items": [
-      { "id": "v199", "word": "いる", "reading": "いる", "meaning": { "en": "to be, exist (animate)", "vi": "có, ở (sinh vật)" } },
-      { "id": "v200", "word": "ある", "reading": "ある", "meaning": { "en": "to be, exist (inanimate)", "vi": "có, ở (đồ vật)" } },
-      { "id": "v201", "word": "行く", "reading": "いく", "meaning": { "en": "to go", "vi": "đi" } },
-      { "id": "v202", "word": "来る", "reading": "くる", "meaning": { "en": "to come", "vi": "đến" } },
-      { "id": "v203", "word": "帰る", "reading": "かえる", "meaning": { "en": "to return, to go home", "vi": "trở về" } },
-      { "id": "v204", "word": "食べる", "reading": "たべる", "meaning": { "en": "to eat", "vi": "ăn" } },
-      { "id": "v205", "word": "飲む", "reading": "のむ", "meaning": { "en": "to drink", "vi": "uống" } },
-      { "id": "v206", "word": "見る", "reading": "みる", "meaning": { "en": "to see, to watch", "vi": "nhìn, xem" } },
-      { "id": "v207", "word": "聞く", "reading": "きく", "meaning": { "en": "to listen, to hear, to ask", "vi": "nghe, hỏi" } },
-      { "id": "v208", "word": "読む", "reading": "よむ", "meaning": { "en": "to read", "vi": "đọc" } },
-      { "id": "v209", "word": "書く", "reading": "かく", "meaning": { "en": "to write", "vi": "viết" } },
-      { "id": "v210", "word": "買う", "reading": "かう", "meaning": { "en": "to buy", "vi": "mua" } },
-      { "id": "v211", "word": "勉強する", "reading": "べんきょうする", "meaning": { "en": "to study", "vi": "học" } },
-      { "id": "v212", "word": "起きる", "reading": "おきる", "meaning": { "en": "to get up", "vi": "thức dậy" } },
-      { "id": "v213", "word": "寝る", "reading": "ねる", "meaning": { "en": "to sleep", "vi": "ngủ" } },
-      { "id": "v214", "word": "働く", "reading": "はたらく", "meaning": { "en": "to work", "vi": "làm việc" } },
-      { "id": "v215", "word": "会う", "reading": "あう", "meaning": { "en": "to meet", "vi": "gặp" } },
-      { "id": "v216", "word": "分かる", "reading": "わかる", "meaning": { "en": "to understand", "vi": "hiểu" } },
-      { "id": "v217", "word": "待つ", "reading": "まつ", "meaning": { "en": "to wait", "vi": "đợi" } },
-      { "id": "v218", "word": "休む", "reading": "やすむ", "meaning": { "en": "to rest, to take a day off", "vi": "nghỉ ngơi" } },
-      { "id": "v219", "word": "遊ぶ", "reading": "あそぶ", "meaning": { "en": "to play", "vi": "chơi" } },
-      { "id": "v220", "word": "作る", "reading": "つくる", "meaning": { "en": "to make", "vi": "làm, chế tạo" } },
-      { "id": "v221", "word": "使う", "reading": "つかう", "meaning": { "en": "to use", "vi": "dùng, sử dụng" } },
-      { "id": "v222", "word": "入る", "reading": "はいる", "meaning": { "en": "to enter", "vi": "vào" } },
-      { "id": "v223", "word": "出る", "reading": "でる", "meaning": { "en": "to exit, to leave", "vi": "ra, rời khỏi" } },
-      { "id": "v224", "word": "話す", "reading": "はなす", "meaning": { "en": "to speak", "vi": "nói chuyện" } },
-      { "id": "v225", "word": "教える", "reading": "おしえる", "meaning": { "en": "to teach, to tell", "vi": "dạy, chỉ bảo" } },
-      { "id": "v226", "word": "習う", "reading": "ならう", "meaning": { "en": "to learn", "vi": "học (từ ai đó)" } },
-      { "id": "v227", "word": "死ぬ", "reading": "しぬ", "meaning": { "en": "to die", "vi": "chết" } },
-      { "id": "v228", "word": "開く", "reading": "あく", "meaning": { "en": "to open (vi.)", "vi": "mở (tự động)" } },
-      { "id": "v229", "word": "開ける", "reading": "あける", "meaning": { "en": "to open (vt.)", "vi": "mở (chủ động)" } },
-      { "id": "v230", "word": "上げる", "reading": "あげる", "meaning": { "en": "to give, to raise", "vi": "cho, nâng lên" } },
-      { "id": "v231", "word": "浴びる", "reading": "あびる", "meaning": { "en": "to take a shower", "vi": "tắm" } },
-      { "id": "v232", "word": "洗う", "reading": "あらう", "meaning": { "en": "to wash", "vi": "rửa, giặt" } },
-      { "id": "v233", "word": "歩く", "reading": "あるく", "meaning": { "en": "to walk", "vi": "đi bộ" } },
-      { "id": "v234", "word": "入れる", "reading": "いれる", "meaning": { "en": "to put in", "vi": "cho vào" } },
-      { "id": "v235", "word": "生まれる", "reading": "うまれる", "meaning": { "en": "to be born", "vi": "sinh ra" } },
-      { "id": "v236", "word": "売る", "reading": "うる", "meaning": { "en": "to sell", "vi": "bán" } },
-      { "id": "v237", "word": "置く", "reading": "おく", "meaning": { "en": "to put, to place", "vi": "đặt, để" } },
-      { "id": "v238", "word": "押す", "reading": "おす", "meaning": { "en": "to push, to press", "vi": "đẩy, ấn" } },
-      { "id": "v239", "word": "覚える", "reading": "おぼえる", "meaning": { "en": "to remember, to memorize", "vi": "nhớ, học thuộc" } },
-      { "id": "v240", "word": "泳ぐ", "reading": "およぐ", "meaning": { "en": "to swim", "vi": "bơi" } },
-      { "id": "v241", "word": "降りる", "reading": "おりる", "meaning": { "en": "to get off", "vi": "xuống (xe)" } },
-      { "id": "v242", "word": "終わる", "reading": "おわる", "meaning": { "en": "to finish, to end", "vi": "kết thúc" } },
-      { "id": "v243", "word": "返す", "reading": "かえす", "meaning": { "en": "to return (an object)", "vi": "trả lại" } },
-      { "id": "v244", "word": "かかる", "reading": "かかる", "meaning": { "en": "to take (time, money)", "vi": "mất (thời gian, tiền)" } },
-      { "id": "v245", "word": "貸す", "reading": "かす", "meaning": { "en": "to lend", "vi": "cho mượn" } },
-      { "id": "v246", "word": "借りる", "reading": "かりる", "meaning": { "en": "to borrow", "vi": "mượn" } },
-      { "id": "v247", "word": "消える", "reading": "きえる", "meaning": { "en": "to disappear, to go out", "vi": "biến mất, tắt" } },
-      { "id": "v248", "word": "消す", "reading": "けす", "meaning": { "en": "to turn off, to erase", "vi": "tắt, xóa" } },
-      { "id": "v249", "word": "答える", "reading": "こたえる", "meaning": { "en": "to answer", "vi": "trả lời" } },
-      { "id": "v250", "word": "閉まる", "reading": "しまる", "meaning": { "en": "to close (vi.)", "vi": "đóng (tự động)" } },
-      { "id": "v251", "word": "閉める", "reading": "しめる", "meaning": { "en": "to close (vt.)", "vi": "đóng (chủ động)" } },
-      { "id": "v252", "word": "締める", "reading": "しめる", "meaning": { "en": "to fasten, to tie", "vi": "thắt, buộc" } },
-      { "id": "v253", "word": "知る", "reading": "しる", "meaning": { "en": "to know", "vi": "biết" } },
-      { "id": "v254", "word": "吸う", "reading": "すう", "meaning": { "en": "to smoke, to inhale", "vi": "hút" } },
-      { "id": "v255", "word": "住む", "reading": "すむ", "meaning": { "en": "to live in", "vi": "sống, cư trú" } },
-      { "id": "v256", "word": "座る", "reading": "すわる", "meaning": { "en": "to sit", "vi": "ngồi" } },
-      { "id": "v257", "word": "立つ", "reading": "たつ", "meaning": { "en": "to stand", "vi": "đứng" } },
-      { "id": "v258", "word": "頼む", "reading": "たのむ", "meaning": { "en": "to ask, to request", "vi": "nhờ vả" } },
-      { "id": "v259", "word": "疲れる", "reading": "つかれる", "meaning": { "en": "to get tired", "vi": "mệt mỏi" } },
-      { "id": "v260", "word": "着く", "reading": "つく", "meaning": { "en": "to arrive", "vi": "đến" } },
-      { "id": "v261", "word": "つける", "reading": "つける", "meaning": { "en": "to turn on", "vi": "bật" } },
-      { "id": "v262", "word": "勤める", "reading": "つとめる", "meaning": { "en": "to work for", "vi": "làm việc cho" } },
-      { "id": "v263", "word": "出かける", "reading": "でかける", "meaning": { "en": "to go out", "vi": "ra ngoài" } },
-      { "id": "v264", "word": "できる", "reading": "できる", "meaning": { "en": "to be able to, can do", "vi": "có thể" } },
-      { "id": "v265", "word": "飛ぶ", "reading": "とぶ", "meaning": { "en": "to fly", "vi": "bay" } },
-      { "id": "v266", "word": "止まる", "reading": "とまる", "meaning": { "en": "to stop (vi.)", "vi": "dừng lại" } },
-      { "id": "v267", "word": "取る", "reading": "とる", "meaning": { "en": "to take", "vi": "lấy" } },
-      { "id": "v268", "word": "撮る", "reading": "とる", "meaning": { "en": "to take (a photo)", "vi": "chụp (ảnh)" } },
-      { "id": "v269", "word": "登る", "reading": "のぼる", "meaning": { "en": "to climb", "vi": "leo" } },
-      { "id": "v270", "word": "乗る", "reading": "のる", "meaning": { "en": "to ride, to get on", "vi": "lên xe" } },
-      { "id": "v271", "word": "はく", "reading": "はく", "meaning": { "en": "to wear (on lower body)", "vi": "mặc, đi (phần dưới)" } },
-      { "id": "v272", "word": "始まる", "reading": "はじまる", "meaning": { "en": "to begin, to start (vi.)", "vi": "bắt đầu" } },
-      { "id": "v273", "word": "走る", "reading": "はしる", "meaning": { "en": "to run", "vi": "chạy" } },
-      { "id": "v274", "word": "貼る", "reading": "はる", "meaning": { "en": "to paste, to stick", "vi": "dán" } },
-      { "id": "v275", "word": "晴れる", "reading": "はれる", "meaning": { "en": "to become sunny", "vi": "trời nắng" } },
-      { "id": "v276", "word": "引く", "reading": "ひく", "meaning": { "en": "to pull", "vi": "kéo" } },
-      { "id": "v277", "word": "弾く", "reading": "ひく", "meaning": { "en": "to play (a string instrument)", "vi": "chơi (nhạc cụ có dây)" } },
-      { "id": "v278", "word": "吹く", "reading": "ふく", "meaning": { "en": "to blow", "vi": "thổi" } },
-      { "id": "v279", "word": "降る", "reading": "ふる", "meaning": { "en": "to fall (rain, snow)", "vi": "rơi (mưa, tuyết)" } },
-      { "id": "v280", "word": "曲る", "reading": "まがる", "meaning": { "en": "to turn, to bend", "vi": "rẽ, uốn cong" } },
-      { "id": "v281", "word": "磨く", "reading": "みがく", "meaning": { "en": "to polish, to brush", "vi": "đánh bóng, chải" } },
-      { "id": "v282", "word": "持つ", "reading": "もつ", "meaning": { "en": "to hold, to have", "vi": "cầm, có" } },
-      { "id": "v283", "word": "やる", "reading": "やる", "meaning": { "en": "to do, to give (to inferiors)", "vi": "làm, cho" } },
-      { "id": "v284", "word": "呼ぶ", "reading": "よぶ", "meaning": { "en": "to call", "vi": "gọi" } },
-      { "id": "v285", "word": "渡す", "reading": "わたす", "meaning": { "en": "to hand over", "vi": "trao, đưa" } },
-      { "id": "v286", "word": "渡る", "reading": "わたる", "meaning": { "en": "to cross", "vi": "băng qua" } },
-      { "id": "v287", "word": "忘れる", "reading": "わすれる", "meaning": { "en": "to forget", "vi": "quên" } },
-      { "id": "v288", "word": "練習する", "reading": "れんしゅうする", "meaning": { "en": "to practice", "vi": "luyện tập" } }
+      {
+        "id": "v199",
+        "word": "いる",
+        "reading": "いる",
+        "meaning": {
+          "en": "to be, exist (animate)",
+          "vi": "có, ở (sinh vật)"
+        }
+      },
+      {
+        "id": "v200",
+        "word": "ある",
+        "reading": "ある",
+        "meaning": {
+          "en": "to be, exist (inanimate)",
+          "vi": "có, ở (đồ vật)"
+        }
+      },
+      {
+        "id": "v201",
+        "word": "行く",
+        "reading": "いく",
+        "meaning": {
+          "en": "to go",
+          "vi": "đi"
+        }
+      },
+      {
+        "id": "v202",
+        "word": "来る",
+        "reading": "くる",
+        "meaning": {
+          "en": "to come",
+          "vi": "đến"
+        }
+      },
+      {
+        "id": "v203",
+        "word": "帰る",
+        "reading": "かえる",
+        "meaning": {
+          "en": "to return, to go home",
+          "vi": "trở về"
+        }
+      },
+      {
+        "id": "v204",
+        "word": "食べる",
+        "reading": "たべる",
+        "meaning": {
+          "en": "to eat",
+          "vi": "ăn"
+        }
+      },
+      {
+        "id": "v205",
+        "word": "飲む",
+        "reading": "のむ",
+        "meaning": {
+          "en": "to drink",
+          "vi": "uống"
+        }
+      },
+      {
+        "id": "v206",
+        "word": "見る",
+        "reading": "みる",
+        "meaning": {
+          "en": "to see, to watch",
+          "vi": "nhìn, xem"
+        }
+      },
+      {
+        "id": "v207",
+        "word": "聞く",
+        "reading": "きく",
+        "meaning": {
+          "en": "to listen, to hear, to ask",
+          "vi": "nghe, hỏi"
+        }
+      },
+      {
+        "id": "v208",
+        "word": "読む",
+        "reading": "よむ",
+        "meaning": {
+          "en": "to read",
+          "vi": "đọc"
+        }
+      },
+      {
+        "id": "v209",
+        "word": "書く",
+        "reading": "かく",
+        "meaning": {
+          "en": "to write",
+          "vi": "viết"
+        }
+      },
+      {
+        "id": "v210",
+        "word": "買う",
+        "reading": "かう",
+        "meaning": {
+          "en": "to buy",
+          "vi": "mua"
+        }
+      },
+      {
+        "id": "v211",
+        "word": "勉強する",
+        "reading": "べんきょうする",
+        "meaning": {
+          "en": "to study",
+          "vi": "học"
+        }
+      },
+      {
+        "id": "v212",
+        "word": "起きる",
+        "reading": "おきる",
+        "meaning": {
+          "en": "to get up",
+          "vi": "thức dậy"
+        }
+      },
+      {
+        "id": "v213",
+        "word": "寝る",
+        "reading": "ねる",
+        "meaning": {
+          "en": "to sleep",
+          "vi": "ngủ"
+        }
+      },
+      {
+        "id": "v214",
+        "word": "働く",
+        "reading": "はたらく",
+        "meaning": {
+          "en": "to work",
+          "vi": "làm việc"
+        }
+      },
+      {
+        "id": "v215",
+        "word": "会う",
+        "reading": "あう",
+        "meaning": {
+          "en": "to meet",
+          "vi": "gặp"
+        }
+      },
+      {
+        "id": "v216",
+        "word": "分かる",
+        "reading": "わかる",
+        "meaning": {
+          "en": "to understand",
+          "vi": "hiểu"
+        }
+      },
+      {
+        "id": "v217",
+        "word": "待つ",
+        "reading": "まつ",
+        "meaning": {
+          "en": "to wait",
+          "vi": "đợi"
+        }
+      },
+      {
+        "id": "v218",
+        "word": "休む",
+        "reading": "やすむ",
+        "meaning": {
+          "en": "to rest, to take a day off",
+          "vi": "nghỉ ngơi"
+        }
+      },
+      {
+        "id": "v219",
+        "word": "遊ぶ",
+        "reading": "あそぶ",
+        "meaning": {
+          "en": "to play",
+          "vi": "chơi"
+        }
+      },
+      {
+        "id": "v220",
+        "word": "作る",
+        "reading": "つくる",
+        "meaning": {
+          "en": "to make",
+          "vi": "làm, chế tạo"
+        }
+      },
+      {
+        "id": "v221",
+        "word": "使う",
+        "reading": "つかう",
+        "meaning": {
+          "en": "to use",
+          "vi": "dùng, sử dụng"
+        }
+      },
+      {
+        "id": "v222",
+        "word": "入る",
+        "reading": "はいる",
+        "meaning": {
+          "en": "to enter",
+          "vi": "vào"
+        }
+      },
+      {
+        "id": "v223",
+        "word": "出る",
+        "reading": "でる",
+        "meaning": {
+          "en": "to exit, to leave",
+          "vi": "ra, rời khỏi"
+        }
+      },
+      {
+        "id": "v224",
+        "word": "話す",
+        "reading": "はなす",
+        "meaning": {
+          "en": "to speak",
+          "vi": "nói chuyện"
+        }
+      },
+      {
+        "id": "v225",
+        "word": "教える",
+        "reading": "おしえる",
+        "meaning": {
+          "en": "to teach, to tell",
+          "vi": "dạy, chỉ bảo"
+        }
+      },
+      {
+        "id": "v226",
+        "word": "習う",
+        "reading": "ならう",
+        "meaning": {
+          "en": "to learn",
+          "vi": "học (từ ai đó)"
+        }
+      },
+      {
+        "id": "v227",
+        "word": "死ぬ",
+        "reading": "しぬ",
+        "meaning": {
+          "en": "to die",
+          "vi": "chết"
+        }
+      },
+      {
+        "id": "v228",
+        "word": "開く",
+        "reading": "あく",
+        "meaning": {
+          "en": "to open (vi.)",
+          "vi": "mở (tự động)"
+        }
+      },
+      {
+        "id": "v229",
+        "word": "開ける",
+        "reading": "あける",
+        "meaning": {
+          "en": "to open (vt.)",
+          "vi": "mở (chủ động)"
+        }
+      },
+      {
+        "id": "v230",
+        "word": "上げる",
+        "reading": "あげる",
+        "meaning": {
+          "en": "to give, to raise",
+          "vi": "cho, nâng lên"
+        }
+      },
+      {
+        "id": "v231",
+        "word": "浴びる",
+        "reading": "あびる",
+        "meaning": {
+          "en": "to take a shower",
+          "vi": "tắm"
+        }
+      },
+      {
+        "id": "v232",
+        "word": "洗う",
+        "reading": "あらう",
+        "meaning": {
+          "en": "to wash",
+          "vi": "rửa, giặt"
+        }
+      },
+      {
+        "id": "v233",
+        "word": "歩く",
+        "reading": "あるく",
+        "meaning": {
+          "en": "to walk",
+          "vi": "đi bộ"
+        }
+      },
+      {
+        "id": "v234",
+        "word": "入れる",
+        "reading": "いれる",
+        "meaning": {
+          "en": "to put in",
+          "vi": "cho vào"
+        }
+      },
+      {
+        "id": "v235",
+        "word": "生まれる",
+        "reading": "うまれる",
+        "meaning": {
+          "en": "to be born",
+          "vi": "sinh ra"
+        }
+      },
+      {
+        "id": "v236",
+        "word": "売る",
+        "reading": "うる",
+        "meaning": {
+          "en": "to sell",
+          "vi": "bán"
+        }
+      },
+      {
+        "id": "v237",
+        "word": "置く",
+        "reading": "おく",
+        "meaning": {
+          "en": "to put, to place",
+          "vi": "đặt, để"
+        }
+      },
+      {
+        "id": "v238",
+        "word": "押す",
+        "reading": "おす",
+        "meaning": {
+          "en": "to push, to press",
+          "vi": "đẩy, ấn"
+        }
+      },
+      {
+        "id": "v239",
+        "word": "覚える",
+        "reading": "おぼえる",
+        "meaning": {
+          "en": "to remember, to memorize",
+          "vi": "nhớ, học thuộc"
+        }
+      },
+      {
+        "id": "v240",
+        "word": "泳ぐ",
+        "reading": "およぐ",
+        "meaning": {
+          "en": "to swim",
+          "vi": "bơi"
+        }
+      },
+      {
+        "id": "v241",
+        "word": "降りる",
+        "reading": "おりる",
+        "meaning": {
+          "en": "to get off",
+          "vi": "xuống (xe)"
+        }
+      },
+      {
+        "id": "v242",
+        "word": "終わる",
+        "reading": "おわる",
+        "meaning": {
+          "en": "to finish, to end",
+          "vi": "kết thúc"
+        }
+      },
+      {
+        "id": "v243",
+        "word": "返す",
+        "reading": "かえす",
+        "meaning": {
+          "en": "to return (an object)",
+          "vi": "trả lại"
+        }
+      },
+      {
+        "id": "v244",
+        "word": "かかる",
+        "reading": "かかる",
+        "meaning": {
+          "en": "to take (time, money)",
+          "vi": "mất (thời gian, tiền)"
+        }
+      },
+      {
+        "id": "v245",
+        "word": "貸す",
+        "reading": "かす",
+        "meaning": {
+          "en": "to lend",
+          "vi": "cho mượn"
+        }
+      },
+      {
+        "id": "v246",
+        "word": "借りる",
+        "reading": "かりる",
+        "meaning": {
+          "en": "to borrow",
+          "vi": "mượn"
+        }
+      },
+      {
+        "id": "v247",
+        "word": "消える",
+        "reading": "きえる",
+        "meaning": {
+          "en": "to disappear, to go out",
+          "vi": "biến mất, tắt"
+        }
+      },
+      {
+        "id": "v248",
+        "word": "消す",
+        "reading": "けす",
+        "meaning": {
+          "en": "to turn off, to erase",
+          "vi": "tắt, xóa"
+        }
+      },
+      {
+        "id": "v249",
+        "word": "答える",
+        "reading": "こたえる",
+        "meaning": {
+          "en": "to answer",
+          "vi": "trả lời"
+        }
+      },
+      {
+        "id": "v250",
+        "word": "閉まる",
+        "reading": "しまる",
+        "meaning": {
+          "en": "to close (vi.)",
+          "vi": "đóng (tự động)"
+        }
+      },
+      {
+        "id": "v251",
+        "word": "閉める",
+        "reading": "しめる",
+        "meaning": {
+          "en": "to close (vt.)",
+          "vi": "đóng (chủ động)"
+        }
+      },
+      {
+        "id": "v252",
+        "word": "締める",
+        "reading": "しめる",
+        "meaning": {
+          "en": "to fasten, to tie",
+          "vi": "thắt, buộc"
+        }
+      },
+      {
+        "id": "v253",
+        "word": "知る",
+        "reading": "しる",
+        "meaning": {
+          "en": "to know",
+          "vi": "biết"
+        }
+      },
+      {
+        "id": "v254",
+        "word": "吸う",
+        "reading": "すう",
+        "meaning": {
+          "en": "to smoke, to inhale",
+          "vi": "hút"
+        }
+      },
+      {
+        "id": "v255",
+        "word": "住む",
+        "reading": "すむ",
+        "meaning": {
+          "en": "to live in",
+          "vi": "sống, cư trú"
+        }
+      },
+      {
+        "id": "v256",
+        "word": "座る",
+        "reading": "すわる",
+        "meaning": {
+          "en": "to sit",
+          "vi": "ngồi"
+        }
+      },
+      {
+        "id": "v257",
+        "word": "立つ",
+        "reading": "たつ",
+        "meaning": {
+          "en": "to stand",
+          "vi": "đứng"
+        }
+      },
+      {
+        "id": "v258",
+        "word": "頼む",
+        "reading": "たのむ",
+        "meaning": {
+          "en": "to ask, to request",
+          "vi": "nhờ vả"
+        }
+      },
+      {
+        "id": "v259",
+        "word": "疲れる",
+        "reading": "つかれる",
+        "meaning": {
+          "en": "to get tired",
+          "vi": "mệt mỏi"
+        }
+      },
+      {
+        "id": "v260",
+        "word": "着く",
+        "reading": "つく",
+        "meaning": {
+          "en": "to arrive",
+          "vi": "đến"
+        }
+      },
+      {
+        "id": "v261",
+        "word": "つける",
+        "reading": "つける",
+        "meaning": {
+          "en": "to turn on",
+          "vi": "bật"
+        }
+      },
+      {
+        "id": "v262",
+        "word": "勤める",
+        "reading": "つとめる",
+        "meaning": {
+          "en": "to work for",
+          "vi": "làm việc cho"
+        }
+      },
+      {
+        "id": "v263",
+        "word": "出かける",
+        "reading": "でかける",
+        "meaning": {
+          "en": "to go out",
+          "vi": "ra ngoài"
+        }
+      },
+      {
+        "id": "v264",
+        "word": "できる",
+        "reading": "できる",
+        "meaning": {
+          "en": "to be able to, can do",
+          "vi": "có thể"
+        }
+      },
+      {
+        "id": "v265",
+        "word": "飛ぶ",
+        "reading": "とぶ",
+        "meaning": {
+          "en": "to fly",
+          "vi": "bay"
+        }
+      },
+      {
+        "id": "v266",
+        "word": "止まる",
+        "reading": "とまる",
+        "meaning": {
+          "en": "to stop (vi.)",
+          "vi": "dừng lại"
+        }
+      },
+      {
+        "id": "v267",
+        "word": "取る",
+        "reading": "とる",
+        "meaning": {
+          "en": "to take",
+          "vi": "lấy"
+        }
+      },
+      {
+        "id": "v268",
+        "word": "撮る",
+        "reading": "とる",
+        "meaning": {
+          "en": "to take (a photo)",
+          "vi": "chụp (ảnh)"
+        }
+      },
+      {
+        "id": "v269",
+        "word": "登る",
+        "reading": "のぼる",
+        "meaning": {
+          "en": "to climb",
+          "vi": "leo"
+        }
+      },
+      {
+        "id": "v270",
+        "word": "乗る",
+        "reading": "のる",
+        "meaning": {
+          "en": "to ride, to get on",
+          "vi": "lên xe"
+        }
+      },
+      {
+        "id": "v271",
+        "word": "はく",
+        "reading": "はく",
+        "meaning": {
+          "en": "to wear (on lower body)",
+          "vi": "mặc, đi (phần dưới)"
+        }
+      },
+      {
+        "id": "v272",
+        "word": "始まる",
+        "reading": "はじまる",
+        "meaning": {
+          "en": "to begin, to start (vi.)",
+          "vi": "bắt đầu"
+        }
+      },
+      {
+        "id": "v273",
+        "word": "走る",
+        "reading": "はしる",
+        "meaning": {
+          "en": "to run",
+          "vi": "chạy"
+        }
+      },
+      {
+        "id": "v274",
+        "word": "貼る",
+        "reading": "はる",
+        "meaning": {
+          "en": "to paste, to stick",
+          "vi": "dán"
+        }
+      },
+      {
+        "id": "v275",
+        "word": "晴れる",
+        "reading": "はれる",
+        "meaning": {
+          "en": "to become sunny",
+          "vi": "trời nắng"
+        }
+      },
+      {
+        "id": "v276",
+        "word": "引く",
+        "reading": "ひく",
+        "meaning": {
+          "en": "to pull",
+          "vi": "kéo"
+        }
+      },
+      {
+        "id": "v277",
+        "word": "弾く",
+        "reading": "ひく",
+        "meaning": {
+          "en": "to play (a string instrument)",
+          "vi": "chơi (nhạc cụ có dây)"
+        }
+      },
+      {
+        "id": "v278",
+        "word": "吹く",
+        "reading": "ふく",
+        "meaning": {
+          "en": "to blow",
+          "vi": "thổi"
+        }
+      },
+      {
+        "id": "v279",
+        "word": "降る",
+        "reading": "ふる",
+        "meaning": {
+          "en": "to fall (rain, snow)",
+          "vi": "rơi (mưa, tuyết)"
+        }
+      },
+      {
+        "id": "v280",
+        "word": "曲る",
+        "reading": "まがる",
+        "meaning": {
+          "en": "to turn, to bend",
+          "vi": "rẽ, uốn cong"
+        }
+      },
+      {
+        "id": "v281",
+        "word": "磨く",
+        "reading": "みがく",
+        "meaning": {
+          "en": "to polish, to brush",
+          "vi": "đánh bóng, chải"
+        }
+      },
+      {
+        "id": "v282",
+        "word": "持つ",
+        "reading": "もつ",
+        "meaning": {
+          "en": "to hold, to have",
+          "vi": "cầm, có"
+        }
+      },
+      {
+        "id": "v283",
+        "word": "やる",
+        "reading": "やる",
+        "meaning": {
+          "en": "to do, to give (to inferiors)",
+          "vi": "làm, cho"
+        }
+      },
+      {
+        "id": "v284",
+        "word": "呼ぶ",
+        "reading": "よぶ",
+        "meaning": {
+          "en": "to call",
+          "vi": "gọi"
+        }
+      },
+      {
+        "id": "v285",
+        "word": "渡す",
+        "reading": "わたす",
+        "meaning": {
+          "en": "to hand over",
+          "vi": "trao, đưa"
+        }
+      },
+      {
+        "id": "v286",
+        "word": "渡る",
+        "reading": "わたる",
+        "meaning": {
+          "en": "to cross",
+          "vi": "băng qua"
+        }
+      },
+      {
+        "id": "v287",
+        "word": "忘れる",
+        "reading": "わすれる",
+        "meaning": {
+          "en": "to forget",
+          "vi": "quên"
+        }
+      },
+      {
+        "id": "v288",
+        "word": "練習する",
+        "reading": "れんしゅうする",
+        "meaning": {
+          "en": "to practice",
+          "vi": "luyện tập"
+        }
+      }
     ]
   },
   "descriptive_words": {
     "en": "Descriptive Words (Adjectives/Adverbs) ✨",
     "vi": "Từ miêu tả (Tính từ/Phó từ) ✨",
     "items": [
-      { "id": "v289", "word": "大きい", "reading": "おおきい", "meaning": { "en": "big", "vi": "to, lớn" } },
-      { "id": "v290", "word": "小さい", "reading": "ちいさい", "meaning": { "en": "small", "vi": "nhỏ" } },
-      { "id": "v291", "word": "新しい", "reading": "あたらしい", "meaning": { "en": "new", "vi": "mới" } },
-      { "id": "v292", "word": "古い", "reading": "ふるい", "meaning": { "en": "old (not for people)", "vi": "cũ" } },
-      { "id": "v293", "word": "良い", "reading": "よい", "meaning": { "en": "good", "vi": "tốt" } },
-      { "id": "v294", "word": "悪い", "reading": "わるい", "meaning": { "en": "bad", "vi": "xấu" } },
-      { "id": "v295", "word": "高い", "reading": "たかい", "meaning": { "en": "high, expensive", "vi": "cao, đắt" } },
-      { "id": "v296", "word": "安い", "reading": "やすい", "meaning": { "en": "cheap", "vi": "rẻ" } },
-      { "id": "v297", "word": "おいしい", "reading": "おいしい", "meaning": { "en": "delicious", "vi": "ngon" } },
-      { "id": "v298", "word": "まずい", "reading": "まずい", "meaning": { "en": "bad tasting", "vi": "dở" } },
-      { "id": "v299", "word": "忙しい", "reading": "いそがしい", "meaning": { "en": "busy", "vi": "bận rộn" } },
-      { "id": "v300", "word": "楽しい", "reading": "たのしい", "meaning": { "en": "fun, enjoyable", "vi": "vui" } },
-      { "id": "v301", "word": "暑い", "reading": "あつい", "meaning": { "en": "hot (weather)", "vi": "nóng (thời tiết)" } },
-      { "id": "v302", "word": "寒い", "reading": "さむい", "meaning": { "en": "cold (weather)", "vi": "lạnh (thời tiết)" } },
-      { "id": "v303", "word": "面白い", "reading": "おもしろい", "meaning": { "en": "interesting", "vi": "thú vị" } },
-      { "id": "v304", "word": "赤い", "reading": "あかい", "meaning": { "en": "red", "vi": "màu đỏ" } },
-      { "id": "v305", "word": "青い", "reading": "あおい", "meaning": { "en": "blue", "vi": "màu xanh da trời" } },
-      { "id": "v306", "word": "白い", "reading": "しろい", "meaning": { "en": "white", "vi": "màu trắng" } },
-      { "id": "v307", "word": "黒い", "reading": "くろい", "meaning": { "en": "black", "vi": "màu đen" } },
-      { "id": "v308", "word": "難しい", "reading": "むずかしい", "meaning": { "en": "difficult", "vi": "khó" } },
-      { "id": "v309", "word": "易しい", "reading": "やさしい", "meaning": { "en": "easy", "vi": "dễ" } },
-      { "id": "v310", "word": "きれい (な)", "reading": "きれい", "meaning": { "en": "beautiful, clean", "vi": "đẹp, sạch" } },
-      { "id": "v311", "word": "静か (な)", "reading": "しずか", "meaning": { "en": "quiet", "vi": "yên tĩnh" } },
-      { "id": "v312", "word": "元気 (な)", "reading": "げんき", "meaning": { "en": "healthy, energetic", "vi": "khỏe mạnh" } },
-      { "id": "v313", "word": "にぎやか (な)", "reading": "にぎやか", "meaning": { "en": "lively, bustling", "vi": "náo nhiệt" } },
-      { "id": "v314", "word": "暇 (な)", "reading": "ひま", "meaning": { "en": "free (not busy)", "vi": "rảnh rỗi" } },
-      { "id": "v315", "word": "好き (な)", "reading": "すき", "meaning": { "en": "likeable", "vi": "thích" } },
-      { "id": "v316", "word": "嫌い (な)", "reading": "きらい", "meaning": { "en": "dislikeable", "vi": "ghét" } },
-      { "id": "v317", "word": "上手 (な)", "reading": "じょうず", "meaning": { "en": "skillful", "vi": "giỏi" } },
-      { "id": "v318", "word": "下手 (な)", "reading": "へた", "meaning": { "en": "unskillful", "vi": "kém" } },
-      { "id": "v319", "word": "便利 (な)", "reading": "べんり", "meaning": { "en": "convenient", "vi": "tiện lợi" } },
-      { "id": "v320", "word": "とても", "reading": "とても", "meaning": { "en": "very", "vi": "rất" } },
-      { "id": "v321", "word": "あまり", "reading": "あまり", "meaning": { "en": "not very (with neg.)", "vi": "không ~ lắm" } },
-      { "id": "v322", "word": "よく", "reading": "よく", "meaning": { "en": "often, well", "vi": "thường, giỏi" } },
-      { "id": "v323", "word": "少し", "reading": "すこし", "meaning": { "en": "a little", "vi": "một chút" } },
-      { "id": "v324", "word": "全然", "reading": "ぜんぜん", "meaning": { "en": "not at all (with neg.)", "vi": "hoàn toàn không" } },
-      { "id": "v325", "word": "明るい", "reading": "あかるい", "meaning": { "en": "bright", "vi": "sáng" } },
-      { "id": "v326", "word": "暖かい", "reading": "あたたかい", "meaning": { "en": "warm", "vi": "ấm áp" } },
-      { "id": "v327", "word": "危ない", "reading": "あぶない", "meaning": { "en": "dangerous", "vi": "nguy hiểm" } },
-      { "id": "v328", "word": "甘い", "reading": "あまい", "meaning": { "en": "sweet", "vi": "ngọt" } },
-      { "id": "v329", "word": "痛い", "reading": "いたい", "meaning": { "en": "painful", "vi": "đau" } },
-      { "id": "v330", "word": "薄い", "reading": "うすい", "meaning": { "en": "thin, weak (flavor)", "vi": "mỏng, nhạt" } },
-      { "id": "v331", "word": "うるさい", "reading": "うるさい", "meaning": { "en": "noisy, annoying", "vi": "ồn ào, phiền phức" } },
-      { "id": "v332", "word": "可愛い", "reading": "かわいい", "meaning": { "en": "cute", "vi": "dễ thương" } },
-      { "id": "v333", "word": "汚い", "reading": "きたない", "meaning": { "en": "dirty", "vi": "bẩn" } },
-      { "id": "v334", "word": "暗い", "reading": "くらい", "meaning": { "en": "dark", "vi": "tối" } },
-      { "id": "v335", "word": "軽い", "reading": "かるい", "meaning": { "en": "light (weight)", "vi": "nhẹ" } },
-      { "id": "v336", "word": "辛い", "reading": "からい", "meaning": { "en": "spicy", "vi": "cay" } },
-      { "id": "v337", "word": "涼しい", "reading": "すずしい", "meaning": { "en": "cool (weather)", "vi": "mát mẻ" } },
-      { "id": "v338", "word": "狭い", "reading": "せまい", "meaning": { "en": "narrow", "vi": "hẹp" } },
-      { "id": "v339", "word": "強い", "reading": "つよい", "meaning": { "en": "strong", "vi": "mạnh" } },
-      { "id": "v340", "word": "冷たい", "reading": "つめたい", "meaning": { "en": "cold (to the touch)", "vi": "lạnh (khi chạm vào)" } },
-      { "id": "v341", "word": "遠い", "reading": "とおい", "meaning": { "en": "far", "vi": "xa" } },
-      { "id": "v342", "word": "長い", "reading": "ながい", "meaning": { "en": "long", "vi": "dài" } },
-      { "id": "v343", "word": "温い", "reading": "ぬるい", "meaning": { "en": "lukewarm", "vi": "nguội" } },
-      { "id": "v344", "word": "低い", "reading": "ひくい", "meaning": { "en": "low", "vi": "thấp" } },
-      { "id": "v345", "word": "広い", "reading": "ひろい", "meaning": { "en": "wide, spacious", "vi": "rộng" } },
-      { "id": "v346", "word": "太い", "reading": "ふとい", "meaning": { "en": "fat, thick", "vi": "béo, dày" } },
-      { "id": "v347", "word": "短い", "reading": "みじかい", "meaning": { "en": "short", "vi": "ngắn" } },
-      { "id": "v348", "word": "細い", "reading": "ほそい", "meaning": { "en": "thin, slender", "vi": "mảnh, gầy" } },
-      { "id": "v349", "word": "丸い", "reading": "まるい", "meaning": { "en": "round", "vi": "tròn" } },
-      { "id": "v350", "word": "若い", "reading": "わかい", "meaning": { "en": "young", "vi": "trẻ" } },
-      { "id": "v351", "word": "弱い", "reading": "よわい", "meaning": { "en": "weak", "vi": "yếu" } },
-      { "id": "v352", "word": "丈夫 (な)", "reading": "じょうぶ", "meaning": { "en": "strong, durable", "vi": "bền, chắc" } },
-      { "id": "v353", "word": "大切 (な)", "reading": "たいせつ", "meaning": { "en": "important", "vi": "quan trọng" } },
-      { "id": "v354", "word": "大好き (な)", "reading": "だいすき", "meaning": { "en": "love, like very much", "vi": "rất thích" } },
-      { "id": "v355", "word": "有名 (な)", "reading": "ゆうめい", "meaning": { "en": "famous", "vi": "nổi tiếng" } },
-      { "id": "v356", "word": "りっぱ (な)", "reading": "りっぱ", "meaning": { "en": "splendid, fine", "vi": "tuyệt vời, lộng lẫy" } }
+      {
+        "id": "v289",
+        "word": "大きい",
+        "reading": "おおきい",
+        "meaning": {
+          "en": "big",
+          "vi": "to, lớn"
+        }
+      },
+      {
+        "id": "v290",
+        "word": "小さい",
+        "reading": "ちいさい",
+        "meaning": {
+          "en": "small",
+          "vi": "nhỏ"
+        }
+      },
+      {
+        "id": "v291",
+        "word": "新しい",
+        "reading": "あたらしい",
+        "meaning": {
+          "en": "new",
+          "vi": "mới"
+        }
+      },
+      {
+        "id": "v292",
+        "word": "古い",
+        "reading": "ふるい",
+        "meaning": {
+          "en": "old (not for people)",
+          "vi": "cũ"
+        }
+      },
+      {
+        "id": "v293",
+        "word": "良い",
+        "reading": "よい",
+        "meaning": {
+          "en": "good",
+          "vi": "tốt"
+        }
+      },
+      {
+        "id": "v294",
+        "word": "悪い",
+        "reading": "わるい",
+        "meaning": {
+          "en": "bad",
+          "vi": "xấu"
+        }
+      },
+      {
+        "id": "v295",
+        "word": "高い",
+        "reading": "たかい",
+        "meaning": {
+          "en": "high, expensive",
+          "vi": "cao, đắt"
+        }
+      },
+      {
+        "id": "v296",
+        "word": "安い",
+        "reading": "やすい",
+        "meaning": {
+          "en": "cheap",
+          "vi": "rẻ"
+        }
+      },
+      {
+        "id": "v297",
+        "word": "おいしい",
+        "reading": "おいしい",
+        "meaning": {
+          "en": "delicious",
+          "vi": "ngon"
+        }
+      },
+      {
+        "id": "v298",
+        "word": "まずい",
+        "reading": "まずい",
+        "meaning": {
+          "en": "bad tasting",
+          "vi": "dở"
+        }
+      },
+      {
+        "id": "v299",
+        "word": "忙しい",
+        "reading": "いそがしい",
+        "meaning": {
+          "en": "busy",
+          "vi": "bận rộn"
+        }
+      },
+      {
+        "id": "v300",
+        "word": "楽しい",
+        "reading": "たのしい",
+        "meaning": {
+          "en": "fun, enjoyable",
+          "vi": "vui"
+        }
+      },
+      {
+        "id": "v301",
+        "word": "暑い",
+        "reading": "あつい",
+        "meaning": {
+          "en": "hot (weather)",
+          "vi": "nóng (thời tiết)"
+        }
+      },
+      {
+        "id": "v302",
+        "word": "寒い",
+        "reading": "さむい",
+        "meaning": {
+          "en": "cold (weather)",
+          "vi": "lạnh (thời tiết)"
+        }
+      },
+      {
+        "id": "v303",
+        "word": "面白い",
+        "reading": "おもしろい",
+        "meaning": {
+          "en": "interesting",
+          "vi": "thú vị"
+        }
+      },
+      {
+        "id": "v304",
+        "word": "赤い",
+        "reading": "あかい",
+        "meaning": {
+          "en": "red",
+          "vi": "màu đỏ"
+        }
+      },
+      {
+        "id": "v305",
+        "word": "青い",
+        "reading": "あおい",
+        "meaning": {
+          "en": "blue",
+          "vi": "màu xanh da trời"
+        }
+      },
+      {
+        "id": "v306",
+        "word": "白い",
+        "reading": "しろい",
+        "meaning": {
+          "en": "white",
+          "vi": "màu trắng"
+        }
+      },
+      {
+        "id": "v307",
+        "word": "黒い",
+        "reading": "くろい",
+        "meaning": {
+          "en": "black",
+          "vi": "màu đen"
+        }
+      },
+      {
+        "id": "v308",
+        "word": "難しい",
+        "reading": "むずかしい",
+        "meaning": {
+          "en": "difficult",
+          "vi": "khó"
+        }
+      },
+      {
+        "id": "v309",
+        "word": "易しい",
+        "reading": "やさしい",
+        "meaning": {
+          "en": "easy",
+          "vi": "dễ"
+        }
+      },
+      {
+        "id": "v310",
+        "word": "きれい (な)",
+        "reading": "きれい",
+        "meaning": {
+          "en": "beautiful, clean",
+          "vi": "đẹp, sạch"
+        }
+      },
+      {
+        "id": "v311",
+        "word": "静か (な)",
+        "reading": "しずか",
+        "meaning": {
+          "en": "quiet",
+          "vi": "yên tĩnh"
+        }
+      },
+      {
+        "id": "v312",
+        "word": "元気 (な)",
+        "reading": "げんき",
+        "meaning": {
+          "en": "healthy, energetic",
+          "vi": "khỏe mạnh"
+        }
+      },
+      {
+        "id": "v313",
+        "word": "にぎやか (な)",
+        "reading": "にぎやか",
+        "meaning": {
+          "en": "lively, bustling",
+          "vi": "náo nhiệt"
+        }
+      },
+      {
+        "id": "v314",
+        "word": "暇 (な)",
+        "reading": "ひま",
+        "meaning": {
+          "en": "free (not busy)",
+          "vi": "rảnh rỗi"
+        }
+      },
+      {
+        "id": "v315",
+        "word": "好き (な)",
+        "reading": "すき",
+        "meaning": {
+          "en": "likeable",
+          "vi": "thích"
+        }
+      },
+      {
+        "id": "v316",
+        "word": "嫌い (な)",
+        "reading": "きらい",
+        "meaning": {
+          "en": "dislikeable",
+          "vi": "ghét"
+        }
+      },
+      {
+        "id": "v317",
+        "word": "上手 (な)",
+        "reading": "じょうず",
+        "meaning": {
+          "en": "skillful",
+          "vi": "giỏi"
+        }
+      },
+      {
+        "id": "v318",
+        "word": "下手 (な)",
+        "reading": "へた",
+        "meaning": {
+          "en": "unskillful",
+          "vi": "kém"
+        }
+      },
+      {
+        "id": "v319",
+        "word": "便利 (な)",
+        "reading": "べんり",
+        "meaning": {
+          "en": "convenient",
+          "vi": "tiện lợi"
+        }
+      },
+      {
+        "id": "v320",
+        "word": "とても",
+        "reading": "とても",
+        "meaning": {
+          "en": "very",
+          "vi": "rất"
+        }
+      },
+      {
+        "id": "v321",
+        "word": "あまり",
+        "reading": "あまり",
+        "meaning": {
+          "en": "not very (with neg.)",
+          "vi": "không ~ lắm"
+        }
+      },
+      {
+        "id": "v322",
+        "word": "よく",
+        "reading": "よく",
+        "meaning": {
+          "en": "often, well",
+          "vi": "thường, giỏi"
+        }
+      },
+      {
+        "id": "v323",
+        "word": "少し",
+        "reading": "すこし",
+        "meaning": {
+          "en": "a little",
+          "vi": "một chút"
+        }
+      },
+      {
+        "id": "v324",
+        "word": "全然",
+        "reading": "ぜんぜん",
+        "meaning": {
+          "en": "not at all (with neg.)",
+          "vi": "hoàn toàn không"
+        }
+      },
+      {
+        "id": "v325",
+        "word": "明るい",
+        "reading": "あかるい",
+        "meaning": {
+          "en": "bright",
+          "vi": "sáng"
+        }
+      },
+      {
+        "id": "v326",
+        "word": "暖かい",
+        "reading": "あたたかい",
+        "meaning": {
+          "en": "warm",
+          "vi": "ấm áp"
+        }
+      },
+      {
+        "id": "v327",
+        "word": "危ない",
+        "reading": "あぶない",
+        "meaning": {
+          "en": "dangerous",
+          "vi": "nguy hiểm"
+        }
+      },
+      {
+        "id": "v328",
+        "word": "甘い",
+        "reading": "あまい",
+        "meaning": {
+          "en": "sweet",
+          "vi": "ngọt"
+        }
+      },
+      {
+        "id": "v329",
+        "word": "痛い",
+        "reading": "いたい",
+        "meaning": {
+          "en": "painful",
+          "vi": "đau"
+        }
+      },
+      {
+        "id": "v330",
+        "word": "薄い",
+        "reading": "うすい",
+        "meaning": {
+          "en": "thin, weak (flavor)",
+          "vi": "mỏng, nhạt"
+        }
+      },
+      {
+        "id": "v331",
+        "word": "うるさい",
+        "reading": "うるさい",
+        "meaning": {
+          "en": "noisy, annoying",
+          "vi": "ồn ào, phiền phức"
+        }
+      },
+      {
+        "id": "v332",
+        "word": "可愛い",
+        "reading": "かわいい",
+        "meaning": {
+          "en": "cute",
+          "vi": "dễ thương"
+        }
+      },
+      {
+        "id": "v333",
+        "word": "汚い",
+        "reading": "きたない",
+        "meaning": {
+          "en": "dirty",
+          "vi": "bẩn"
+        }
+      },
+      {
+        "id": "v334",
+        "word": "暗い",
+        "reading": "くらい",
+        "meaning": {
+          "en": "dark",
+          "vi": "tối"
+        }
+      },
+      {
+        "id": "v335",
+        "word": "軽い",
+        "reading": "かるい",
+        "meaning": {
+          "en": "light (weight)",
+          "vi": "nhẹ"
+        }
+      },
+      {
+        "id": "v336",
+        "word": "辛い",
+        "reading": "からい",
+        "meaning": {
+          "en": "spicy",
+          "vi": "cay"
+        }
+      },
+      {
+        "id": "v337",
+        "word": "涼しい",
+        "reading": "すずしい",
+        "meaning": {
+          "en": "cool (weather)",
+          "vi": "mát mẻ"
+        }
+      },
+      {
+        "id": "v338",
+        "word": "狭い",
+        "reading": "せまい",
+        "meaning": {
+          "en": "narrow",
+          "vi": "hẹp"
+        }
+      },
+      {
+        "id": "v339",
+        "word": "強い",
+        "reading": "つよい",
+        "meaning": {
+          "en": "strong",
+          "vi": "mạnh"
+        }
+      },
+      {
+        "id": "v340",
+        "word": "冷たい",
+        "reading": "つめたい",
+        "meaning": {
+          "en": "cold (to the touch)",
+          "vi": "lạnh (khi chạm vào)"
+        }
+      },
+      {
+        "id": "v341",
+        "word": "遠い",
+        "reading": "とおい",
+        "meaning": {
+          "en": "far",
+          "vi": "xa"
+        }
+      },
+      {
+        "id": "v342",
+        "word": "長い",
+        "reading": "ながい",
+        "meaning": {
+          "en": "long",
+          "vi": "dài"
+        }
+      },
+      {
+        "id": "v343",
+        "word": "温い",
+        "reading": "ぬるい",
+        "meaning": {
+          "en": "lukewarm",
+          "vi": "nguội"
+        }
+      },
+      {
+        "id": "v344",
+        "word": "低い",
+        "reading": "ひくい",
+        "meaning": {
+          "en": "low",
+          "vi": "thấp"
+        }
+      },
+      {
+        "id": "v345",
+        "word": "広い",
+        "reading": "ひろい",
+        "meaning": {
+          "en": "wide, spacious",
+          "vi": "rộng"
+        }
+      },
+      {
+        "id": "v346",
+        "word": "太い",
+        "reading": "ふとい",
+        "meaning": {
+          "en": "fat, thick",
+          "vi": "béo, dày"
+        }
+      },
+      {
+        "id": "v347",
+        "word": "短い",
+        "reading": "みじかい",
+        "meaning": {
+          "en": "short",
+          "vi": "ngắn"
+        }
+      },
+      {
+        "id": "v348",
+        "word": "細い",
+        "reading": "ほそい",
+        "meaning": {
+          "en": "thin, slender",
+          "vi": "mảnh, gầy"
+        }
+      },
+      {
+        "id": "v349",
+        "word": "丸い",
+        "reading": "まるい",
+        "meaning": {
+          "en": "round",
+          "vi": "tròn"
+        }
+      },
+      {
+        "id": "v350",
+        "word": "若い",
+        "reading": "わかい",
+        "meaning": {
+          "en": "young",
+          "vi": "trẻ"
+        }
+      },
+      {
+        "id": "v351",
+        "word": "弱い",
+        "reading": "よわい",
+        "meaning": {
+          "en": "weak",
+          "vi": "yếu"
+        }
+      },
+      {
+        "id": "v352",
+        "word": "丈夫 (な)",
+        "reading": "じょうぶ",
+        "meaning": {
+          "en": "strong, durable",
+          "vi": "bền, chắc"
+        }
+      },
+      {
+        "id": "v353",
+        "word": "大切 (な)",
+        "reading": "たいせつ",
+        "meaning": {
+          "en": "important",
+          "vi": "quan trọng"
+        }
+      },
+      {
+        "id": "v354",
+        "word": "大好き (な)",
+        "reading": "だいすき",
+        "meaning": {
+          "en": "love, like very much",
+          "vi": "rất thích"
+        }
+      },
+      {
+        "id": "v355",
+        "word": "有名 (な)",
+        "reading": "ゆうめい",
+        "meaning": {
+          "en": "famous",
+          "vi": "nổi tiếng"
+        }
+      },
+      {
+        "id": "v356",
+        "word": "りっぱ (な)",
+        "reading": "りっぱ",
+        "meaning": {
+          "en": "splendid, fine",
+          "vi": "tuyệt vời, lộng lẫy"
+        }
+      }
     ]
   },
   "question_words": {
     "en": "Question Words ❓",
     "vi": "Từ để hỏi ❓",
     "items": [
-      { "id": "v357", "word": "何", "reading": "なに / なん", "meaning": { "en": "what", "vi": "cái gì" } },
-      { "id": "v358", "word": "誰", "reading": "だれ", "meaning": { "en": "who", "vi": "ai" } },
-      { "id": "v359", "word": "どこ", "reading": "どこ", "meaning": { "en": "where", "vi": "ở đâu" } },
-      { "id": "v360", "word": "いつ", "reading": "いつ", "meaning": { "en": "when", "vi": "khi nào" } },
-      { "id": "v361", "word": "どうして", "reading": "どうして", "meaning": { "en": "why", "vi": "tại sao" } },
-      { "id": "v362", "word": "どちら", "reading": "どちら", "meaning": { "en": "which (of two, polite)", "vi": "cái nào (trong hai, lịch sự)" } },
-      { "id": "v363", "word": "どの", "reading": "どの", "meaning": { "en": "which (+ noun)", "vi": "cái ~ nào" } },
-      { "id": "v364", "word": "いくら", "reading": "いくら", "meaning": { "en": "how much (cost)", "vi": "bao nhiêu tiền" } },
-      { "id": "v365", "word": "どう", "reading": "どう", "meaning": { "en": "how", "vi": "thế nào" } },
-      { "id": "v366", "word": "いくつ", "reading": "いくつ", "meaning": { "en": "how many, how old", "vi": "mấy cái, mấy tuổi" } },
-      { "id": "v367", "word": "いかが", "reading": "いかが", "meaning": { "en": "how (polite)", "vi": "thế nào (lịch sự)" } },
-      { "id": "v368", "word": "どなた", "reading": "どなた", "meaning": { "en": "who (polite)", "vi": "vị nào, ai (lịch sự)" } },
-      { "id": "v369", "word": "どれ", "reading": "どれ", "meaning": { "en": "which one (of three or more)", "vi": "cái nào (từ ba trở lên)" } },
-      { "id": "v370", "word": "どんな", "reading": "どんな", "meaning": { "en": "what kind of", "vi": "loại ~ nào" } }
+      {
+        "id": "v357",
+        "word": "何",
+        "reading": "なに / なん",
+        "meaning": {
+          "en": "what",
+          "vi": "cái gì"
+        }
+      },
+      {
+        "id": "v358",
+        "word": "誰",
+        "reading": "だれ",
+        "meaning": {
+          "en": "who",
+          "vi": "ai"
+        }
+      },
+      {
+        "id": "v359",
+        "word": "どこ",
+        "reading": "どこ",
+        "meaning": {
+          "en": "where",
+          "vi": "ở đâu"
+        }
+      },
+      {
+        "id": "v360",
+        "word": "いつ",
+        "reading": "いつ",
+        "meaning": {
+          "en": "when",
+          "vi": "khi nào"
+        }
+      },
+      {
+        "id": "v361",
+        "word": "どうして",
+        "reading": "どうして",
+        "meaning": {
+          "en": "why",
+          "vi": "tại sao"
+        }
+      },
+      {
+        "id": "v362",
+        "word": "どちら",
+        "reading": "どちら",
+        "meaning": {
+          "en": "which (of two, polite)",
+          "vi": "cái nào (trong hai, lịch sự)"
+        }
+      },
+      {
+        "id": "v363",
+        "word": "どの",
+        "reading": "どの",
+        "meaning": {
+          "en": "which (+ noun)",
+          "vi": "cái ~ nào"
+        }
+      },
+      {
+        "id": "v364",
+        "word": "いくら",
+        "reading": "いくら",
+        "meaning": {
+          "en": "how much (cost)",
+          "vi": "bao nhiêu tiền"
+        }
+      },
+      {
+        "id": "v365",
+        "word": "どう",
+        "reading": "どう",
+        "meaning": {
+          "en": "how",
+          "vi": "thế nào"
+        }
+      },
+      {
+        "id": "v366",
+        "word": "いくつ",
+        "reading": "いくつ",
+        "meaning": {
+          "en": "how many, how old",
+          "vi": "mấy cái, mấy tuổi"
+        }
+      },
+      {
+        "id": "v367",
+        "word": "いかが",
+        "reading": "いかが",
+        "meaning": {
+          "en": "how (polite)",
+          "vi": "thế nào (lịch sự)"
+        }
+      },
+      {
+        "id": "v368",
+        "word": "どなた",
+        "reading": "どなた",
+        "meaning": {
+          "en": "who (polite)",
+          "vi": "vị nào, ai (lịch sự)"
+        }
+      },
+      {
+        "id": "v369",
+        "word": "どれ",
+        "reading": "どれ",
+        "meaning": {
+          "en": "which one (of three or more)",
+          "vi": "cái nào (từ ba trở lên)"
+        }
+      },
+      {
+        "id": "v370",
+        "word": "どんな",
+        "reading": "どんな",
+        "meaning": {
+          "en": "what kind of",
+          "vi": "loại ~ nào"
+        }
+      }
     ]
   },
   "numbers_counters": {
     "en": "Numbers & Counters 🔢",
     "vi": "Số đếm & Lượng từ 🔢",
     "items": [
-      { "id": "v371", "word": "一つ", "reading": "ひとつ", "meaning": { "en": "one (general item)", "vi": "một cái" } },
-      { "id": "v372", "word": "二つ", "reading": "ふたつ", "meaning": { "en": "two (general items)", "vi": "hai cái" } },
-      { "id": "v373", "word": "三つ", "reading": "みっつ", "meaning": { "en": "three (general items)", "vi": "ba cái" } },
-      { "id": "v374", "word": "四つ", "reading": "よっつ", "meaning": { "en": "four (general items)", "vi": "bốn cái" } },
-      { "id": "v375", "word": "五つ", "reading": "いつつ", "meaning": { "en": "five (general items)", "vi": "năm cái" } },
-      { "id": "v376", "word": "六つ", "reading": "むっつ", "meaning": { "en": "six (general items)", "vi": "sáu cái" } },
-      { "id": "v377", "word": "七つ", "reading": "ななつ", "meaning": { "en": "seven (general items)", "vi": "bảy cái" } },
-      { "id": "v378", "word": "八つ", "reading": "やっつ", "meaning": { "en": "eight (general items)", "vi": "tám cái" } },
-      { "id": "v379", "word": "九つ", "reading": "ここのつ", "meaning": { "en": "nine (general items)", "vi": "chín cái" } },
-      { "id": "v380", "word": "十", "reading": "とお", "meaning": { "en": "ten (general items)", "vi": "mười cái" } },
-      { "id": "v381", "word": "百", "reading": "ひゃく", "meaning": { "en": "hundred", "vi": "trăm" } },
-      { "id": "v382", "word": "千", "reading": "せん", "meaning": { "en": "thousand", "vi": "nghìn" } },
-      { "id": "v383", "word": "万", "reading": "まん", "meaning": { "en": "ten thousand", "vi": "vạn" } },
-      { "id": "v384", "word": "～人", "reading": "～にん", "meaning": { "en": "counter for people", "vi": "lượng từ đếm người" } },
-      { "id": "v385", "word": "～円", "reading": "～えん", "meaning": { "en": "Yen (currency)", "vi": "Yên (tiền tệ)" } },
-      { "id": "v386", "word": "～歳", "reading": "～さい", "meaning": { "en": "counter for age", "vi": "lượng từ đếm tuổi" } },
-      { "id": "v387", "word": "～枚", "reading": "～まい", "meaning": { "en": "counter for flat objects", "vi": "lượng từ đếm vật mỏng" } },
-      { "id": "v388", "word": "～本", "reading": "～ほん", "meaning": { "en": "counter for long objects", "vi": "lượng từ đếm vật dài" } },
-      { "id": "v389", "word": "～冊", "reading": "～さつ", "meaning": { "en": "counter for books", "vi": "lượng từ đếm sách" } },
-      { "id": "v390", "word": "～杯", "reading": "～はい", "meaning": { "en": "counter for cups/glasses", "vi": "lượng từ đếm cốc/ly" } },
-      { "id": "v391", "word": "～匹", "reading": "～ひき", "meaning": { "en": "counter for small animals", "vi": "lượng từ đếm con vật nhỏ" } },
-      { "id": "v392", "word": "～台", "reading": "～だい", "meaning": { "en": "counter for machines/vehicles", "vi": "lượng từ đếm máy móc/xe" } },
-      { "id": "v393", "word": "～階", "reading": "～かい", "meaning": { "en": "counter for floors of a building", "vi": "lượng từ đếm tầng nhà" } }
+      {
+        "id": "v371",
+        "word": "一つ",
+        "reading": "ひとつ",
+        "meaning": {
+          "en": "one (general item)",
+          "vi": "một cái"
+        }
+      },
+      {
+        "id": "v372",
+        "word": "二つ",
+        "reading": "ふたつ",
+        "meaning": {
+          "en": "two (general items)",
+          "vi": "hai cái"
+        }
+      },
+      {
+        "id": "v373",
+        "word": "三つ",
+        "reading": "みっつ",
+        "meaning": {
+          "en": "three (general items)",
+          "vi": "ba cái"
+        }
+      },
+      {
+        "id": "v374",
+        "word": "四つ",
+        "reading": "よっつ",
+        "meaning": {
+          "en": "four (general items)",
+          "vi": "bốn cái"
+        }
+      },
+      {
+        "id": "v375",
+        "word": "五つ",
+        "reading": "いつつ",
+        "meaning": {
+          "en": "five (general items)",
+          "vi": "năm cái"
+        }
+      },
+      {
+        "id": "v376",
+        "word": "六つ",
+        "reading": "むっつ",
+        "meaning": {
+          "en": "six (general items)",
+          "vi": "sáu cái"
+        }
+      },
+      {
+        "id": "v377",
+        "word": "七つ",
+        "reading": "ななつ",
+        "meaning": {
+          "en": "seven (general items)",
+          "vi": "bảy cái"
+        }
+      },
+      {
+        "id": "v378",
+        "word": "八つ",
+        "reading": "やっつ",
+        "meaning": {
+          "en": "eight (general items)",
+          "vi": "tám cái"
+        }
+      },
+      {
+        "id": "v379",
+        "word": "九つ",
+        "reading": "ここのつ",
+        "meaning": {
+          "en": "nine (general items)",
+          "vi": "chín cái"
+        }
+      },
+      {
+        "id": "v380",
+        "word": "十",
+        "reading": "とお",
+        "meaning": {
+          "en": "ten (general items)",
+          "vi": "mười cái"
+        }
+      },
+      {
+        "id": "v381",
+        "word": "百",
+        "reading": "ひゃく",
+        "meaning": {
+          "en": "hundred",
+          "vi": "trăm"
+        }
+      },
+      {
+        "id": "v382",
+        "word": "千",
+        "reading": "せん",
+        "meaning": {
+          "en": "thousand",
+          "vi": "nghìn"
+        }
+      },
+      {
+        "id": "v383",
+        "word": "万",
+        "reading": "まん",
+        "meaning": {
+          "en": "ten thousand",
+          "vi": "vạn"
+        }
+      },
+      {
+        "id": "v384",
+        "word": "～人",
+        "reading": "～にん",
+        "meaning": {
+          "en": "counter for people",
+          "vi": "lượng từ đếm người"
+        }
+      },
+      {
+        "id": "v385",
+        "word": "～円",
+        "reading": "～えん",
+        "meaning": {
+          "en": "Yen (currency)",
+          "vi": "Yên (tiền tệ)"
+        }
+      },
+      {
+        "id": "v386",
+        "word": "～歳",
+        "reading": "～さい",
+        "meaning": {
+          "en": "counter for age",
+          "vi": "lượng từ đếm tuổi"
+        }
+      },
+      {
+        "id": "v387",
+        "word": "～枚",
+        "reading": "～まい",
+        "meaning": {
+          "en": "counter for flat objects",
+          "vi": "lượng từ đếm vật mỏng"
+        }
+      },
+      {
+        "id": "v388",
+        "word": "～本",
+        "reading": "～ほん",
+        "meaning": {
+          "en": "counter for long objects",
+          "vi": "lượng từ đếm vật dài"
+        }
+      },
+      {
+        "id": "v389",
+        "word": "～冊",
+        "reading": "～さつ",
+        "meaning": {
+          "en": "counter for books",
+          "vi": "lượng từ đếm sách"
+        }
+      },
+      {
+        "id": "v390",
+        "word": "～杯",
+        "reading": "～はい",
+        "meaning": {
+          "en": "counter for cups/glasses",
+          "vi": "lượng từ đếm cốc/ly"
+        }
+      },
+      {
+        "id": "v391",
+        "word": "～匹",
+        "reading": "～ひき",
+        "meaning": {
+          "en": "counter for small animals",
+          "vi": "lượng từ đếm con vật nhỏ"
+        }
+      },
+      {
+        "id": "v392",
+        "word": "～台",
+        "reading": "～だい",
+        "meaning": {
+          "en": "counter for machines/vehicles",
+          "vi": "lượng từ đếm máy móc/xe"
+        }
+      },
+      {
+        "id": "v393",
+        "word": "～階",
+        "reading": "～かい",
+        "meaning": {
+          "en": "counter for floors of a building",
+          "vi": "lượng từ đếm tầng nhà"
+        }
+      }
     ]
   },
   "time_specifics": {
     "en": "Time Specifics 🗓️",
     "vi": "Thời gian cụ thể 🗓️",
     "items": [
-      { "id": "v394", "word": "月曜日", "reading": "げつようび", "meaning": { "en": "Monday", "vi": "Thứ hai" } },
-      { "id": "v395", "word": "火曜日", "reading": "かようび", "meaning": { "en": "Tuesday", "vi": "Thứ ba" } },
-      { "id": "v396", "word": "水曜日", "reading": "すいようび", "meaning": { "en": "Wednesday", "vi": "Thứ tư" } },
-      { "id": "v397", "word": "木曜日", "reading": "もくようび", "meaning": { "en": "Thursday", "vi": "Thứ năm" } },
-      { "id": "v398", "word": "金曜日", "reading": "きんようび", "meaning": { "en": "Friday", "vi": "Thứ sáu" } },
-      { "id": "v399", "word": "土曜日", "reading": "どようび", "meaning": { "en": "Saturday", "vi": "Thứ bảy" } },
-      { "id": "v400", "word": "日曜日", "reading": "にちようび", "meaning": { "en": "Sunday", "vi": "Chủ nhật" } },
-      { "id": "v401", "word": "先週", "reading": "せんしゅう", "meaning": { "en": "last week", "vi": "tuần trước" } },
-      { "id": "v402", "word": "今週", "reading": "こんしゅう", "meaning": { "en": "this week", "vi": "tuần này" } },
-      { "id": "v403", "word": "来週", "reading": "らいしゅう", "meaning": { "en": "next week", "vi": "tuần sau" } },
-      { "id": "v404", "word": "先月", "reading": "せんげつ", "meaning": { "en": "last month", "vi": "tháng trước" } },
-      { "id": "v405", "word": "今月", "reading": "こんげつ", "meaning": { "en": "this month", "vi": "tháng này" } },
-      { "id": "v406", "word": "来月", "reading": "らいげつ", "meaning": { "en": "next month", "vi": "tháng sau" } },
-      { "id": "v407", "word": "去年", "reading": "きょねん", "meaning": { "en": "last year", "vi": "năm ngoái" } },
-      { "id": "v408", "word": "今年", "reading": "ことし", "meaning": { "en": "this year", "vi": "năm nay" } },
-      { "id": "v409", "word": "来年", "reading": "らいねん", "meaning": { "en": "next year", "vi": "năm sau" } },
-      { "id": "v410", "word": "一日", "reading": "ついたち", "meaning": { "en": "1st day of the month", "vi": "ngày 1" } },
-      { "id": "v411", "word": "二日", "reading": "ふつか", "meaning": { "en": "2nd day of the month", "vi": "ngày 2" } },
-      { "id": "v412", "word": "三日", "reading": "みっか", "meaning": { "en": "3rd day of the month", "vi": "ngày 3" } },
-      { "id": "v413", "word": "四日", "reading": "よっか", "meaning": { "en": "4th day of the month", "vi": "ngày 4" } },
-      { "id": "v414", "word": "五日", "reading": "いつか", "meaning": { "en": "5th day of the month", "vi": "ngày 5" } },
-      { "id": "v415", "word": "六日", "reading": "むいか", "meaning": { "en": "6th day of the month", "vi": "ngày 6" } },
-      { "id": "v416", "word": "七日", "reading": "なのか", "meaning": { "en": "7th day of the month", "vi": "ngày 7" } },
-      { "id": "v417", "word": "八日", "reading": "ようか", "meaning": { "en": "8th day of the month", "vi": "ngày 8" } },
-      { "id": "v418", "word": "九日", "reading": "ここのか", "meaning": { "en": "9th day of the month", "vi": "ngày 9" } },
-      { "id": "v419", "word": "十日", "reading": "とおか", "meaning": { "en": "10th day of the month", "vi": "ngày 10" } },
-      { "id": "v420", "word": "二十日", "reading": "はつか", "meaning": { "en": "20th day of the month", "vi": "ngày 20" } }
+      {
+        "id": "v394",
+        "word": "月曜日",
+        "reading": "げつようび",
+        "meaning": {
+          "en": "Monday",
+          "vi": "Thứ hai"
+        }
+      },
+      {
+        "id": "v395",
+        "word": "火曜日",
+        "reading": "かようび",
+        "meaning": {
+          "en": "Tuesday",
+          "vi": "Thứ ba"
+        }
+      },
+      {
+        "id": "v396",
+        "word": "水曜日",
+        "reading": "すいようび",
+        "meaning": {
+          "en": "Wednesday",
+          "vi": "Thứ tư"
+        }
+      },
+      {
+        "id": "v397",
+        "word": "木曜日",
+        "reading": "もくようび",
+        "meaning": {
+          "en": "Thursday",
+          "vi": "Thứ năm"
+        }
+      },
+      {
+        "id": "v398",
+        "word": "金曜日",
+        "reading": "きんようび",
+        "meaning": {
+          "en": "Friday",
+          "vi": "Thứ sáu"
+        }
+      },
+      {
+        "id": "v399",
+        "word": "土曜日",
+        "reading": "どようび",
+        "meaning": {
+          "en": "Saturday",
+          "vi": "Thứ bảy"
+        }
+      },
+      {
+        "id": "v400",
+        "word": "日曜日",
+        "reading": "にちようび",
+        "meaning": {
+          "en": "Sunday",
+          "vi": "Chủ nhật"
+        }
+      },
+      {
+        "id": "v401",
+        "word": "先週",
+        "reading": "せんしゅう",
+        "meaning": {
+          "en": "last week",
+          "vi": "tuần trước"
+        }
+      },
+      {
+        "id": "v402",
+        "word": "今週",
+        "reading": "こんしゅう",
+        "meaning": {
+          "en": "this week",
+          "vi": "tuần này"
+        }
+      },
+      {
+        "id": "v403",
+        "word": "来週",
+        "reading": "らいしゅう",
+        "meaning": {
+          "en": "next week",
+          "vi": "tuần sau"
+        }
+      },
+      {
+        "id": "v404",
+        "word": "先月",
+        "reading": "せんげつ",
+        "meaning": {
+          "en": "last month",
+          "vi": "tháng trước"
+        }
+      },
+      {
+        "id": "v405",
+        "word": "今月",
+        "reading": "こんげつ",
+        "meaning": {
+          "en": "this month",
+          "vi": "tháng này"
+        }
+      },
+      {
+        "id": "v406",
+        "word": "来月",
+        "reading": "らいげつ",
+        "meaning": {
+          "en": "next month",
+          "vi": "tháng sau"
+        }
+      },
+      {
+        "id": "v407",
+        "word": "去年",
+        "reading": "きょねん",
+        "meaning": {
+          "en": "last year",
+          "vi": "năm ngoái"
+        }
+      },
+      {
+        "id": "v408",
+        "word": "今年",
+        "reading": "ことし",
+        "meaning": {
+          "en": "this year",
+          "vi": "năm nay"
+        }
+      },
+      {
+        "id": "v409",
+        "word": "来年",
+        "reading": "らいねん",
+        "meaning": {
+          "en": "next year",
+          "vi": "năm sau"
+        }
+      },
+      {
+        "id": "v410",
+        "word": "一日",
+        "reading": "ついたち",
+        "meaning": {
+          "en": "1st day of the month",
+          "vi": "ngày 1"
+        }
+      },
+      {
+        "id": "v411",
+        "word": "二日",
+        "reading": "ふつか",
+        "meaning": {
+          "en": "2nd day of the month",
+          "vi": "ngày 2"
+        }
+      },
+      {
+        "id": "v412",
+        "word": "三日",
+        "reading": "みっか",
+        "meaning": {
+          "en": "3rd day of the month",
+          "vi": "ngày 3"
+        }
+      },
+      {
+        "id": "v413",
+        "word": "四日",
+        "reading": "よっか",
+        "meaning": {
+          "en": "4th day of the month",
+          "vi": "ngày 4"
+        }
+      },
+      {
+        "id": "v414",
+        "word": "五日",
+        "reading": "いつか",
+        "meaning": {
+          "en": "5th day of the month",
+          "vi": "ngày 5"
+        }
+      },
+      {
+        "id": "v415",
+        "word": "六日",
+        "reading": "むいか",
+        "meaning": {
+          "en": "6th day of the month",
+          "vi": "ngày 6"
+        }
+      },
+      {
+        "id": "v416",
+        "word": "七日",
+        "reading": "なのか",
+        "meaning": {
+          "en": "7th day of the month",
+          "vi": "ngày 7"
+        }
+      },
+      {
+        "id": "v417",
+        "word": "八日",
+        "reading": "ようか",
+        "meaning": {
+          "en": "8th day of the month",
+          "vi": "ngày 8"
+        }
+      },
+      {
+        "id": "v418",
+        "word": "九日",
+        "reading": "ここのか",
+        "meaning": {
+          "en": "9th day of the month",
+          "vi": "ngày 9"
+        }
+      },
+      {
+        "id": "v419",
+        "word": "十日",
+        "reading": "とおか",
+        "meaning": {
+          "en": "10th day of the month",
+          "vi": "ngày 10"
+        }
+      },
+      {
+        "id": "v420",
+        "word": "二十日",
+        "reading": "はつか",
+        "meaning": {
+          "en": "20th day of the month",
+          "vi": "ngày 20"
+        }
+      }
     ]
   },
   "greetings_phrases": {
     "en": "Greetings & Phrases 👋",
     "vi": "Chào hỏi & Cụm từ 👋",
     "items": [
-      { "id": "v421", "word": "一緒に", "reading": "いっしょに", "meaning": { "en": "together", "vi": "cùng nhau" } },
-      { "id": "v422", "word": "おはようございます", "reading": "おはようございます", "meaning": { "en": "Good morning (polite)", "vi": "Chào buổi sáng" } },
-      { "id": "v423", "word": "こんにちは", "reading": "こんにちは", "meaning": { "en": "Hello, Good afternoon", "vi": "Xin chào, Chào buổi trưa" } },
-      { "id": "v424", "word": "こんばんは", "reading": "こんばんは", "meaning": { "en": "Good evening", "vi": "Chào buổi tối" } },
-      { "id": "v425", "word": "さようなら", "reading": "さようなら", "meaning": { "en": "Goodbye", "vi": "Tạm biệt" } },
-      { "id": "v426", "word": "ありがとうございます", "reading": "ありがとうございます", "meaning": { "en": "Thank you (polite)", "vi": "Cảm ơn" } },
-      { "id": "v427", "word": "すみません", "reading": "すみません", "meaning": { "en": "Excuse me, I'm sorry", "vi": "Xin lỗi, cho tôi hỏi" } },
-      { "id": "v428", "word": "はい", "reading": "はい", "meaning": { "en": "yes", "vi": "vâng, dạ" } },
-      { "id": "v429", "word": "いいえ", "reading": "いいえ", "meaning": { "en": "no", "vi": "không" } },
-      { "id": "v430", "word": "どうぞ", "reading": "どうぞ", "meaning": { "en": "please, here you are", "vi": "xin mời" } },
-      { "id": "v431", "word": "どうも", "reading": "どうも", "meaning": { "en": "thanks (casual)", "vi": "cảm ơn (thân mật)" } },
-      { "id": "v432", "word": "もしもし", "reading": "もしもし", "meaning": { "en": "hello (on phone)", "vi": "a-lô (nghe điện thoại)" } }
+      {
+        "id": "v421",
+        "word": "一緒に",
+        "reading": "いっしょに",
+        "meaning": {
+          "en": "together",
+          "vi": "cùng nhau"
+        }
+      },
+      {
+        "id": "v422",
+        "word": "おはようございます",
+        "reading": "おはようございます",
+        "meaning": {
+          "en": "Good morning (polite)",
+          "vi": "Chào buổi sáng"
+        }
+      },
+      {
+        "id": "v423",
+        "word": "こんにちは",
+        "reading": "こんにちは",
+        "meaning": {
+          "en": "Hello, Good afternoon",
+          "vi": "Xin chào, Chào buổi trưa"
+        }
+      },
+      {
+        "id": "v424",
+        "word": "こんばんは",
+        "reading": "こんばんは",
+        "meaning": {
+          "en": "Good evening",
+          "vi": "Chào buổi tối"
+        }
+      },
+      {
+        "id": "v425",
+        "word": "さようなら",
+        "reading": "さようなら",
+        "meaning": {
+          "en": "Goodbye",
+          "vi": "Tạm biệt"
+        }
+      },
+      {
+        "id": "v426",
+        "word": "ありがとうございます",
+        "reading": "ありがとうございます",
+        "meaning": {
+          "en": "Thank you (polite)",
+          "vi": "Cảm ơn"
+        }
+      },
+      {
+        "id": "v427",
+        "word": "すみません",
+        "reading": "すみません",
+        "meaning": {
+          "en": "Excuse me, I'm sorry",
+          "vi": "Xin lỗi, cho tôi hỏi"
+        }
+      },
+      {
+        "id": "v428",
+        "word": "はい",
+        "reading": "はい",
+        "meaning": {
+          "en": "yes",
+          "vi": "vâng, dạ"
+        }
+      },
+      {
+        "id": "v429",
+        "word": "いいえ",
+        "reading": "いいえ",
+        "meaning": {
+          "en": "no",
+          "vi": "không"
+        }
+      },
+      {
+        "id": "v430",
+        "word": "どうぞ",
+        "reading": "どうぞ",
+        "meaning": {
+          "en": "please, here you are",
+          "vi": "xin mời"
+        }
+      },
+      {
+        "id": "v431",
+        "word": "どうも",
+        "reading": "どうも",
+        "meaning": {
+          "en": "thanks (casual)",
+          "vi": "cảm ơn (thân mật)"
+        }
+      },
+      {
+        "id": "v432",
+        "word": "もしもし",
+        "reading": "もしもし",
+        "meaning": {
+          "en": "hello (on phone)",
+          "vi": "a-lô (nghe điện thoại)"
+        }
+      }
     ]
   }
 }

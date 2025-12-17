@@ -109,8 +109,8 @@
       {
         "group": { "en": "Group 2 (Ichidan)", "vi": "Nhóm 2 (Ichidan)" },
         "identification": {
-          "en": "Most verbs ending in -iru or -eru. The sound before -masu is in the 'e' column or is a single 'i' syllable.",
-          "vi": "Hầu hết động từ kết thúc bằng -iru hoặc -eru. Âm trước -masu thuộc cột 'e' hoặc là một âm tiết 'i' đơn."
+          "en": "Most verbs ending in -iru or -eru. The sound before -masu is in the 'e' column or is a single 'i' syllable. (Note: Exceptions like 帰る (kaeru) belong to Group 1).",
+          "vi": "Hầu hết động từ kết thúc bằng -iru hoặc -eru. Âm trước -masu thuộc cột 'e' hoặc là một âm tiết 'i' đơn. (Lưu ý: Ngoại lệ như 帰る (kaeru) thuộc Nhóm 1)."
         },
         "example": { "en": "たべます (tabemasu), みます (mimasu)", "vi": "たべます (tabemasu), みます (mimasu)" }
       },
@@ -134,7 +134,7 @@
       "example": { "en": "Example", "vi": "Ví dụ" }
     },
     "content": [
-      { "group": { "en": "Group 1", "vi": "Nhóm 1" }, "ending": { "en": "ending in き -> いて", "vi": "đuôi き -> いて" }, "example": { "en": "かきます -> かいて", "vi": "かきます -> かいて" }},
+      { "group": { "en": "Group 1", "vi": "Nhóm 1" }, "ending": { "en": "ending in き -> いて (Exception: いきます -> いって)", "vi": "đuôi き -> いて (Ngoại lệ: いきます -> いって)" }, "example": { "en": "かきます -> かいて", "vi": "かきます -> かいて" }},
       { "group": { "en": "Group 1", "vi": "Nhóm 1" }, "ending": { "en": "ending in ぎ -> いで", "vi": "đuôi ぎ -> いで" }, "example": { "en": "およぎます -> およいで", "vi": "およぎます -> およいで" }},
       { "group": { "en": "Group 1", "vi": "Nhóm 1" }, "ending": { "en": "ending in み, び, に -> んで", "vi": "đuôi み, び, に -> んで" }, "example": { "en": "のみます -> のんで", "vi": "のみます -> のんで" }},
       { "group": { "en": "Group 1", "vi": "Nhóm 1" }, "ending": { "en": "ending in い, ち, り -> って", "vi": "đuôi い, ち, り -> って" }, "example": { "en": "かいます -> かって", "vi": "かいます -> かって" }},
