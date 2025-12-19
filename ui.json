@@ -97,7 +97,17 @@
         "installBannerHint": "Add to home screen for offline access",
         "installButton": "Install",
         "installHintIOS": "Tap Share ⬆ then \"Add to Home Screen\"",
-        "installHintAndroid": "Tap menu ⋮ then \"Install app\""
+        "installHintAndroid": "Tap menu ⋮ then \"Install app\"",
+        "downloadForOffline": "Download for Offline",
+        "downloadDescription": "Select levels to download for offline access:",
+        "downloadingData": "Downloading...",
+        "downloadProgress": "Downloading {level}...",
+        "downloadComplete": "Download Complete!",
+        "downloadButton": "Download",
+        "doneButton": "Done",
+        "offlineReady": "Ready for offline use",
+        "offlineAvailable": "Available offline",
+        "selectAll": "Select All"
     },
     "vi": {
         "dictionarySearch": "Tra Từ Điển",
@@ -197,6 +207,16 @@
         "installBannerHint": "Thêm vào màn hình chính để sử dụng ngoại tuyến",
         "installButton": "Cài Đặt",
         "installHintIOS": "Nhấn Chia sẻ ⬆ rồi \"Thêm vào Màn hình chính\"",
-        "installHintAndroid": "Nhấn menu ⋮ rồi \"Cài đặt ứng dụng\""
+        "installHintAndroid": "Nhấn menu ⋮ rồi \"Cài đặt ứng dụng\"",
+        "downloadForOffline": "Tải về ngoại tuyến",
+        "downloadDescription": "Chọn cấp độ để tải về sử dụng ngoại tuyến:",
+        "downloadingData": "Đang tải...",
+        "downloadProgress": "Đang tải {level}...",
+        "downloadComplete": "Tải Xong!",
+        "downloadButton": "Tải về",
+        "doneButton": "Xong",
+        "offlineReady": "Sẵn sàng ngoại tuyến",
+        "offlineAvailable": "Khả dụng ngoại tuyến",
+        "selectAll": "Chọn tất cả"
     }
 }
