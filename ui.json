@@ -107,7 +107,9 @@
         "doneButton": "Done",
         "offlineReady": "Ready for offline use",
         "offlineAvailable": "Available offline",
-        "selectAll": "Select All"
+        "selectAll": "Select All",
+        "offlineTitle": "You're Offline",
+        "offlineSearchMessage": "Dictionary search requires an internet connection. Please reconnect to search."
     },
     "vi": {
         "dictionarySearch": "Tra Từ Điển",
@@ -217,6 +219,8 @@
         "doneButton": "Xong",
         "offlineReady": "Sẵn sàng ngoại tuyến",
         "offlineAvailable": "Khả dụng ngoại tuyến",
-        "selectAll": "Chọn tất cả"
+        "selectAll": "Chọn tất cả",
+        "offlineTitle": "Bạn đang ngoại tuyến",
+        "offlineSearchMessage": "Tìm kiếm từ điển cần kết nối internet. Vui lòng kết nối lại để tìm kiếm."
     }
 }
